@@ -95,7 +95,7 @@ class GameDetailApp {
                     if (gameEntry.filename && gameEntry.has_detailed_data) {
                         // Load from individual game file
                         try {
-                            this.gameData = await DataUtils.loadJSON(`/data/${gameEntry.filename}`);
+                            this.gameData = await DataUtils.loadJSON(`data/${gameEntry.filename}`);
                             if (this.gameData && this.gameData.game_meta) {
                                 // Update the game_id to match the manifest (same as main.js)
                                 this.gameData.game_meta.game_id = gameEntry.game_id;

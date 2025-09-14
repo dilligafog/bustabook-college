@@ -94,7 +94,7 @@ class BustaBookApp {
                 try {
                     if (gameEntry.filename && gameEntry.has_detailed_data) {
                         // Load from individual game file
-                        const gameData = await DataUtils.loadJSON(`/data/${gameEntry.filename}`);
+                        const gameData = await DataUtils.loadJSON(`data/${gameEntry.filename}`);
                         if (gameData && gameData.game_meta) {
                             // Update the game_id to match the manifest (authoritative for score lookups)
                             gameData.game_meta.game_id = gameEntry.game_id;

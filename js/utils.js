@@ -115,7 +115,7 @@ const DataUtils = {
         
         try {
             // Load the dynamically generated manifest
-            const manifest = await this.loadJSON('/data/manifest.json');
+            const manifest = await this.loadJSON('data/manifest.json');
             
             if (!manifest || !manifest.games || !Array.isArray(manifest.games)) {
                 throw new Error('Invalid or missing manifest.json. Run build-manifest.js to generate it.');
@@ -171,7 +171,7 @@ const DataUtils = {
         const validFiles = [];
         for (const filename of potentialFiles.slice(0, 100)) { // Limit to prevent too many requests
             try {
-                const data = await this.loadJSON(`/data/${filename}`);
+                const data = await this.loadJSON(`data/${filename}`);
                 if (data && data.game_meta && data.game_meta.game_id) {
                     validFiles.push(filename);
                 }
@@ -189,7 +189,7 @@ const DataUtils = {
      * @returns {Promise<object>} Scores data indexed by game_id
      */
     async loadScores() {
-        const scoresData = await this.loadJSON('/data/scores.json');
+        const scoresData = await this.loadJSON('data/scores.json');
         if (!scoresData || !scoresData.games) {
             return {};
         }
