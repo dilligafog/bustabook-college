@@ -1,0 +1,238 @@
+{
+    "game_meta": {
+        "game_id": "usf-at-miami-2025-09-13",
+        "title": "South Florida at Miami (FL)",
+        "datetime_local": "2025-09-13T16:30:00-04:00",
+        "venue": "Hard Rock Stadium, Miami Gardens, FL",
+        "tv": [
+            "The CW"
+        ],
+        "attendance_capacity": 65326,
+        "weather": {
+            "conditions": "Scattered thunderstorms possible",
+            "temp_f": 84,
+            "wind_mph": 7,
+            "notes": "Storms in area around kickoff; light winds; possible lightning delays"
+        },
+        "rankings": {
+            "home_ap": 5,
+            "away_ap": 18,
+            "home_cfp": null,
+            "away_cfp": null,
+            "poll_asof_utc": "2025-09-13T15:25:00Z"
+        },
+        "hype_factors": [
+            "Ranked in-state showdown",
+            "USF chasing third straight Top-25 win",
+            "Miami protecting top-5 playoff push",
+            "Byrum Brown vs Miami pass rush"
+        ],
+        "last_updated_utc": "2025-09-13T20:20:00Z"
+    },
+    "teams": {
+        "home": {
+            "name": "Miami Hurricanes",
+            "short": "MIA",
+            "mascot": "Hurricanes",
+            "conference": "ACC",
+            "record": "2-0 (0-0)",
+            "recent_form": "Beat Notre Dame 27-24, Bethune-Cookman 45-3",
+            "key_stats": {
+                "offense_rank": null,
+                "defense_rank": null,
+                "turnover_margin": "+0.5",
+                "ats_record": "1-1 ATS this season"
+            },
+            "motivation_factors": [
+                "Playoff positioning",
+                "Statement game vs ranked in-state foe"
+            ]
+        },
+        "away": {
+            "name": "South Florida Bulls",
+            "short": "USF",
+            "mascot": "Bulls",
+            "conference": "American",
+            "record": "2-0 (0-0)",
+            "recent_form": "Back-to-back ranked upsets (Boise St, Florida)",
+            "key_stats": {
+                "offense_rank": null,
+                "defense_rank": null,
+                "turnover_margin": "+2.0",
+                "ats_record": "2-0 ATS this season"
+            },
+            "motivation_factors": [
+                "Cinderella run credibility test",
+                "G5 CFP auto-bid resume"
+            ]
+        }
+    },
+    "matchup_history": {
+        "all_time_record": "Miami leads 6-1",
+        "last_meeting": {
+            "date": "2024-09-21",
+            "score": "Miami 50, South Florida 15",
+            "note": "Miami dominated in Tampa"
+        },
+        "recent_trend": "Miami won 4 straight meetings"
+    },
+    "odds": {
+        "moneyline": {
+            "home": {
+                "price": -800,
+                "implied_prob": 0.889,
+                "opening_line": -800,
+                "line_movement": "steady",
+                "book": "BetMGM",
+                "asof_utc": "2025-09-13T15:25:00Z"
+            },
+            "away": {
+                "price": 550,
+                "implied_prob": 0.154,
+                "opening_line": 550,
+                "line_movement": "steady",
+                "book": "BetMGM",
+                "asof_utc": "2025-09-13T15:25:00Z"
+            }
+        },
+        "spread": {
+            "line": -17.5,
+            "favorite": "MIA",
+            "price_home": -110,
+            "price_away": -110,
+            "opening_line": -18.0,
+            "line_movement": "moved toward USF by 0.5",
+            "public_betting": {
+                "home_percent": 25,
+                "away_percent": 75,
+                "note": "Tickets skew to the road dog (DraftKings splits)"
+            },
+            "book": "Consensus",
+            "asof_utc": "2025-09-13T15:25:00Z"
+        },
+        "total": {
+            "line": 57.5,
+            "over_price": -110,
+            "under_price": -110,
+            "opening_line": 56.5,
+            "line_movement": "moved up 1 point",
+            "public_betting": {
+                "over_percent": 45,
+                "under_percent": 55
+            },
+            "book": "BetMGM",
+            "asof_utc": "2025-09-13T15:25:00Z"
+        },
+        "consensus_note": "Market holding -17 to -18; total mid-50s to high-50s; public heavy on USF spread"
+    },
+    "betting_angles": {
+        "key_trends": [
+            "USF is 2-0 ATS this season",
+            "Miami is 1-1 ATS this season",
+            "UNDER is 2-0 in USF games this season",
+            "UNDER 5 of last 7 in series"
+        ],
+        "situational_spots": [
+            "USF off two emotional ranked wins (letdown risk)",
+            "Miami home edge with elite DL vs mobile QB"
+        ]
+    },
+    "picks": {
+        "moneyline": {
+            "pick": "PASS",
+            "confidence": 0.52,
+            "rationale": "Price too steep on favorite; better attack via spread",
+            "value_assessment": "No value at current number"
+        },
+        "spread": {
+            "pick": "MIA -17.5",
+            "confidence": 0.64,
+            "rationale": "Fade public dog; matchup favors Miami trenches and depth",
+            "value_assessment": "Solid value vs public sentiment"
+        },
+        "total": {
+            "pick": "UNDER 57.5",
+            "confidence": 0.60,
+            "rationale": "Storm chances + Miami defense; pace may slow if Canes lead",
+            "value_assessment": "Slight value after uptick"
+        },
+        "best_bet": {
+            "pick": "MIA -17.5",
+            "confidence": 0.64,
+            "rationale": "Public heavy on USF; matchup and depth point to cover"
+        }
+    },
+    "notables": {
+        "injuries_news": [
+            "No major new injuries reported for either team as of Saturday morning",
+            "Miami QB Carson Beck efficient start (22/24 vs B-CU)"
+        ],
+        "matchup_notes": [
+            "Miami edge rush (Rueben Bain Jr. & co.) vs USF protection is key",
+            "USF +4 turnover margin through two games"
+        ],
+        "coaching_notes": [
+            "Miami: Mario Cristobal (4th season)",
+            "USF: Alex Golesh (3rd season)"
+        ]
+    },
+    "excitement_factors": {
+        "playoff_implications": "Miami aims to solidify top-5; USF angling for G5 CFP slot",
+        "conference_impact": "Non-conference but impacts CFP resume for both",
+        "narrative": "Hot G5 upstart vs established top-5 power",
+        "tv_storylines": [
+            "Cinderella USF seeks third straight ranked win",
+            "Carson Beck’s first big-state in-state test at Miami"
+        ]
+    },
+    "sources": [
+        {
+            "type": "rankings_tv",
+            "label": "NCAA AP Top 25 & TV (Week 3)",
+            "url": "[https://www.ncaa.com/news/football/article/2025-09-12/college-football-games-ap-top-25-tv-schedule-week-3](https://www.ncaa.com/news/football/article/2025-09-12/college-football-games-ap-top-25-tv-schedule-week-3)",
+            "asof_utc": "2025-09-13T15:10:00Z"
+        },
+        {
+            "type": "odds",
+            "label": "Action Network (BetMGM odds board)",
+            "url": "[https://www.actionnetwork.com/ncaaf/usf-bulls-vs-miami-hurricanes-prediction-pick-college-football-odds-saturday-sept-13-qs](https://www.actionnetwork.com/ncaaf/usf-bulls-vs-miami-hurricanes-prediction-pick-college-football-odds-saturday-sept-13-qs)",
+            "asof_utc": "2025-09-13T15:25:00Z"
+        },
+        {
+            "type": "odds_movement",
+            "label": "VegasInsider (open & movement)",
+            "url": "[https://www.vegasinsider.com/college-football/matchups/miami-vs-south-florida/](https://www.vegasinsider.com/college-football/matchups/miami-vs-south-florida/)",
+            "asof_utc": "2025-09-13T20:15:00Z"
+        },
+        {
+            "type": "betting_trends",
+            "label": "VSiN DraftKings Betting Splits",
+            "url": "[https://vsin.com/betting-splits](https://vsin.com/betting-splits)",
+            "asof_utc": "2025-09-13T18:30:00Z"
+        },
+        {
+            "type": "weather",
+            "label": "NWS Miami (point forecast)",
+            "url": "[https://forecast.weather.gov/MapClick.php?CityName=Miami+Gardens&site=MFL](https://forecast.weather.gov/MapClick.php?CityName=Miami+Gardens&site=MFL)",
+            "asof_utc": "2025-09-13T19:50:00Z"
+        },
+        {
+            "type": "matchup_history",
+            "label": "CBS Sports H2H & last meeting",
+            "url": "[https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20240831_MIA@ND/](https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20240831_MIA@ND/); [https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20250906_BTHN@MIAMI/](https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20250906_BTHN@MIAMI/)",
+            "asof_utc": "2025-09-13T19:55:00Z"
+        },
+        {
+            "type": "team_pages",
+            "label": "ESPN Team Pages (Miami, USF)",
+            "url": "[https://www.espn.com/college-football/team/](https://www.espn.com/college-football/team/)*/id/2390/miami-hurricanes; [https://www.espn.com/college-football/team/](https://www.espn.com/college-football/team/)*/id/58/south-florida-bulls",
+            "asof_utc": "2025-09-13T19:45:00Z"
+        },
+        {
+            "type": "ats_records",
+            "label": "Covers (ATS records)",
+            "url": "[https://www.covers.com/sport/football/ncaaf/teams/main/south-florida-bulls](https://www.covers.com/sport/football/ncaaf/teams/main/south-florida-bulls); [https://www.covers.com/sport/football/ncaaf/teams/main/miami-fl-hurricanes](https://www.covers.com/sport/football/ncaaf/teams/main/miami-fl-hurricanes)",
+            "asof_utc": "2025-09-13T20:00:00Z"
+        }
+    ]
+}

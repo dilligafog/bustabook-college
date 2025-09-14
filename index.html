@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BustaBook College Picks</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Flowbite Components -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.css" rel="stylesheet" />
+    
+    <!-- Custom Styles -->
+    <style>
+        .game-card {
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        }
+        .game-card:hover {
+            transform: translateY(-2px);
+        }
+        .status-badge {
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+        .day-section {
+            margin-bottom: 2rem;
+        }
+        .loading-spinner {
+            border: 4px solid #f3f4f6;
+            border-top: 4px solid #3b82f6;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <!-- Header -->
+    <header class="bg-white shadow-lg">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-6">
+                <div class="flex items-center">
+                    <h1 class="text-3xl font-bold text-gray-900">
+                        🏈 BustaBook College Picks
+                    </h1>
+                    <span class="ml-4 text-sm text-gray-500" id="current-date">
+                        <!-- Date will be dynamically inserted here -->
+                    </span>
+                </div>
+                <div class="text-sm text-gray-600">
+                    Live College Football Betting Analysis
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- Loading State -->
+        <div id="loading-container" class="text-center py-12" style="display: none;">
+            <div class="loading-spinner mx-auto mb-4"></div>
+            <div class="text-lg text-gray-600">Loading games...</div>
+            <div class="text-sm text-gray-500 mt-2">Discovering and loading betting analysis</div>
+        </div>
+
+        <!-- Error State -->
+        <div id="error-container" class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-6" style="display: none;">
+            <!-- Error message will be inserted here -->
+        </div>
+
+        <!-- Games Container -->
+        <div id="games-container">
+            <!-- Game cards will be dynamically inserted here -->
+        </div>
+
+        <!-- Empty State (shown if no games loaded) -->
+        <div id="empty-state" class="text-center py-12" style="display: none;">
+            <div class="text-gray-500 text-lg mb-4">
+                🏈 No games available
+            </div>
+            <div class="text-gray-400 text-sm">
+                Check back later for updated picks and analysis
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200 mt-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <div class="flex justify-between items-center">
+                <div class="text-sm text-gray-500">
+                    © 2025 BustaBook College Picks
+                </div>
+                <div class="text-sm text-gray-500">
+                    Automated betting analysis and picks
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Flowbite JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.js"></script>
+    
+    <!-- Our JavaScript -->
+    <script src="js/utils.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

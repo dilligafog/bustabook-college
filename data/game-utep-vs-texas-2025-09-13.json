@@ -1,0 +1,232 @@
+{
+    "game_meta": {
+        "game_id": "UTEP@TEX-2025-09-13",
+        "title": "UTEP at Texas",
+        "datetime_local": "2025-09-13T16:15:00-04:00",
+        "venue": "Darrell K Royal–Texas Memorial Stadium, Austin, TX",
+        "tv": [
+            "SEC Network"
+        ],
+        "attendance_capacity": 100119,
+        "weather": {
+            "conditions": "Hot, light wind",
+            "temp_f": 91,
+            "wind_mph": 9,
+            "notes": "Heat fatigue possible; minimal wind impact"
+        },
+        "rankings": {
+            "home_ap": 7,
+            "away_ap": null,
+            "home_cfp": null,
+            "away_cfp": null,
+            "poll_asof_utc": "2025-09-13T19:30:00Z"
+        },
+        "hype_factors": [
+            "Arch Manning vs 5★ Malachi Nelson",
+            "Texas tune-up before SEC play",
+            "UTEP front tied for sacks early",
+            "Historic mismatch: Texas leads series 6-0"
+        ],
+        "last_updated_utc": "2025-09-13T19:55:00Z"
+    },
+    "teams": {
+        "home": {
+            "name": "Texas Longhorns",
+            "short": "TEX",
+            "mascot": "Longhorns",
+            "conference": "SEC",
+            "record": "1-1 (0-0)",
+            "recent_form": "Bounced back 38-7 vs SJSU after 14-7 loss at Ohio State",
+            "key_stats": {
+                "offense_rank": 53,
+                "defense_rank": 17,
+                "turnover_margin": "+0.5",
+                "ats_record": "0-2 ATS this season"
+            },
+            "motivation_factors": [
+                "Style points for AP voters",
+                "Health management before SEC slate"
+            ]
+        },
+        "away": {
+            "name": "UTEP Miners",
+            "short": "UTEP",
+            "mascot": "Miners",
+            "conference": "Conference USA",
+            "record": "1-1 (0-0)",
+            "recent_form": "Beat UT Martin 42-17 after 28-16 loss at Utah State",
+            "key_stats": {
+                "offense_rank": 96,
+                "defense_rank": 88,
+                "turnover_margin": "-0.5",
+                "ats_record": "1-1 ATS this season"
+            },
+            "motivation_factors": [
+                "Showcase game for Nelson",
+                "Spoiler mindset vs Top-10"
+            ]
+        }
+    },
+    "matchup_history": {
+        "all_time_record": "Texas leads 6-0",
+        "last_meeting": {
+            "date": "2020-09-12",
+            "score": "Texas 59, UTEP 3",
+            "note": "Ehlinger 5 TDs in Austin"
+        },
+        "recent_trend": "Texas won all 4 meetings since 2008 by 44.5 avg margin"
+    },
+    "odds": {
+        "moneyline": {
+            "home": {
+                "price": -4000,
+                "implied_prob": 0.976,
+                "opening_line": -4500,
+                "line_movement": "moved toward away (less pricey favorite)",
+                "book": "Rivers (via VegasInsider)",
+                "asof_utc": "2025-09-13T19:50:00Z"
+            },
+            "away": {
+                "price": 1060,
+                "implied_prob": 0.086,
+                "opening_line": 1600,
+                "line_movement": "moved toward away (shorter dog)",
+                "book": "Rivers (via VegasInsider)",
+                "asof_utc": "2025-09-13T19:50:00Z"
+            }
+        },
+        "spread": {
+            "line": -39.5,
+            "favorite": "TEX",
+            "price_home": -108,
+            "price_away": -112,
+            "opening_line": -41.5,
+            "line_movement": "moved toward away by 2.0 points",
+            "public_betting": {
+                "home_percent": 38,
+                "away_percent": 62,
+                "note": "Majority on big dog UTEP +pts"
+            },
+            "book": "DraftKings (consensus verified)",
+            "asof_utc": "2025-09-13T19:50:00Z"
+        },
+        "total": {
+            "line": 51.5,
+            "over_price": -110,
+            "under_price": -110,
+            "opening_line": 50.5,
+            "line_movement": "moved up 1.0 point",
+            "public_betting": {
+                "over_percent": 36,
+                "under_percent": 64
+            },
+            "book": "DraftKings (consensus verified)",
+            "asof_utc": "2025-09-13T19:50:00Z"
+        },
+        "consensus_note": "Market drifted off -41.5 to -39.5; totals nudged up; ML posted at select books only"
+    },
+    "betting_angles": {
+        "key_trends": [
+            "Texas is 0-2 ATS this season",
+            "Texas UNDER is 2-0 in 2025",
+            "UTEP is 1-8 SU in last 9 road games"
+        ],
+        "situational_spots": [
+            "Buy-low on Texas after 0-2 ATS and line dip",
+            "Public dog UTEP taking majority of spread tickets"
+        ]
+    },
+    "picks": {
+        "moneyline": {
+            "pick": "UTEP +1060 (micro)",
+            "confidence": 0.52,
+            "rationale": "Extreme price + public all on Texas ML; tiny contrarian sprinkle only",
+            "value_assessment": "Very low hit rate, long-shot value only"
+        },
+        "spread": {
+            "pick": "TEX -39.5",
+            "confidence": 0.62,
+            "rationale": "Talent gap + injury edge; public on dog; line stabilized after dip",
+            "value_assessment": "Solid buy-low on favorite"
+        },
+        "total": {
+            "pick": "OVER 51.5",
+            "confidence": 0.58,
+            "rationale": "Texas offense in bounce spot; heat can wear defenses; late-game scoring vs depth",
+            "value_assessment": "Slight contrarian value vs public under"
+        },
+        "best_bet": {
+            "pick": "TEX -39.5",
+            "confidence": 0.62,
+            "rationale": "Mismatch + anti-public angle with improving offense"
+        }
+    },
+    "notables": {
+        "injuries_news": [
+            "Texas RB Quintrevion Wisner doubtful",
+            "Texas WR DeAndre Moore Jr. likely out (concussion)",
+            "UTEP RB Kam Thomas out (knee); TE Cash Cheeks questionable"
+        ],
+        "matchup_notes": [
+            "UTEP front has 10 sacks early; tests Texas pass pro",
+            "Texas 4 takeaways last game; turnover margin trending up"
+        ],
+        "coaching_notes": [
+            "Steve Sarkisian managing injuries pre-SEC play",
+            "Scotty Walden in Year 2 building with transfers"
+        ]
+    },
+    "excitement_factors": {
+        "playoff_implications": "Texas maintaining Top-10 trajectory",
+        "conference_impact": "Non-conference tune-up before SEC opener",
+        "narrative": "Five-star QB showcase in a likely romp",
+        "tv_storylines": [
+            "Arch Manning bounce-back arc",
+            "Can Malachi Nelson move the ball vs top defense?"
+        ]
+    },
+    "sources": [
+        {
+            "type": "odds",
+            "label": "VegasInsider Consensus & Line Moves",
+            "url": "[https://www.vegasinsider.com/college-football/matchups/texas-vs-utep/](https://www.vegasinsider.com/college-football/matchups/texas-vs-utep/)",
+            "asof_utc": "2025-09-13T19:50:00Z"
+        },
+        {
+            "type": "odds",
+            "label": "Action Network (DK lines & TV)",
+            "url": "[https://www.actionnetwork.com/ncaaf/utep-miners-vs-texas-longhorns-prediction-pick-college-football-odds-saturday-september-13-qs](https://www.actionnetwork.com/ncaaf/utep-miners-vs-texas-longhorns-prediction-pick-college-football-odds-saturday-september-13-qs)",
+            "asof_utc": "2025-09-13T19:45:00Z"
+        },
+        {
+            "type": "news",
+            "label": "ESPN Game Page",
+            "url": "[https://www.espn.com/college-football/game/_/gameId/401752706/utep-texas](https://www.espn.com/college-football/game/_/gameId/401752706/utep-texas)",
+            "asof_utc": "2025-09-13T19:40:00Z"
+        },
+        {
+            "type": "news",
+            "label": "Austin American-Statesman (injuries & preview)",
+            "url": "[https://www.statesman.com/sports/college/longhorns/football/article/texas-utep-preview-prediction-21036558.php](https://www.statesman.com/sports/college/longhorns/football/article/texas-utep-preview-prediction-21036558.php)",
+            "asof_utc": "2025-09-13T19:40:00Z"
+        },
+        {
+            "type": "stats",
+            "label": "TeamRankings (team stats)",
+            "url": "[https://www.teamrankings.com/college-football/team/texas-longhorns/stats](https://www.teamrankings.com/college-football/team/texas-longhorns/stats)",
+            "asof_utc": "2025-09-13T19:35:00Z"
+        },
+        {
+            "type": "stats",
+            "label": "CFBStats (turnover margin logs)",
+            "url": "[https://cfbstats.com/2025/team/703/turnovermargin/gamelog.html](https://cfbstats.com/2025/team/703/turnovermargin/gamelog.html)",
+            "asof_utc": "2025-09-13T19:35:00Z"
+        },
+        {
+            "type": "weather",
+            "label": "Action Network Weather",
+            "url": "[https://www.actionnetwork.com/ncaaf/utep-miners-vs-texas-longhorns-prediction-pick-college-football-odds-saturday-september-13-qs](https://www.actionnetwork.com/ncaaf/utep-miners-vs-texas-longhorns-prediction-pick-college-football-odds-saturday-september-13-qs)",
+            "asof_utc": "2025-09-13T19:45:00Z"
+        }
+    ]
+}

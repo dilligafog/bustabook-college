@@ -1,0 +1,232 @@
+{
+    "game_meta": {
+        "game_id": "WIS-ALA-2025-09-13",
+        "title": "Wisconsin at Alabama",
+        "datetime_local": "2025-09-13T12:00:00-04:00",
+        "venue": "Saban Field at Bryant–Denny Stadium, Tuscaloosa, AL",
+        "tv": [
+            "ABC"
+        ],
+        "attendance_capacity": 100077,
+        "weather": {
+            "conditions": "Sunny/Hot",
+            "temp_f": 88,
+            "wind_mph": 4,
+            "notes": "Hot midday kick; light winds—minor total impact"
+        },
+        "rankings": {
+            "home_ap": 19,
+            "away_ap": null,
+            "home_cfp": null,
+            "away_cfp": null,
+            "poll_asof_utc": "2025-09-07T16:00:00Z"
+        },
+        "hype_factors": [
+            "SEC vs Big Ten showcase",
+            "Bama must avoid 1–2 start",
+            "Wisconsin revenge after 42–10 in 2024",
+            "Backup QB road start narrative"
+        ],
+        "last_updated_utc": "2025-09-13T15:52:00Z"
+    },
+    "teams": {
+        "home": {
+            "name": "Alabama Crimson Tide",
+            "short": "ALA",
+            "mascot": "Crimson Tide",
+            "conference": "SEC",
+            "record": "1-1 (0-0)",
+            "recent_form": "73-0 bounce-back after 31-17 loss at FSU; 45.0 PPG, 15.5 PAPG",
+            "key_stats": {
+                "offense_rank": 5,
+                "defense_rank": 7,
+                "turnover_margin": "+0.0",
+                "ats_record": "1-1 ATS this season"
+            },
+            "motivation_factors": [
+                "Playoff narrative after Week 1 loss",
+                "Home crowd heat at noon"
+            ]
+        },
+        "away": {
+            "name": "Wisconsin Badgers",
+            "short": "WIS",
+            "mascot": "Badgers",
+            "conference": "Big Ten",
+            "record": "2-0 (0-0)",
+            "recent_form": "2-0 with big 2H vs MTSU; 29.5 PPG, 5.0 PAPG",
+            "key_stats": {
+                "offense_rank": 67,
+                "defense_rank": 18,
+                "turnover_margin": "+1.0",
+                "ats_record": "1-1 ATS this season"
+            },
+            "motivation_factors": [
+                "Revenge angle from 2024 blowout",
+                "Spoiler shot on national TV"
+            ]
+        }
+    },
+    "matchup_history": {
+        "all_time_record": "HOME leads 2-1",
+        "last_meeting": {
+            "date": "2024-09-14",
+            "score": "HOME 42, AWAY 10",
+            "note": "Alabama rolled in Madison"
+        },
+        "recent_trend": "HOME won last 2 meetings (2015, 2024)"
+    },
+    "odds": {
+        "moneyline": {
+            "home": {
+                "price": -1400,
+                "implied_prob": 0.933,
+                "opening_line": -900,
+                "line_movement": "moved toward home",
+                "book": "BetMGM",
+                "asof_utc": "2025-09-13T15:41:00Z"
+            },
+            "away": {
+                "price": 800,
+                "implied_prob": 0.111,
+                "opening_line": 650,
+                "line_movement": "moved against away",
+                "book": "BetMGM",
+                "asof_utc": "2025-09-13T15:41:00Z"
+            }
+        },
+        "spread": {
+            "line": -20.5,
+            "favorite": "HOME",
+            "price_home": -115,
+            "price_away": -105,
+            "opening_line": -19.0,
+            "line_movement": "moved toward home by ~1.5 points",
+            "public_betting": {
+                "home_percent": 40,
+                "away_percent": 60,
+                "note": "Covers consensus leans to WIS + points"
+            },
+            "book": "BetMGM",
+            "asof_utc": "2025-09-13T15:41:00Z"
+        },
+        "total": {
+            "line": 46.5,
+            "over_price": -110,
+            "under_price": -110,
+            "opening_line": 47.5,
+            "line_movement": "ticked down ~1 point",
+            "public_betting": {
+                "over_percent": null,
+                "under_percent": null
+            },
+            "book": "BetMGM",
+            "asof_utc": "2025-09-13T15:41:00Z"
+        },
+        "consensus_note": "Market clustered around ALA -20.5, 45.5–46.5 total; early move toward Tide and slight under"
+    },
+    "betting_angles": {
+        "key_trends": [
+            "Alabama 5-1 ATS last 6 home games",
+            "Line opened ~-19 (Circa) and pushed to -20.5/-21",
+            "Wisconsin defense top-20 by SP+; offense outside top-60"
+        ],
+        "situational_spots": [
+            "Fade public dog: majority tickets on WIS spread",
+            "Hot midday conditions could slow tempo early"
+        ]
+    },
+    "picks": {
+        "moneyline": {
+            "pick": "No play (ALA -1400 parlay-only)",
+            "confidence": 0.52,
+            "rationale": "Extremely juiced ML; better expressed via spread or alt-lines",
+            "value_assessment": "Poor standalone value"
+        },
+        "spread": {
+            "pick": "HOME -20.5",
+            "confidence": 0.64,
+            "rationale": "Public on dog; Bama passing edge vs WIS D and strong home ATS trend",
+            "value_assessment": "Solid fade-the-public spot"
+        },
+        "total": {
+            "pick": "UNDER 46.5",
+            "confidence": 0.57,
+            "rationale": "Market drifted down; heat + WIS QB uncertainty cap scoring",
+            "value_assessment": "Modest value if 46.5 holds"
+        },
+        "best_bet": {
+            "pick": "HOME -20.5",
+            "confidence": 0.64,
+            "rationale": "Contrarian vs public dog with home ATS strength and talent gap"
+        }
+    },
+    "notables": {
+        "injuries_news": [
+            "WIS QB Billy Edwards Jr. unlikely (knee); Danny O’Neil expected to start",
+            "ALA WR Ryan Williams cleared/limited (concussion) per week reports",
+            "ALA RB Jam Miller out (collarbone); DL Tim Keenan III out"
+        ],
+        "matchup_notes": [
+            "ALA SP+ Off #5 vs WIS SP+ Def #18",
+            "Bama WR group (Bernard/Williams) vs WIS secondary is the tilt point"
+        ],
+        "coaching_notes": [
+            "DeBoer under scrutiny after 31-17 loss at FSU; bounce-back narrative",
+            "Fickell teams have started slow this season but strong in 2H"
+        ]
+    },
+    "excitement_factors": {
+        "playoff_implications": "Bama needs statement to stay in early CFP conversation",
+        "conference_impact": "Non-conference measuring stick before SEC play",
+        "narrative": "Public backing big dog; can Tide bury them again?",
+        "tv_storylines": [
+            "Ty Simpson steadies Tide post-FSU",
+            "Wisconsin’s backup QB in hostile SEC venue"
+        ]
+    },
+    "sources": [
+        {
+            "type": "odds",
+            "label": "Action Network (BetMGM market)",
+            "url": "[https://www.actionnetwork.com/ncaaf/wisconsin-badgers-vs-alabama-crimson-tide-prediction-pick-odds-college-football-saturday-september-13-qs](https://www.actionnetwork.com/ncaaf/wisconsin-badgers-vs-alabama-crimson-tide-prediction-pick-odds-college-football-saturday-september-13-qs)",
+            "asof_utc": "2025-09-13T15:41:00Z"
+        },
+        {
+            "type": "betting_trends",
+            "label": "Covers consensus & trends",
+            "url": "[https://www.covers.com/ncaaf/wisconsin-vs-alabama-prediction-picks-odds-today-september-13-2025](https://www.covers.com/ncaaf/wisconsin-vs-alabama-prediction-picks-odds-today-september-13-2025)",
+            "asof_utc": "2025-09-13T13:33:00Z"
+        },
+        {
+            "type": "rankings",
+            "label": "AP Top 25 (CBS Sports)",
+            "url": "[https://www.cbssports.com/college-football/rankings/ap-top-25/](https://www.cbssports.com/college-football/rankings/ap-top-25/)",
+            "asof_utc": "2025-09-07T16:00:00Z"
+        },
+        {
+            "type": "weather",
+            "label": "AccuWeather stadium page",
+            "url": "[https://www.accuweather.com/en/us/saban-field-at-bryant-denny-stadium-al/35401/current-weather/53527_poi](https://www.accuweather.com/en/us/saban-field-at-bryant-denny-stadium-al/35401/current-weather/53527_poi)",
+            "asof_utc": "2025-09-13T15:40:00Z"
+        },
+        {
+            "type": "injuries/news",
+            "label": "Bucky’s 5th Quarter injuries & preview",
+            "url": "[https://www.buckys5thquarter.com/wisconsin-badgers-football/86388/wisconsin-badgers-football-news-3-things-that-need-to-happen-to-upset-alabama-crimson-tide](https://www.buckys5thquarter.com/wisconsin-badgers-football/86388/wisconsin-badgers-football-news-3-things-that-need-to-happen-to-upset-alabama-crimson-tide)",
+            "asof_utc": "2025-09-11T16:00:00Z"
+        },
+        {
+            "type": "advanced_stats",
+            "label": "ESPN SP+ Rankings",
+            "url": "[https://www.espn.com/college-football/insider/story/_/id/41328177/college-football-2025-sp-plus-rankings-all-136-teams](https://www.espn.com/college-football/insider/story/_/id/41328177/college-football-2025-sp-plus-rankings-all-136-teams)",
+            "asof_utc": "2025-09-13T12:00:00Z"
+        },
+        {
+            "type": "history",
+            "label": "Winsipedia H2H",
+            "url": "[https://www.winsipedia.com/games/alabama/vs/wisconsin](https://www.winsipedia.com/games/alabama/vs/wisconsin)",
+            "asof_utc": "2025-09-13T15:20:00Z"
+        }
+    ]
+}

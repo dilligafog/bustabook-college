@@ -1,0 +1,13 @@
+{
+  "name": "bustabook-college",
+  "version": "1.0.0",
+  "description": "Dynamic college football betting picks application",
+  "scripts": {
+    "build": "node build-manifest.js",
+    "serve": "python3 -m http.server 8080",
+    "dev": "npm run build && npm run serve"
+  },
+  "keywords": ["college-football", "betting", "picks", "dynamic"],
+  "author": "BustaBook",
+  "license": "MIT"
+}

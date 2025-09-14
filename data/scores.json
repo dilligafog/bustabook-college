@@ -1,0 +1,195 @@
+{
+  "last_updated": "2025-09-13T22:30:00.000Z",
+  "games": [
+    {
+      "game_id": "WIS-ALA-2025-09-13",
+      "status": "final",
+      "scheduled_time": "2025-09-13T12:00:00-04:00",
+      "home_team": {
+        "name": "Alabama",
+        "short": "ALABAMA",
+        "score": 38
+      },
+      "away_team": {
+        "name": "Wisconsin",
+        "short": "WISCONSIN",
+        "score": 14
+      },
+      "quarter": "Final",
+      "time_remaining": null,
+      "possession": null,
+      "final": true
+    },
+    {
+      "game_id": "ark-at-olemiss-2025-09-13",
+      "status": "final",
+      "scheduled_time": "2025-09-13T19:00:00-04:00",
+      "home_team": {
+        "name": "Ole Miss",
+        "short": "OLE",
+        "score": 41
+      },
+      "away_team": {
+        "name": "Arkansas",
+        "short": "ARKANSAS",
+        "score": 35
+      },
+      "quarter": "Final",
+      "time_remaining": null,
+      "possession": null,
+      "final": true
+    },
+    {
+      "game_id": "UF-LSU-2025-09-13",
+      "status": "final",
+      "scheduled_time": "2025-09-13T19:30:00-04:00",
+      "home_team": {
+        "name": "LSU",
+        "short": "LSU",
+        "score": 20
+      },
+      "away_team": {
+        "name": "Florida",
+        "short": "FLORIDA",
+        "score": 10
+      },
+      "quarter": "Final",
+      "time_remaining": null,
+      "possession": null,
+      "final": true
+    },
+    {
+      "game_id": "clem-at-gt-2025-09-13",
+      "status": "final",
+      "scheduled_time": "2025-09-13T12:00:00-04:00",
+      "home_team": {
+        "name": "Georgia Tech",
+        "short": "GEORGIA",
+        "score": 24
+      },
+      "away_team": {
+        "name": "Clemson",
+        "short": "CLEMSON",
+        "score": 21
+      },
+      "quarter": "Final",
+      "time_remaining": null,
+      "possession": null,
+      "final": true
+    },
+    {
+      "game_id": "VILL@PSU-2025-09-13",
+      "status": "final",
+      "scheduled_time": "2025-09-13T15:30:00-04:00",
+      "home_team": {
+        "name": "Penn State",
+        "short": "PENN",
+        "score": 52
+      },
+      "away_team": {
+        "name": "Villanova",
+        "short": "VILLANOVA",
+        "score": 6
+      },
+      "quarter": "Final",
+      "time_remaining": null,
+      "possession": null,
+      "final": true
+    },
+    {
+      "game_id": "usf-at-miami-2025-09-13",
+      "status": "final",
+      "scheduled_time": "2025-09-13T16:30:00-04:00",
+      "home_team": {
+        "name": "Miami (FL)",
+        "short": "MIAMI",
+        "score": 49
+      },
+      "away_team": {
+        "name": "South Florida",
+        "short": "SOUTH",
+        "score": 12
+      },
+      "quarter": "Final",
+      "time_remaining": null,
+      "possession": null,
+      "final": true
+    },
+    {
+      "game_id": "UGA@TENN-2025-09-13",
+      "status": "final",
+      "scheduled_time": "2025-09-13T15:30:00-04:00",
+      "home_team": {
+        "name": "Tennessee",
+        "short": "TENNESSEE",
+        "score": 41
+      },
+      "away_team": {
+        "name": "Georgia",
+        "short": "GEORGIA",
+        "score": 44
+      },
+      "quarter": "Final/OT",
+      "time_remaining": null,
+      "possession": null,
+      "final": true
+    },
+    {
+      "game_id": "tamu-nd-2025-09-13",
+      "status": "final",
+      "scheduled_time": "2025-09-13T19:30:00-04:00",
+      "home_team": {
+        "name": "Notre Dame",
+        "short": "NOTRE",
+        "score": 40
+      },
+      "away_team": {
+        "name": "Texas A&M",
+        "short": "TEXAS",
+        "score": 41
+      },
+      "quarter": "Final",
+      "time_remaining": null,
+      "possession": null,
+      "final": true
+    },
+    {
+      "game_id": "UTEP@TEX-2025-09-13",
+      "status": "final",
+      "scheduled_time": "2025-09-13T16:15:00-04:00",
+      "home_team": {
+        "name": "Texas",
+        "short": "TEXAS",
+        "score": 27
+      },
+      "away_team": {
+        "name": "UTEP",
+        "short": "UTEP",
+        "score": 10
+      },
+      "quarter": "Final",
+      "time_remaining": null,
+      "possession": null,
+      "final": true
+    },
+    {
+      "game_id": "vand-at-sc-2025-09-13",
+      "status": "final",
+      "scheduled_time": "2025-09-13T19:45:00-04:00",
+      "home_team": {
+        "name": "South Carolina",
+        "short": "SOUTH",
+        "score": 7
+      },
+      "away_team": {
+        "name": "Vanderbilt",
+        "short": "VANDERBILT",
+        "score": 31
+      },
+      "quarter": "Final",
+      "time_remaining": null,
+      "possession": null,
+      "final": true
+    }
+  ]
+}

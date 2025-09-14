@@ -1,0 +1,207 @@
+{
+    "game_meta": {
+        "game_id": "ark-at-olemiss-2025-09-13",
+        "title": "Arkansas at Ole Miss",
+        "datetime_local": "2025-09-13T19:00:00-04:00",
+        "venue": "Vaught–Hemingway Stadium, Oxford, MS",
+        "tv": [
+            "ESPN"
+        ],
+        "attendance_capacity": 64038,
+        "weather": {
+            "conditions": "Clear, warm",
+            "temp_f": 84,
+            "wind_mph": 6,
+            "notes": "Light E/NE breeze; heat early then cooling—minimal wind impact"
+        },
+        "rankings": {
+            "home_ap": 17,
+            "away_ap": null,
+            "home_cfp": null,
+            "away_cfp": null,
+            "poll_asof_utc": "2025-09-13T16:30:00Z"
+        },
+        "hype_factors": [
+            "SEC primetime showcase",
+            "Explosive offenses top-10 early",
+            "Revenge spot after 63-31 last year",
+            "Historic rivalry matchup"
+        ],
+        "last_updated_utc": "2025-09-13T20:30:00Z"
+    },
+    "teams": {
+        "home": {
+            "name": "Ole Miss Rebels",
+            "short": "MISS",
+            "mascot": "Rebels",
+            "conference": "SEC",
+            "record": "2-0 (1-0)",
+            "recent_form": "2-0; averaging 46.5 PPG, allowing 15.0",
+            "key_stats": {
+                "offense_rank": 6,
+                "defense_rank": null,
+                "turnover_margin": "n/a",
+                "ats_record": "1-1 ATS this season"
+            },
+            "motivation_factors": [
+                "Home SEC opener (Stripe the Vaught)",
+                "Climb AP rankings"
+            ]
+        },
+        "away": {
+            "name": "Arkansas Razorbacks",
+            "short": "ARK",
+            "mascot": "Razorbacks",
+            "conference": "SEC",
+            "record": "2-0 (0-0)",
+            "recent_form": "Back-to-back blowouts; 54.0 PPG, 10.5 OPPG",
+            "key_stats": {
+                "offense_rank": 4,
+                "defense_rank": null,
+                "turnover_margin": "n/a",
+                "ats_record": "1-1 ATS this season"
+            },
+            "motivation_factors": [
+                "Revenge after 2024 blowout",
+                "First true road test—prove it spot"
+            ]
+        }
+    },
+    "matchup_history": {
+        "all_time_record": "ARK leads 38-30-1",
+        "last_meeting": {
+            "date": "2024-11-02",
+            "score": "MISS 63, ARK 31",
+            "note": "Ole Miss offense exploded; sets revenge angle"
+        },
+        "recent_trend": "MISS won 3 of last 4; ARK 3-1 ATS in that span"
+    },
+    "odds": {
+        "moneyline": {
+            "home": {
+                "price": -230,
+                "implied_prob": 0.697,
+                "opening_line": -320,
+                "line_movement": "shortened toward away",
+                "book": "DraftKings",
+                "asof_utc": "2025-09-13T19:00:00Z"
+            },
+            "away": {
+                "price": 190,
+                "implied_prob": 0.345,
+                "opening_line": 260,
+                "line_movement": "shortened toward away",
+                "book": "DraftKings",
+                "asof_utc": "2025-09-13T19:00:00Z"
+            }
+        },
+        "spread": {
+            "line": -6.5,
+            "favorite": "MISS",
+            "price_home": -112,
+            "price_away": -108,
+            "opening_line": -8.5,
+            "line_movement": "moved toward ARK by 2 points",
+            "public_betting": {
+                "home_percent": 61,
+                "away_percent": 39,
+                "note": "Bets favor MISS, money slightly leans ARK"
+            },
+            "book": "DraftKings",
+            "asof_utc": "2025-09-13T19:00:00Z"
+        },
+        "total": {
+            "line": 62.5,
+            "over_price": -110,
+            "under_price": -110,
+            "opening_line": 61.5,
+            "line_movement": "moved up 1 point",
+            "public_betting": {
+                "over_percent": null,
+                "under_percent": null
+            },
+            "book": "DraftKings",
+            "asof_utc": "2025-09-13T19:00:00Z"
+        },
+        "consensus_note": "Market drifted from -8.5 to -6.5 despite MISS bets—sharp interest on ARK; total ticking up"
+    },
+    "betting_angles": {
+        "key_trends": [
+            "ARK 8-1 ATS last 9 road games",
+            "MISS 1-5 ATS last 6 home vs ARK",
+            "UNDER 10 of last 14 MISS games"
+        ],
+        "situational_spots": [
+            "Reverse line move to ARK with public on MISS",
+            "Petrino vs Golding chess match; ARK mobile QB stress-tests MISS tackling"
+        ]
+    },
+    "picks": {
+        "moneyline": {
+            "pick": "ARK +190",
+            "confidence": 0.62,
+            "rationale": "Reverse line move + explosive ARK offense; live dog profile",
+            "value_assessment": "Decent value vs market implied ~34.5%"
+        },
+        "spread": {
+            "pick": "ARK +6.5",
+            "confidence": 0.70,
+            "rationale": "Sharp side indicators and historical ATS edge; buy at +6.5/+7",
+            "value_assessment": "Strong value given move from -8.5"
+        },
+        "total": {
+            "pick": "OVER 62.5",
+            "confidence": 0.55,
+            "rationale": "Both top-10 offenses, tempo, explosive plays; mild weather",
+            "value_assessment": "Small edge; number climbed but still playable"
+        },
+        "best_bet": {
+            "pick": "ARK +6.5",
+            "confidence": 0.70,
+            "rationale": "Contrarian with line movement support; matches matchup and trend data"
+        }
+    },
+    "notables": {
+        "injuries_news": [
+            "Ole Miss WR Traylon Ray OUT; CB Jaylon Braxton QUESTIONABLE",
+            "Arkansas WRs Monte Harrison & Ismael Cisse OUT; depth hits at WR/DL"
+        ],
+        "matchup_notes": [
+            "Both rank top-10 in total offense; lead SEC in 20+ yard plays",
+            "Taylen Green’s mobility vs MISS pass rush/tackling is key"
+        ],
+        "coaching_notes": [
+            "Lane Kiffin 28-3 at home since 2021",
+            "Bobby Petrino vs Pete Golding schematics could decide explosives"
+        ]
+    },
+    "excitement_factors": {
+        "playoff_implications": "MISS needs win to stay in early hunt",
+        "conference_impact": "Early SEC pecking-order game",
+        "narrative": "Primetime rivalry—live underdog Razorbacks vs ranked Rebels",
+        "tv_storylines": [
+            "Explosive offenses duel under the lights",
+            "Can ARK avenge last year’s 63-31 beatdown?"
+        ]
+    },
+    "sources": [
+        {
+            "type": "odds",
+            "label": "DraftKings Sportsbook",
+            "url": "[https://sportsbook.draftkings.com/event/arkansas-%40-ole-miss/32746508](https://sportsbook.draftkings.com/event/arkansas-%40-ole-miss/32746508)",
+            "asof_utc": "2025-09-13T19:00:00Z"
+        },
+        {
+            "type": "betting_trends",
+            "label": "Action Network / FanDuel splits",
+            "url": "[https://www.actionnetwork.com/ncaaf/arkansas-razorbacks-vs-ole-miss-rebels-prediction-pick-college-football-odds-saturday-september-13-qs](https://www.actionnetwork.com/ncaaf/arkansas-razorbacks-vs-ole-miss-rebels-prediction-pick-college-football-odds-saturday-september-13-qs)",
+            "asof_utc": "2025-09-13T16:58:00Z"
+        },
+        {
+            "type": "news",
+            "label": "ESPN College Football Rankings",
+            "url": "[https://www.espn.com/college-football/rankings](https://www.espn.com/college-football/rankings)",
+            "asof_utc": "2025-09-13T16:30:00Z"
+        }
+    ]
+}

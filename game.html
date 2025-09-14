@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Analysis - BustaBook College Picks</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Flowbite Components -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.css" rel="stylesheet" />
+    
+    <!-- Custom Styles -->
+    <style>
+        .data-section {
+            margin-bottom: 2rem;
+        }
+        .data-card {
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+        }
+        .confidence-bar {
+            height: 8px;
+            border-radius: 4px;
+            transition: width 0.5s ease-in-out;
+        }
+        .loading-spinner {
+            border: 4px solid #f3f4f6;
+            border-top: 4px solid #3b82f6;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .pick-winner { background-color: #dcfce7; border-color: #16a34a; }
+        .pick-loser { background-color: #fef2f2; border-color: #dc2626; }
+        .trend-item { border-left: 4px solid #3b82f6; }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <!-- Header -->
+    <header class="bg-white shadow-lg">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center">
+                    <a href="index.html" class="text-blue-600 hover:text-blue-800 mr-4">
+                        ← Back to All Games
+                    </a>
+                    <h1 class="text-2xl font-bold text-gray-900">🏈 Game Analysis</h1>
+                </div>
+                <div class="text-sm text-gray-600">
+                    BustaBook College Picks
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <!-- Loading State -->
+        <div id="loading-container" class="text-center py-12">
+            <div class="loading-spinner mx-auto mb-4"></div>
+            <div class="text-lg text-gray-600">Loading game analysis...</div>
+        </div>
+
+        <!-- Error State -->
+        <div id="error-container" class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-6" style="display: none;">
+            <!-- Error message will be inserted here -->
+        </div>
+
+        <!-- Game Content -->
+        <div id="game-content" style="display: none;">
+            <!-- Game Header -->
+            <div id="game-header" class="bg-white rounded-lg shadow-lg p-6 mb-6">
+                <!-- Content will be dynamically inserted -->
+            </div>
+
+            <!-- Live Score (if available) -->
+            <div id="live-score-section" class="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-6" style="display: none;">
+                <!-- Live score content will be dynamically inserted -->
+            </div>
+
+            <!-- Main Content Grid -->
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+                <!-- Left Column: Teams & Matchup -->
+                <div class="lg:col-span-2 space-y-6">
+                    <!-- Teams Comparison -->
+                    <div id="teams-section" class="bg-white rounded-lg shadow-lg p-6">
+                        <h2 class="text-xl font-bold text-gray-800 mb-4">🏈 Team Comparison</h2>
+                        <div id="teams-content">
+                            <!-- Teams content will be dynamically inserted -->
+                        </div>
+                    </div>
+
+                    <!-- Odds & Line Movement -->
+                    <div id="odds-section" class="bg-white rounded-lg shadow-lg p-6">
+                        <h2 class="text-xl font-bold text-gray-800 mb-4">💰 Current Odds & Line Movement</h2>
+                        <div id="odds-content">
+                            <!-- Odds content will be dynamically inserted -->
+                        </div>
+                    </div>
+
+                    <!-- Matchup History -->
+                    <div id="history-section" class="bg-white rounded-lg shadow-lg p-6">
+                        <h2 class="text-xl font-bold text-gray-800 mb-4">📚 Historical Matchup</h2>
+                        <div id="history-content">
+                            <!-- History content will be dynamically inserted -->
+                        </div>
+                    </div>
+
+                    <!-- Betting Angles & Trends -->
+                    <div id="trends-section" class="bg-white rounded-lg shadow-lg p-6">
+                        <h2 class="text-xl font-bold text-gray-800 mb-4">📈 Betting Angles & Trends</h2>
+                        <div id="trends-content">
+                            <!-- Trends content will be dynamically inserted -->
+                        </div>
+                    </div>
+
+                    <!-- Key Notes & Injuries -->
+                    <div id="notes-section" class="bg-white rounded-lg shadow-lg p-6">
+                        <h2 class="text-xl font-bold text-gray-800 mb-4">🏥 Key Notes & Injury Report</h2>
+                        <div id="notes-content">
+                            <!-- Notes content will be dynamically inserted -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Column: Picks & Analysis -->
+                <div class="space-y-6">
+                    <!-- Our Picks -->
+                    <div id="picks-section" class="bg-white rounded-lg shadow-lg p-6">
+                        <h2 class="text-xl font-bold text-gray-800 mb-4">🎯 Our Picks</h2>
+                        <div id="picks-content">
+                            <!-- Picks content will be dynamically inserted -->
+                        </div>
+                    </div>
+
+                    <!-- Game Details -->
+                    <div id="details-section" class="bg-white rounded-lg shadow-lg p-6">
+                        <h2 class="text-xl font-bold text-gray-800 mb-4">ℹ️ Game Details</h2>
+                        <div id="details-content">
+                            <!-- Details content will be dynamically inserted -->
+                        </div>
+                    </div>
+
+                    <!-- Excitement Factors -->
+                    <div id="excitement-section" class="bg-white rounded-lg shadow-lg p-6">
+                        <h2 class="text-xl font-bold text-gray-800 mb-4">🔥 Storylines & Impact</h2>
+                        <div id="excitement-content">
+                            <!-- Excitement content will be dynamically inserted -->
+                        </div>
+                    </div>
+
+                    <!-- Sources -->
+                    <div id="sources-section" class="bg-white rounded-lg shadow-lg p-6">
+                        <h2 class="text-xl font-bold text-gray-800 mb-4">📝 Data Sources</h2>
+                        <div id="sources-content">
+                            <!-- Sources content will be dynamically inserted -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200 mt-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <div class="flex justify-between items-center">
+                <div class="text-sm text-gray-500">
+                    © 2025 BustaBook College Picks
+                </div>
+                <div class="text-sm text-gray-500">
+                    <span id="last-updated">Last updated: Loading...</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Flowbite JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.js"></script>
+    
+    <!-- Our JavaScript -->
+    <script src="js/utils.js?v=2"></script>
+    <script src="js/game.js?v=2"></script>
+</body>
+</html>

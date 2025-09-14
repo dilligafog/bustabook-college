@@ -1,0 +1,244 @@
+{
+    "game_meta": {
+        "game_id": "UF-LSU-2025-09-13",
+        "title": "Florida at LSU",
+        "datetime_local": "2025-09-13T19:30:00-04:00",
+        "venue": "Tiger Stadium, Baton Rouge, LA",
+        "tv": [
+            "ABC"
+        ],
+        "attendance_capacity": 102321,
+        "weather": {
+            "conditions": "Hot, mostly clear",
+            "temp_f": 90,
+            "wind_mph": 6,
+            "notes": "Sticky heat for a night kickoff; minor wind—conditioning matters"
+        },
+        "rankings": {
+            "home_ap": 3,
+            "away_ap": null,
+            "home_cfp": null,
+            "away_cfp": null,
+            "poll_asof_utc": "2025-09-07T18:00:00Z"
+        },
+        "hype_factors": [
+            "Night game in Death Valley",
+            "SEC rivalry",
+            "LSU revenge after 2024 loss",
+            "Napier hot-seat narrative"
+        ],
+        "last_updated_utc": "2025-09-13T20:35:00Z"
+    },
+    "teams": {
+        "home": {
+            "name": "Louisiana State University",
+            "short": "LSU",
+            "mascot": "Tigers",
+            "conference": "SEC",
+            "record": "2-0 (0-0)",
+            "recent_form": "2-0, defense allowing 13.5 PPG; both games under",
+            "key_stats": {
+                "offense_rank": 82,
+                "defense_rank": 12,
+                "turnover_margin": "-1.0",
+                "ats_record": "1-1 ATS this season"
+            },
+            "motivation_factors": [
+                "Top-3 ranking to protect",
+                "Revenge spot after 2024 loss to UF"
+            ]
+        },
+        "away": {
+            "name": "University of Florida",
+            "short": "UF",
+            "mascot": "Gators",
+            "conference": "SEC",
+            "record": "1-1 (0-0)",
+            "recent_form": "Upset loss to USF; offense inconsistent",
+            "key_stats": {
+                "offense_rank": 66,
+                "defense_rank": 93,
+                "turnover_margin": "+0.5",
+                "ats_record": "0-1 ATS this season"
+            },
+            "motivation_factors": [
+                "Bounce-back after upset loss",
+                "Spoiler role vs top-3 opponent"
+            ]
+        }
+    },
+    "matchup_history": {
+        "all_time_record": "Florida leads 34-31-3 (LSU leads 19-17 in Baton Rouge)",
+        "last_meeting": {
+            "date": "2024-11-16",
+            "score": "Florida 27, LSU 16",
+            "note": "UF snapped skid; first series win since 2018"
+        },
+        "recent_trend": "LSU won 5 straight (2019-23); Florida won last meeting"
+    },
+    "odds": {
+        "moneyline": {
+            "home": {
+                "price": -260,
+                "implied_prob": 0.722,
+                "opening_line": -230,
+                "line_movement": "moved toward home since open",
+                "book": "DraftKings",
+                "asof_utc": "2025-09-13T20:30:00Z"
+            },
+            "away": {
+                "price": 210,
+                "implied_prob": 0.323,
+                "opening_line": 190,
+                "line_movement": "moved toward away early, then back toward home",
+                "book": "DraftKings",
+                "asof_utc": "2025-09-13T20:30:00Z"
+            }
+        },
+        "spread": {
+            "line": -7.0,
+            "favorite": "LSU",
+            "price_home": -110,
+            "price_away": -110,
+            "opening_line": -7.5,
+            "line_movement": "moved toward Florida by 0.5–1.0 pts; touched -9.5 before buyback",
+            "public_betting": {
+                "home_percent": 62,
+                "away_percent": 38,
+                "note": "Majority of tickets on LSU"
+            },
+            "book": "DraftKings",
+            "asof_utc": "2025-09-13T20:30:00Z"
+        },
+        "total": {
+            "line": 47.5,
+            "over_price": -110,
+            "under_price": -110,
+            "opening_line": 54.5,
+            "line_movement": "steamed down ~7 points",
+            "public_betting": {
+                "over_percent": 65,
+                "under_percent": 35
+            },
+            "book": "DraftKings",
+            "asof_utc": "2025-09-13T20:30:00Z"
+        },
+        "consensus_note": "Market shows strong Under money; spread dipped from -9.5 to -6.5/-7 with buyback on favorite"
+    },
+    "betting_angles": {
+        "key_trends": [
+            "LSU Under is 9-4 in last 13",
+            "LSU 2-0 to the Under in 2025",
+            "Florida offense 6.9 YPA last game; penalties a problem (11 vs USF)"
+        ],
+        "situational_spots": [
+            "Death Valley at night historically suppresses visiting offenses",
+            "Revenge angle for LSU; Florida off upset loss and heavy media heat"
+        ]
+    },
+    "picks": {
+        "moneyline": {
+            "pick": "Florida +210",
+            "confidence": 0.56,
+            "rationale": "Numbers dipped toward UF and public leans LSU; small plus-money stab if game stays low scoring",
+            "value_assessment": "Moderate value as contrarian flier"
+        },
+        "spread": {
+            "pick": "Florida +7",
+            "confidence": 0.61,
+            "rationale": "Market resistance at -7 with earlier sharp move to Gators; LSU defense elite but pace/total point to one-score script",
+            "value_assessment": "Solid value at key number"
+        },
+        "total": {
+            "pick": "UNDER 47.5",
+            "confidence": 0.66,
+            "rationale": "Significant steam down from 54.5; LSU defense top-tier and both early LSU games cashed Unders",
+            "value_assessment": "Strongest edge aligns with market movement"
+        },
+        "best_bet": {
+            "pick": "UNDER 47.5",
+            "confidence": 0.66,
+            "rationale": "Biggest market agreement + matchup favors defense/field position"
+        }
+    },
+    "notables": {
+        "injuries_news": [
+            "Florida DL Caleb Banks expected back; UF cleaning up penalties after USF loss",
+            "LSU relatively healthy; defense carrying load through two weeks"
+        ],
+        "matchup_notes": [
+            "Tempo edge LSU (≈81 snaps/g) vs Florida (≈75) can create possession leverage",
+            "Heat/humidity could wear down UF depth late",
+            "Series flipped last year; Tigers seek payback"
+        ],
+        "coaching_notes": [
+            "Billy Napier under pressure after USF upset",
+            "LSU defense thriving under Blake Baker"
+        ]
+    },
+    "excitement_factors": {
+        "playoff_implications": "Top-3 LSU must avoid upset to stay on track",
+        "conference_impact": "Early SEC tone-setter for both",
+        "narrative": "Can rattled Gators punch up in Death Valley, or does LSU grind another defensive win?",
+        "tv_storylines": [
+            "Night in Death Valley mystique",
+            "Lagway bounce-back vs elite defense"
+        ]
+    },
+    "sources": [
+        {
+            "type": "odds",
+            "label": "VegasInsider Line History & Splits",
+            "url": "[https://www.vegasinsider.com/college-football/matchups/florida-vs-lsu/](https://www.vegasinsider.com/college-football/matchups/florida-vs-lsu/)",
+            "asof_utc": "2025-09-13T20:30:00Z"
+        },
+        {
+            "type": "odds",
+            "label": "DraftKings (via DK Network/Covers market)",
+            "url": "[https://sportsbook.draftkings.com](https://sportsbook.draftkings.com)",
+            "asof_utc": "2025-09-13T20:30:00Z"
+        },
+        {
+            "type": "betting_trends",
+            "label": "Covers preview & splits",
+            "url": "[https://www.covers.com/ncaaf/florida-vs-lsu-prediction-picks-odds-september-13-2025](https://www.covers.com/ncaaf/florida-vs-lsu-prediction-picks-odds-september-13-2025)",
+            "asof_utc": "2025-09-13T14:10:00Z"
+        },
+        {
+            "type": "news",
+            "label": "Action Network game hub",
+            "url": "[https://www.actionnetwork.com/ncaaf-game/florida-lsu-score-odds-september-13-2025/254461](https://www.actionnetwork.com/ncaaf-game/florida-lsu-score-odds-september-13-2025/254461)",
+            "asof_utc": "2025-09-13T16:10:00Z"
+        },
+        {
+            "type": "stats",
+            "label": "TeamRankings efficiency & TO margin",
+            "url": "[https://www.teamrankings.com/college-football/stat/opponent-yards-per-play](https://www.teamrankings.com/college-football/stat/opponent-yards-per-play)",
+            "asof_utc": "2025-09-13T20:25:00Z"
+        },
+        {
+            "type": "news",
+            "label": "ESPN game recaps/schedules",
+            "url": "[https://www.espn.com/college-football/team/schedule/](https://www.espn.com/college-football/team/schedule/)*/id/57/florida-gators",
+            "asof_utc": "2025-09-13T20:20:00Z"
+        },
+        {
+            "type": "venue",
+            "label": "Tiger Stadium capacity",
+            "url": "[https://en.wikipedia.org/wiki/Tiger_Stadium](https://en.wikipedia.org/wiki/Tiger_Stadium)*(Louisiana)",
+            "asof_utc": "2025-09-13T20:15:00Z"
+        },
+        {
+            "type": "weather",
+            "label": "Baton Rouge forecast",
+            "url": "[https://www.accuweather.com/](https://www.accuweather.com/)",
+            "asof_utc": "2025-09-13T20:10:00Z"
+        },
+        {
+            "type": "analysis",
+            "label": "DK Network pace/matchup notes",
+            "url": "[https://dknetwork.draftkings.com/2025/09/13/lsu-tigers-vs-florida-gators-prediction-pick-for-cfb-week-3-on-saturday-9-13-25/](https://dknetwork.draftkings.com/2025/09/13/lsu-tigers-vs-florida-gators-prediction-pick-for-cfb-week-3-on-saturday-9-13-25/)",
+            "asof_utc": "2025-09-13T17:30:00Z"
+        }
+    ]
+}

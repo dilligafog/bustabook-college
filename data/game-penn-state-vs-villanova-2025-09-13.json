@@ -1,0 +1,253 @@
+{
+"game_meta": {
+"game_id": "VILL@PSU-2025-09-13",
+"title": "Villanova at Penn State",
+"datetime_local": "2025-09-13T15:30:00-04:00",
+"venue": "West Shore Home Field at Beaver Stadium, University Park, PA",
+"tv": ["FS1"],
+"attendance_capacity": 106304,
+"weather": {
+"conditions": "Partly cloudy",
+"temp_f": 83,
+"wind_mph": 5,
+"notes": "Warm with light wind; minimal weather impact"
+},
+"rankings": {
+"home_ap": 2,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-13T12:53:00Z"
+},
+"hype_factors": [
+"Top-5 showcase vs in-state FCS",
+"Final non-conference tune-up before Oregon",
+"Lookahead spot risk",
+"Massive spread intrigue"
+],
+"last_updated_utc": "2025-09-13T19:25:00Z"
+},
+"teams": {
+"home": {
+"name": "Penn State Nittany Lions",
+"short": "PSU",
+"mascot": "Nittany Lions",
+"conference": "Big Ten",
+"record": "2-0 (0-0)",
+"recent_form": "2 shutout wins allowed 3 pts total; offense uneven in Week 2",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "n/a",
+"ats_record": "0-2 ATS this season"
+},
+"motivation_factors": [
+"Tune-up before Big Ten play",
+"Build QB confidence and clean up execution"
+]
+},
+"away": {
+"name": "Villanova Wildcats",
+"short": "NOVA",
+"mascot": "Wildcats",
+"conference": "CAA",
+"record": "1-0 (0-0)",
+"recent_form": "Won opener vs Colgate; limited run game",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "n/a",
+"ats_record": "n/a"
+},
+"motivation_factors": [
+"FCS top-15 aiming to stay respectable",
+"National spotlight vs top-5"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "PSU leads 6-3-1",
+"last_meeting": {
+"date": "2021-09-25",
+"score": "PSU 38, NOVA 17",
+"note": "PSU led 38-3 before late scores"
+},
+"recent_trend": "PSU won last meeting; series dates to 1902"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": null,
+"implied_prob": null,
+"opening_line": null,
+"line_movement": "OFF at most books",
+"book": "Multiple",
+"asof_utc": "2025-09-13T19:20:00Z"
+},
+"away": {
+"price": null,
+"implied_prob": null,
+"opening_line": null,
+"line_movement": "OFF at most books",
+"book": "Multiple",
+"asof_utc": "2025-09-13T19:20:00Z"
+}
+},
+"spread": {
+"line": -48.5,
+"favorite": "PSU",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -47.5,
+"line_movement": "tight range; slight move toward favorite at some books",
+"public_betting": {
+"home_percent": 68,
+"away_percent": 32,
+"note": "Covers consensus spread tickets"
+},
+"book": "FanDuel",
+"asof_utc": "2025-09-13T19:20:00Z"
+},
+"total": {
+"line": 55.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 56.5,
+"line_movement": "ticked down ~1 point",
+"public_betting": {
+"over_percent": null,
+"under_percent": null
+},
+"book": "FanDuel",
+"asof_utc": "2025-09-13T19:20:00Z"
+},
+"consensus_note": "Market around PSU -47.5 to -48.5 and 55.5–56.5 total; ML largely off-board"
+},
+"betting_angles": {
+"key_trends": [
+"PSU 0-2 ATS in 2025 despite 2-0 SU",
+"UNDER has hit in 7 of PSU’s last 10 home games",
+"Public tends to back big favorites in FBS vs FCS, but splits vary by site"
+],
+"situational_spots": [
+"Potential lookahead with Oregon next after bye",
+"Backdoor cover live late vs deep PSU rotations"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "No Bet (ML off)",
+"confidence": 0.50,
+"rationale": "Moneyline widely unavailable/juiced beyond value",
+"value_assessment": "No market"
+},
+"spread": {
+"pick": "Villanova +48.5",
+"confidence": 0.66,
+"rationale": "PSU 0-2 ATS as huge favorite; lookahead spot; public leaning favorite on some books",
+"value_assessment": "Solid value at +48.5 or better"
+},
+"total": {
+"pick": "UNDER 55.5",
+"confidence": 0.60,
+"rationale": "PSU defense elite and offense methodical; PSU home unders trend",
+"value_assessment": "Slight value after small tick down"
+},
+"best_bet": {
+"pick": "Villanova +48.5",
+"confidence": 0.66,
+"rationale": "Massive number with lookahead dynamics and PSU ATS struggles"
+}
+},
+"notables": {
+"injuries_news": [
+"PSU availability report lists ~19 players unavailable, largely depth/underclassmen",
+"PSU WR Kaden Saunders, DE Max Granville among those out; two-deep mostly healthy"
+],
+"matchup_notes": [
+"PSU’s front vs NOVA run game a mismatch; NOVA may lean quick game",
+"Backups likely see extended snaps if margin widens"
+],
+"coaching_notes": [
+"James Franklin teams often rotate deep vs FCS; early special-teams miscues noted in Week 2",
+"Villanova staff aims for tempo control and field-position game"
+]
+},
+"excitement_factors": {
+"playoff_implications": "PSU stays on CFP track with routine win",
+"conference_impact": "Non-conference tune-up before Big Ten slate",
+"narrative": "Can NOVA sneak inside a gigantic number while PSU cleans up execution?",
+"tv_storylines": [
+"Top-5 team preps for Oregon after bye",
+"Huge spread drama: cover vs backdoor"
+]
+},
+"sources": [
+{
+"type": "news",
+"label": "ESPN Game Page",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401752835/villanova-penn-state](https://www.espn.com/college-football/game/_/gameId/401752835/villanova-penn-state)",
+"asof_utc": "2025-09-13T19:15:00Z"
+},
+{
+"type": "venue",
+"label": "PSU Stadium Page",
+"url": "[https://gopsusports.com/west-shore-home-field-at-beaver-stadium](https://gopsusports.com/west-shore-home-field-at-beaver-stadium)",
+"asof_utc": "2025-09-13T19:10:00Z"
+},
+{
+"type": "rankings",
+"label": "Onward State",
+"url": "[https://onwardstate.com/2025/09/13/gameday-coverage-no-2-penn-state-vs-villanova/](https://onwardstate.com/2025/09/13/gameday-coverage-no-2-penn-state-vs-villanova/)",
+"asof_utc": "2025-09-13T04:53:00Z"
+},
+{
+"type": "odds",
+"label": "DraftKings (article)",
+"url": "[https://dknetwork.draftkings.com/2025/09/13/penn-state-nittany-lions-vs-villanova-wildcats-hens-prediction-pick-for-saturday-9-13-25/](https://dknetwork.draftkings.com/2025/09/13/penn-state-nittany-lions-vs-villanova-wildcats-hens-prediction-pick-for-saturday-9-13-25/)",
+"asof_utc": "2025-09-13T19:05:00Z"
+},
+{
+"type": "odds",
+"label": "Action Network Odds",
+"url": "[https://www.actionnetwork.com/ncaaf/villanova-wildcats-vs-penn-state-nittany-lions-prediction-pick-college-football-odds-saturday-september-13-qs](https://www.actionnetwork.com/ncaaf/villanova-wildcats-vs-penn-state-nittany-lions-prediction-pick-college-football-odds-saturday-september-13-qs)",
+"asof_utc": "2025-09-13T19:05:00Z"
+},
+{
+"type": "public_betting",
+"label": "Covers Consensus",
+"url": "[https://contests.covers.com/consensus/topconsensus/ncaaf/top10pct](https://contests.covers.com/consensus/topconsensus/ncaaf/top10pct)",
+"asof_utc": "2025-09-13T19:18:00Z"
+},
+{
+"type": "odds_movement",
+"label": "VegasInsider Composite",
+"url": "[https://www.vegasinsider.com/college-football/teams/penn-state/](https://www.vegasinsider.com/college-football/teams/penn-state/)",
+"asof_utc": "2025-09-13T19:12:00Z"
+},
+{
+"type": "history",
+"label": "PSU Game Notes (Series)",
+"url": "[https://gopsusports.com/news/2025/09/8/game-notes-penn-state-vs-villanova-2025](https://gopsusports.com/news/2025/09/8/game-notes-penn-state-vs-villanova-2025)",
+"asof_utc": "2025-09-13T19:00:00Z"
+},
+{
+"type": "injuries",
+"label": "247Sports PSU Availability",
+"url": "[https://247sports.com/college/penn-state/article/penn-state-football-injury-report-villanova-availability-young-defensive-linemen-253897448/](https://247sports.com/college/penn-state/article/penn-state-football-injury-report-villanova-availability-young-defensive-linemen-253897448/)",
+"asof_utc": "2025-09-13T19:00:00Z"
+},
+{
+"type": "injuries",
+"label": "On3 PSU Injury Report",
+"url": "[https://www.on3.com/teams/penn-state-nittany-lions/news/penn-state-injury-report-whos-out-questionable-for-the-lions-against-villanova/](https://www.on3.com/teams/penn-state-nittany-lions/news/penn-state-injury-report-whos-out-questionable-for-the-lions-against-villanova/)",
+"asof_utc": "2025-09-13T19:00:00Z"
+},
+{
+"type": "weather",
+"label": "AccuWeather University Park",
+"url": "[https://www.accuweather.com/en/us/university-park/16802/daily-weather-forecast/2125939](https://www.accuweather.com/en/us/university-park/16802/daily-weather-forecast/2125939)",
+"asof_utc": "2025-09-13T18:50:00Z"
+}
+]
+}

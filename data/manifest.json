@@ -1,0 +1,78 @@
+{
+  "generated_at": "2025-09-14T03:29:25.814Z",
+  "game_count": 10,
+  "games_with_detailed_data": 10,
+  "games_score_only": 0,
+  "games": [
+    {
+      "filename": "game-alabama-vs-wisconsin-2025-09-13.json",
+      "game_id": "WIS-ALA-2025-09-13",
+      "title": "Wisconsin at Alabama",
+      "datetime": "2025-09-13T12:00:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-arkansas-vs-ole-miss-2025-09-13.json",
+      "game_id": "ark-at-olemiss-2025-09-13",
+      "title": "Arkansas at Ole Miss",
+      "datetime": "2025-09-13T19:00:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-florida-vs-lsu-2025-09-13.json",
+      "game_id": "UF-LSU-2025-09-13",
+      "title": "Florida at LSU",
+      "datetime": "2025-09-13T19:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-georgia-tech-vs-clemson-2025-09-13.json",
+      "game_id": "clem-at-gt-2025-09-13",
+      "title": "Clemson at Georgia Tech",
+      "datetime": "2025-09-13T12:00:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-penn-state-vs-villanova-2025-09-13.json",
+      "game_id": "VILL@PSU-2025-09-13",
+      "title": "Villanova at Penn State",
+      "datetime": "2025-09-13T15:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-south-florida-vs-miami-2025-09-13.json",
+      "game_id": "usf-at-miami-2025-09-13",
+      "title": "South Florida at Miami (FL)",
+      "datetime": "2025-09-13T16:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-tennessee-vs-georgia-2025-09-13.json",
+      "game_id": "UGA@TENN-2025-09-13",
+      "title": "Georgia at Tennessee",
+      "datetime": "2025-09-13T15:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-texas-am-vs-notre-dame-2025-09-13.json",
+      "game_id": "tamu-nd-2025-09-13",
+      "title": "Texas A&M at Notre Dame",
+      "datetime": "2025-09-13T19:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-utep-vs-texas-2025-09-13.json",
+      "game_id": "UTEP@TEX-2025-09-13",
+      "title": "UTEP at Texas",
+      "datetime": "2025-09-13T16:15:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-vanderbilt-vs-south-carolina-2025-09-13.json",
+      "game_id": "vand-at-sc-2025-09-13",
+      "title": "Vanderbilt at South Carolina",
+      "datetime": "2025-09-13T19:45:00-04:00",
+      "has_detailed_data": true
+    }
+  ]
+}
