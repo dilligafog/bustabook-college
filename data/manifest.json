@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T23:25:00.427Z",
+  "generated_at": "2025-09-20T23:35:00.497Z",
   "game_count": 70,
   "games_with_detailed_data": 31,
   "games_score_only": 39,
@@ -431,22 +431,6 @@
     },
     {
       "filename": null,
-      "game_id": "2347ab8f55c1890bd4340b29032381fe",
-      "title": "BYU Cougars at East Carolina Pirates",
-      "datetime": "2025-09-20T23:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "c5fd71cee9ea79e7c966ec74aad118ce",
-      "title": "Southern Mississippi Golden Eagles at Louisiana Tech Bulldogs",
-      "datetime": "2025-09-20T23:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "a4df26224ac6173274f8facd32942ca4",
       "title": "Stanford Cardinal at Virginia Cavaliers",
       "datetime": "2025-09-20T23:30:00Z",
@@ -455,9 +439,17 @@
     },
     {
       "filename": null,
-      "game_id": "8f3febddcf1504cb91454ac61d25caa8",
-      "title": "Washington Huskies at Washington State Cougars",
-      "datetime": "2025-09-20T23:30:00Z",
+      "game_id": "c5fd71cee9ea79e7c966ec74aad118ce",
+      "title": "Southern Mississippi Golden Eagles at Louisiana Tech Bulldogs",
+      "datetime": "2025-09-20T23:32:26Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "2347ab8f55c1890bd4340b29032381fe",
+      "title": "BYU Cougars at East Carolina Pirates",
+      "datetime": "2025-09-20T23:34:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -466,6 +458,14 @@
       "game_id": "23ce9d15b3cbcee45fd1d13550ee2a1a",
       "title": "Arizona State Sun Devils at Baylor Bears",
       "datetime": "2025-09-20T23:38:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "8f3febddcf1504cb91454ac61d25caa8",
+      "title": "Washington Huskies at Washington State Cougars",
+      "datetime": "2025-09-20T23:45:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
