@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-20T18:35:00.443Z",
-  "game_count": 81,
+  "generated_at": "2025-09-20T18:45:00.429Z",
+  "game_count": 80,
   "games_with_detailed_data": 31,
-  "games_score_only": 50,
+  "games_score_only": 49,
   "games": [
     {
       "filename": "game-alabama-vs-wisconsin-2025-09-13.json",
@@ -530,14 +530,6 @@
       "game_id": "0aa30bdb9295af4b13475b7aabb2cfea",
       "title": "Florida State Seminoles at Virginia Cavaliers",
       "datetime": "2025-09-26T23:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "9c00e60e6d66a511cce53c0a0f5bde43",
-      "title": "Notre Dame Fighting Irish at Arkansas Razorbacks",
-      "datetime": "2025-09-27T16:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
