@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T22:45:00.271Z",
+  "generated_at": "2025-09-20T22:55:00.466Z",
   "game_count": 70,
   "games_with_detailed_data": 31,
   "games_score_only": 39,
@@ -311,14 +311,6 @@
     },
     {
       "filename": null,
-      "game_id": "f652e81624955a035c53f10089a56e2e",
-      "title": "James Madison Dukes at Liberty Flames",
-      "datetime": "2025-09-20T19:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "3a348b84db164ba3eddf330ec773c06d",
       "title": "Troy Trojans at Buffalo Bulls",
       "datetime": "2025-09-20T19:32:17Z",
@@ -330,6 +322,14 @@
       "game_id": "93682b6473bd43d01f8b37a24132ef75",
       "title": "Ball State Cardinals at UConn Huskies",
       "datetime": "2025-09-20T19:32:47Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "f652e81624955a035c53f10089a56e2e",
+      "title": "James Madison Dukes at Liberty Flames",
+      "datetime": "2025-09-20T19:36:58Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -383,14 +383,6 @@
     },
     {
       "filename": null,
-      "game_id": "95902da68b0cef406dd2413e4399a320",
-      "title": "Boise State Broncos at Air Force Falcons",
-      "datetime": "2025-09-20T23:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "f65d280c50613dc0089571280476bc4a",
       "title": "Coastal Carolina Chanticleers at South Alabama Jaguars",
       "datetime": "2025-09-20T23:00:00Z",
@@ -410,6 +402,14 @@
       "game_id": "c6c93f60d8369525b707f1f11c2cd0a1",
       "title": "Nevada Wolf Pack at Western Kentucky Hilltoppers",
       "datetime": "2025-09-20T23:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "95902da68b0cef406dd2413e4399a320",
+      "title": "Boise State Broncos at Air Force Falcons",
+      "datetime": "2025-09-20T23:03:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
