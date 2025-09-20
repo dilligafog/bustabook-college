@@ -143,7 +143,9 @@ const DataUtils = {
      */
     async loadJSON(url) {
         try {
-            const response = await fetch(url);
+            const sep = url.includes('?') ? '&' : '?';
+            const cacheBusted = `${url}${sep}_ts=${Date.now()}`;
+            const response = await fetch(cacheBusted, { cache: 'no-store' });
             if (!response.ok) {
                 throw new Error(`HTTP ${response.status}: ${response.statusText}`);
             }

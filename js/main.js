@@ -318,7 +318,7 @@ class BustaBookApp {
                 <!-- Game Header -->
                 <div class="p-4">
                     <div class="game-teams text-center mb-3">
-                        <div class="text-lg font-bold text-gray-800">
+                        <div class="text-lg font-bold text-gray-800 min-h-[3.5rem]">
                             ${awayTeam} <span class="text-gray-600">@</span> ${homeTeam}
                         </div>
                         <div class="text-sm text-gray-600 mt-1">
