@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T20:35:00.450Z",
+  "generated_at": "2025-09-20T20:45:00.455Z",
   "game_count": 70,
   "games_with_detailed_data": 31,
   "games_score_only": 39,
@@ -279,6 +279,14 @@
     },
     {
       "filename": null,
+      "game_id": "038cd404ffe4a5be92eb7c38c93ffd68",
+      "title": "North Carolina Tar Heels at UCF Knights",
+      "datetime": "2025-09-20T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
       "game_id": "84ae085a96a7a0b18f00587c6136884f",
       "title": "SMU Mustangs at TCU Horned Frogs",
       "datetime": "2025-09-20T16:03:00Z",
@@ -322,14 +330,6 @@
       "game_id": "93682b6473bd43d01f8b37a24132ef75",
       "title": "Ball State Cardinals at UConn Huskies",
       "datetime": "2025-09-20T19:32:47Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "038cd404ffe4a5be92eb7c38c93ffd68",
-      "title": "North Carolina Tar Heels at UCF Knights",
-      "datetime": "2025-09-20T19:49:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
