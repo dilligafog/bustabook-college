@@ -207,7 +207,7 @@
         "score": "28"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "f7f75940634e8ec62dac353f09be0677",
@@ -227,7 +227,7 @@
         "score": "19"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "4bab9cbac51f27b9f12617b760247074",
@@ -247,7 +247,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "3f96037e0014fee643fc8b7a5efaa2d0",
@@ -267,7 +267,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "13e04598f89948bf768f8f5456c9bc66",
@@ -284,10 +284,10 @@
       },
       {
         "name": "Maryland Terrapins",
-        "score": "20"
+        "score": "27"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "c0b1ac9a610885d8e56a1891adf68d57",
@@ -300,14 +300,14 @@
     "scores": [
       {
         "name": "Memphis Tigers",
-        "score": "26"
+        "score": "32"
       },
       {
         "name": "Arkansas Razorbacks",
         "score": "31"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "a85c3e810f12d0a8bf904fa1a2795aa6",
@@ -327,7 +327,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "84ae085a96a7a0b18f00587c6136884f",
@@ -340,14 +340,14 @@
     "scores": [
       {
         "name": "TCU Horned Frogs",
-        "score": "28"
+        "score": "35"
       },
       {
         "name": "SMU Mustangs",
         "score": "24"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "a007e86de8d7082641da38233ddeb1b7",
@@ -360,14 +360,14 @@
     "scores": [
       {
         "name": "Louisville Cardinals",
-        "score": "33"
+        "score": "40"
       },
       {
         "name": "Bowling Green Falcons",
-        "score": "10"
+        "score": "16"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "3fdda89f6826aab0083880182b962b27",
@@ -384,10 +384,10 @@
       },
       {
         "name": "UNLV Rebels",
-        "score": "31"
+        "score": "38"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "9449961a57cdf571e7248d18613ec131",
@@ -404,17 +404,17 @@
       },
       {
         "name": "South Carolina State Bulldogs",
-        "score": "7"
+        "score": "14"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "340927bb8c4eb3f1d8a13c5480646b51",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-20T16:10:00Z",
-    "completed": false,
+    "completed": true,
     "home_team": "Virginia Tech Hokies",
     "away_team": "Wofford Terriers",
     "scores": [
@@ -427,7 +427,7 @@
         "score": "6"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "3aa7e2c30d9051691c378e202279c6fc",
@@ -440,14 +440,14 @@
     "scores": [
       {
         "name": "Utah Utes",
-        "score": "3"
+        "score": "10"
       },
       {
         "name": "Texas Tech Red Raiders",
-        "score": "13"
+        "score": "19"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "6c5b117f5091e161561240ae95fe99a4",
@@ -467,7 +467,7 @@
         "score": "10"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "cbf53f44970801ab245ec4d71276519e",
@@ -487,18 +487,27 @@
         "score": "3"
       }
     ],
-    "last_update": "2025-09-20T19:04:59Z"
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "ee813cd96576a01199eedf7066cc54d1",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
-    "commence_time": "2025-09-20T19:06:00Z",
+    "commence_time": "2025-09-20T19:01:23Z",
     "completed": false,
     "home_team": "Oregon Ducks",
     "away_team": "Oregon State Beavers",
-    "scores": null,
-    "last_update": "2025-09-20T19:04:28Z"
+    "scores": [
+      {
+        "name": "Oregon Ducks",
+        "score": "7"
+      },
+      {
+        "name": "Oregon State Beavers",
+        "score": "0"
+      }
+    ],
+    "last_update": "2025-09-20T19:14:35Z"
   },
   {
     "id": "103dcd715ce54d763f5d49157b11b2a2",
