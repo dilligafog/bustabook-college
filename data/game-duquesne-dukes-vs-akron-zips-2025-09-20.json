@@ -1,0 +1,225 @@
+{
+  "game_meta": {
+    "game_id": "79e3a2057511c8c7faff696a65ad00a5",
+    "title": "Duquesne Dukes at Akron Zips",
+    "datetime_local": "2025-09-20T18:00:00-04:00",
+    "venue": "InfoCision Stadium–Summa Field, Akron, OH",
+    "tv": [
+      "ESPN+"
+    ],
+    "attendance_capacity": 30000,
+    "weather": {
+      "conditions": "Cloudy",
+      "temp_f": 80,
+      "wind_mph": 9,
+      "notes": "Warm evening, light wind, very low rain risk"
+    },
+    "rankings": {
+      "home_ap": null,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-20T15:30:00Z"
+    },
+    "hype_factors": [
+      "First-ever meeting",
+      "FCS vs FBS upset watch",
+      "Akron seeking first win under pressure",
+      "Primetime ESPN+ window"
+    ],
+    "last_updated_utc": "2025-09-20T15:45:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Akron Zips",
+      "short": "AKRON",
+      "mascot": "Zips",
+      "conference": "MAC",
+      "record": "0-3 (0-0)",
+      "recent_form": "0-3, lost 31-28 vs UAB after big losses to Nebraska & Wyoming",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "+0.3",
+        "ats_record": "1-2 ATS this season"
+      },
+      "motivation_factors": [
+        "Desperate for first win",
+        "Avoid embarrassment vs FCS"
+      ]
+    },
+    "away": {
+      "name": "Duquesne Dukes",
+      "short": "DUQ",
+      "mascot": "Dukes",
+      "conference": "NEC (FCS)",
+      "record": "1-2 (0-0)",
+      "recent_form": "Lost 35-21 to Lehigh; beat Lincoln (PA); lost at Pitt",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "—",
+        "ats_record": "—"
+      },
+      "motivation_factors": [
+        "FBS showcase opportunity",
+        "Program-first meeting vs MAC foe"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "First meeting",
+    "last_meeting": {
+      "date": null,
+      "score": null,
+      "note": "Programs meet for the first time"
+    },
+    "recent_trend": "No history"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -340,
+        "implied_prob": 0.773,
+        "opening_line": -275,
+        "line_movement": "moved toward home",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T15:40:00Z"
+      },
+      "away": {
+        "price": 270,
+        "implied_prob": 0.27,
+        "opening_line": 220,
+        "line_movement": "moved against away",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T15:40:00Z"
+      }
+    },
+    "spread": {
+      "line": -9.5,
+      "favorite": "HOME",
+      "price_home": -108,
+      "price_away": -112,
+      "opening_line": -7.5,
+      "line_movement": "market drifted toward home from -7.5 to ~-8.5/-9.5",
+      "public_betting": {
+        "home_percent": null,
+        "away_percent": null,
+        "note": "Splits limited for this ‘extra game’; market move favors Akron"
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T15:40:00Z"
+    },
+    "total": {
+      "line": 51.5,
+      "over_price": -115,
+      "under_price": -105,
+      "opening_line": 50.5,
+      "line_movement": "moved up ~1 point",
+      "public_betting": {
+        "over_percent": null,
+        "under_percent": null
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T15:40:00Z"
+    },
+    "consensus_note": "Books vary (-7.5 to -9.5); DK shows stronger Akron support; total steady ~51.5"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Akron is 4-2 ATS in last 6",
+      "UNDER is 4-5 in Akron’s last 5 home games",
+      "Duquesne 0-6 ATS recent trend (FCS sample)"
+    ],
+    "situational_spots": [
+      "Akron in must-win spot before MAC play",
+      "Dog value if market inflates favorite vs FCS opponent"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "DUQ +270",
+      "confidence": 0.55,
+      "rationale": "Price drifted toward Akron; sprinkle on volatile FCS upset profile",
+      "value_assessment": "Small plus-money value"
+    },
+    "spread": {
+      "pick": "DUQ +9.5",
+      "confidence": 0.66,
+      "rationale": "Market pushed to -9.5; buy-back spot on road dog vs low-scoring favorite",
+      "value_assessment": "Good value at +9/+9.5"
+    },
+    "total": {
+      "pick": "UNDER 51.5",
+      "confidence": 0.57,
+      "rationale": "Akron offense inconsistent; home unders trend; mild weather not boosting scoring",
+      "value_assessment": "Slight edge"
+    },
+    "best_bet": {
+      "pick": "DUQ +9.5",
+      "confidence": 0.66,
+      "rationale": "Numbers inflated by FBS/FCS perception; market high-water mark"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "Akron WR Alex Adams cleared last week; expected available",
+      "Akron RB Taven Curry missed Week 3 (undisclosed) — monitor pregame"
+    ],
+    "matchup_notes": [
+      "Akron’s turnover margin +0.3; needs clean script to separate",
+      "Line move toward Akron despite low-handle matchup"
+    ],
+    "coaching_notes": [
+      "Akron’s Joe Moorhead under pressure to deliver first win",
+      "Duquesne well-coached in FBS spots under Jerry Schmitt"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "None",
+    "conference_impact": "Tune-up before MAC/NEC play",
+    "narrative": "Can an FCS dog hang vs struggling FBS favorite?",
+    "tv_storylines": [
+      "First-ever meeting",
+      "Akron needs confidence before conference slate"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "RotoWire (DraftKings market page)",
+      "url": "[https://www.rotowire.com/betting/college-football/game/akron-vs-duquesne-odds-2025-09-20-2871491?book=draftkings](https://www.rotowire.com/betting/college-football/game/akron-vs-duquesne-odds-2025-09-20-2871491?book=draftkings)",
+      "asof_utc": "2025-09-20T15:40:00Z"
+    },
+    {
+      "type": "news",
+      "label": "ESPN Game Page",
+      "url": "[https://www.espn.com/college-football/game/_/gameId/401762821/duquesne-akron](https://www.espn.com/college-football/game/_/gameId/401762821/duquesne-akron)",
+      "asof_utc": "2025-09-20T15:35:00Z"
+    },
+    {
+      "type": "tv",
+      "label": "FOX Sports ‘How to Watch’",
+      "url": "[https://www.foxsports.com/articles/college-football/how-to-watch-akron-vs-duquesne-time-tv-channel-live-stream-september-20-2025](https://www.foxsports.com/articles/college-football/how-to-watch-akron-vs-duquesne-time-tv-channel-live-stream-september-20-2025)",
+      "asof_utc": "2025-09-20T15:35:00Z"
+    },
+    {
+      "type": "line_movement",
+      "label": "TheSpread Public Betting Chart (market avg)",
+      "url": "[https://www.thespread.com/ncaa-college-football-public-betting-chart/](https://www.thespread.com/ncaa-college-football-public-betting-chart/)",
+      "asof_utc": "2025-09-20T15:38:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "Weather.com Hourly (Akron, OH)",
+      "url": "[https://weather.com/weather/hourbyhour/l/Akron%2BOH](https://weather.com/weather/hourbyhour/l/Akron%2BOH)",
+      "asof_utc": "2025-09-20T15:32:00Z"
+    },
+    {
+      "type": "team_notes",
+      "label": "Duquesne Game Notes / First Meeting",
+      "url": "[https://goduquesne.com/news/2025/9/17/football-game-4-duquesne-travels-to-akron.aspx](https://goduquesne.com/news/2025/9/17/football-game-4-duquesne-travels-to-akron.aspx)",
+      "asof_utc": "2025-09-20T15:30:00Z"
+    }
+  ]
+}

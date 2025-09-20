@@ -1,0 +1,237 @@
+{
+  "game_meta": {
+    "game_id": "3fdda89f6826aab0083880182b962b27",
+    "title": "UNLV Rebels at Miami (OH) RedHawks",
+    "datetime_local": "2025-09-20T12:00:00-04:00",
+    "venue": "Fred C. Yager Stadium, Oxford, OH",
+    "tv": [
+      "ESPNU"
+    ],
+    "attendance_capacity": 24000,
+    "weather": {
+      "conditions": "Partly cloudy",
+      "temp_f": 80,
+      "wind_mph": 7,
+      "notes": "Warm noon kickoff, light wind; minimal weather edge"
+    },
+    "rankings": {
+      "home_ap": null,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-20T15:30:00Z"
+    },
+    "hype_factors": [
+      "UNLV chasing 4-0 start",
+      "First-ever meeting",
+      "Early body-clock game for UNLV (9am PT)",
+      "Miami (OH) home opener, bounce-back spot"
+    ],
+    "last_updated_utc": "2025-09-20T15:45:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Miami (OH) RedHawks",
+      "short": "M-OH",
+      "mascot": "RedHawks",
+      "conference": "MAC",
+      "record": "0-2 (0-0)",
+      "recent_form": "0-2 start, scoring 8.5 PPG",
+      "key_stats": {
+        "offense_rank": 127,
+        "defense_rank": 43,
+        "turnover_margin": "-1.0",
+        "ats_record": "1-1 ATS this season"
+      },
+      "motivation_factors": [
+        "Home opener pride",
+        "Offense seeking first spark under Dequan Finn"
+      ]
+    },
+    "away": {
+      "name": "UNLV Rebels",
+      "short": "UNLV",
+      "mascot": "Rebels",
+      "conference": "Mountain West",
+      "record": "3-0 (0-0)",
+      "recent_form": "Won 3 straight, 35.3 PPG",
+      "key_stats": {
+        "offense_rank": 15,
+        "defense_rank": null,
+        "turnover_margin": "+1.7",
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "4-0 start on the line",
+        "Handling early kick travel spot"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "No prior meetings",
+    "last_meeting": {
+      "date": "",
+      "score": "",
+      "note": "First meeting between programs"
+    },
+    "recent_trend": "No history"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": 110,
+        "implied_prob": 0.476,
+        "opening_line": 105,
+        "line_movement": "small move toward away",
+        "book": "Consensus",
+        "asof_utc": "2025-09-20T15:35:00Z"
+      },
+      "away": {
+        "price": -130,
+        "implied_prob": 0.565,
+        "opening_line": -126,
+        "line_movement": "tightened toward home",
+        "book": "Consensus",
+        "asof_utc": "2025-09-20T15:35:00Z"
+      }
+    },
+    "spread": {
+      "line": -1.5,
+      "favorite": "UNLV",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -4.5,
+      "line_movement": "moved toward home by 3.0 points",
+      "public_betting": {
+        "home_percent": 33,
+        "away_percent": 67,
+        "note": "Public backing UNLV road favorite"
+      },
+      "book": "Consensus",
+      "asof_utc": "2025-09-20T15:35:00Z"
+    },
+    "total": {
+      "line": 49.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 51.5,
+      "line_movement": "moved down 2.0 points",
+      "public_betting": {
+        "over_percent": 51,
+        "under_percent": 49
+      },
+      "book": "Consensus",
+      "asof_utc": "2025-09-20T15:35:00Z"
+    },
+    "consensus_note": "Market drifted from UNLV -4.5 to -1.5 with public on UNLV—signals potential sharp interest on Miami (OH)"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "UNLV is 2-1 ATS in 2025",
+      "Miami (OH) is 1-1 ATS with offense at 8.5 PPG",
+      "Total ticked down ~2 points off opener"
+    ],
+    "situational_spots": [
+      "Early noon ET kick favors home body clock",
+      "UNLV as short road fave with majority tickets—fade spot profile"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "Miami (OH) +110",
+      "confidence": 0.66,
+      "rationale": "Public on UNLV but line moved toward Miami; home opener and defense more solid than offense metrics suggest",
+      "value_assessment": "Solid plus-money value"
+    },
+    "spread": {
+      "pick": "Miami (OH) +1.5",
+      "confidence": 0.62,
+      "rationale": "Sharp-looking steam to the home side vs. public road fave",
+      "value_assessment": "Decent value; consider alt +2.5 if available"
+    },
+    "total": {
+      "pick": "UNDER 49.5",
+      "confidence": 0.61,
+      "rationale": "Miami’s low pace/production and noon start; market move down supports under",
+      "value_assessment": "Slight value after drop from 51.5"
+    },
+    "best_bet": {
+      "pick": "Miami (OH) +110 ML",
+      "confidence": 0.66,
+      "rationale": "Contrarian home dog with line movement in favor"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "UNLV backup QB Alex Orji out for season (knee/hamstring)",
+      "Miami (OH) listed no major injuries entering game"
+    ],
+    "matchup_notes": [
+      "UNLV top-15 in yards/play; Miami (OH) defense top-50 in opp YPP",
+      "Body-clock angle: UNLV kicking at 9am PT"
+    ],
+    "coaching_notes": [
+      "UNLV under Dan Mullen leaning into up-tempo, efficient pass game",
+      "Miami (OH) Chuck Martin: defense-first profile, offense seeking rhythm"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "None; bowl positioning and momentum",
+    "conference_impact": "Non-conference tune-up before MAC/MW play",
+    "narrative": "Public road favorite vs. sharp home dog",
+    "tv_storylines": [
+      "Transfer QB Dequan Finn’s first home start for Miami (OH)",
+      "Can UNLV handle the early kick and stay unbeaten?"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds_public_weather",
+      "label": "Action Network – UNLV at Miami (OH)",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/unlv-miami-oh-score-odds-september-20-2025/254516](https://www.actionnetwork.com/ncaaf-game/unlv-miami-oh-score-odds-september-20-2025/254516)",
+      "asof_utc": "2025-09-20T15:35:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Covers – Consensus & Team Pages",
+      "url": "[https://www.covers.com/sport/football/ncaaf/matchup/357494/consensus](https://www.covers.com/sport/football/ncaaf/matchup/357494/consensus)",
+      "asof_utc": "2025-09-20T15:25:00Z"
+    },
+    {
+      "type": "news_tv",
+      "label": "ESPN Game Page",
+      "url": "[https://www.espn.com/college-football/game/_/gameId/401760376/unlv-miami-oh](https://www.espn.com/college-football/game/_/gameId/401760376/unlv-miami-oh)",
+      "asof_utc": "2025-09-20T15:20:00Z"
+    },
+    {
+      "type": "stats",
+      "label": "CFBStats – UNLV & Miami (OH) team pages",
+      "url": "[https://cfbstats.com/2025/team/465/index.html](https://cfbstats.com/2025/team/465/index.html)",
+      "asof_utc": "2025-09-20T15:10:00Z"
+    },
+    {
+      "type": "stats",
+      "label": "TeamRankings – Team Stats",
+      "url": "[https://www.teamrankings.com/college-football/team/miami-oh-redhawks/stats](https://www.teamrankings.com/college-football/team/miami-oh-redhawks/stats)",
+      "asof_utc": "2025-09-20T15:15:00Z"
+    },
+    {
+      "type": "preview",
+      "label": "MWCConnection Preview",
+      "url": "[https://www.mwcconnection.com/unlv-rebels-football/72854/unlv-aims-for-4-0-start-against-miami-oh](https://www.mwcconnection.com/unlv-rebels-football/72854/unlv-aims-for-4-0-start-against-miami-oh)",
+      "asof_utc": "2025-09-20T15:00:00Z"
+    },
+    {
+      "type": "injury_news",
+      "label": "CBS Sports – Alex Orji out for season",
+      "url": "[https://www.cbssports.com/college-football/news/alex-orji-injury-unlv-quarterback-out-for-remainder-of-season-with-knee-hamstring-injuries/](https://www.cbssports.com/college-football/news/alex-orji-injury-unlv-quarterback-out-for-remainder-of-season-with-knee-hamstring-injuries/)",
+      "asof_utc": "2025-09-20T15:05:00Z"
+    },
+    {
+      "type": "venue",
+      "label": "Miami Athletics – Yager Stadium info",
+      "url": "[https://miamiredhawks.com/sports/football](https://miamiredhawks.com/sports/football)",
+      "asof_utc": "2025-09-20T15:05:00Z"
+    }
+  ]
+}

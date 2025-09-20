@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-20T15:26:27.243Z",
+  "generated_at": "2025-09-20T15:47:42.086Z",
   "game_count": 83,
-  "games_with_detailed_data": 26,
-  "games_score_only": 57,
+  "games_with_detailed_data": 31,
+  "games_score_only": 52,
   "games": [
     {
       "filename": "game-alabama-vs-wisconsin-2025-09-13.json",
@@ -26,6 +26,20 @@
       "has_detailed_data": true
     },
     {
+      "filename": "game-bowling-green-falcons-vs-louisville-cardinals-2025-09-20.json",
+      "game_id": "a007e86de8d7082641da38233ddeb1b7",
+      "title": "Bowling Green Falcons at Louisville Cardinals",
+      "datetime": "2025-09-20T12:00:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-duquesne-dukes-vs-akron-zips-2025-09-20.json",
+      "game_id": "79e3a2057511c8c7faff696a65ad00a5",
+      "title": "Duquesne Dukes at Akron Zips",
+      "datetime": "2025-09-20T18:00:00-04:00",
+      "has_detailed_data": true
+    },
+    {
       "filename": "game-florida-gators-vs-miami-hurricanes-2025-09-20.json",
       "game_id": "e12a027ef3182426888607f1aa77a6bc",
       "title": "Florida Gators at Miami Hurricanes",
@@ -37,6 +51,13 @@
       "game_id": "UF-LSU-2025-09-13",
       "title": "Florida at LSU",
       "datetime": "2025-09-13T19:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-gardner-webb-runnin-bulldogs-vs-ohio-bobcats-2025-09-20.json",
+      "game_id": "2c779264544468120afddc92b13c62e3",
+      "title": "Gardner-Webb Runnin' Bulldogs at Ohio Bobcats",
+      "datetime": "2025-09-20T15:30:00-04:00",
       "has_detailed_data": true
     },
     {
@@ -159,6 +180,13 @@
       "has_detailed_data": true
     },
     {
+      "filename": "game-toledo-rockets-vs-western-michigan-broncos-2025-09-20.json",
+      "game_id": "12046fc0c213511df41b0eac4fc599ca",
+      "title": "Toledo Rockets at Western Michigan Broncos",
+      "datetime": "2025-09-20T15:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
       "filename": "game-tulane-green-wave-vs-ole-miss-rebels-2025-09-20.json",
       "game_id": "c2b9d588bf5c96622fea7d89d5f0c115",
       "title": "Tulane Green Wave at Ole Miss Rebels",
@@ -170,6 +198,13 @@
       "game_id": "6c5b117f5091e161561240ae95fe99a4",
       "title": "UAB Blazers at Tennessee Volunteers",
       "datetime": "2025-09-20T12:45:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-unlv-rebels-vs-miami-redhawks-2025-09-20.json",
+      "game_id": "3fdda89f6826aab0083880182b962b27",
+      "title": "UNLV Rebels at Miami (OH) RedHawks",
+      "datetime": "2025-09-20T12:00:00-04:00",
       "has_detailed_data": true
     },
     {
@@ -228,14 +263,6 @@
     },
     {
       "filename": null,
-      "game_id": "a007e86de8d7082641da38233ddeb1b7",
-      "title": "Bowling Green Falcons at Louisville Cardinals",
-      "datetime": "2025-09-20T16:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "3f96037e0014fee643fc8b7a5efaa2d0",
       "title": "Syracuse Orange at Clemson Tigers",
       "datetime": "2025-09-20T16:00:00Z",
@@ -268,14 +295,6 @@
     },
     {
       "filename": null,
-      "game_id": "3fdda89f6826aab0083880182b962b27",
-      "title": "UNLV Rebels at Miami (OH) RedHawks",
-      "datetime": "2025-09-20T16:05:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "cbf53f44970801ab245ec4d71276519e",
       "title": "Wagner Seahawks at Central Michigan Chippewas",
       "datetime": "2025-09-20T17:00:00Z",
@@ -300,14 +319,6 @@
     },
     {
       "filename": null,
-      "game_id": "2c779264544468120afddc92b13c62e3",
-      "title": "Gardner-Webb Runnin Bulldogs at Ohio Bobcats",
-      "datetime": "2025-09-20T19:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "f652e81624955a035c53f10089a56e2e",
       "title": "James Madison Dukes at Liberty Flames",
       "datetime": "2025-09-20T19:30:00Z",
@@ -318,14 +329,6 @@
       "filename": null,
       "game_id": "038cd404ffe4a5be92eb7c38c93ffd68",
       "title": "North Carolina Tar Heels at UCF Knights",
-      "datetime": "2025-09-20T19:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "12046fc0c213511df41b0eac4fc599ca",
-      "title": "Toledo Rockets at Western Michigan Broncos",
       "datetime": "2025-09-20T19:30:00Z",
       "has_detailed_data": false,
       "score_only": true
@@ -375,14 +378,6 @@
       "game_id": "6be90d4768b93c43b3b3e55de45a3925",
       "title": "West Virginia Mountaineers at Kansas Jayhawks",
       "datetime": "2025-09-20T22:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "79e3a2057511c8c7faff696a65ad00a5",
-      "title": "Duquesne Dukes at Akron Zips",
-      "datetime": "2025-09-20T22:07:00Z",
       "has_detailed_data": false,
       "score_only": true
     },

@@ -97,6 +97,45 @@ const DateUtils = {
  * Data Loading and Management Utilities
  */
 const DataUtils = {
+    // Static list of Ohio teams (normalized keys). Used for conditional UI (e.g., buckeye emoji)
+    OHIO_TEAM_KEYS: [
+        'ohio state buckeyes', 'ohio state', 'ohio st buckeyes', 'ohio st',
+        'cincinnati bearcats', 'cincinnati',
+        'toledo rockets', 'toledo',
+        'bowling green falcons', 'bowling green',
+        'kent state golden flashes', 'kent state', 'kent st golden flashes', 'kent st',
+        'miami redhawks', 'miami oh redhawks', 'miami ohio redhawks', 'miami (oh) redhawks',
+        'ohio bobcats', 'ohio',
+        'akron zips', 'akron'
+    ],
+
+    normalizeTeamName(name) {
+        try {
+            return String(name || '')
+                .toLowerCase()
+                .replace(/[()]/g, ' ')
+                .replace(/[^a-z0-9\s]/g, ' ')
+                .replace(/\s+/g, ' ')
+                .trim();
+        } catch {
+            return '';
+        }
+    },
+
+    /**
+     * Check if a given team name belongs to an Ohio team
+     * @param {string} teamName
+     * @returns {boolean}
+     */
+    isOhioTeam(teamName) {
+        const norm = this.normalizeTeamName(teamName);
+        if (!norm) return false;
+        // Exact or partial match against keys
+        return this.OHIO_TEAM_KEYS.some(key => {
+            const k = this.normalizeTeamName(key);
+            return norm.includes(k);
+        });
+    },
     /**
      * Load JSON from a URL with error handling
      * @param {string} url - URL to fetch

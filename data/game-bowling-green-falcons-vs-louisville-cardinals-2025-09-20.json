@@ -1,0 +1,244 @@
+{
+  "game_meta": {
+    "game_id": "a007e86de8d7082641da38233ddeb1b7",
+    "title": "Bowling Green Falcons at Louisville Cardinals",
+    "datetime_local": "2025-09-20T12:00:00-04:00",
+    "venue": "L&N Federal Credit Union Stadium, Louisville, KY",
+    "tv": [
+      "ACC Network"
+    ],
+    "attendance_capacity": 60800,
+    "weather": {
+      "conditions": "Hot, sunny",
+      "temp_f": 84,
+      "wind_mph": 2,
+      "notes": "Midday heat; low wind. Could slow tempo late."
+    },
+    "rankings": {
+      "home_ap": null,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-15T16:00:00Z"
+    },
+    "hype_factors": [
+      "First-ever meeting",
+      "Final non-conference tune-up before ACC play",
+      "Eddie George’s first Power-5 road test at BGSU",
+      "Brohm aims 3-0 start off bye week"
+    ],
+    "last_updated_utc": "2025-09-20T15:30:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Louisville Cardinals",
+      "short": "LOU",
+      "mascot": "Cardinals",
+      "conference": "ACC",
+      "record": "2-0 (0-0)",
+      "recent_form": "Beat EKU 51-17, JMU 28-14; off a bye",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "Mixed; defense strong vs pass",
+        "ats_record": "0-2 ATS in 2025"
+      },
+      "motivation_factors": [
+        "Tune-up before ACC slate",
+        "Protect home dominance under Brohm"
+      ]
+    },
+    "away": {
+      "name": "Bowling Green Falcons",
+      "short": "BGSU",
+      "mascot": "Falcons",
+      "conference": "MAC",
+      "record": "2-1 (0-0)",
+      "recent_form": "W 26-7 vs ULL, L 20-34 @ Cincinnati, W 23-13 vs Liberty",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "No offensive turnovers through 3 games",
+        "ats_record": "2-1 ATS in 2025"
+      },
+      "motivation_factors": [
+        "Program statement shot under new HC Eddie George",
+        "Heavy-underdog mentality"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "First meeting",
+    "last_meeting": {
+      "date": null,
+      "score": null,
+      "note": "First-ever meeting"
+    },
+    "recent_trend": "No prior H2H trend"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -5000,
+        "implied_prob": 0.98,
+        "opening_line": -4000,
+        "line_movement": "moved toward home",
+        "book": "ESPN BET",
+        "asof_utc": "2025-09-20T15:20:00Z"
+      },
+      "away": {
+        "price": 1500,
+        "implied_prob": 0.063,
+        "opening_line": 1440,
+        "line_movement": "moved against away",
+        "book": "ESPN BET",
+        "asof_utc": "2025-09-20T15:20:00Z"
+      }
+    },
+    "spread": {
+      "line": -26.5,
+      "favorite": "LOU",
+      "price_home": -105,
+      "price_away": -115,
+      "opening_line": -27.5,
+      "line_movement": "moved toward away by 1.0 point",
+      "public_betting": {
+        "home_percent": 36,
+        "away_percent": 64,
+        "note": "Public siding with big road dog"
+      },
+      "book": "Action Network (consensus)",
+      "asof_utc": "2025-09-20T15:20:00Z"
+    },
+    "total": {
+      "line": 51.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 51,
+      "line_movement": "moved up 0.5",
+      "public_betting": {
+        "over_percent": 66,
+        "under_percent": 34
+      },
+      "book": "Action Network (consensus)",
+      "asof_utc": "2025-09-20T15:20:00Z"
+    },
+    "consensus_note": "Market toggled -27.5 to -25.5 all week; current -26.5 with public on BGSU."
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Louisville is 0-2 ATS this season",
+      "Bowling Green is 2-1 ATS this season",
+      "Public ~64% on BGSU ATS (fade trendy dog angle)"
+    ],
+    "situational_spots": [
+      "Louisville off a bye and at home at noon in heat",
+      "BGSU off physical win vs Liberty; massive step up in class"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "No bet",
+      "confidence": 0.53,
+      "rationale": "Heavy juiced favorite; no realistic edge at -5000/+1500",
+      "value_assessment": "No value at current prices"
+    },
+    "spread": {
+      "pick": "LOU -26.5",
+      "confidence": 0.64,
+      "rationale": "Public dog at big number; Louisville off bye with talent edge",
+      "value_assessment": "Moderate value fading consensus"
+    },
+    "total": {
+      "pick": "UNDER 51.5",
+      "confidence": 0.58,
+      "rationale": "Heat, noon kick, Louisville pass D vs BGSU conservative offense",
+      "value_assessment": "Slight value vs public Over"
+    },
+    "best_bet": {
+      "pick": "LOU -26.5",
+      "confidence": 0.64,
+      "rationale": "Fade trendy dog; market stabilized with Louisville advantage at home"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "Louisville LB Stanquan Clark out after lower-leg surgery",
+      "Louisville TE Nate Kurisky trending toward return (hand)",
+      "Multiple BGSU defenders listed questionable (undisclosed)"
+    ],
+    "matchup_notes": [
+      "BGSU ball security strong early; Louisville pass defense test",
+      "Heat and depth could matter second half"
+    ],
+    "coaching_notes": [
+      "Jeff Brohm 2-0 this season; strong home form",
+      "Eddie George in 1st year at BGSU; first P5 road game"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "Low; resume-builder for Louisville",
+    "conference_impact": "Louisville momentum into ACC play",
+    "narrative": "New-look BGSU under Eddie George vs ranked-adjacent Louisville off bye",
+    "tv_storylines": [
+      "Eddie George vs Brohm",
+      "Miller Moss seeking clean game and rhythm with WRs/TEs"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "ESPN Game Page (odds/weather/TV)",
+      "url": "[https://www.espn.com/college-football/game/_/gameId/401754642/bowling-green-louisville](https://www.espn.com/college-football/game/_/gameId/401754642/bowling-green-louisville)",
+      "asof_utc": "2025-09-20T15:20:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "Action Network Odds (consensus & line movement)",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/bowling-green-falcons-louisville-cardinals/254533](https://www.actionnetwork.com/ncaaf-game/bowling-green-falcons-louisville-cardinals/254533)",
+      "asof_utc": "2025-09-20T15:20:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "VegasInsider Line History",
+      "url": "[https://www.vegasinsider.com/college-football/matchups/bowling-green-vs-louisville/](https://www.vegasinsider.com/college-football/matchups/bowling-green-vs-louisville/)",
+      "asof_utc": "2025-09-20T15:20:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Covers Consensus (ATS/Total public)",
+      "url": "[https://contests.covers.com/consensus/matchupconsensusdetails/3bc3f011-aaeb-4a20-9175-b2c20147442b](https://contests.covers.com/consensus/matchupconsensusdetails/3bc3f011-aaeb-4a20-9175-b2c20147442b)",
+      "asof_utc": "2025-09-20T15:10:00Z"
+    },
+    {
+      "type": "news",
+      "label": "UofL Schedule/TV",
+      "url": "[https://gocards.com/sports/football/schedule](https://gocards.com/sports/football/schedule)",
+      "asof_utc": "2025-09-20T14:55:00Z"
+    },
+    {
+      "type": "venue",
+      "label": "Stadium capacity",
+      "url": "[https://en.wikipedia.org/wiki/L%26N_Federal_Credit_Union_Stadium](https://en.wikipedia.org/wiki/L%26N_Federal_Credit_Union_Stadium)",
+      "asof_utc": "2025-09-20T14:55:00Z"
+    },
+    {
+      "type": "rankings",
+      "label": "AP Top 25",
+      "url": "[https://www.ncaa.com/rankings/football/fbs/associated-press](https://www.ncaa.com/rankings/football/fbs/associated-press)",
+      "asof_utc": "2025-09-15T16:00:00Z"
+    },
+    {
+      "type": "injuries",
+      "label": "Louisville injuries",
+      "url": "[https://bigredlouie.com/is-stanquan-clark-playing-for-louisville-vs-bowling-green-in-week-4-latest-injury-update](https://bigredlouie.com/is-stanquan-clark-playing-for-louisville-vs-bowling-green-in-week-4-latest-injury-update)",
+      "asof_utc": "2025-09-20T15:00:00Z"
+    },
+    {
+      "type": "injuries",
+      "label": "Game injuries (both teams)",
+      "url": "[https://www.covers.com/sport/football/ncaaf/matchup/357444/injuries](https://www.covers.com/sport/football/ncaaf/matchup/357444/injuries)",
+      "asof_utc": "2025-09-20T15:00:00Z"
+    }
+  ]
+}

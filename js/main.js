@@ -280,7 +280,8 @@ class BustaBookApp {
      * Render an individual game card
      */
     renderGameCard(game) {
-        const { awayTeam, homeTeam } = DataUtils.parseTeamNames(game.game_meta.title);
+    const { awayTeam, homeTeam } = DataUtils.parseTeamNames(game.game_meta.title);
+    const isOhioGame = DataUtils.isOhioTeam(awayTeam) || DataUtils.isOhioTeam(homeTeam);
         const gameTime = DateUtils.formatGameTime(game.game_meta.datetime_local);
         
         // Get live score if available
@@ -311,7 +312,7 @@ class BustaBookApp {
             <div class="game-card bg-white rounded-lg border-2 ${statusColors[status]} shadow-lg hover:shadow-xl transition-shadow duration-300 relative">
                 <!-- Status Badge -->
                 <div class="status-badge text-xs font-bold px-2 py-1 rounded-br-lg inline-block ${status === 'in_progress' ? 'bg-green-500 text-white' : status === 'upcoming' ? 'bg-blue-500 text-white' : 'bg-gray-500 text-white'}">
-                    ${statusLabels[status]}
+                    ${isOhioGame ? '🌰 ' : ''}${statusLabels[status]}
                 </div>
                 
                 <!-- Game Header -->

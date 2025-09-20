@@ -1,0 +1,234 @@
+{
+  "game_meta": {
+    "game_id": "12046fc0c213511df41b0eac4fc599ca",
+    "title": "Toledo Rockets at Western Michigan Broncos",
+    "datetime_local": "2025-09-20T15:30:00-04:00",
+    "venue": "Stafford-Smith Field at Waldo Stadium, Kalamazoo, MI",
+    "tv": [
+      "ESPN+"
+    ],
+    "attendance_capacity": 30200,
+    "weather": {
+      "conditions": "Partly cloudy, hot; stray PM t-storm risk",
+      "temp_f": 84,
+      "wind_mph": 9,
+      "notes": "Warm field temps; light SE breeze. Storm chances rise early evening—minor late-game UNDER lean."
+    },
+    "rankings": {
+      "home_ap": null,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-20T15:20:00Z"
+    },
+    "hype_factors": [
+      "MAC opener for both",
+      "WMU home opener energy",
+      "Toledo received preseason AP votes",
+      "Candle chasing UT wins record; Waldo has been tricky for him"
+    ],
+    "last_updated_utc": "2025-09-20T15:40:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Western Michigan Broncos",
+      "short": "WMU",
+      "mascot": "Broncos",
+      "conference": "MAC",
+      "record": "0-3 (0-0)",
+      "recent_form": "L3; offense 12.0 PPG (131st), shut out at Illinois; OT loss vs North Texas",
+      "key_stats": {
+        "offense_rank": 134,
+        "defense_rank": 88,
+        "turnover_margin": "+1 (season)",
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "Home opener",
+        "Bounce-back after two scoreless showings in three games"
+      ]
+    },
+    "away": {
+      "name": "Toledo Rockets",
+      "short": "TOL",
+      "mascot": "Rockets",
+      "conference": "MAC",
+      "record": "2-1 (0-0)",
+      "recent_form": "Won 2 straight after UK loss; +52.5 PPG last two",
+      "key_stats": {
+        "offense_rank": 33,
+        "defense_rank": 15,
+        "turnover_margin": "+2 (season)",
+        "ats_record": "3-0 ATS this season"
+      },
+      "motivation_factors": [
+        "MAC title push starts today",
+        "Road statement opportunity"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "Toledo leads 46-32",
+    "last_meeting": {
+      "date": "2023-09-23",
+      "score": "Toledo 49, Western Michigan 31",
+      "note": "Toledo won at the Glass Bowl; WMU upset UT 20-14 in 2022 at Waldo"
+    },
+    "recent_trend": "Toledo won 3 of last 5 meetings"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": 410,
+        "implied_prob": 0.196,
+        "opening_line": 425,
+        "line_movement": "moved toward away",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T15:35:00Z"
+      },
+      "away": {
+        "price": -550,
+        "implied_prob": 0.846,
+        "opening_line": -575,
+        "line_movement": "moved toward away",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T15:35:00Z"
+      }
+    },
+    "spread": {
+      "line": -14.5,
+      "favorite": "AWAY",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -13.5,
+      "line_movement": "moved toward away by 1 point",
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T15:35:00Z"
+    },
+    "total": {
+      "line": 50.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 51.5,
+      "line_movement": "moved down 1 point",
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T15:35:00Z"
+    },
+    "consensus_note": "Markets clustered DK/ESPN at TOL -14 to -14.5, ML -550 to -600, total 48.5–50.5; slight public ML lean to Toledo ~55%."
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Toledo 3-0 ATS; WMU 2-1 ATS (2025)",
+      "Under is 3-2 in last 5 Toledo–WMU meetings",
+      "WMU offense 241.3 Yds/G (134th); Toledo defense 231.3 Yds/G allowed (15th)"
+    ],
+    "situational_spots": [
+      "MAC opener + hot afternoon favors better defense/run game",
+      "Potential late-day storms could suppress late scoring"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "WMU +410",
+      "confidence": 0.53,
+      "rationale": "Small contrarian sprinkle: divisional home opener + mild weather variance; market trimmed UT juice from open.",
+      "value_assessment": "Speculative plus-money stab only"
+    },
+    "spread": {
+      "pick": "WMU +14.5",
+      "confidence": 0.63,
+      "rationale": "Home dog in MAC opener vs defense-first favorite; UT ML taking slight public lean; key number above 14.",
+      "value_assessment": "Solid value at +14.5; +15 would be excellent"
+    },
+    "total": {
+      "pick": "UNDER 50.5",
+      "confidence": 0.6,
+      "rationale": "WMU scoring issues + Toledo top-15 defense; pace likely slower if Rockets ride run game; possible late weather.",
+      "value_assessment": "Slight value after tick down from 51.5"
+    },
+    "best_bet": {
+      "pick": "WMU +14.5",
+      "confidence": 0.63,
+      "rationale": "Home dog in conference opener with low-output offense can still hang inside two scores"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "WMU LB Domanick Moon (Q), DL Gian Carter (Q), CB Corey Webb (Q), CB Jordon Thomas (Q)",
+      "Toledo LB Tyler Huss (Q); WR Junior Vandeross III off 4 TDs on season, trending up"
+    ],
+    "matchup_notes": [
+      "Toledo rush offense up to 208.7 YPG (34th) after portal adds; WMU defense has 9 sacks through 3 games",
+      "WMU offense 12.0 PPG with two scoreless games vs P5; turnover diff still +1"
+    ],
+    "coaching_notes": [
+      "Toledo’s Jason Candle entering 10th season; 1-3 at Waldo Stadium per local beat",
+      "WMU’s Lance Taylor in Year 3 seeking first win of 2025"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "None nationally; MAC race seeding starts",
+    "conference_impact": "Early MAC West positioning game",
+    "narrative": "Can WMU’s defense and home opener energy slow a rolling Rockets team?",
+    "tv_storylines": [
+      "Toledo’s revamped ground game vs WMU front",
+      "Broncos QBs searching for consistency after rough start"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "DraftKings Game Page",
+      "url": "[https://sportsbook.draftkings.com/event/toledo-%40-western-michigan/32773507](https://sportsbook.draftkings.com/event/toledo-%40-western-michigan/32773507)",
+      "asof_utc": "2025-09-20T15:35:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "DraftKings Team Hubs (Toledo/WMU)",
+      "url": "[https://sportsbook.draftkings.com/teams/football/college-football/toledo-rockets](https://sportsbook.draftkings.com/teams/football/college-football/toledo-rockets)",
+      "asof_utc": "2025-09-20T15:20:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "Action Network Snapshot",
+      "url": "[https://www.actionnetwork.com/ncaaf/toledo-rockets-vs-western-michigan-broncos-prediction-pick-ncaaf-odds-saturday-september-20-qs](https://www.actionnetwork.com/ncaaf/toledo-rockets-vs-western-michigan-broncos-prediction-pick-ncaaf-odds-saturday-september-20-qs)",
+      "asof_utc": "2025-09-20T15:25:00Z"
+    },
+    {
+      "type": "news",
+      "label": "ESPN Game Page",
+      "url": "[https://www.espn.com/college-football/game/_/gameId/401762820/toledo-w-michigan](https://www.espn.com/college-football/game/_/gameId/401762820/toledo-w-michigan)",
+      "asof_utc": "2025-09-20T15:25:00Z"
+    },
+    {
+      "type": "news",
+      "label": "WMU Game Notes / TV",
+      "url": "[https://wmubroncos.com/news/2025/9/18/footballl-opens-mac-saturday-hosting-toledo.aspx](https://wmubroncos.com/news/2025/9/18/footballl-opens-mac-saturday-hosting-toledo.aspx)",
+      "asof_utc": "2025-09-20T15:22:00Z"
+    },
+    {
+      "type": "history",
+      "label": "UT Rockets Opponent History (WMU)",
+      "url": "[https://utrockets.com/sports/football/opponent-history/western-michigan-university/23](https://utrockets.com/sports/football/opponent-history/western-michigan-university/23)",
+      "asof_utc": "2025-09-20T15:22:00Z"
+    },
+    {
+      "type": "metrics",
+      "label": "Bleacher Report Game Center (DK feed, ranks, public %)",
+      "url": "[https://bleacherreport.com/game/toledo-football-vs-western-michigan-football-2025-9-20-14-30](https://bleacherreport.com/game/toledo-football-vs-western-michigan-football-2025-9-20-14-30)",
+      "asof_utc": "2025-09-20T15:30:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "Weather.com Hourly – Kalamazoo",
+      "url": "[https://weather.com/weather/hourbyhour/l/Kalamazoo+MI](https://weather.com/weather/hourbyhour/l/Kalamazoo+MI)",
+      "asof_utc": "2025-09-20T15:18:00Z"
+    },
+    {
+      "type": "venue",
+      "label": "WMU Facilities – Waldo Stadium Capacity",
+      "url": "[https://wmubroncos.com/facilities/stafford-smith-field-at-waldo-stadium/4](https://wmubroncos.com/facilities/stafford-smith-field-at-waldo-stadium/4)",
+      "asof_utc": "2025-09-20T15:20:00Z"
+    }
+  ]
+}

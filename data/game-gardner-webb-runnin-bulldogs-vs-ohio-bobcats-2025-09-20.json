@@ -1,0 +1,232 @@
+{
+  "game_meta": {
+    "game_id": "2c779264544468120afddc92b13c62e3",
+    "title": "Gardner-Webb Runnin' Bulldogs at Ohio Bobcats",
+    "datetime_local": "2025-09-20T15:30:00-04:00",
+    "venue": "Frank Solich Field at Peden Stadium, Athens, OH",
+    "tv": [
+      "ESPN+"
+    ],
+    "attendance_capacity": 27000,
+    "weather": {
+      "conditions": "Sunny/Very warm",
+      "temp_f": 85,
+      "wind_mph": 3,
+      "notes": "Hot with light wind; minimal weather impact beyond fatigue"
+    },
+    "rankings": {
+      "home_ap": null,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": null
+    },
+    "hype_factors": [
+      "Ohio's final non-conference tune-up",
+      "FCS upset bid spotlight",
+      "Defending MAC champs at home",
+      "Bounce-back angle after OSU loss"
+    ],
+    "last_updated_utc": "2025-09-20T15:55:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Ohio Bobcats",
+      "short": "OHIO",
+      "mascot": "Bobcats",
+      "conference": "MAC",
+      "record": "1-2 (0-0)",
+      "recent_form": "Covered all 3; beat WVU, close L at Rutgers, L at #1 OSU",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": null,
+        "ats_record": "3-0 ATS this season"
+      },
+      "motivation_factors": [
+        "Avoid letdown before MAC play",
+        "Defending league champ pride at home"
+      ]
+    },
+    "away": {
+      "name": "Gardner-Webb Runnin' Bulldogs",
+      "short": "WEBB",
+      "mascot": "Runnin' Bulldogs",
+      "conference": "Big South-OVC",
+      "record": "2-1 (0-0)",
+      "recent_form": "Won 2 of last 3; 29 PPG with dual-QB usage",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": null,
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "FBS upset stage",
+        "Program visibility vs MAC champ"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "OHIO leads 3-0",
+    "last_meeting": {
+      "date": "2016-09-24",
+      "score": "OHIO 37, WEBB 21",
+      "note": "Most recent meeting in Athens"
+    },
+    "recent_trend": "OHIO has won all meetings"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -4500,
+        "implied_prob": 0.978,
+        "opening_line": null,
+        "line_movement": "steady heavy favorite",
+        "book": "Action Network composite",
+        "asof_utc": "2025-09-20T15:45:00Z"
+      },
+      "away": {
+        "price": 2500,
+        "implied_prob": 0.038,
+        "opening_line": null,
+        "line_movement": "steady longshot",
+        "book": "Action Network composite",
+        "asof_utc": "2025-09-20T15:45:00Z"
+      }
+    },
+    "spread": {
+      "line": -25.5,
+      "favorite": "HOME",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -22.5,
+      "line_movement": "moved toward home by 3 points",
+      "public_betting": {
+        "home_percent": 100,
+        "away_percent": 0,
+        "note": "Action Network Bets% (very light sample)"
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T15:48:00Z"
+    },
+    "total": {
+      "line": 51.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 55.5,
+      "line_movement": "moved down 4 points",
+      "public_betting": {
+        "over_percent": 73,
+        "under_percent": 27
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T15:48:00Z"
+    },
+    "consensus_note": "DK shows -25.5/51.5; ML widely -4500/+2500; total steamed under from open"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "OHIO is 3-0 ATS this season",
+      "UNDER is 2-1 in OHIO games (1-0 at home)",
+      "WEBB is 2-1 ATS; road overs 2-0 this season"
+    ],
+    "situational_spots": [
+      "Potential OHIO letdown in sandwich spot before MAC play",
+      "Hot weather and big favorite script can shorten 4Q with clock"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "No bet",
+      "confidence": 0.5,
+      "rationale": "Extreme juice on favorite; longshot price not worth tiny true win prob",
+      "value_assessment": "No value"
+    },
+    "spread": {
+      "pick": "WEBB +25.5",
+      "confidence": 0.62,
+      "rationale": "Public all over OHIO; line inflated vs open; possible vanilla game plan late",
+      "value_assessment": "Moderate value at +25 or better"
+    },
+    "total": {
+      "pick": "UNDER 51.5",
+      "confidence": 0.64,
+      "rationale": "Market move down; OHIO offense modest so far; heat + run-heavy script",
+      "value_assessment": "Best number was 55.5; still playable ≤51.5"
+    },
+    "best_bet": {
+      "pick": "UNDER 51.5",
+      "confidence": 0.64,
+      "rationale": "Aligned with market steam and matchup tempo"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "OHIO DE Kaci Seegars — status uncertain after recent injury note",
+      "OHIO QB Parker Navarro — wrist scare vs OSU; expected to play",
+      "WEBB rotating QBs (Hampton/Pennington); RB Quasean Holmes leads rush"
+    ],
+    "matchup_notes": [
+      "OHIO’s rush offense vs WEBB defense allowing 218 rush YPG is key",
+      "Defending MAC champs vs FCS foe; risk of backdoor late if depth plays"
+    ],
+    "coaching_notes": [
+      "OHIO HC Brian Smith emphasized avoiding a letdown this week",
+      "WEBB HC Tre Lamb leans on balanced, aggression with dual-QB looks"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "None; prep spot for MAC play",
+    "conference_impact": "Non-conference; momentum builder for OHIO",
+    "narrative": "FCS upset bid vs defending MAC champs in a heat-soaked afternoon",
+    "tv_storylines": [
+      "Can OHIO refocus after OSU?",
+      "WEBB hunting a statement FBS upset"
+    ]
+  },
+  "sources": [
+    {
+      "type": "schedule",
+      "label": "Ohio Athletics Schedule",
+      "url": "[https://ohiobobcats.com/sports/football/schedule/2025](https://ohiobobcats.com/sports/football/schedule/2025)",
+      "asof_utc": "2025-09-20T15:40:00Z"
+    },
+    {
+      "type": "game_notes",
+      "label": "Ohio Game Notes PDF",
+      "url": "[https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ohiobobcats.com/documents/2025/9/16/9.20_Ohio_Notes_vs_Gardner-Webb.pdf](https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ohiobobcats.com/documents/2025/9/16/9.20_Ohio_Notes_vs_Gardner-Webb.pdf)",
+      "asof_utc": "2025-09-20T15:40:00Z"
+    },
+    {
+      "type": "how_to_watch",
+      "label": "FOX Sports How to Watch",
+      "url": "[https://www.foxsports.com/articles/college-football/how-to-watch-ohio-vs-gardner-webb-time-tv-channel-live-stream-september-20-2025](https://www.foxsports.com/articles/college-football/how-to-watch-ohio-vs-gardner-webb-time-tv-channel-live-stream-september-20-2025)",
+      "asof_utc": "2025-09-20T15:42:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "DraftKings Odds (team page / event)",
+      "url": "[https://sportsbook.draftkings.com/teams/football/college-football/ohio-bobcats](https://sportsbook.draftkings.com/teams/football/college-football/ohio-bobcats)",
+      "asof_utc": "2025-09-20T15:48:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "Action Network Odds & Public",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/gardner-webb-ohio-score-odds-september-20-2025/254496](https://www.actionnetwork.com/ncaaf-game/gardner-webb-ohio-score-odds-september-20-2025/254496)",
+      "asof_utc": "2025-09-20T15:45:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "FanDuel Market (event)",
+      "url": "[https://sportsbook.fanduel.com/football/ncaa-football-games/gardner-webb-%40-ohio-34732420](https://sportsbook.fanduel.com/football/ncaa-football-games/gardner-webb-%40-ohio-34732420)",
+      "asof_utc": "2025-09-20T15:46:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "AccuWeather Athens, OH",
+      "url": "[https://www.accuweather.com/en/us/athens/45701/september-weather/335029](https://www.accuweather.com/en/us/athens/45701/september-weather/335029)",
+      "asof_utc": "2025-09-20T15:35:00Z"
+    }
+  ]
+}
