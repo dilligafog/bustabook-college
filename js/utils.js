@@ -297,6 +297,17 @@ const DataUtils = {
                 });
             }
 
+            const completed = item.completed === true || item.final === true || item.status === 'final' || item.status === 'completed';
+            const derivedInProgress = !completed && (
+                (homeScore !== null || awayScore !== null) ||
+                !!item.quarter ||
+                !!item.time_remaining ||
+                item.status === 'in_progress' ||
+                item.status === 'live' ||
+                !!item.last_update ||
+                item.in_progress === true
+            );
+
             const normalized = {
                 home_team: {
                     short: shortify(item.home_team),
@@ -311,11 +322,10 @@ const DataUtils = {
                 quarter: item.quarter || null,
                 time_remaining: item.time_remaining || null,
                 // Derive a simple status compatible with existing UI logic
-                status: (item.completed === true || item.final === true || item.status === 'final' || item.status === 'completed')
-                    ? 'final'
-                    : ((item.status === 'in_progress' || item.status === 'live' || item.last_update) ? 'in_progress' : 'scheduled'),
-                final: item.completed === true || item.final === true || item.status === 'final',
-                completed: item.completed === true || item.final === true || item.status === 'final',
+                status: completed ? 'final' : (derivedInProgress ? 'in_progress' : 'scheduled'),
+                final: completed,
+                completed: completed,
+                in_progress: derivedInProgress,
                 last_update: item.last_update || null,
                 // Flat scores used by game detail live score
                 home_score: homeScore,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T15:47:42.086Z",
+  "generated_at": "2025-09-20T16:15:13.330Z",
   "game_count": 83,
   "games_with_detailed_data": 31,
   "games_score_only": 52,
@@ -249,7 +249,7 @@
       "filename": null,
       "game_id": "c0b1ac9a610885d8e56a1891adf68d57",
       "title": "Arkansas Razorbacks at Memphis Tigers",
-      "datetime": "2025-09-20T16:00:00Z",
+      "datetime": "2025-09-20T15:59:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -263,25 +263,9 @@
     },
     {
       "filename": null,
-      "game_id": "3f96037e0014fee643fc8b7a5efaa2d0",
-      "title": "Syracuse Orange at Clemson Tigers",
-      "datetime": "2025-09-20T16:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "13e04598f89948bf768f8f5456c9bc66",
-      "title": "Maryland Terrapins at Wisconsin Badgers",
-      "datetime": "2025-09-20T16:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "84ae085a96a7a0b18f00587c6136884f",
       "title": "SMU Mustangs at TCU Horned Frogs",
-      "datetime": "2025-09-20T16:00:00Z",
+      "datetime": "2025-09-20T16:03:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -289,7 +273,23 @@
       "filename": null,
       "game_id": "340927bb8c4eb3f1d8a13c5480646b51",
       "title": "Wofford Terriers at Virginia Tech Hokies",
-      "datetime": "2025-09-20T16:00:00Z",
+      "datetime": "2025-09-20T16:05:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "13e04598f89948bf768f8f5456c9bc66",
+      "title": "Maryland Terrapins at Wisconsin Badgers",
+      "datetime": "2025-09-20T16:08:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "3f96037e0014fee643fc8b7a5efaa2d0",
+      "title": "Syracuse Orange at Clemson Tigers",
+      "datetime": "2025-09-20T16:09:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
