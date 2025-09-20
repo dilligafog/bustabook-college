@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T19:35:00.587Z",
+  "generated_at": "2025-09-20T19:45:00.476Z",
   "game_count": 70,
   "games_with_detailed_data": 31,
   "games_score_only": 39,
@@ -303,8 +303,8 @@
     },
     {
       "filename": null,
-      "game_id": "038cd404ffe4a5be92eb7c38c93ffd68",
-      "title": "North Carolina Tar Heels at UCF Knights",
+      "game_id": "f652e81624955a035c53f10089a56e2e",
+      "title": "James Madison Dukes at Liberty Flames",
       "datetime": "2025-09-20T19:30:00Z",
       "has_detailed_data": false,
       "score_only": true
@@ -327,9 +327,9 @@
     },
     {
       "filename": null,
-      "game_id": "f652e81624955a035c53f10089a56e2e",
-      "title": "James Madison Dukes at Liberty Flames",
-      "datetime": "2025-09-20T19:35:00Z",
+      "game_id": "038cd404ffe4a5be92eb7c38c93ffd68",
+      "title": "North Carolina Tar Heels at UCF Knights",
+      "datetime": "2025-09-20T19:49:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
