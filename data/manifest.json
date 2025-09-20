@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T19:15:00.357Z",
+  "generated_at": "2025-09-20T19:25:00.439Z",
   "game_count": 80,
   "games_with_detailed_data": 31,
   "games_score_only": 49,
@@ -247,6 +247,14 @@
     },
     {
       "filename": null,
+      "game_id": "c0b1ac9a610885d8e56a1891adf68d57",
+      "title": "Arkansas Razorbacks at Memphis Tigers",
+      "datetime": "2025-09-20T15:45:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
       "game_id": "3f96037e0014fee643fc8b7a5efaa2d0",
       "title": "Syracuse Orange at Clemson Tigers",
       "datetime": "2025-09-20T15:51:00Z",
@@ -258,14 +266,6 @@
       "game_id": "13e04598f89948bf768f8f5456c9bc66",
       "title": "Maryland Terrapins at Wisconsin Badgers",
       "datetime": "2025-09-20T15:53:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "c0b1ac9a610885d8e56a1891adf68d57",
-      "title": "Arkansas Razorbacks at Memphis Tigers",
-      "datetime": "2025-09-20T15:54:00Z",
       "has_detailed_data": false,
       "score_only": true
     },

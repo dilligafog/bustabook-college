@@ -207,7 +207,7 @@
         "score": "28"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "f7f75940634e8ec62dac353f09be0677",
@@ -227,7 +227,7 @@
         "score": "19"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "4bab9cbac51f27b9f12617b760247074",
@@ -247,7 +247,27 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
+  },
+  {
+    "id": "c0b1ac9a610885d8e56a1891adf68d57",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-20T15:45:00Z",
+    "completed": false,
+    "home_team": "Memphis Tigers",
+    "away_team": "Arkansas Razorbacks",
+    "scores": [
+      {
+        "name": "Memphis Tigers",
+        "score": "32"
+      },
+      {
+        "name": "Arkansas Razorbacks",
+        "score": "31"
+      }
+    ],
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "3f96037e0014fee643fc8b7a5efaa2d0",
@@ -267,7 +287,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "13e04598f89948bf768f8f5456c9bc66",
@@ -287,27 +307,7 @@
         "score": "27"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
-  },
-  {
-    "id": "c0b1ac9a610885d8e56a1891adf68d57",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-20T15:54:00Z",
-    "completed": false,
-    "home_team": "Memphis Tigers",
-    "away_team": "Arkansas Razorbacks",
-    "scores": [
-      {
-        "name": "Memphis Tigers",
-        "score": "32"
-      },
-      {
-        "name": "Arkansas Razorbacks",
-        "score": "31"
-      }
-    ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "a85c3e810f12d0a8bf904fa1a2795aa6",
@@ -320,14 +320,14 @@
     "scores": [
       {
         "name": "Army Black Knights",
-        "score": "28"
+        "score": "35"
       },
       {
         "name": "North Texas Mean Green",
         "score": "38"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "84ae085a96a7a0b18f00587c6136884f",
@@ -347,7 +347,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "a007e86de8d7082641da38233ddeb1b7",
@@ -364,10 +364,10 @@
       },
       {
         "name": "Bowling Green Falcons",
-        "score": "16"
+        "score": "17"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "3fdda89f6826aab0083880182b962b27",
@@ -387,7 +387,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "9449961a57cdf571e7248d18613ec131",
@@ -400,14 +400,14 @@
     "scores": [
       {
         "name": "South Florida Bulls",
-        "score": "56"
+        "score": "63"
       },
       {
         "name": "South Carolina State Bulldogs",
         "score": "14"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "340927bb8c4eb3f1d8a13c5480646b51",
@@ -427,7 +427,7 @@
         "score": "6"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "3aa7e2c30d9051691c378e202279c6fc",
@@ -444,10 +444,10 @@
       },
       {
         "name": "Texas Tech Red Raiders",
-        "score": "19"
+        "score": "27"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "6c5b117f5091e161561240ae95fe99a4",
@@ -460,14 +460,14 @@
     "scores": [
       {
         "name": "Tennessee Volunteers",
-        "score": "49"
+        "score": "56"
       },
       {
         "name": "UAB Blazers",
         "score": "10"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "cbf53f44970801ab245ec4d71276519e",
@@ -480,14 +480,14 @@
     "scores": [
       {
         "name": "Central Michigan Chippewas",
-        "score": "35"
+        "score": "42"
       },
       {
         "name": "Wagner Seahawks",
         "score": "3"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "ee813cd96576a01199eedf7066cc54d1",
@@ -507,7 +507,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-20T19:14:35Z"
+    "last_update": "2025-09-20T19:24:52Z"
   },
   {
     "id": "103dcd715ce54d763f5d49157b11b2a2",
