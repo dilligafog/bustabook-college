@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T21:55:00.352Z",
+  "generated_at": "2025-09-20T22:05:00.455Z",
   "game_count": 70,
   "games_with_detailed_data": 31,
   "games_score_only": 39,
@@ -361,7 +361,7 @@
       "filename": null,
       "game_id": "8a6aaf025db38602e739a75bd9cd79a2",
       "title": "Arkansas State Red Wolves at Kennesaw State Owls",
-      "datetime": "2025-09-20T22:00:00Z",
+      "datetime": "2025-09-20T22:02:23Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -369,7 +369,7 @@
       "filename": null,
       "game_id": "40e0ef27cf4ecc8195310d798dee3be9",
       "title": "Delaware Blue Hens at Florida International Panthers",
-      "datetime": "2025-09-20T22:00:00Z",
+      "datetime": "2025-09-20T22:02:49Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -377,7 +377,7 @@
       "filename": null,
       "game_id": "6be90d4768b93c43b3b3e55de45a3925",
       "title": "West Virginia Mountaineers at Kansas Jayhawks",
-      "datetime": "2025-09-20T22:00:00Z",
+      "datetime": "2025-09-20T22:08:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
