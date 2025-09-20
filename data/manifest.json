@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T23:15:00.459Z",
+  "generated_at": "2025-09-20T23:25:00.427Z",
   "game_count": 70,
   "games_with_detailed_data": 31,
   "games_score_only": 39,
@@ -431,14 +431,6 @@
     },
     {
       "filename": null,
-      "game_id": "23ce9d15b3cbcee45fd1d13550ee2a1a",
-      "title": "Arizona State Sun Devils at Baylor Bears",
-      "datetime": "2025-09-20T23:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "2347ab8f55c1890bd4340b29032381fe",
       "title": "BYU Cougars at East Carolina Pirates",
       "datetime": "2025-09-20T23:30:00Z",
@@ -466,6 +458,14 @@
       "game_id": "8f3febddcf1504cb91454ac61d25caa8",
       "title": "Washington Huskies at Washington State Cougars",
       "datetime": "2025-09-20T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "23ce9d15b3cbcee45fd1d13550ee2a1a",
+      "title": "Arizona State Sun Devils at Baylor Bears",
+      "datetime": "2025-09-20T23:38:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
