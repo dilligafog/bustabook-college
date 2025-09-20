@@ -1,0 +1,245 @@
+{
+  "game_meta": {
+    "game_id": "d098d8c6ee0dc177926284d2b55548e1",
+    "title": "Sam Houston State at Texas",
+    "datetime_local": "2025-09-20T20:00:00-04:00",
+    "venue": "Darrell K Royal–Texas Memorial Stadium, Austin, TX",
+    "tv": [
+      "SEC Network+",
+      "ESPN+"
+    ],
+    "attendance_capacity": 100119,
+    "weather": {
+      "conditions": "Clear/Hot",
+      "temp_f": 88,
+      "wind_mph": 7,
+      "notes": "Hot evening favors deeper team; mild wind. Hydration/fatigue could slow pace."
+    },
+    "rankings": {
+      "home_ap": 8,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-15T18:00:00Z"
+    },
+    "hype_factors": [
+      "Arch Manning get-right spot",
+      "Streaming-only SEC+ game",
+      "Texas tune-up before SEC play",
+      "Phil Longo Year 1 at SHSU"
+    ],
+    "last_updated_utc": "2025-09-20T14:35:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Texas Longhorns",
+      "short": "TEX",
+      "mascot": "Longhorns",
+      "conference": "SEC",
+      "record": "2-1 (0-0)",
+      "recent_form": "Won 2 of 3; offense sputtering, defense stout",
+      "key_stats": {
+        "offense_rank": 76,
+        "defense_rank": 20,
+        "turnover_margin": "+0.67",
+        "ats_record": "0-3 ATS this season"
+      },
+      "motivation_factors": [
+        "Get offense on track before SEC slate",
+        "Home night game energy"
+      ]
+    },
+    "away": {
+      "name": "Sam Houston State Bearkats",
+      "short": "SHSU",
+      "mascot": "Bearkats",
+      "conference": "C-USA",
+      "record": "0-3 (0-1)",
+      "recent_form": "3-game skid; defense leaking explosive passes",
+      "key_stats": {
+        "offense_rank": 89,
+        "defense_rank": 108,
+        "turnover_margin": "+0.67",
+        "ats_record": "0-3 ATS this season"
+      },
+      "motivation_factors": [
+        "Spoiler shot vs Top-10",
+        "New coach identity game"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "HOME leads 1-0",
+    "last_meeting": {
+      "date": "2006-09-30",
+      "score": "HOME 56, AWAY 3",
+      "note": "Only prior meeting; Texas routed at DKR"
+    },
+    "recent_trend": "Only one prior meeting; HOME won by 53"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -20000,
+        "implied_prob": 0.995,
+        "opening_line": -20000,
+        "line_movement": "no meaningful ML market",
+        "book": "bet365 (via Action Network)",
+        "asof_utc": "2025-09-20T14:20:00Z"
+      },
+      "away": {
+        "price": 2800,
+        "implied_prob": 0.034,
+        "opening_line": 2500,
+        "line_movement": "drifted longer",
+        "book": "bet365 (via Action Network)",
+        "asof_utc": "2025-09-20T14:20:00Z"
+      }
+    },
+    "spread": {
+      "line": -39.5,
+      "favorite": "HOME",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -41.5,
+      "line_movement": "moved toward away by 2 pts",
+      "public_betting": {
+        "home_percent": 60,
+        "away_percent": 40,
+        "note": "Majority on Texas despite recent ATS struggles"
+      },
+      "book": "Consensus (bet365/DK)",
+      "asof_utc": "2025-09-20T14:20:00Z"
+    },
+    "total": {
+      "line": 51.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 51.5,
+      "line_movement": "flat market",
+      "public_betting": {
+        "over_percent": 69,
+        "under_percent": 31
+      },
+      "book": "Consensus (bet365/DK)",
+      "asof_utc": "2025-09-20T14:20:00Z"
+    },
+    "consensus_note": "Spread ticked down from -41.5 to -39.5; totals holding ~51.5; public leans favorite and Over."
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Texas is 0-3 ATS in 2025",
+      "UNDER is 3-0 in Texas games this season",
+      "Sam Houston is 2-1 to the OVER this season"
+    ],
+    "situational_spots": [
+      "Texas in get-right spot before SEC play; potential vanilla game script late",
+      "Huge road dog with new coach; backdoor live"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "PASS",
+      "confidence": 0.5,
+      "rationale": "No value at -20000 / +2800; market priced efficiently for mismatch",
+      "value_assessment": "No value"
+    },
+    "spread": {
+      "pick": "SHSU +39.5",
+      "confidence": 0.66,
+      "rationale": "Public on Texas, but Horns 0-3 ATS with sluggish offense; backdoor live vs prevent",
+      "value_assessment": "Solid value after downward move"
+    },
+    "total": {
+      "pick": "UNDER 51.5",
+      "confidence": 0.62,
+      "rationale": "Texas defense legit; pace may slow in heat; Longhorns' passing struggles persist",
+      "value_assessment": "Slight value with public on Over"
+    },
+    "best_bet": {
+      "pick": "SHSU +39.5",
+      "confidence": 0.66,
+      "rationale": "Contrarian vs public with supportive matchup/tempo factors"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "Texas RB CJ Baxter hamstring — status cautious/questionable",
+      "Texas offense under scrutiny; 28.6% 3rd-down rate and 41.7% 4th-down rate",
+      "Sam Houston QB usage split (Watson/Mettauer) amid offensive inconsistency"
+    ],
+    "matchup_notes": [
+      "Texas top-20 total defense; SHSU allowing 440+ yds/g",
+      "Heat may limit tempo and sustain the UNDER"
+    ],
+    "coaching_notes": [
+      "Steve Sarkisian seeking cleaner execution before SEC play",
+      "Phil Longo (Year 1) installing uptempo Air Raid; heavy roster turnover"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "Minimal; style points only for Texas",
+    "conference_impact": "Nonconference tune-up before SEC slate",
+    "narrative": "Top-10 blueblood vs rebuilding C-USA underdog",
+    "tv_storylines": [
+      "Arch Manning bounce-back watch",
+      "Streaming-only broadcast wrinkle"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "Action Network (bet365 lines & weather)",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/shsu-tex-score-odds-september-20-2025/254543](https://www.actionnetwork.com/ncaaf-game/shsu-tex-score-odds-september-20-2025/254543)",
+      "asof_utc": "2025-09-20T14:20:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Covers Consensus & Picks",
+      "url": "[https://www.covers.com/sport/football/ncaaf/matchup/357453/picks](https://www.covers.com/sport/football/ncaaf/matchup/357453/picks)",
+      "asof_utc": "2025-09-20T14:15:00Z"
+    },
+    {
+      "type": "news",
+      "label": "ESPN Week 4 Preview (line move, Arch QB context)",
+      "url": "[https://www.espn.com/college-football/story/_/id/46302814/college-football-week-4-preview-dj-lagway-arch-manning-try-get-right](https://www.espn.com/college-football/story/_/id/46302814/college-football-week-4-preview-dj-lagway-arch-manning-try-get-right)",
+      "asof_utc": "2025-09-20T14:10:00Z"
+    },
+    {
+      "type": "news",
+      "label": "Houston Chronicle (streaming-only TV details)",
+      "url": "[https://www.houstonchronicle.com/sports/college/longhorns/article/texas-sam-houston-streaming-exclusive-21051497.php](https://www.houstonchronicle.com/sports/college/longhorns/article/texas-sam-houston-streaming-exclusive-21051497.php)",
+      "asof_utc": "2025-09-20T14:05:00Z"
+    },
+    {
+      "type": "news",
+      "label": "Burnt Orange Nation (opponent preview, ranking, history)",
+      "url": "[https://www.burntorangenation.com/texas-longhorns-football/96111/no-8-texas-vs-shsu-opponent-preview-phil-longo-looking-for-first-win-with-bearkats](https://www.burntorangenation.com/texas-longhorns-football/96111/no-8-texas-vs-shsu-opponent-preview-phil-longo-looking-for-first-win-with-bearkats)",
+      "asof_utc": "2025-09-20T14:05:00Z"
+    },
+    {
+      "type": "stats",
+      "label": "CFBStats (turnover margins, Texas team stats)",
+      "url": "[https://cfbstats.com/2025/team/703/turnovermargin/split.html](https://cfbstats.com/2025/team/703/turnovermargin/split.html)",
+      "asof_utc": "2025-09-20T14:25:00Z"
+    },
+    {
+      "type": "stats",
+      "label": "TeamRankings (team stat ranks)",
+      "url": "[https://www.teamrankings.com/college-football/team/sam-houston-bearkats/stats](https://www.teamrankings.com/college-football/team/sam-houston-bearkats/stats)",
+      "asof_utc": "2025-09-20T14:25:00Z"
+    },
+    {
+      "type": "schedule",
+      "label": "Sam Houston Athletics (game time, venue, series)",
+      "url": "[https://gobearkats.com/sports/football/schedule/2025](https://gobearkats.com/sports/football/schedule/2025)",
+      "asof_utc": "2025-09-20T14:00:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "Local forecast",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/shsu-tex-score-odds-september-20-2025/254543](https://www.actionnetwork.com/ncaaf-game/shsu-tex-score-odds-september-20-2025/254543)",
+      "asof_utc": "2025-09-20T14:20:00Z"
+    }
+  ]
+}

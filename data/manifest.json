@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-14T03:29:25.814Z",
-  "game_count": 10,
-  "games_with_detailed_data": 10,
-  "games_score_only": 0,
+  "generated_at": "2025-09-20T15:26:27.243Z",
+  "game_count": 83,
+  "games_with_detailed_data": 26,
+  "games_score_only": 57,
   "games": [
     {
       "filename": "game-alabama-vs-wisconsin-2025-09-13.json",
@@ -19,10 +19,31 @@
       "has_detailed_data": true
     },
     {
+      "filename": "game-auburn-tigers-vs-oklahoma-sooners-2025-09-20.json",
+      "game_id": "103dcd715ce54d763f5d49157b11b2a2",
+      "title": "Auburn Tigers at Oklahoma Sooners",
+      "datetime": "2025-09-20T15:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-florida-gators-vs-miami-hurricanes-2025-09-20.json",
+      "game_id": "e12a027ef3182426888607f1aa77a6bc",
+      "title": "Florida Gators at Miami Hurricanes",
+      "datetime": "2025-09-20T19:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
       "filename": "game-florida-vs-lsu-2025-09-13.json",
       "game_id": "UF-LSU-2025-09-13",
       "title": "Florida at LSU",
       "datetime": "2025-09-13T19:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-georgia-state-panthers-vs-vanderbilt-commodores-2025-09-20.json",
+      "game_id": "b953fbd602d01288f5e295c636d69dc9",
+      "title": "Georgia State Panthers at Vanderbilt Commodores",
+      "datetime": "2025-09-20T19:30:00-04:00",
       "has_detailed_data": true
     },
     {
@@ -33,6 +54,41 @@
       "has_detailed_data": true
     },
     {
+      "filename": "game-illinois-fighting-illini-vs-indiana-hoosiers-2025-09-20.json",
+      "game_id": "efb65d1caa41db87771cf8d31fda1c03",
+      "title": "Illinois Fighting Illini at Indiana Hoosiers",
+      "datetime": "2025-09-20T19:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-kent-state-golden-flashes-vs-florida-state-seminoles-2025-09-20.json",
+      "game_id": "857f26585f6083c7cfc300026e647ee6",
+      "title": "Kent State at Florida State",
+      "datetime": "2025-09-20T15:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-michigan-state-spartans-vs-usc-trojans-2025-09-20.json",
+      "game_id": "3494518f6430d858bb0c13fe8b29b108",
+      "title": "Michigan State Spartans at USC Trojans",
+      "datetime": "2025-09-20T23:00:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-michigan-wolverines-vs-nebraska-cornhuskers-2025-09-20.json",
+      "game_id": "e7873a03eb97c9a032544e448cc2d55c",
+      "title": "Michigan Wolverines at Nebraska Cornhuskers",
+      "datetime": "2025-09-20T15:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-oregon-state-beavers-vs-oregon-ducks-2025-09-20.json",
+      "game_id": "ee813cd96576a01199eedf7066cc54d1",
+      "title": "Oregon State Beavers at Oregon Ducks",
+      "datetime": "2025-09-20T15:00:00-04:00",
+      "has_detailed_data": true
+    },
+    {
       "filename": "game-penn-state-vs-villanova-2025-09-13.json",
       "game_id": "VILL@PSU-2025-09-13",
       "title": "Villanova at Penn State",
@@ -40,10 +96,45 @@
       "has_detailed_data": true
     },
     {
+      "filename": "game-purdue-boilermakers-vs-notre-dame-fighting-irish-2025-09-20.json",
+      "game_id": "af17a22d1102bd35d73a24c0332f762f",
+      "title": "Purdue Boilermakers at Notre Dame Fighting Irish",
+      "datetime": "2025-09-20T15:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-sam-houston-state-bearkats-vs-texas-longhorns-2025-09-20.json",
+      "game_id": "d098d8c6ee0dc177926284d2b55548e1",
+      "title": "Sam Houston State at Texas",
+      "datetime": "2025-09-20T20:00:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-south-carolina-gamecocks-vs-missouri-tigers-2025-09-20.json",
+      "game_id": "512e428ad08bc3ef6efb803bc679d933",
+      "title": "South Carolina Gamecocks at Missouri Tigers",
+      "datetime": "2025-09-20T19:00:00-04:00",
+      "has_detailed_data": true
+    },
+    {
       "filename": "game-south-florida-vs-miami-2025-09-13.json",
       "game_id": "usf-at-miami-2025-09-13",
       "title": "South Florida at Miami (FL)",
       "datetime": "2025-09-13T16:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-southeastern-louisiana-lions-vs-lsu-tigers-2025-09-20.json",
+      "game_id": "be4553c118c2689f5cf14fd9dd580c96",
+      "title": "Southeastern Louisiana Lions at LSU Tigers",
+      "datetime": "2025-09-20T19:45:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-temple-owls-vs-georgia-tech-yellow-jackets-2025-09-20.json",
+      "game_id": "e42cbc33af5d7a0d0045f0858e3cdf96",
+      "title": "Temple Owls at Georgia Tech Yellow Jackets",
+      "datetime": "2025-09-20T16:30:00-04:00",
       "has_detailed_data": true
     },
     {
@@ -61,6 +152,27 @@
       "has_detailed_data": true
     },
     {
+      "filename": "game-texas-tech-red-raiders-vs-utah-utes-2025-09-20.json",
+      "game_id": "3aa7e2c30d9051691c378e202279c6fc",
+      "title": "Texas Tech Red Raiders at Utah Utes",
+      "datetime": "2025-09-20T12:00:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-tulane-green-wave-vs-ole-miss-rebels-2025-09-20.json",
+      "game_id": "c2b9d588bf5c96622fea7d89d5f0c115",
+      "title": "Tulane Green Wave at Ole Miss Rebels",
+      "datetime": "2025-09-20T15:30:00-04:00",
+      "has_detailed_data": true
+    },
+    {
+      "filename": "game-uab-blazers-vs-tennessee-volunteers-2025-09-20.json",
+      "game_id": "6c5b117f5091e161561240ae95fe99a4",
+      "title": "UAB Blazers at Tennessee Volunteers",
+      "datetime": "2025-09-20T12:45:00-04:00",
+      "has_detailed_data": true
+    },
+    {
       "filename": "game-utep-vs-texas-2025-09-13.json",
       "game_id": "UTEP@TEX-2025-09-13",
       "title": "UTEP at Texas",
@@ -73,6 +185,462 @@
       "title": "Vanderbilt at South Carolina",
       "datetime": "2025-09-13T19:45:00-04:00",
       "has_detailed_data": true
+    },
+    {
+      "filename": null,
+      "game_id": "88a5a0bbf82083c43c806d40071b340e",
+      "title": "Rice Owls at Charlotte 49ers",
+      "datetime": "2025-09-18T23:37:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "f7f75940634e8ec62dac353f09be0677",
+      "title": "Tulsa Golden Hurricane at Oklahoma State Cowboys",
+      "datetime": "2025-09-19T23:37:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "4bab9cbac51f27b9f12617b760247074",
+      "title": "Iowa Hawkeyes at Rutgers Scarlet Knights",
+      "datetime": "2025-09-20T00:06:27Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "c0b1ac9a610885d8e56a1891adf68d57",
+      "title": "Arkansas Razorbacks at Memphis Tigers",
+      "datetime": "2025-09-20T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "a85c3e810f12d0a8bf904fa1a2795aa6",
+      "title": "North Texas Mean Green at Army Black Knights",
+      "datetime": "2025-09-20T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "a007e86de8d7082641da38233ddeb1b7",
+      "title": "Bowling Green Falcons at Louisville Cardinals",
+      "datetime": "2025-09-20T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "3f96037e0014fee643fc8b7a5efaa2d0",
+      "title": "Syracuse Orange at Clemson Tigers",
+      "datetime": "2025-09-20T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "13e04598f89948bf768f8f5456c9bc66",
+      "title": "Maryland Terrapins at Wisconsin Badgers",
+      "datetime": "2025-09-20T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "84ae085a96a7a0b18f00587c6136884f",
+      "title": "SMU Mustangs at TCU Horned Frogs",
+      "datetime": "2025-09-20T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "340927bb8c4eb3f1d8a13c5480646b51",
+      "title": "Wofford Terriers at Virginia Tech Hokies",
+      "datetime": "2025-09-20T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "3fdda89f6826aab0083880182b962b27",
+      "title": "UNLV Rebels at Miami (OH) RedHawks",
+      "datetime": "2025-09-20T16:05:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "cbf53f44970801ab245ec4d71276519e",
+      "title": "Wagner Seahawks at Central Michigan Chippewas",
+      "datetime": "2025-09-20T17:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "93682b6473bd43d01f8b37a24132ef75",
+      "title": "Ball State Cardinals at UConn Huskies",
+      "datetime": "2025-09-20T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "3a348b84db164ba3eddf330ec773c06d",
+      "title": "Troy Trojans at Buffalo Bulls",
+      "datetime": "2025-09-20T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "2c779264544468120afddc92b13c62e3",
+      "title": "Gardner-Webb Runnin Bulldogs at Ohio Bobcats",
+      "datetime": "2025-09-20T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "f652e81624955a035c53f10089a56e2e",
+      "title": "James Madison Dukes at Liberty Flames",
+      "datetime": "2025-09-20T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "038cd404ffe4a5be92eb7c38c93ffd68",
+      "title": "North Carolina Tar Heels at UCF Knights",
+      "datetime": "2025-09-20T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "12046fc0c213511df41b0eac4fc599ca",
+      "title": "Toledo Rockets at Western Michigan Broncos",
+      "datetime": "2025-09-20T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "19c25ee727d70638bb04d4e1bce612ea",
+      "title": "NC State Wolfpack at Duke Blue Devils",
+      "datetime": "2025-09-20T20:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "03977e2fadb000a89f6b3da8a5b174cd",
+      "title": "Northern Illinois Huskies at Mississippi State Bulldogs",
+      "datetime": "2025-09-20T20:15:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "9d1789382895a78e49e86838a9f8c44d",
+      "title": "Idaho Vandals at San Jose State Spartans",
+      "datetime": "2025-09-20T21:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "8a6aaf025db38602e739a75bd9cd79a2",
+      "title": "Arkansas State Red Wolves at Kennesaw State Owls",
+      "datetime": "2025-09-20T22:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "40e0ef27cf4ecc8195310d798dee3be9",
+      "title": "Delaware Blue Hens at Florida International Panthers",
+      "datetime": "2025-09-20T22:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "6be90d4768b93c43b3b3e55de45a3925",
+      "title": "West Virginia Mountaineers at Kansas Jayhawks",
+      "datetime": "2025-09-20T22:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "79e3a2057511c8c7faff696a65ad00a5",
+      "title": "Duquesne Dukes at Akron Zips",
+      "datetime": "2025-09-20T22:07:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "95902da68b0cef406dd2413e4399a320",
+      "title": "Boise State Broncos at Air Force Falcons",
+      "datetime": "2025-09-20T23:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "f65d280c50613dc0089571280476bc4a",
+      "title": "Coastal Carolina Chanticleers at South Alabama Jaguars",
+      "datetime": "2025-09-20T23:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "eba637423f4dc14f6c7039c4b25fa523",
+      "title": "Marshall Thundering Herd at Middle Tennessee Blue Raiders",
+      "datetime": "2025-09-20T23:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "c6c93f60d8369525b707f1f11c2cd0a1",
+      "title": "Nevada Wolf Pack at Western Kentucky Hilltoppers",
+      "datetime": "2025-09-20T23:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "5631867903a80876d292ca9634f4749f",
+      "title": "Maine Black Bears at Georgia Southern Eagles",
+      "datetime": "2025-09-20T23:07:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "fe8803c09e7627bae0109bc98e3ac310",
+      "title": "Murray State Racers at Jacksonville State Gamecocks",
+      "datetime": "2025-09-20T23:07:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "23ce9d15b3cbcee45fd1d13550ee2a1a",
+      "title": "Arizona State Sun Devils at Baylor Bears",
+      "datetime": "2025-09-20T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "2347ab8f55c1890bd4340b29032381fe",
+      "title": "BYU Cougars at East Carolina Pirates",
+      "datetime": "2025-09-20T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "c5fd71cee9ea79e7c966ec74aad118ce",
+      "title": "Southern Mississippi Golden Eagles at Louisiana Tech Bulldogs",
+      "datetime": "2025-09-20T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "a4df26224ac6173274f8facd32942ca4",
+      "title": "Stanford Cardinal at Virginia Cavaliers",
+      "datetime": "2025-09-20T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "8f3febddcf1504cb91454ac61d25caa8",
+      "title": "Washington Huskies at Washington State Cougars",
+      "datetime": "2025-09-20T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "a675cd586e97d568bbe7bed7d2a7170c",
+      "title": "McNeese State Cowboys at Utah State Aggies",
+      "datetime": "2025-09-21T00:07:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "81975f3dd4ec47b2bbd4e39edbe91815",
+      "title": "Nicholls State Colonels at Texas State Bobcats",
+      "datetime": "2025-09-21T00:07:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "cd4b42ea2180255f5116e232c2b2b819",
+      "title": "UL Monroe Warhawks at UTEP Miners",
+      "datetime": "2025-09-21T01:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "9cbec31b71841a2e3c176c793476259c",
+      "title": "UTSA Roadrunners at Colorado State Rams",
+      "datetime": "2025-09-21T01:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "0428899902640b8db4774cf8c53379d2",
+      "title": "Wyoming Cowboys at Colorado Buffaloes",
+      "datetime": "2025-09-21T02:15:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "8162cc38b88546a32110dee7af01cb60",
+      "title": "California Golden Bears at San Diego State Aztecs",
+      "datetime": "2025-09-21T02:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "4306843c52f1847f42d57fdc5e59652a",
+      "title": "Fresno State Bulldogs at Hawaii Rainbow Warriors",
+      "datetime": "2025-09-21T03:59:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "0aa30bdb9295af4b13475b7aabb2cfea",
+      "title": "Florida State Seminoles at Virginia Cavaliers",
+      "datetime": "2025-09-26T23:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "f921de41ef2918f15fc38af1091d6206",
+      "title": "TCU Horned Frogs at Arizona State Sun Devils",
+      "datetime": "2025-09-27T01:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "9c00e60e6d66a511cce53c0a0f5bde43",
+      "title": "Notre Dame Fighting Irish at Arkansas Razorbacks",
+      "datetime": "2025-09-27T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "5c42d56cd31ee19b3d7baba7a220b103",
+      "title": "Auburn Tigers at Texas A&M Aggies",
+      "datetime": "2025-09-27T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "9211d988a7a37c1171c0402c46bd3ed5",
+      "title": "USC Trojans at Illinois Fighting Illini",
+      "datetime": "2025-09-27T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "f0daa9672398345c140434330134b8e2",
+      "title": "LSU Tigers at Ole Miss Rebels",
+      "datetime": "2025-09-27T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "ad226dc6bd485c9b53acebd5ceae531f",
+      "title": "Tennessee Volunteers at Mississippi State Bulldogs",
+      "datetime": "2025-09-27T20:15:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "c0f4af0d027dc651e1eb60ede8415ec1",
+      "title": "Arizona Wildcats at Iowa State Cyclones",
+      "datetime": "2025-09-27T23:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "af7edb090e4bdcac144f29453cc9b416",
+      "title": "Indiana Hoosiers at Iowa Hawkeyes",
+      "datetime": "2025-09-27T23:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "38ec707066a2e19151e10f088803554b",
+      "title": "Ohio State Buckeyes at Washington Huskies",
+      "datetime": "2025-09-27T23:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "b41939807dad226f718eeb8fa56d7342",
+      "title": "Alabama Crimson Tide at Georgia Bulldogs",
+      "datetime": "2025-09-27T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "0aed7c08799beb9a4ed133518b11194a",
+      "title": "Oregon Ducks at Penn State Nittany Lions",
+      "datetime": "2025-09-27T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "ec5a3648e7b879155389f31cc523f840",
+      "title": "Oklahoma Sooners at Texas Longhorns",
+      "datetime": "2025-10-11T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "a17c0bb6637ad2192754d6d1059f7e92",
+      "title": "Ohio State Buckeyes at Michigan Wolverines",
+      "datetime": "2025-11-29T17:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
     }
   ]
 }

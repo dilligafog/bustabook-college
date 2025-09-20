@@ -1,0 +1,250 @@
+{
+  "game_meta": {
+    "game_id": "3aa7e2c30d9051691c378e202279c6fc",
+    "title": "Texas Tech Red Raiders at Utah Utes",
+    "datetime_local": "2025-09-20T12:00:00-04:00",
+    "venue": "Rice-Eccles Stadium, Salt Lake City, UT",
+    "tv": [
+      "FOX"
+    ],
+    "attendance_capacity": 51444,
+    "weather": {
+      "conditions": "Mostly sunny",
+      "temp_f": 71,
+      "wind_mph": 6,
+      "notes": "10 a.m. local kick; light winds; high altitude (~4,600 ft) could tax visiting depth"
+    },
+    "rankings": {
+      "home_ap": 16,
+      "away_ap": 17,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-15T12:00:00Z"
+    },
+    "hype_factors": [
+      "Top-25 Big 12 opener",
+      "FOX Big Noon Kickoff",
+      "First meeting since 1973",
+      "Altitude early-start test"
+    ],
+    "last_updated_utc": "2025-09-20T13:20:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Utah Utes",
+      "short": "UTAH",
+      "mascot": "Utes",
+      "conference": "Big 12",
+      "record": "3-0 (0-0)",
+      "recent_form": "3-game win streak; allowing 8.3 PPG",
+      "key_stats": {
+        "offense_rank": 45,
+        "defense_rank": 8,
+        "turnover_margin": "+1.3",
+        "ats_record": "3-0 ATS this season"
+      },
+      "motivation_factors": [
+        "Big 12 title ambitions",
+        "Home altitude edge with early kickoff"
+      ]
+    },
+    "away": {
+      "name": "Texas Tech Red Raiders",
+      "short": "TTU",
+      "mascot": "Red Raiders",
+      "conference": "Big 12",
+      "record": "3-0 (0-0)",
+      "recent_form": "Won last 3; scoring 58.0 PPG",
+      "key_stats": {
+        "offense_rank": 2,
+        "defense_rank": 23,
+        "turnover_margin": "+0.7",
+        "ats_record": "3-0 ATS this season"
+      },
+      "motivation_factors": [
+        "First true road test; statement game",
+        "Chance to prove offense vs elite defense"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "TTU leads 2-0",
+    "last_meeting": {
+      "date": "1973-09-15",
+      "score": "Texas Tech 29, Utah 22",
+      "note": "Last meeting before Utah joined Big 12"
+    },
+    "recent_trend": "No meetings since 1973; historical edge to TTU"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -175,
+        "implied_prob": 0.636,
+        "opening_line": -165,
+        "line_movement": "small move toward home",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T13:15:00Z"
+      },
+      "away": {
+        "price": 145,
+        "implied_prob": 0.408,
+        "opening_line": 145,
+        "line_movement": "steady midweek; narrower across books",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T13:15:00Z"
+      }
+    },
+    "spread": {
+      "line": -3.5,
+      "favorite": "UTAH",
+      "price_home": -108,
+      "price_away": -112,
+      "opening_line": -4.5,
+      "line_movement": "moved toward away by 1.0",
+      "public_betting": {
+        "home_percent": 38,
+        "away_percent": 62,
+        "note": "Texas Tech getting 62% of spread bets; 79% of money per VI"
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T13:15:00Z"
+    },
+    "total": {
+      "line": 57.5,
+      "over_price": -105,
+      "under_price": -110,
+      "opening_line": 60.5,
+      "line_movement": "moved down 3.0 points",
+      "public_betting": {
+        "over_percent": 40,
+        "under_percent": 60
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T13:15:00Z"
+    },
+    "consensus_note": "Market aligned around UTAH -3/-3.5 & 57–58; spread dipped from -4.5 as tickets piled on TTU; total bet down from 60.5."
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Utah 3-0 ATS; Texas Tech 3-0 ATS (2025)",
+      "Utah has lost only twice as a home favorite since 2022",
+      "Public on TTU dog while spread ticked down"
+    ],
+    "situational_spots": [
+      "Early 10 a.m. local kick favors physical home side",
+      "First road game for TTU; altitude + crowd factor",
+      "Total opened high and was bet down; contrarian over spot"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "UTAH -175",
+      "confidence": 0.62,
+      "rationale": "Elite scoring defense at home with altitude edge; market still short of true win prob",
+      "value_assessment": "Decent value as public leans TTU"
+    },
+    "spread": {
+      "pick": "UTAH -3.5",
+      "confidence": 0.64,
+      "rationale": "Line dropped from -4.5 with tickets on dog; prefer fading public with superior defense/home edge",
+      "value_assessment": "Solid value at -3.5 or better"
+    },
+    "total": {
+      "pick": "OVER 57.5",
+      "confidence": 0.58,
+      "rationale": "Tickets on Under but handle leans Over; TTU top-2 offense vs pace-heavy Utah ground game",
+      "value_assessment": "Slight value after 3-point drop"
+    },
+    "best_bet": {
+      "pick": "UTAH -3.5",
+      "confidence": 0.64,
+      "rationale": "Fade popular dog; home defensive ceiling + situational edges"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "TTU QB Behren Morton cleared after Week 1 leg scare; starting and productive since",
+      "Utah under Whittingham limits non–season-ending injury info; held out multiple starters vs Cal Poly earlier this month"
+    ],
+    "matchup_notes": [
+      "TTU total offense 602.7 ypg (No. 2) vs Utah scoring defense 8.3 ppg allowed (No. 8)",
+      "TTU has played all 3 games at home; first road trip comes here"
+    ],
+    "coaching_notes": [
+      "Whittingham’s Utes strong at home as favorites since 2022",
+      "McGuire’s TTU off to fast offensive starts; 174–35 aggregate score through 3 games"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "Winner gains early Top-15 momentum; outside CFP positioning in play",
+    "conference_impact": "Early Big 12 pecking-order game with tiebreaker stakes",
+    "narrative": "Explosive TTU offense vs suffocating Utah defense at altitude",
+    "tv_storylines": [
+      "Behren Morton vs Devon Dampier duel",
+      "First meeting since 1973; Big Noon in SLC"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "DraftKings Event Page",
+      "url": "[https://sportsbook.draftkings.com/event/texas-tech-%40-utah/32365320](https://sportsbook.draftkings.com/event/texas-tech-%40-utah/32365320)",
+      "asof_utc": "2025-09-20T13:15:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "VegasInsider Week 4 Update",
+      "url": "[https://www.vegasinsider.com/college-football/odds/las-vegas/week-4/](https://www.vegasinsider.com/college-football/odds/las-vegas/week-4/)",
+      "asof_utc": "2025-09-20T13:10:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "OddsCrowd Public Splits",
+      "url": "[https://oddscrowd.com/games/texas-tech-vs-utah-ncaaf-September-20-2025/5488587/game-preview](https://oddscrowd.com/games/texas-tech-vs-utah-ncaaf-September-20-2025/5488587/game-preview)",
+      "asof_utc": "2025-09-20T13:12:00Z"
+    },
+    {
+      "type": "news",
+      "label": "ESPN Game Page",
+      "url": "[https://www.espn.com/college-football/game/](https://www.espn.com/college-football/game/)*/gameId/401677799",
+      "asof_utc": "2025-09-20T13:05:00Z"
+    },
+    {
+      "type": "news",
+      "label": "CBS Sports Preview (opening total note)",
+      "url": "[https://www.cbssports.com/college-football/news/texas-tech-vs-utah-prediction-odds-line-time-2025-college-football-week-4-picks-from-proven-model/](https://www.cbssports.com/college-football/news/texas-tech-vs-utah-prediction-odds-line-time-2025-college-football-week-4-picks-from-proven-model/)",
+      "asof_utc": "2025-09-20T13:08:00Z"
+    },
+    {
+      "type": "venue",
+      "label": "University of Utah – Rice-Eccles Stadium",
+      "url": "[https://utahutes.com/sports/2015/12/10/facilities-reecles-html](https://utahutes.com/sports/2015/12/10/facilities-reecles-html)",
+      "asof_utc": "2025-09-20T13:00:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "AccuWeather Hourly – Salt Lake City",
+      "url": "[https://www.accuweather.com/en/us/salt-lake-city/84111/hourly-weather-forecast/331226](https://www.accuweather.com/en/us/salt-lake-city/84111/hourly-weather-forecast/331226)",
+      "asof_utc": "2025-09-20T13:05:00Z"
+    },
+    {
+      "type": "history",
+      "label": "Winsipedia – TTU vs Utah",
+      "url": "[https://winsipedia.com/texas-tech/vs/utah](https://winsipedia.com/texas-tech/vs/utah)",
+      "asof_utc": "2025-09-20T13:04:00Z"
+    },
+    {
+      "type": "team_stats",
+      "label": "NCAA Stats – Scoring Defense",
+      "url": "[https://www.ncaa.com/stats/football/FBS](https://www.ncaa.com/stats/football/FBS)",
+      "asof_utc": "2025-09-20T13:06:00Z"
+    },
+    {
+      "type": "team_stats",
+      "label": "ESPN Team Leaders – Texas Tech",
+      "url": "[https://www.espn.com/college-football/stats/](https://www.espn.com/college-football/stats/)*/view/team",
+      "asof_utc": "2025-09-20T13:07:00Z"
+    }
+  ]
+}

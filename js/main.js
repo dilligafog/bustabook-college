@@ -89,7 +89,7 @@ class BustaBookApp {
             console.log(`Loading ${gameEntries.length} games...`);
             this.games = [];
             
-            // Load each game (either from individual file or create from scores data)
+            // Load each game but only include those with detailed JSON files
             for (const gameEntry of gameEntries) {
                 try {
                     if (gameEntry.filename && gameEntry.has_detailed_data) {
@@ -101,20 +101,7 @@ class BustaBookApp {
                             this.games.push(gameData);
                             console.log(`Loaded detailed: ${gameData.game_meta.title} (ID: ${gameEntry.game_id})`);
                         }
-                    } else if (gameEntry.score_only) {
-                        // Create basic game object from scores data
-                        const basicGame = {
-                            game_meta: {
-                                game_id: gameEntry.game_id,
-                                title: gameEntry.title,
-                                datetime_local: gameEntry.datetime
-                            },
-                            picks: null, // No betting data available
-                            odds: null
-                        };
-                        this.games.push(basicGame);
-                        console.log(`Created basic: ${gameEntry.title} (score-only)`);
-                    }
+                    } // Ignore score-only games on index per requirement
                 } catch (error) {
                     console.warn(`Failed to load ${gameEntry.game_id}:`, error);
                 }
@@ -146,11 +133,11 @@ class BustaBookApp {
 
         // Sort games by status priority and then by date
         const sortedGames = this.games.sort((a, b) => {
-            const statusA = DateUtils.getGameStatus(a.game_meta.datetime_local);
-            const statusB = DateUtils.getGameStatus(b.game_meta.datetime_local);
+            const statusA = DateUtils.getGameStatus(a.game_meta.datetime_local, this.scores[a.game_meta.game_id]);
+            const statusB = DateUtils.getGameStatus(b.game_meta.datetime_local, this.scores[b.game_meta.game_id]);
             
             // Priority order: in-progress, upcoming, completed
-            const statusPriority = { 'in-progress': 0, 'upcoming': 1, 'completed': 2 };
+            const statusPriority = { 'in_progress': 0, 'upcoming': 1, 'completed': 2 };
             
             if (statusPriority[statusA] !== statusPriority[statusB]) {
                 return statusPriority[statusA] - statusPriority[statusB];
@@ -162,11 +149,32 @@ class BustaBookApp {
             return dateA - dateB;
         });
 
-        // Group games by day within each status
+        // Group games by day
         const gamesByDay = this.groupGamesByDay(sortedGames);
-        
+
+        // Compute ordered day list: today first, then future (asc), then past (desc)
+        const allDays = Object.keys(gamesByDay);
+        const todayKey = DateUtils.getDateKey(new Date().toISOString());
+        const todayDate = new Date(todayKey);
+
+        const today = [];
+        const future = [];
+        const past = [];
+        allDays.forEach(d => {
+            if (d === todayKey) {
+                today.push(d);
+            } else {
+                const dd = new Date(d);
+                if (!isNaN(dd.getTime()) && dd > todayDate) future.push(d);
+                else past.push(d);
+            }
+        });
+        future.sort((a, b) => new Date(a) - new Date(b));
+        past.sort((a, b) => new Date(b) - new Date(a));
+        const orderedDays = [...today, ...future, ...past];
+
         // Render the grouped games
-        this.gamesContainer.innerHTML = this.renderGamesByDay(gamesByDay);
+        this.gamesContainer.innerHTML = this.renderGamesByDay(gamesByDay, orderedDays);
     }
 
     /**
@@ -224,9 +232,9 @@ class BustaBookApp {
     /**
      * Render games organized by day with proper separation
      */
-    renderGamesByDay(gamesByDay) {
+    renderGamesByDay(gamesByDay, orderedDays = null) {
         let html = '';
-        const days = Object.keys(gamesByDay);
+        const days = orderedDays || Object.keys(gamesByDay);
         
         days.forEach((day, index) => {
             const dayGames = gamesByDay[day];
@@ -302,7 +310,7 @@ class BustaBookApp {
         return `
             <div class="game-card bg-white rounded-lg border-2 ${statusColors[status]} shadow-lg hover:shadow-xl transition-shadow duration-300 relative">
                 <!-- Status Badge -->
-                <div class="status-badge text-xs font-bold px-2 py-1 rounded-br-lg inline-block ${status === 'in_progress' ? 'bg-green-500 text-white' : status === 'upcoming' ? 'bg-blue-500 text-white' : 'bg-gray-500 text-white'}">>
+                <div class="status-badge text-xs font-bold px-2 py-1 rounded-br-lg inline-block ${status === 'in_progress' ? 'bg-green-500 text-white' : status === 'upcoming' ? 'bg-blue-500 text-white' : 'bg-gray-500 text-white'}">
                     ${statusLabels[status]}
                 </div>
                 
@@ -468,10 +476,11 @@ class BustaBookApp {
         console.log(`📊 Final Score: ${gameScore.away_team?.short || 'AWAY'} ${awayScore} - ${gameScore.home_team?.short || 'HOME'} ${homeScore}`);
         
         // Get team info for dynamic matching
-        const awayTeamName = gameScore.away_team?.name?.toLowerCase() || '';
-        const awayTeamShort = gameScore.away_team?.short?.toLowerCase() || '';
-        const homeTeamName = gameScore.home_team?.name?.toLowerCase() || '';
-        const homeTeamShort = gameScore.home_team?.short?.toLowerCase() || '';
+    const safeLower = (v) => typeof v === 'string' ? v.toLowerCase() : '';
+    const awayTeamName = safeLower(gameScore.away_team?.name);
+    const awayTeamShort = safeLower(gameScore.away_team?.short);
+    const homeTeamName = safeLower(gameScore.home_team?.name);
+    const homeTeamShort = safeLower(gameScore.home_team?.short);
         
         // Handle moneyline bets FIRST (e.g., "TENN +145 ML", "Alabama ML", "Home ML")
         if (pick.includes('ml') || pick.includes('moneyline')) {

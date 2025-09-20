@@ -1,0 +1,240 @@
+{
+  "game_meta": {
+    "game_id": "efb65d1caa41db87771cf8d31fda1c03",
+    "title": "Illinois Fighting Illini at Indiana Hoosiers",
+    "datetime_local": "2025-09-20T19:30:00-04:00",
+    "venue": "Merchants Bank Field at Memorial Stadium, Bloomington, IN",
+    "tv": [
+      "NBC",
+      "Peacock"
+    ],
+    "attendance_capacity": 52626,
+    "weather": {
+      "conditions": "Partly/Mostly Cloudy",
+      "temp_f": 79,
+      "wind_mph": 3,
+      "notes": "Low wind; small shower chance earlier, improving at kickoff"
+    },
+    "rankings": {
+      "home_ap": 19,
+      "away_ap": 9,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-14T18:00:00Z"
+    },
+    "hype_factors": [
+      "Ranked Big Ten night game",
+      "Early conference stakes",
+      "QB duel: Altmyer vs Mendoza",
+      "Illinois chasing 4-0; IU validation test"
+    ],
+    "last_updated_utc": "2025-09-20T14:59:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Indiana Hoosiers",
+      "short": "IU",
+      "mascot": "Hoosiers",
+      "conference": "Big Ten",
+      "record": "3-0 (0-0)",
+      "recent_form": "156 points in 3 games; 73-0 last week",
+      "key_stats": {
+        "offense_rank": 8,
+        "defense_rank": 9,
+        "turnover_margin": "+2.0",
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "Top-25 validation at home",
+        "Primetime statement game"
+      ]
+    },
+    "away": {
+      "name": "Illinois Fighting Illini",
+      "short": "ILL",
+      "mascot": "Fighting Illini",
+      "conference": "Big Ten",
+      "record": "3-0 (0-0)",
+      "recent_form": "135-22 point differential; 38-0 last week",
+      "key_stats": {
+        "offense_rank": 12,
+        "defense_rank": 5,
+        "turnover_margin": "+2.0",
+        "ats_record": "3-0 ATS this season"
+      },
+      "motivation_factors": [
+        "Protect Top-10 ranking",
+        "Road prove-it spot"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "Illinois leads 46-26-2",
+    "last_meeting": {
+      "date": "2023-11-11",
+      "score": "Illinois 48, Indiana 45 (OT)",
+      "note": "OT thriller in Champaign"
+    },
+    "recent_trend": "Series 5-5 over last 10"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -245,
+        "implied_prob": 0.71,
+        "opening_line": -194,
+        "line_movement": "moved toward home",
+        "book": "Consensus (Action/FD)",
+        "asof_utc": "2025-09-20T14:50:00Z"
+      },
+      "away": {
+        "price": 220,
+        "implied_prob": 0.313,
+        "opening_line": 150,
+        "line_movement": "lengthened vs open",
+        "book": "Consensus (Action/FD)",
+        "asof_utc": "2025-09-20T14:50:00Z"
+      }
+    },
+    "spread": {
+      "line": -6.5,
+      "favorite": "IU",
+      "price_home": -115,
+      "price_away": -105,
+      "opening_line": -4.5,
+      "line_movement": "moved toward home by ~2 points",
+      "public_betting": {
+        "home_percent": 38,
+        "away_percent": 62,
+        "note": "Public leaning road dog +6.5 (Covers consensus)"
+      },
+      "book": "Consensus (Action/Covers)",
+      "asof_utc": "2025-09-20T14:50:00Z"
+    },
+    "total": {
+      "line": 52.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 55.5,
+      "line_movement": "moved down 3.0 points",
+      "public_betting": {
+        "over_percent": 63,
+        "under_percent": 37
+      },
+      "book": "Consensus (Action/Covers)",
+      "asof_utc": "2025-09-20T14:50:00Z"
+    },
+    "consensus_note": "Market steamed IU and UNDER; totals drop despite Over consensus suggests sharp under money"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Illinois +6 turnover margin leads Power 4",
+      "Indiana top-10 total defense by yards allowed",
+      "Illinois 3-0 ATS; Indiana 2-1 ATS",
+      "Total dropped from 55.5 to 52.5 pregame"
+    ],
+    "situational_spots": [
+      "Primetime Big Ten opener with public on dog and Over",
+      "IU RB injury could tilt game plan toward Mendoza/Sarratt passing",
+      "Illini ball security profile supports dog/value and UNDER"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "Illinois +220",
+      "confidence": 0.55,
+      "rationale": "Plus-money on elite ball security vs. IU missing key RB; small edge if game stays low-scoring",
+      "value_assessment": "Modest value"
+    },
+    "spread": {
+      "pick": "Indiana -6.5",
+      "confidence": 0.6,
+      "rationale": "Line move to fave with public on dog; IU defense/top-10 yardage profile at home",
+      "value_assessment": "Solid if -6 shows"
+    },
+    "total": {
+      "pick": "UNDER 52.5",
+      "confidence": 0.68,
+      "rationale": "Totals drop vs Over consensus, two strong defenses, and RB injury lowering explosive rush rate",
+      "value_assessment": "Best CLV path after steam down"
+    },
+    "best_bet": {
+      "pick": "UNDER 52.5",
+      "confidence": 0.68,
+      "rationale": "Sharp-vs-public split plus defensive metrics and injury context"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "Indiana RB Lee Beebe Jr. out for season (knee)",
+      "Illinois WR/KR Hank Beatty surged early; special-teams threat"
+    ],
+    "matchup_notes": [
+      "IU’s top-10 total defense vs Illini’s top-5 scoring defense start",
+      "Illinois +6 turnover margin; zero turnovers through 3 games"
+    ],
+    "coaching_notes": [
+      "Bret Bielema in Year 5 with defense-first identity",
+      "Curt Cignetti Year 2, transfer-fueled offense with QB Fernando Mendoza"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "Winner stays in early playoff conversation",
+    "conference_impact": "Sets early Big Ten pecking order",
+    "narrative": "Hot-start upstarts collide under the lights",
+    "tv_storylines": [
+      "Top-25 Big Ten night showcase on NBC",
+      "Turnover battle: disciplined Illini vs swarming IU D"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "Action Network Game Page",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/illinois-indiana-score-odds-september-20-2025/254491](https://www.actionnetwork.com/ncaaf-game/illinois-indiana-score-odds-september-20-2025/254491)",
+      "asof_utc": "2025-09-20T14:50:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "Covers Odds & Consensus",
+      "url": "[https://www.covers.com/ncaaf/illinois-vs-indiana-prediction-picks-odds-september-20-2025](https://www.covers.com/ncaaf/illinois-vs-indiana-prediction-picks-odds-september-20-2025)",
+      "asof_utc": "2025-09-20T14:50:00Z"
+    },
+    {
+      "type": "news",
+      "label": "Daily Hoosier Gameday (TV/Weather)",
+      "url": "[https://www.thedailyhoosier.com/iu-football-game-day-illinois-at-indiana-primer-and-prediction/](https://www.thedailyhoosier.com/iu-football-game-day-illinois-at-indiana-primer-and-prediction/)",
+      "asof_utc": "2025-09-20T14:40:00Z"
+    },
+    {
+      "type": "venue",
+      "label": "IU Facilities (Capacity)",
+      "url": "[https://iuhoosiers.com/facilities/memorial-stadium---football/6](https://iuhoosiers.com/facilities/memorial-stadium---football/6)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    {
+      "type": "history",
+      "label": "IU Opponent History vs Illinois",
+      "url": "[https://iuhoosiers.com/sports/football/opponent-history/university-of-illinois/76](https://iuhoosiers.com/sports/football/opponent-history/university-of-illinois/76)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    {
+      "type": "rankings",
+      "label": "AP Top 25 (Week 4)",
+      "url": "[https://www.ncaa.com/rankings/football/fbs/associated-press](https://www.ncaa.com/rankings/football/fbs/associated-press)",
+      "asof_utc": "2025-09-20T14:30:00Z"
+    },
+    {
+      "type": "injury",
+      "label": "AP/ESPN on Lee Beebe Jr. injury",
+      "url": "[https://apnews.com/article/indiana-hoosiers-illini-big-ten-5659e6f84d7a3856f09482717bf68e71](https://apnews.com/article/indiana-hoosiers-illini-big-ten-5659e6f84d7a3856f09482717bf68e71)",
+      "asof_utc": "2025-09-20T14:45:00Z"
+    },
+    {
+      "type": "trend",
+      "label": "VSiN line move note",
+      "url": "[https://vsin.com/college-football/illinois-vs-indiana-preview-and-prediction-september-20-2025/](https://vsin.com/college-football/illinois-vs-indiana-preview-and-prediction-september-20-2025/)",
+      "asof_utc": "2025-09-20T14:48:00Z"
+    }
+  ]
+}

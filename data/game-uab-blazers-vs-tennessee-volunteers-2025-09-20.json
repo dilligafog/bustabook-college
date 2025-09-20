@@ -1,0 +1,249 @@
+{
+  "game_meta": {
+    "game_id": "6c5b117f5091e161561240ae95fe99a4",
+    "title": "UAB Blazers at Tennessee Volunteers",
+    "datetime_local": "2025-09-20T12:45:00-04:00",
+    "venue": "Neyland Stadium, Knoxville, TN",
+    "tv": [
+      "SEC Network"
+    ],
+    "attendance_capacity": 101915,
+    "weather": {
+      "conditions": "Mostly sunny",
+      "temp_f": 81,
+      "wind_mph": 2,
+      "notes": "Hot noon kick, negligible wind; minimal weather impact"
+    },
+    "rankings": {
+      "home_ap": 15,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-15T00:00:00Z"
+    },
+    "hype_factors": [
+      "Top-15 SEC team in TV window",
+      "Bounce-back spot after OT loss to Georgia",
+      "First meeting since 2019",
+      "Trent Dilfer Year 3 SEC showcase"
+    ],
+    "last_updated_utc": "2025-09-20T13:25:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Tennessee Volunteers",
+      "short": "TENN",
+      "mascot": "Volunteers",
+      "conference": "SEC",
+      "record": "2-1 (0-1)",
+      "recent_form": "OT loss to #6 UGA; 3-0 to Over; 3-0 ATS",
+      "key_stats": {
+        "offense_rank": 6,
+        "defense_rank": 85,
+        "turnover_margin": null,
+        "ats_record": "3-0 ATS this season"
+      },
+      "motivation_factors": [
+        "Bounce-back before SEC slate",
+        "Depth reps with injuries on defense"
+      ]
+    },
+    "away": {
+      "name": "UAB Blazers",
+      "short": "UAB",
+      "mascot": "Blazers",
+      "conference": "American",
+      "record": "2-1 (0-1)",
+      "recent_form": "Beat Akron 31-28; defense leaking yards; 3-0 to Over",
+      "key_stats": {
+        "offense_rank": 40,
+        "defense_rank": 131,
+        "turnover_margin": null,
+        "ats_record": "1-2 ATS this season"
+      },
+      "motivation_factors": [
+        "SEC stage underdogs",
+        "Nothing-to-lose spoiler mindset"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "TENN leads 5-0",
+    "last_meeting": {
+      "date": "2019-11-02",
+      "score": "TENN 30, UAB 7",
+      "note": "Last meeting in Knoxville"
+    },
+    "recent_trend": "TENN won all 5 meetings"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -8000,
+        "implied_prob": 0.988,
+        "opening_line": null,
+        "line_movement": "n/a",
+        "book": "VegasInsider Consensus",
+        "asof_utc": "2025-09-20T13:20:00Z"
+      },
+      "away": {
+        "price": 1800,
+        "implied_prob": 0.053,
+        "opening_line": null,
+        "line_movement": "n/a",
+        "book": "VegasInsider Consensus",
+        "asof_utc": "2025-09-20T13:20:00Z"
+      }
+    },
+    "spread": {
+      "line": -39.5,
+      "favorite": "HOME",
+      "price_home": -102,
+      "price_away": -120,
+      "opening_line": -35,
+      "line_movement": "moved toward home by 4.5 points",
+      "public_betting": {
+        "home_percent": 57,
+        "away_percent": 43,
+        "note": "Slight lean to favorite"
+      },
+      "book": "FanDuel",
+      "asof_utc": "2025-09-20T13:20:00Z"
+    },
+    "total": {
+      "line": 69.5,
+      "over_price": -105,
+      "under_price": -115,
+      "opening_line": 63.5,
+      "line_movement": "moved up 6.0 points",
+      "public_betting": {
+        "over_percent": 56,
+        "under_percent": 44
+      },
+      "book": "FanDuel",
+      "asof_utc": "2025-09-20T13:20:00Z"
+    },
+    "consensus_note": "Massive favorite; market pushed spread from ~-35 to ~-39.5 and total up into high 60s across major books"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "TENN is 3-0 ATS this season",
+      "Both teams 3-0 to the Over in 2025",
+      "UAB is 5-14 ATS in last 19 road games"
+    ],
+    "situational_spots": [
+      "Backdoor cover risk if TENN empties bench late",
+      "Look-ahead/tune-up spot for TENN before SEC play"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "Pass",
+      "confidence": 0.5,
+      "rationale": "No playable edge at extreme prices",
+      "value_assessment": "No value"
+    },
+    "spread": {
+      "pick": "UAB +39.5",
+      "confidence": 0.66,
+      "rationale": "Inflated number after steam; backdoor live with TENN likely to rotate and shorten game late",
+      "value_assessment": "Good value vs market peak"
+    },
+    "total": {
+      "pick": "UNDER 69.5",
+      "confidence": 0.58,
+      "rationale": "Market moved up ~6 pts; noon kick, low wind, potential pace down late with subs",
+      "value_assessment": "Slight value after steam"
+    },
+    "best_bet": {
+      "pick": "UAB +39.5",
+      "confidence": 0.66,
+      "rationale": "Big-number underdog in a likely rotations game; public modestly on favorite"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "TENN CB Rickey Gibson III out; DL Daevin Hobbs out; OL David Sanders Jr questionable",
+      "UAB defensive depth banged up (e.g., DL N. Tate, DL P. Simmons questionable)"
+    ],
+    "matchup_notes": [
+      "TENN’s #6 total offense vs UAB’s bottom-ranked total defense",
+      "Low wind and warm temps favor efficient offense but rotations may cap late scoring"
+    ],
+    "coaching_notes": [
+      "Heupel’s tempo offense humming with QB Joey Aguilar",
+      "Dilfer’s Blazers aggressive in pass game; vulnerable on defense"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "Minimal; TENN stays on track with win",
+    "conference_impact": "Non-conference tune-up before SEC stretch",
+    "narrative": "Heavyweight vs big dog; backdoor drama more interesting than winner",
+    "tv_storylines": [
+      "Aguilar-Heisman buzz after UGA thriller",
+      "Jalen Kitna SEC stage test"
+    ]
+  },
+  "sources": [
+    {
+      "type": "news",
+      "label": "UAB Game Notes / Preview",
+      "url": "[https://uabsports.com/news/2025/9/18/football-uab-travels-to-face-no-15-tennessee-on-saturday-afternoon](https://uabsports.com/news/2025/9/18/football-uab-travels-to-face-no-15-tennessee-on-saturday-afternoon)",
+      "asof_utc": "2025-09-20T13:10:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "FanDuel Research (current lines)",
+      "url": "[https://www.fanduel.com/research/tennessee-vs-uab-college-football-odds-picks-best-bets-for-9-20-2025](https://www.fanduel.com/research/tennessee-vs-uab-college-football-odds-picks-best-bets-for-9-20-2025)",
+      "asof_utc": "2025-09-20T13:20:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "VegasInsider Consensus (ML & spread screen)",
+      "url": "[https://www.vegasinsider.com/college-football/odds/las-vegas/](https://www.vegasinsider.com/college-football/odds/las-vegas/)",
+      "asof_utc": "2025-09-20T13:18:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Covers Consensus",
+      "url": "[https://contests.covers.com/consensus/matchupconsensusdetails/f556afa4-208f-4ddb-a9b3-b2c201483579](https://contests.covers.com/consensus/matchupconsensusdetails/f556afa4-208f-4ddb-a9b3-b2c201483579)",
+      "asof_utc": "2025-09-20T13:15:00Z"
+    },
+    {
+      "type": "news",
+      "label": "Rocky Top Insider (line move & injuries)",
+      "url": "[https://www.rockytopinsider.com/2025/09/17/where-the-betting-line-currently-sits-for-tennessee-vs-uab-in-week-four-action/](https://www.rockytopinsider.com/2025/09/17/where-the-betting-line-currently-sits-for-tennessee-vs-uab-in-week-four-action/)",
+      "asof_utc": "2025-09-20T13:12:00Z"
+    },
+    {
+      "type": "news",
+      "label": "UT Athletics / Neyland Capacity",
+      "url": "[https://utsports.com/facilities/neyland-stadium/54](https://utsports.com/facilities/neyland-stadium/54)",
+      "asof_utc": "2025-09-20T13:08:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "BetMGM Blog (ATS/total trends)",
+      "url": "[https://sports.betmgm.com/en/blog/college-football/uab-tennessee-prediction-odds-player-prop-bets-picks-ncaaf-week-4-jaa/](https://sports.betmgm.com/en/blog/college-football/uab-tennessee-prediction-odds-player-prop-bets-picks-ncaaf-week-4-jaa/)",
+      "asof_utc": "2025-09-20T13:16:00Z"
+    },
+    {
+      "type": "news",
+      "label": "WRAL Sports Fan (team ranks snapshot)",
+      "url": "[https://www.wralsportsfan.com/no-15-tennessee-squares-off-against-uab-in-week-4/22164486/](https://www.wralsportsfan.com/no-15-tennessee-squares-off-against-uab-in-week-4/22164486/)",
+      "asof_utc": "2025-09-20T13:14:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Action Network Game Page",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/uab-blazers-tennessee-volunteers/254570](https://www.actionnetwork.com/ncaaf-game/uab-blazers-tennessee-volunteers/254570)",
+      "asof_utc": "2025-09-20T13:17:00Z"
+    },
+    {
+      "type": "news",
+      "label": "UT vs UAB TV/Time",
+      "url": "[https://utsports.com/news/2025/9/19/football-tennessee-vs-uab-gameday](https://utsports.com/news/2025/9/19/football-tennessee-vs-uab-gameday)",
+      "asof_utc": "2025-09-20T13:13:00Z"
+    }
+  ]
+}

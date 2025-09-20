@@ -1,0 +1,225 @@
+{
+  "game_meta": {
+    "game_id": "c2b9d588bf5c96622fea7d89d5f0c115",
+    "title": "Tulane Green Wave at Ole Miss Rebels",
+    "datetime_local": "2025-09-20T15:30:00-04:00",
+    "venue": "Vaught–Hemingway Stadium at Hollingsworth Field, Oxford, MS",
+    "tv": [
+      "ESPN"
+    ],
+    "attendance_capacity": 64038,
+    "weather": {
+      "conditions": "Mostly sunny, hot",
+      "temp_f": 91,
+      "wind_mph": 5,
+      "notes": "Heat near 90°F at kickoff, light wind; conditioning/tempo could slow late."
+    },
+    "rankings": {
+      "home_ap": 13,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-14T18:00:00Z"
+    },
+    "hype_factors": [
+      "Historic rivalry matchup (Ole Miss 13-game series streak)",
+      "Ole Miss QB injury uncertainty",
+      "G5 upset buzz with Tulane receiving votes",
+      "Lookahead spot for Ole Miss next week"
+    ],
+    "last_updated_utc": "2025-09-20T13:58:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Ole Miss Rebels",
+      "short": "MISS",
+      "mascot": "Rebels",
+      "conference": "SEC",
+      "record": "3-0 (0-0)",
+      "recent_form": "3-0 start; explosive offense ~542 YPG, failed to cover last 2",
+      "key_stats": {
+        "offense_rank": 11,
+        "defense_rank": 65,
+        "turnover_margin": "-0.7/g",
+        "ats_record": "1-2 ATS this season"
+      },
+      "motivation_factors": [
+        "Protect Top-15 ranking and playoff path",
+        "Backup QB audition while starter recovers"
+      ]
+    },
+    "away": {
+      "name": "Tulane Green Wave",
+      "short": "TULN",
+      "mascot": "Green Wave",
+      "conference": "AAC",
+      "record": "3-0 (0-0)",
+      "recent_form": "3-game win streak; +6 turnover margin; upset Duke last week",
+      "key_stats": {
+        "offense_rank": 49,
+        "defense_rank": 35,
+        "turnover_margin": "+2.0/g",
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "National TV upset shot vs Top-15",
+        "NY6/league credibility boost"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "MISS leads 45-28",
+    "last_meeting": {
+      "date": "2023-09-09",
+      "score": "MISS 37, TULN 20",
+      "note": "Ole Miss pulled away late in New Orleans"
+    },
+    "recent_trend": "MISS has won 13 straight in series"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -465,
+        "implied_prob": 0.823,
+        "opening_line": -465,
+        "line_movement": "steady",
+        "book": "Consensus",
+        "asof_utc": "2025-09-20T13:55:00Z"
+      },
+      "away": {
+        "price": 350,
+        "implied_prob": 0.222,
+        "opening_line": 350,
+        "line_movement": "steady",
+        "book": "Consensus",
+        "asof_utc": "2025-09-20T13:55:00Z"
+      }
+    },
+    "spread": {
+      "line": -12.5,
+      "favorite": "MISS",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -12.5,
+      "line_movement": "flat (−11.5↔−12.5 all week)",
+      "public_betting": {
+        "home_percent": 53,
+        "away_percent": 47,
+        "note": "Slight majority on favorite"
+      },
+      "book": "Consensus",
+      "asof_utc": "2025-09-20T13:55:00Z"
+    },
+    "total": {
+      "line": 61.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 57.5,
+      "line_movement": "moved up 4.0 points",
+      "public_betting": {
+        "over_percent": 68,
+        "under_percent": 32
+      },
+      "book": "Consensus",
+      "asof_utc": "2025-09-20T13:55:00Z"
+    },
+    "consensus_note": "Spread stable across major books; total steamed higher into low 60s."
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Tulane +6 turnover margin vs Ole Miss −2 this season",
+      "Ole Miss failed to cover last two games",
+      "VSiN model flags value to the UNDER around 61.5"
+    ],
+    "situational_spots": [
+      "Potential lookahead for Ole Miss with LSU on deck",
+      "Hot afternoon kickoff may slow tempo and drive rate"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "TULN +350",
+      "confidence": 0.56,
+      "rationale": "QB uncertainty for MISS plus Tulane’s elite TO margin creates live dog profile",
+      "value_assessment": "Small plus-money value"
+    },
+    "spread": {
+      "pick": "TULN +12.5",
+      "confidence": 0.64,
+      "rationale": "Market steady near −12.5 with public on favorite; defensive/TO edges for dog",
+      "value_assessment": "Solid value at key numbers 12/13"
+    },
+    "total": {
+      "pick": "UNDER 61.5",
+      "confidence": 0.66,
+      "rationale": "Heat + QB injury + model lean to Under after 4-point steam up",
+      "value_assessment": "Best value after total inflated"
+    },
+    "best_bet": {
+      "pick": "UNDER 61.5",
+      "confidence": 0.66,
+      "rationale": "Multiple factors (weather, QB status, model lean) align; market moved into value"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "MISS starting QB Austin Simmons doubtful (ankle)",
+      "Tulane no major new injuries reported"
+    ],
+    "matchup_notes": [
+      "MISS offense rank ~11 by total offense; Tulane top-tier TO margin",
+      "Series: MISS leads 45-28; last win for TULN in 1988"
+    ],
+    "coaching_notes": [
+      "Lane Kiffin offense vs Jon Sumrall’s balanced, turnover-hunting defense",
+      "MISS defense vulnerable vs QB runs; TULN QB Retzlaff dual-threat"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "MISS needs convincing win to stay in Top-10 hunt",
+    "conference_impact": "Non-conf but resume-shaping for both (NY6 path for TULN)",
+    "narrative": "Upset-minded AAC power vs banged-up Top-15 SEC host",
+    "tv_storylines": [
+      "QB watch: Will Simmons play or is it Chambliss again?",
+      "13-game Ole Miss streak vs Tulane — can the Wave snap it?"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "DraftKings Sportsbook",
+      "url": "[https://sportsbook.draftkings.com/event/tulane-%40-ole-miss/32773477](https://sportsbook.draftkings.com/event/tulane-%40-ole-miss/32773477)",
+      "asof_utc": "2025-09-20T13:55:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Covers Consensus",
+      "url": "[https://contests.covers.com/consensus/matchupconsensusdetails/bbfe5a59-11e7-46de-a5f6-b2c20148a85f](https://contests.covers.com/consensus/matchupconsensusdetails/bbfe5a59-11e7-46de-a5f6-b2c20148a85f)",
+      "asof_utc": "2025-09-20T13:45:00Z"
+    },
+    {
+      "type": "news",
+      "label": "Reuters — Ole Miss QB injury",
+      "url": "[https://www.reuters.com/sports/report-no-13-ole-miss-qb-austin-simmons-doubtful-vs-tulane--flm-2025-09-19/](https://www.reuters.com/sports/report-no-13-ole-miss-qb-austin-simmons-doubtful-vs-tulane--flm-2025-09-19/)",
+      "asof_utc": "2025-09-20T13:40:00Z"
+    },
+    {
+      "type": "info",
+      "label": "ESPN Game Page",
+      "url": "[https://www.espn.com/college-football/game/_/gameId/401752711/tulane-ole-miss](https://www.espn.com/college-football/game/_/gameId/401752711/tulane-ole-miss)",
+      "asof_utc": "2025-09-20T13:40:00Z"
+    },
+    {
+      "type": "history",
+      "label": "Tulane & Ole Miss Series Pages",
+      "url": "[https://tulanegreenwave.com/sports/football/opponent-history/university-of-mississippi/126](https://tulanegreenwave.com/sports/football/opponent-history/university-of-mississippi/126)",
+      "asof_utc": "2025-09-20T13:35:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "Oxford, MS Forecast",
+      "url": "[https://forecast.weather.gov/MapClick.php?CityName=Oxford&site=MEG](https://forecast.weather.gov/MapClick.php?CityName=Oxford&site=MEG)",
+      "asof_utc": "2025-09-20T13:30:00Z"
+    }
+  ]
+}

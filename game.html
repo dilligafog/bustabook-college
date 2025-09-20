@@ -41,6 +41,8 @@
         .pick-loser { background-color: #fef2f2; border-color: #dc2626; }
         .trend-item { border-left: 4px solid #3b82f6; }
     </style>
+    <!-- Dark Mode Betting Theme -->
+    <link rel="stylesheet" href="css/dark-mode.css">
 </head>
 <body class="bg-gray-50 min-h-screen">
     <!-- Header -->
@@ -53,8 +55,11 @@
                     </a>
                     <h1 class="text-2xl font-bold text-gray-900">🏈 Game Analysis</h1>
                 </div>
-                <div class="text-sm text-gray-600">
-                    BustaBook College Picks
+                <div class="flex items-center space-x-3">
+                    <button id="theme-toggle" class="theme-toggle px-3 py-1 rounded text-sm" title="Toggle theme">Dark Mode</button>
+                    <div class="text-sm text-gray-600">
+                        BustaBook College Picks
+                    </div>
                 </div>
             </div>
         </div>

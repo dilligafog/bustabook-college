@@ -1,0 +1,228 @@
+{
+  "game_meta": {
+    "game_id": "e12a027ef3182426888607f1aa77a6bc",
+    "title": "Florida Gators at Miami Hurricanes",
+    "datetime_local": "2025-09-20T19:30:00-04:00",
+    "venue": "Hard Rock Stadium, Miami Gardens, FL",
+    "tv": [
+      "ABC"
+    ],
+    "attendance_capacity": 64767,
+    "weather": {
+      "conditions": "Partly cloudy, humid",
+      "temp_f": 83,
+      "wind_mph": 9,
+      "notes": "Roof canopy reduces sun/wind; slight evening shower risk"
+    },
+    "rankings": {
+      "home_ap": 4,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-15T16:00:00Z"
+    },
+    "hype_factors": [
+      "Historic in-state rivalry (Sunshine Showdown)",
+      "Top-5 Miami with playoff path",
+      "Florida coach pressure mounts",
+      "Revenge spot after 2024 blowout"
+    ],
+    "last_updated_utc": "2025-09-20T14:50:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Miami Hurricanes",
+      "short": "MIA",
+      "mascot": "Hurricanes",
+      "conference": "ACC",
+      "record": "3-0 (1-0)",
+      "recent_form": "3-game win streak; 49-12 vs USF last week",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "+1.0",
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "CFP contender protecting home turf",
+        "Momentum after dominant wins"
+      ]
+    },
+    "away": {
+      "name": "Florida Gators",
+      "short": "FLA",
+      "mascot": "Gators",
+      "conference": "SEC",
+      "record": "1-2 (0-1)",
+      "recent_form": "Lost 2 straight; offense turnover-prone",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "-1.0",
+        "ats_record": "1-2 ATS this season"
+      },
+      "motivation_factors": [
+        "Revenge after 2024 loss",
+        "Coach on hot seat; season salvage spot"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "MIAMI leads 30-27",
+    "last_meeting": {
+      "date": "2024-08-31",
+      "score": "MIAMI 41, FLORIDA 17",
+      "note": "Season opener at Florida"
+    },
+    "recent_trend": "MIAMI won last meeting; rivalry resumed after 2019 neutral-site game"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -310,
+        "implied_prob": 0.756,
+        "opening_line": -305,
+        "line_movement": "moved toward home slightly",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T14:40:00Z"
+      },
+      "away": {
+        "price": 240,
+        "implied_prob": 0.294,
+        "opening_line": 245,
+        "line_movement": "moved toward home",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T14:40:00Z"
+      }
+    },
+    "spread": {
+      "line": -7.5,
+      "favorite": "HOME",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -8.5,
+      "line_movement": "moved toward away by 1.0",
+      "public_betting": {
+        "home_percent": 72,
+        "away_percent": 28,
+        "note": "Handle favors Miami; fewer tickets than money on home"
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T14:40:00Z"
+    },
+    "total": {
+      "line": 50.5,
+      "over_price": -105,
+      "under_price": -115,
+      "opening_line": 51.5,
+      "line_movement": "ticked down 1.0",
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T14:40:00Z"
+    },
+    "consensus_note": "Market clustered around MIA -7.5 / 50.5; early openers nearer -8.5"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "FLORIDA 0-3 O/U this season",
+      "MIAMI 2-1 ATS in 2025",
+      "Public money tilting to MIAMI despite rivalry volatility"
+    ],
+    "situational_spots": [
+      "FLORIDA road dog in rivalry with heavy public fade",
+      "Humidity factor favors deeper MIAMI rotation late"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "FLORIDA +240",
+      "confidence": 0.55,
+      "rationale": "Contrarian shot vs. lopsided handle and rivalry randomness",
+      "value_assessment": "Small value at +240 or better"
+    },
+    "spread": {
+      "pick": "FLORIDA +7.5",
+      "confidence": 0.66,
+      "rationale": "Key number under public heat; turnover regression likely",
+      "value_assessment": "Good value after move off -8.5"
+    },
+    "total": {
+      "pick": "UNDER 50.5",
+      "confidence": 0.63,
+      "rationale": "FLA turnover issues + rivalry pacing; slight rain risk; FLA 0-3 O/U",
+      "value_assessment": "Slight value after total ticked down"
+    },
+    "best_bet": {
+      "pick": "FLORIDA +7.5",
+      "confidence": 0.66,
+      "rationale": "Most robust edge vs. market given rivalry, public splits and key number"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "FLA DL Caleb Banks OUT (foot); DL LJ McCray OUT; RB Treyaun Webb OUT",
+      "MIA RB Jordan Lyle QUESTIONABLE; WR Joshisa Trader QUESTIONABLE",
+      "FLA QB DJ Lagway turnover spike vs LSU; offseason injury recovery noted"
+    ],
+    "matchup_notes": [
+      "MIAMI offense balance (306.7 pass / 179.3 rush ypg) vs FLA defense",
+      "FLA -3 season turnover differential through 3 games"
+    ],
+    "coaching_notes": [
+      "Billy Napier under pressure amid 1-2 start",
+      "Mario Cristobal in Year 4 with CFP expectations"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "Top-5 Miami must win to stay on CFP path",
+    "conference_impact": "Nonconference but resumes for ACC/SEC narratives",
+    "narrative": "Desperate underdog vs rolling favorite in heated rivalry",
+    "tv_storylines": [
+      "Lagway bounce-back vs aggressive Miami front",
+      "Canes’ offense vs Gators’ turnover woes"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "DraftKings via NBC Sports (latest lines)",
+      "url": "[https://www.nbcsports.com/betting/college-football/news/florida-gators-vs-miami-fl-hurricanes-prediction-odds-expert-picks-qb-matchup-injury-update-betting-trends-and-stats](https://www.nbcsports.com/betting/college-football/news/florida-gators-vs-miami-fl-hurricanes-prediction-odds-expert-picks-qb-matchup-injury-update-betting-trends-and-stats)",
+      "asof_utc": "2025-09-20T14:40:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Action Network (game page & splits)",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/florida-miami-fl-score-odds-september-20-2025/254575](https://www.actionnetwork.com/ncaaf-game/florida-miami-fl-score-odds-september-20-2025/254575)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    {
+      "type": "news",
+      "label": "CBS Sports (time/TV/odds)",
+      "url": "[https://www.cbssports.com/college-football/news/florida-vs-miami-prediction-pick-odds-spread-where-to-watch-live/](https://www.cbssports.com/college-football/news/florida-vs-miami-prediction-pick-odds-spread-where-to-watch-live/)",
+      "asof_utc": "2025-09-20T14:30:00Z"
+    },
+    {
+      "type": "news",
+      "label": "ESPN (Miami team page & stats)",
+      "url": "[https://www.espn.com/college-football/team/stats/_/id/2390/miami-hurricanes](https://www.espn.com/college-football/team/stats/_/id/2390/miami-hurricanes)",
+      "asof_utc": "2025-09-20T14:30:00Z"
+    },
+    {
+      "type": "news",
+      "label": "Florida Gators official preview & injury report",
+      "url": "[https://floridagators.com/news/2025/9/19/football-the-opening-kickoff-gators-at-no-4-miami-visiting-an-old-rival.aspx](https://floridagators.com/news/2025/9/19/football-the-opening-kickoff-gators-at-no-4-miami-visiting-an-old-rival.aspx)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    {
+      "type": "history",
+      "label": "Florida–Miami rivalry (series record)",
+      "url": "[https://floridagators.com/sports/football/opponent-history/university-of-miami/39](https://floridagators.com/sports/football/opponent-history/university-of-miami/39)",
+      "asof_utc": "2025-09-20T14:25:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "Forecast (Miami Gardens)",
+      "url": "tool:weather:Miami Gardens, FL (2025-09-20)",
+      "asof_utc": "2025-09-20T12:00:00Z"
+    }
+  ]
+}

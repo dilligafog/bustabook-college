@@ -1,0 +1,240 @@
+{
+  "game_meta": {
+    "game_id": "103dcd715ce54d763f5d49157b11b2a2",
+    "title": "Auburn Tigers at Oklahoma Sooners",
+    "datetime_local": "2025-09-20T15:30:00-04:00",
+    "venue": "Gaylord Family – Oklahoma Memorial Stadium, Norman, OK",
+    "tv": [
+      "ABC"
+    ],
+    "attendance_capacity": 80126,
+    "weather": {
+      "conditions": "Hot, mostly sunny",
+      "temp_f": 88,
+      "wind_mph": 11,
+      "notes": "Heat + ~10 mph winds; minimal rain risk"
+    },
+    "rankings": {
+      "home_ap": 11,
+      "away_ap": 22,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-14T20:00:00Z"
+    },
+    "hype_factors": [
+      "Ranked SEC showdown on ABC",
+      "Jackson Arnold returns to OU",
+      "OU’s elite scoring defense vs Auburn ground game",
+      "Early playoff and SEC West implications"
+    ],
+    "last_updated_utc": "2025-09-20T13:30:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Oklahoma Sooners",
+      "short": "OKLA",
+      "mascot": "Sooners",
+      "conference": "SEC",
+      "record": "3-0 (0-0)",
+      "recent_form": "3-0, allowing 6.3 PPG; 3 straight UNDERS",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": 4,
+        "turnover_margin": "-1.5",
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "SEC opener at home",
+        "Defensive pride; protect ABC showcase"
+      ]
+    },
+    "away": {
+      "name": "Auburn Tigers",
+      "short": "AUB",
+      "mascot": "Tigers",
+      "conference": "SEC",
+      "record": "3-0 (0-0)",
+      "recent_form": "Run-heavy 3-0 start; 1-2 to the UNDER on road/neutral",
+      "key_stats": {
+        "offense_rank": 23,
+        "defense_rank": 19,
+        "turnover_margin": "+0.7",
+        "ats_record": "1-2 ATS this season"
+      },
+      "motivation_factors": [
+        "QB revenge spot in Norman",
+        "Prove contender status vs top-15 defense"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "OKLA leads 3-0",
+    "last_meeting": {
+      "date": "2024-09-28",
+      "score": "OKLA 27, AUB 21",
+      "note": "Sooners rallied late at Auburn"
+    },
+    "recent_trend": "OKLA won all 3 meetings; current streak 3"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -245,
+        "implied_prob": 0.71,
+        "opening_line": -225,
+        "line_movement": "moved toward home",
+        "book": "Consensus (VegasInsider)",
+        "asof_utc": "2025-09-20T13:10:00Z"
+      },
+      "away": {
+        "price": 200,
+        "implied_prob": 0.333,
+        "opening_line": 195,
+        "line_movement": "moved toward home",
+        "book": "Consensus (VegasInsider)",
+        "asof_utc": "2025-09-20T13:10:00Z"
+      }
+    },
+    "spread": {
+      "line": -7,
+      "favorite": "OKLA",
+      "price_home": -105,
+      "price_away": -115,
+      "opening_line": -6,
+      "line_movement": "moved toward home by 1 point",
+      "public_betting": {
+        "home_percent": 62,
+        "away_percent": 38,
+        "note": "Ticket % on OKLA; larger money reported on AUB"
+      },
+      "book": "Consensus (VegasInsider / Action Network)",
+      "asof_utc": "2025-09-20T13:10:00Z"
+    },
+    "total": {
+      "line": 46.5,
+      "over_price": -112,
+      "under_price": -108,
+      "opening_line": 52.5,
+      "line_movement": "moved down 6.0 points",
+      "public_betting": {
+        "over_percent": null,
+        "under_percent": null
+      },
+      "book": "Consensus (VegasInsider)",
+      "asof_utc": "2025-09-20T13:10:00Z"
+    },
+    "consensus_note": "Spread ticked to -7; total steamed down from 52.5 to 46.5 signaling strong Under interest"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "OU is 9-3 ATS as a home favorite since 2023",
+      "All 3 OU games this season have gone UNDER",
+      "Auburn is 5-1 ATS as an underdog since start of 2024"
+    ],
+    "situational_spots": [
+      "Return-to-form spot for OU offense if OL holds up",
+      "Auburn in revenge/QB-return narrative; potential live-dog if run game travels"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "AUB +200",
+      "confidence": 0.58,
+      "rationale": "Market tickets on OU but bigger money leaning to Auburn; OU OL injuries create upset path",
+      "value_assessment": "Moderate value at +200; sprinkle only"
+    },
+    "spread": {
+      "pick": "AUB +7",
+      "confidence": 0.67,
+      "rationale": "Key number with public on favorite; Auburn defense + run game can shorten game",
+      "value_assessment": "Good value with line up to 7"
+    },
+    "total": {
+      "pick": "UNDER 46.5",
+      "confidence": 0.63,
+      "rationale": "OU 3-0 to the Under; elite OU scoring D + heat/wind; market steam corroborates",
+      "value_assessment": "Value diminished after major move, still playable"
+    },
+    "best_bet": {
+      "pick": "AUB +7",
+      "confidence": 0.67,
+      "rationale": "Contrarian side on a key number with matchup leverage and OL uncertainty for OU"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "AUB RB Durell Robinson out",
+      "AUB DE Amaris Williams questionable (shoulder)",
+      "AUB CB Jay Crawford questionable",
+      "OU OL Troy Everett, Jacob Sexton, Jake Taylor out",
+      "OU WR Keontez Lewis and EDGE Marvin Jones Jr. upgraded/probable"
+    ],
+    "matchup_notes": [
+      "AUB rush offense vs OU top-5 scoring defense",
+      "Total dropped ~6 points from open (Under steam)"
+    ],
+    "coaching_notes": [
+      "Venables’ defense anchoring OU’s 3-0 start",
+      "Freeze 5-1 ATS as underdog since 2024 (trend)"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "Winner strengthens Top-15 résumé; loser needs help",
+    "conference_impact": "Early SEC positioning; tiebreaker weight later",
+    "narrative": "Transfer QB returns to old home; defense vs ground-and-pound",
+    "tv_storylines": [
+      "Jackson Arnold’s return to Norman",
+      "OU defense hunting statement win"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "VegasInsider Consensus",
+      "url": "[https://www.vegasinsider.com/college-football/odds/consensus/auburn-@-oklahoma-2-20-2025/242501](https://www.vegasinsider.com/college-football/odds/consensus/auburn-@-oklahoma-2-20-2025/242501)",
+      "asof_utc": "2025-09-20T13:10:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Action Network Game Page",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/auburn-oklahoma-score-odds-september-20-2025/254531](https://www.actionnetwork.com/ncaaf-game/auburn-oklahoma-score-odds-september-20-2025/254531)",
+      "asof_utc": "2025-09-20T13:12:00Z"
+    },
+    {
+      "type": "news",
+      "label": "AP / Yahoo / NCAA Rankings",
+      "url": "[https://www.ncaa.com/news/football/article/2025-09-14/college-football-scores-top-25-rankings-schedule-scores-week-4](https://www.ncaa.com/news/football/article/2025-09-14/college-football-scores-top-25-rankings-schedule-scores-week-4)",
+      "asof_utc": "2025-09-20T13:05:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "Action Network Weather",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/auburn-oklahoma-score-odds-september-20-2025/254531](https://www.actionnetwork.com/ncaaf-game/auburn-oklahoma-score-odds-september-20-2025/254531)",
+      "asof_utc": "2025-09-20T13:12:00Z"
+    },
+    {
+      "type": "history",
+      "label": "Winsipedia Series History",
+      "url": "[https://winsipedia.com/games/auburn/vs/oklahoma](https://winsipedia.com/games/auburn/vs/oklahoma)",
+      "asof_utc": "2025-09-20T13:00:00Z"
+    },
+    {
+      "type": "team_stats",
+      "label": "NCAA Scoring Defense",
+      "url": "[https://www.ncaa.com/stats/football/fbs](https://www.ncaa.com/stats/football/fbs)",
+      "asof_utc": "2025-09-20T13:00:00Z"
+    },
+    {
+      "type": "injuries",
+      "label": "Saturday Down South / SI updates",
+      "url": "[https://www.saturdaydownsouth.com/news/college-football/auburn-oklahoma-reveal-injury-reports-on-eve-of-sec-showdown/](https://www.saturdaydownsouth.com/news/college-football/auburn-oklahoma-reveal-injury-reports-on-eve-of-sec-showdown/)",
+      "asof_utc": "2025-09-20T13:15:00Z"
+    },
+    {
+      "type": "team_pages",
+      "label": "Covers Team Pages (ATS/records)",
+      "url": "[https://www.covers.com/sport/football/ncaaf/teams/main/auburn-tigers](https://www.covers.com/sport/football/ncaaf/teams/main/auburn-tigers)",
+      "asof_utc": "2025-09-20T13:08:00Z"
+    }
+  ]
+}

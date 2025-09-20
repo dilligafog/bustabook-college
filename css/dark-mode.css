@@ -1,0 +1,149 @@
+:root{
+  --bb-primary: #1F2937; /* Dark Gray */
+  --bb-secondary: #374151; /* Medium Gray */
+  --bb-accent-loss: #EF4444; /* Red for losses */
+  --bb-accent-win: #00FF7F; /* Neon green for wins (approx) */
+  --bb-background: #111827; /* Very dark blue */
+  --bb-text: #e5e7eb; /* light text */
+  --bb-muted: #9ca3af;
+  --bb-glow: 0 8px 24px rgba(0,255,127,0.08);
+}
+
+/* Dark Mode Betting Theme */
+.bb-dark {
+  background-color: var(--bb-background) !important;
+  color: var(--bb-text) !important;
+}
+
+/* Ensure body background is dark even if Tailwind bg-* classes exist */
+.bb-dark body {
+  background-color: var(--bb-background) !important;
+}
+
+.bb-dark header, .bb-dark footer {
+  background-color: #0f172a !important; /* deep slate surface */
+  border-color: rgba(255,255,255,0.06) !important;
+}
+
+/* Panels and cards use a dark surface instead of transparent */
+.bb-dark .data-card,
+.bb-dark .game-card,
+.bb-dark .bg-white,
+.bb-dark .bg-gray-50,
+.bb-dark .panel {
+  background-color: var(--bb-primary) !important;
+  background-image: none !important;
+  border-color: rgba(255,255,255,0.06) !important;
+}
+
+.bb-dark .text-gray-900 { color: var(--bb-text) !important; }
+.bb-dark .text-gray-800 { color: #d1d5db !important; }
+.bb-dark .text-gray-600 { color: var(--bb-muted) !important; }
+.bb-dark .text-gray-500 { color: rgba(229,231,235,0.7) !important; }
+.bb-dark .text-gray-700 { color: #c7cdd6 !important; }
+.bb-dark .text-gray-400 { color: #a3a3a3 !important; }
+
+.bb-dark .border-gray-200 { border-color: rgba(255,255,255,0.04) !important; }
+.bb-dark .shadow-lg { box-shadow: 0 6px 20px rgba(2,6,23,0.6) !important; }
+
+/* Accent styles */
+.bb-dark .accent-loss { color: var(--bb-accent-loss); }
+.bb-dark .bg-accent-loss { background-color: rgba(239,68,68,0.12); border-color: rgba(239,68,68,0.2); }
+.bb-dark .accent-win { color: var(--bb-accent-win); }
+.bb-dark .bg-accent-win { background-color: rgba(0,255,127,0.08); border-color: rgba(0,255,127,0.16); }
+
+/* Override light success/error panels used in picks */
+.bb-dark .pick-winner { background-color: rgba(0,255,127,0.08) !important; border-color: rgba(0,255,127,0.24) !important; }
+.bb-dark .pick-loser { background-color: rgba(239,68,68,0.08) !important; border-color: rgba(239,68,68,0.24) !important; }
+
+/* Neon glow for live games */
+.bb-dark .live-glow {
+  box-shadow: 0 0 8px rgba(0,255,127,0.14), 0 8px 24px rgba(0,255,127,0.06);
+  border: 1px solid rgba(0,255,127,0.12);
+}
+
+/* Slight glow for interactive elements */
+.bb-dark .btn-glow:focus, .bb-dark .btn-glow:hover {
+  box-shadow: 0 6px 20px rgba(59,130,246,0.06), var(--bb-glow);
+}
+
+/* Link and primary action colors in dark */
+.bb-dark a,
+.bb-dark .text-blue-600,
+.bb-dark a.text-blue-600 { color: #60a5fa !important; }
+.bb-dark a:hover { color: #93c5fd !important; }
+
+/* Error/info panels tints */
+.bb-dark .bg-red-100 { background-color: rgba(239,68,68,0.12) !important; }
+.bb-dark .border-red-400 { border-color: rgba(239,68,68,0.4) !important; }
+.bb-dark .text-red-700 { color: #fca5a5 !important; }
+
+.theme-toggle {
+  background: linear-gradient(90deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+  border: 1px solid rgba(255,255,255,0.04);
+  color: var(--bb-text);
+}
+
+/* Make default light mode unaffected */
+
+/* Subtle adjustments for specific sections */
+.bb-dark #loading-container .loading-spinner {
+  border-color: rgba(255,255,255,0.12);
+  border-top-color: rgba(0,255,127,0.6);
+}
+.bb-dark #live-score-section,
+.bb-dark .bg-yellow-50 { /* live section in game page */
+  background-color: rgba(0,255,127,0.06) !important;
+  border-color: rgba(0,255,127,0.18) !important;
+}
+
+/* Tailwind utility overrides used in score and best bet boxes */
+.bb-dark .bg-gray-100 { background-color: #0f172a !important; }
+.bb-dark .border-gray-400 { border-color: rgba(255,255,255,0.18) !important; }
+
+/* Live score (green) */
+.bb-dark .bg-green-100 { background-color: rgba(0,255,127,0.08) !important; }
+.bb-dark .border-green-400 { border-color: rgba(0,255,127,0.24) !important; }
+.bb-dark .text-green-800 { color: var(--bb-accent-win) !important; }
+.bb-dark .text-green-700 { color: rgba(0,255,127,0.85) !important; }
+.bb-dark .live-score { box-shadow: 0 0 8px rgba(0,255,127,0.12), 0 8px 24px rgba(0,255,127,0.06); }
+
+/* Lime accents (Best Bet card) */
+.bb-dark .border-lime-400 { border-color: rgba(0,255,127,0.28) !important; }
+.bb-dark .bg-lime-100 { background-color: rgba(0,255,127,0.10) !important; }
+.bb-dark .text-lime-800 { color: var(--bb-accent-win) !important; }
+
+/* Best Bet card tweaks in dark mode */
+.bb-dark .best-bet-card {
+  border-color: rgba(0,255,127,0.45) !important; /* brighter lime border */
+  box-shadow: 0 4px 16px rgba(0,255,127,0.10), 0 1px 0 rgba(0,0,0,0.4);
+}
+.bb-dark .best-bet-rationale {
+  color: #e5fbee !important; /* brighter readable text */
+}
+
+/* Upcoming odds (blue) */
+.bb-dark .bg-blue-100 { background-color: rgba(59,130,246,0.08) !important; }
+.bb-dark .border-blue-400 { border-color: rgba(59,130,246,0.24) !important; }
+.bb-dark .text-blue-800 { color: #93c5fd !important; }
+.bb-dark .text-blue-900 { color: #bfdbfe !important; }
+
+/* Game detail: trend and notes cards using *-50 tints */
+.bb-dark .bg-blue-50 { background-color: rgba(59,130,246,0.08) !important; }
+.bb-dark .bg-green-50 { background-color: rgba(0,255,127,0.06) !important; }
+.bb-dark .bg-yellow-50 { background-color: rgba(245,158,11,0.10) !important; }
+.bb-dark .bg-red-50 { background-color: rgba(239,68,68,0.10) !important; }
+.bb-dark .bg-purple-50 { background-color: rgba(139,92,246,0.10) !important; }
+
+.bb-dark .border-purple-400 { border-color: rgba(139,92,246,0.45) !important; }
+.bb-dark .border-green-400 { border-color: rgba(0,255,127,0.28) !important; }
+
+/* Trend list left border color */
+.bb-dark .trend-item { border-left-color: rgba(59,130,246,0.55) !important; }
+
+/* Best-bet neutral (yellow) */
+.bb-dark .bg-yellow-100 { background-color: rgba(245, 158, 11, 0.12) !important; }
+.bb-dark .border-yellow-400 { border-color: rgba(245, 158, 11, 0.35) !important; }
+.bb-dark .text-yellow-800 { color: #facc15 !important; }
+.bb-dark .from-yellow-100 { --tw-gradient-from: rgba(245, 158, 11, 0.12) !important; }
+.bb-dark .to-yellow-200 { --tw-gradient-to: rgba(245, 158, 11, 0.18) !important; }

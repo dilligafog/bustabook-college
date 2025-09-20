@@ -1,0 +1,246 @@
+{
+  "game_meta": {
+    "game_id": "ee813cd96576a01199eedf7066cc54d1",
+    "title": "Oregon State Beavers at Oregon Ducks",
+    "datetime_local": "2025-09-20T15:00:00-04:00",
+    "venue": "Autzen Stadium, Eugene, OR",
+    "tv": [
+      "BTN"
+    ],
+    "attendance_capacity": 54000,
+    "weather": {
+      "conditions": "Sunny",
+      "temp_f": 81,
+      "wind_mph": 6,
+      "notes": "Light W breeze; no notable impact expected"
+    },
+    "rankings": {
+      "home_ap": 6,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-15T00:00:00Z"
+    },
+    "hype_factors": [
+      "Rivalry on hiatus after 2025",
+      "Historic in-state matchup",
+      "Lookahead spot before Penn State",
+      "Big spread invites contrarian play"
+    ],
+    "last_updated_utc": "2025-09-20T13:58:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Oregon Ducks",
+      "short": "ORE",
+      "mascot": "Ducks",
+      "conference": "Big Ten",
+      "record": "3-0 (1-0)",
+      "recent_form": "Won 3 straight; defense stout",
+      "key_stats": {
+        "offense_rank": 3,
+        "defense_rank": 7,
+        "turnover_margin": "+1.0/game",
+        "ats_record": "2-1 ATS"
+      },
+      "motivation_factors": [
+        "Top-10 resume building",
+        "Maintain momentum before Penn State trip"
+      ]
+    },
+    "away": {
+      "name": "Oregon State Beavers",
+      "short": "ORST",
+      "mascot": "Beavers",
+      "conference": "Independent",
+      "record": "0-3 (—)",
+      "recent_form": "Lost 3 straight; turnover issues",
+      "key_stats": {
+        "offense_rank": 96,
+        "defense_rank": 119,
+        "turnover_margin": "-1.0/game",
+        "ats_record": "0-3 ATS"
+      },
+      "motivation_factors": [
+        "Spoiler role vs rival",
+        "Coach under pressure"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "Oregon leads 69-49-10",
+    "last_meeting": {
+      "date": "2024-09-14",
+      "score": "Oregon 49, Oregon State 14",
+      "note": "Ducks rolled in Corvallis"
+    },
+    "recent_trend": "Oregon has won 14 of last 17"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": null,
+        "implied_prob": null,
+        "opening_line": null,
+        "line_movement": "off board at many books",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T13:45:00Z"
+      },
+      "away": {
+        "price": null,
+        "implied_prob": null,
+        "opening_line": null,
+        "line_movement": "off board at many books",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T13:45:00Z"
+      }
+    },
+    "spread": {
+      "line": -35.5,
+      "favorite": "ORE",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -33.5,
+      "line_movement": "moved toward home by 2 points",
+      "public_betting": {
+        "home_percent": 69,
+        "away_percent": 31,
+        "note": "Covers consensus picks (not handle) favor Ducks"
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T13:45:00Z"
+    },
+    "total": {
+      "line": 55.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 56.5,
+      "line_movement": "ticked down 1 point",
+      "public_betting": {
+        "over_percent": 70,
+        "under_percent": 30
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T13:45:00Z"
+    },
+    "consensus_note": "Market around ORE -34.5 to -35.5, total 55.5–56.5; moneyline largely unavailable"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Oregon State is 12-6 ATS as road dog (recent)",
+      "Oregon 2-1 ATS this season",
+      "Oregon State 0-3 ATS this season"
+    ],
+    "situational_spots": [
+      "Classic lookahead for Oregon (Penn State next week)",
+      "Inflated rivalry spread with public heavy on favorite"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "No bet",
+      "confidence": 0.5,
+      "rationale": "ML off board/too steep to price value",
+      "value_assessment": "No value"
+    },
+    "spread": {
+      "pick": "ORST +35.5",
+      "confidence": 0.63,
+      "rationale": "Rivalry + lookahead + public on Ducks; key numbers above 34",
+      "value_assessment": "Solid contrarian value"
+    },
+    "total": {
+      "pick": "UNDER 55.5",
+      "confidence": 0.58,
+      "rationale": "Public leans Over; Ducks may throttle down if ahead; benign weather",
+      "value_assessment": "Slight value after small drop"
+    },
+    "best_bet": {
+      "pick": "ORST +35.5",
+      "confidence": 0.63,
+      "rationale": "Market inflated toward Oregon; fade public with rivalry dog"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "Oregon RB Noah Whittington questionable",
+      "Oregon DB Sione Laulea status unclear",
+      "Oregon WR Dakorien Moore reportedly in doubt",
+      "Oregon WR Jurrion Dickey suspended",
+      "Oregon State WR D. Clemons out (Achilles)"
+    ],
+    "matchup_notes": [
+      "Oregon #3 in PPG vs Oregon State #119 in Opp PPG",
+      "Turnover edge favors Oregon (+3 season vs OSU -3)"
+    ],
+    "coaching_notes": [
+      "Dan Lanning has Ducks on CFP track",
+      "Trent Bray facing scrutiny amid 0-3 start"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "Oregon protecting top-10 status",
+    "conference_impact": "Non-conference for OSU; Ducks’ Big Ten momentum",
+    "narrative": "Rivalry hiatus game with massive spread",
+    "tv_storylines": [
+      "Ducks’ new tribute uniforms",
+      "Can Beavers keep it respectable vs top-10 D?"
+    ]
+  },
+  "sources": [
+    {
+      "type": "schedule_tv",
+      "label": "CBS Sports preview (time/TV)",
+      "url": "[https://www.cbssports.com/college-football/news/oregon-vs-oregon-state-odds-spread-time-2025-picks-predictions/](https://www.cbssports.com/college-football/news/oregon-vs-oregon-state-odds-spread-time-2025-picks-predictions/)",
+      "asof_utc": "2025-09-20T13:40:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "DraftKings (via DKNetwork)",
+      "url": "[https://dknetwork.draftkings.com/2025/09/20/oregon-ducks-vs-oregon-state-beavers-prediction-pick-for-cfb-week-4-on-saturday-9-20-25/](https://dknetwork.draftkings.com/2025/09/20/oregon-ducks-vs-oregon-state-beavers-prediction-pick-for-cfb-week-4-on-saturday-9-20-25/)",
+      "asof_utc": "2025-09-20T13:45:00Z"
+    },
+    {
+      "type": "consensus",
+      "label": "Covers Consensus (ATS/Total %)",
+      "url": "[https://contests.covers.com/consensus/matchupconsensusdetails/494d2e01-2fe4-4ba4-8c68-b2c2014743e1](https://contests.covers.com/consensus/matchupconsensusdetails/494d2e01-2fe4-4ba4-8c68-b2c2014743e1)",
+      "asof_utc": "2025-09-20T13:46:00Z"
+    },
+    {
+      "type": "rankings",
+      "label": "AP Top 25 (Week 4)",
+      "url": "[https://www.thebiglead.com/college-football-top-25-rankings-2025-ap-top-25-poll-released-week-4](https://www.thebiglead.com/college-football-top-25-rankings-2025-ap-top-25-poll-released-week-4)",
+      "asof_utc": "2025-09-15T00:00:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "NOAA Eugene Forecast",
+      "url": "[https://forecast.weather.gov/MapClick.php?lat=44.0521&lon=-123.0868](https://forecast.weather.gov/MapClick.php?lat=44.0521&lon=-123.0868)",
+      "asof_utc": "2025-09-20T13:35:00Z"
+    },
+    {
+      "type": "team_stats",
+      "label": "TeamRankings (ORE/ORST stats)",
+      "url": "[https://www.teamrankings.com/college-football/team/oregon-ducks/stats](https://www.teamrankings.com/college-football/team/oregon-ducks/stats)",
+      "asof_utc": "2025-09-20T13:42:00Z"
+    },
+    {
+      "type": "news",
+      "label": "ESPN/AP Game Preview",
+      "url": "[https://www.espn.com/ncf/preview?gameId=401752841](https://www.espn.com/ncf/preview?gameId=401752841)",
+      "asof_utc": "2025-09-20T13:41:00Z"
+    },
+    {
+      "type": "series_history",
+      "label": "GoDucks series notes",
+      "url": "[https://goducks.com/news/2025/9/17/football-rivalary-showdown-set-for-saturday-in-autzen](https://goducks.com/news/2025/9/17/football-rivalary-showdown-set-for-saturday-in-autzen)",
+      "asof_utc": "2025-09-20T13:38:00Z"
+    },
+    {
+      "type": "news",
+      "label": "Axios Portland on rivalry pause",
+      "url": "[https://www.axios.com/local/portland/2025/09/19/oregon-ducks-beavers-rivalry-pause](https://www.axios.com/local/portland/2025/09/19/oregon-ducks-beavers-rivalry-pause)",
+      "asof_utc": "2025-09-20T13:39:00Z"
+    }
+  ]
+}

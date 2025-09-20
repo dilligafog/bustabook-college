@@ -1,0 +1,237 @@
+{
+  "game_meta": {
+    "game_id": "b953fbd602d01288f5e295c636d69dc9",
+    "title": "Georgia State Panthers at Vanderbilt Commodores",
+    "datetime_local": "2025-09-20T19:30:00-04:00",
+    "venue": "FirstBank Stadium, Nashville, TN",
+    "tv": [
+      "ESPNU"
+    ],
+    "attendance_capacity": 35000,
+    "weather": {
+      "conditions": "Partly cloudy",
+      "temp_f": 82,
+      "wind_mph": 4,
+      "notes": "Warm evening with light winds; minimal weather impact"
+    },
+    "rankings": {
+      "home_ap": 20,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-20T14:45:00Z"
+    },
+    "hype_factors": [
+      "Revenge spot after 2024 upset",
+      "Vanderbilt newly ranked Top 25",
+      "Primetime SEC vs Sun Belt",
+      "Trap/look-ahead potential"
+    ],
+    "last_updated_utc": "2025-09-20T14:55:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Vanderbilt Commodores",
+      "short": "VANDY",
+      "mascot": "Commodores",
+      "conference": "SEC",
+      "record": "3-0 (0-0)",
+      "recent_form": "3-0 start; defense allowing ~14 PPG; off emotional win at South Carolina",
+      "key_stats": {
+        "offense_rank": 31,
+        "defense_rank": 33,
+        "turnover_margin": "+4",
+        "ats_record": "3-0 ATS this season"
+      },
+      "motivation_factors": [
+        "Revenge after last year’s loss",
+        "Protect Top-25 ranking at home"
+      ]
+    },
+    "away": {
+      "name": "Georgia State Panthers",
+      "short": "GAST",
+      "mascot": "Panthers",
+      "conference": "Sun Belt",
+      "record": "1-2 (0-0)",
+      "recent_form": "Struggled offensively; 0-3 ATS; defense leaking explosives",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "-2",
+        "ats_record": "0-3 ATS this season"
+      },
+      "motivation_factors": [
+        "Spoiler role after 2024 win",
+        "Nothing-to-lose mindset vs ranked opponent"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "AWAY leads 1-0",
+    "last_meeting": {
+      "date": "2024-09-14",
+      "score": "Georgia State 36, Vanderbilt 32",
+      "note": "Late TD sealed upset in Nashville"
+    },
+    "recent_trend": "Only prior meeting won by Georgia State (2024)"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -4500,
+        "implied_prob": 0.978,
+        "opening_line": -2800,
+        "line_movement": "moved toward home",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T14:50:00Z"
+      },
+      "away": {
+        "price": 1700,
+        "implied_prob": 0.056,
+        "opening_line": 1400,
+        "line_movement": "moved toward home (worse for away)",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T14:50:00Z"
+      }
+    },
+    "spread": {
+      "line": -27.5,
+      "favorite": "VANDY",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -26.5,
+      "line_movement": "moved toward home by 1 point",
+      "public_betting": {
+        "home_percent": 70,
+        "away_percent": 30,
+        "note": "Covers consensus favors the favorite"
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T14:50:00Z"
+    },
+    "total": {
+      "line": 53.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 53.5,
+      "line_movement": "steady",
+      "public_betting": {
+        "over_percent": 54,
+        "under_percent": 46
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T14:50:00Z"
+    },
+    "consensus_note": "Consensus: Vandy -27.5 and 53.5 total across major books; spread steamed to the favorite"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Vanderbilt 3-0 ATS in 2025",
+      "Georgia State 2-10 ATS last 12 overall",
+      "Georgia State heavy penalties and poor 3rd-down defense vs Vandy top-10 3rd-down offense"
+    ],
+    "situational_spots": [
+      "Classic revenge/setup spot for Vandy off marquee win",
+      "Backdoor live with big number if Vandy shortens game with run-heavy script"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "AWAY +1700",
+      "confidence": 0.52,
+      "rationale": "Tiny long-shot sprinkle only—price implies 5.6% vs slightly higher upset chance given letdown/trap dynamics",
+      "value_assessment": "Minuscule value at 16/1+"
+    },
+    "spread": {
+      "pick": "GAST +27.5",
+      "confidence": 0.67,
+      "rationale": "Public piled on favorite; Vandy pace/run game increases backdoor risk; revenge handled but number inflated",
+      "value_assessment": "Good value with one-way steam"
+    },
+    "total": {
+      "pick": "UNDER 53.5",
+      "confidence": 0.58,
+      "rationale": "Vandy run rate + light wind and warm evening; Panthers offense limited—game script leans under",
+      "value_assessment": "Slight value with total holding steady"
+    },
+    "best_bet": {
+      "pick": "GAST +27.5",
+      "confidence": 0.67,
+      "rationale": "Market high on Vandy after upset win; number offers backdoor and variance protection"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "Vanderbilt DT Yilanan/Issa Ouattara questionable (undisclosed)",
+      "Georgia State QB TJ Finley questionable (shoulder)"
+    ],
+    "matchup_notes": [
+      "Vanderbilt top-tier 3rd-down offense vs Georgia State poor 3rd-down defense",
+      "Turnover margin edge: VANDY +4 vs GAST -2"
+    ],
+    "coaching_notes": [
+      "Vanderbilt: Clark Lea pushing focus after 2024 upset",
+      "Georgia State: Dell McGee in Year 2 looking for another SEC scalp"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "Vandy protecting early Top-25 status",
+    "conference_impact": "Tune-up before SEC slate intensity rises",
+    "narrative": "Revenge narrative vs giant-killer underdog",
+    "tv_storylines": [
+      "Can ranked Vandy avoid trap game?",
+      "GSU seeking back-to-back wins in series"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "VegasInsider Matchup (open/consensus & movement)",
+      "url": "[https://www.vegasinsider.com/college-football/matchups/georgia-state-vs-vanderbilt/](https://www.vegasinsider.com/college-football/matchups/georgia-state-vs-vanderbilt/)",
+      "asof_utc": "2025-09-20T14:45:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Covers Consensus & Odds",
+      "url": "[https://www.covers.com/sport/football/ncaaf/matchup/357530/odds](https://www.covers.com/sport/football/ncaaf/matchup/357530/odds)",
+      "asof_utc": "2025-09-20T14:45:00Z"
+    },
+    {
+      "type": "news",
+      "label": "FuboTV Listing (time/TV/venue)",
+      "url": "[https://www.fubo.tv/news/college-football/how-to-watch-georgia-state-panthers-vs-vanderbilt-commodores-live-stream-tv-channel-start-time-september-20/](https://www.fubo.tv/news/college-football/how-to-watch-georgia-state-panthers-vs-vanderbilt-commodores-live-stream-tv-channel-start-time-september-20/)",
+      "asof_utc": "2025-09-20T14:40:00Z"
+    },
+    {
+      "type": "rankings",
+      "label": "NCAA/AP Week 4 (Vandy #20)",
+      "url": "[https://www.ncaa.com/news/football/article/2025-09-14/college-football-scores-top-25-rankings-schedule-scores-week-4](https://www.ncaa.com/news/football/article/2025-09-14/college-football-scores-top-25-rankings-schedule-scores-week-4)",
+      "asof_utc": "2025-09-20T14:40:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "NWS Nashville Forecast",
+      "url": "[https://forecast.weather.gov/MapClick.php?textField1=36.1627&textField2=-86.7816](https://forecast.weather.gov/MapClick.php?textField1=36.1627&textField2=-86.7816)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    {
+      "type": "stadium",
+      "label": "Tennessean/ESPN (capacity ~35,000 in 2025)",
+      "url": "[https://www.tennessean.com/story/sports/college/vanderbilt/2025/08/28/vanderbilt-football-stadium-update-construction-clark-lea/85835340007/](https://www.tennessean.com/story/sports/college/vanderbilt/2025/08/28/vanderbilt-football-stadium-update-construction-clark-lea/85835340007/)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    {
+      "type": "preview_stats",
+      "label": "FOX17 AP preview (key splits)",
+      "url": "[https://fox17.com/sports/content/no-20-vanderbilt-matches-up-against-georgia-state-in-week-4](https://fox17.com/sports/content/no-20-vanderbilt-matches-up-against-georgia-state-in-week-4)",
+      "asof_utc": "2025-09-20T14:42:00Z"
+    },
+    {
+      "type": "history",
+      "label": "ESPN Box/Recap (2024 GSU 36-32 Vandy)",
+      "url": "[https://www.espn.com/college-football/game/_/gameId/401628362/vanderbilt-georgia-st](https://www.espn.com/college-football/game/_/gameId/401628362/vanderbilt-georgia-st)",
+      "asof_utc": "2025-09-20T14:42:00Z"
+    }
+  ]
+}

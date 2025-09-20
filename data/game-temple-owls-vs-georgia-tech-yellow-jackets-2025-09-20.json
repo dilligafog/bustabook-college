@@ -1,0 +1,229 @@
+{
+  "game_meta": {
+    "game_id": "e42cbc33af5d7a0d0045f0858e3cdf96",
+    "title": "Temple Owls at Georgia Tech Yellow Jackets",
+    "datetime_local": "2025-09-20T16:30:00-04:00",
+    "venue": "Bobby Dodd Stadium at Hyundai Field, Atlanta, GA",
+    "tv": [
+      "The CW"
+    ],
+    "attendance_capacity": 51913,
+    "weather": {
+      "conditions": "Partly sunny, warm",
+      "temp_f": 86,
+      "wind_mph": 7,
+      "notes": "Minimal wind; no rain expected"
+    },
+    "rankings": {
+      "home_ap": 18,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-20T13:04:00Z"
+    },
+    "hype_factors": [
+      "Newly ranked GT after Clemson upset",
+      "Revenge spot for GT (lost 2019)",
+      "Family Weekend/First Responders Day",
+      "Potential letdown/trap before Wake Forest"
+    ],
+    "last_updated_utc": "2025-09-20T14:20:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Georgia Tech Yellow Jackets",
+      "short": "GT",
+      "mascot": "Yellow Jackets",
+      "conference": "ACC",
+      "record": "3-0 (1-0 ACC)",
+      "recent_form": "3-0 with upset of #12 Clemson; 3-0 ATS",
+      "key_stats": {
+        "offense_rank": 24,
+        "defense_rank": 52,
+        "turnover_margin": "-0.7",
+        "ats_record": "3-0 ATS this season"
+      },
+      "motivation_factors": [
+        "Protect new AP ranking",
+        "Revenge for 2019 loss",
+        "Avoid post-upset letdown"
+      ]
+    },
+    "away": {
+      "name": "Temple Owls",
+      "short": "TEM",
+      "mascot": "Owls",
+      "conference": "American",
+      "record": "2-1 (0-0 American)",
+      "recent_form": "Big wins vs UMass/Howard; lost to #13 Oklahoma",
+      "key_stats": {
+        "offense_rank": 93,
+        "defense_rank": 107,
+        "turnover_margin": "+1.3",
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "Spoiler role vs ranked ACC",
+        "New coach establishing identity"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "TEMPLE leads 1-0",
+    "last_meeting": {
+      "date": "2019-09-28",
+      "score": "Temple 24, Georgia Tech 2",
+      "note": "Only prior meeting"
+    },
+    "recent_trend": "Temple won the lone meeting (2019)"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -2400,
+        "implied_prob": 0.96,
+        "opening_line": -2200,
+        "line_movement": "moved toward home",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T14:15:00Z"
+      },
+      "away": {
+        "price": 1200,
+        "implied_prob": 0.077,
+        "opening_line": 1150,
+        "line_movement": "moved against away",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T14:15:00Z"
+      }
+    },
+    "spread": {
+      "line": -24.5,
+      "favorite": "GEORGIA TECH",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -24,
+      "line_movement": "moved toward home by 0.5",
+      "public_betting": {
+        "home_percent": 65,
+        "away_percent": 35,
+        "note": "Consensus picks leaning GT"
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T14:15:00Z"
+    },
+    "total": {
+      "line": 52.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 51.5,
+      "line_movement": "moved up 1.0",
+      "public_betting": {
+        "over_percent": 60,
+        "under_percent": 40
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T14:15:00Z"
+    },
+    "consensus_note": "Market around GT -23.5 to -24.5, total 51.5-52.5; steam on GT and slight push to Over"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Georgia Tech 3-0 ATS in 2025",
+      "Temple 2-1 ATS in 2025",
+      "Temple +4 turnover margin vs GT -2 this season",
+      "Temple 100% red-zone scoring; GT defense middling on 3rd down"
+    ],
+    "situational_spots": [
+      "Newly ranked home favorite after marquee upset (classic letdown risk)",
+      "Temple road dog with positive TO luck and conservative pace profile"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "TEM +1200",
+      "confidence": 0.55,
+      "rationale": "Number implies ~7.7%; inflated spread + turnover edge creates tiny upset equity",
+      "value_assessment": "Small-sprinkle only"
+    },
+    "spread": {
+      "pick": "TEM +24.5",
+      "confidence": 0.66,
+      "rationale": "Public heavy on GT; line inflated post-upset; Temple TO edge and slower script",
+      "value_assessment": "Good value above +24"
+    },
+    "total": {
+      "pick": "UNDER 52.5",
+      "confidence": 0.58,
+      "rationale": "Warm but low wind; Temple offense modest, GT off emotional win; market ticked up",
+      "value_assessment": "Slight value vs open 51.5"
+    },
+    "best_bet": {
+      "pick": "TEM +24.5",
+      "confidence": 0.66,
+      "rationale": "Inflated favorite tax + contrarian side with TO differential"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "GT QB Haynes King cleared after lower-body issue last week, expected to play",
+      "GT RB Trelain Maddox, RB Chad Alexander, DB Savion Riley, DB DJ Moore out",
+      "Temple under first-year HC K.C. Keeler; no major new injuries reported pregame"
+    ],
+    "matchup_notes": [
+      "GT SP+ offense #24 vs Temple SP+ defense #107",
+      "Temple +4 season TO margin vs GT -2 could flatten scoring margin",
+      "Market projects ~GT 38, TEM 14"
+    ],
+    "coaching_notes": [
+      "GT’s Brent Key riding momentum after ranked upset",
+      "Temple’s K.C. Keeler (Year 1) emphasizing discipline, turnover creation"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "GT protecting Top-25 status; outside CFP picture this early",
+    "conference_impact": "Non-conference tune-up before ACC play resumes",
+    "narrative": "Letdown alert: newly ranked home favorite vs scrappy underdog",
+    "tv_storylines": [
+      "Haynes King’s leadership after Clemson upset",
+      "Keeler’s first big road test at Temple"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "DraftKings Sportsbook (Temple @ Georgia Tech)",
+      "url": "[https://sportsbook.draftkings.com/event/temple-%40-georgia-tech/32773510](https://sportsbook.draftkings.com/event/temple-%40-georgia-tech/32773510)",
+      "asof_utc": "2025-09-20T14:15:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Covers Consensus & Matchup",
+      "url": "[https://www.covers.com/sport/football/ncaaf/matchup/357509/trends](https://www.covers.com/sport/football/ncaaf/matchup/357509/trends)",
+      "asof_utc": "2025-09-20T14:10:00Z"
+    },
+    {
+      "type": "news",
+      "label": "Georgia Tech game notes & TV",
+      "url": "[https://ramblinwreck.com/the-last-word-before-gm-4-25/](https://ramblinwreck.com/the-last-word-before-gm-4-25/)",
+      "asof_utc": "2025-09-20T14:05:00Z"
+    },
+    {
+      "type": "advanced_stats",
+      "label": "ESPN SP+ 2025 (off/def ranks)",
+      "url": "[https://www.espn.com/college-football/insider/story/_/id/41180716/college-football-sp+-rankings-all-136-fbs-teams-2025](https://www.espn.com/college-football/insider/story/_/id/41180716/college-football-sp+-rankings-all-136-fbs-teams-2025)",
+      "asof_utc": "2025-09-20T14:00:00Z"
+    },
+    {
+      "type": "history",
+      "label": "Temple Opponent History",
+      "url": "[https://owlsports.com/sports/football/opponent-history/georgia-tech/1](https://owlsports.com/sports/football/opponent-history/georgia-tech/1)",
+      "asof_utc": "2025-09-20T13:55:00Z"
+    },
+    {
+      "type": "weather",
+      "label": "NWS/Weather.com Atlanta hourly",
+      "url": "[https://weather.com/weather/hourbyhour/l/Atlanta+GA](https://weather.com/weather/hourbyhour/l/Atlanta+GA)",
+      "asof_utc": "2025-09-20T13:50:00Z"
+    }
+  ]
+}

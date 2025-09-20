@@ -1,0 +1,244 @@
+{
+  "game_meta": {
+    "game_id": "0a99c4c19ec716237226adf6f20506ce",
+    "title": "South Carolina Gamecocks at Missouri Tigers",
+    "datetime_local": "2025-09-20T19:00:00-04:00",
+    "venue": "Memorial Stadium/Faurot Field, Columbia, MO",
+    "tv": [
+      "ESPN"
+    ],
+    "attendance_capacity": 62621,
+    "weather": {
+      "conditions": "Partly cloudy, slight shower chance",
+      "temp_f": 76,
+      "wind_mph": 6,
+      "notes": "Light winds; small rain chance (~20%). Minimal impact; slight UNDER lean."
+    },
+    "rankings": {
+      "home_ap": 23,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-15T18:00:00Z"
+    },
+    "hype_factors": [
+      "Mayor's Cup rivalry",
+      "Primetime SEC opener",
+      "Mizzou revenge after 2024 loss",
+      "South Carolina bounce-back spot"
+    ],
+    "last_updated_utc": "2025-09-20T14:25:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Missouri Tigers",
+      "short": "MIZ",
+      "mascot": "Tigers",
+      "conference": "SEC",
+      "record": "3-0 (0-0 SEC)",
+      "recent_form": "3-0 start; crushed Louisiana 52-10; offense humming (~587 yds/g)",
+      "key_stats": {
+        "offense_rank": 4,
+        "defense_rank": 44,
+        "turnover_margin": "+1.0",
+        "ats_record": "3-0 ATS (3-0 O/U)"
+      },
+      "motivation_factors": [
+        "Revenge for 2024 loss",
+        "Protect home turf in SEC opener"
+      ]
+    },
+    "away": {
+      "name": "South Carolina Gamecocks",
+      "short": "SCAR",
+      "mascot": "Gamecocks",
+      "conference": "SEC",
+      "record": "2-1 (0-1 SEC)",
+      "recent_form": "Lost 31-7 to Vanderbilt; offense inconsistent; Sellers cleared to play",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "0.0",
+        "ats_record": "1-2 ATS (0-3 O/U)"
+      },
+      "motivation_factors": [
+        "Bounce-back after bad loss",
+        "Spoiler role vs ranked rival"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "Missouri leads 8-6",
+    "last_meeting": {
+      "date": "2024-11-16",
+      "score": "South Carolina 34, Missouri 30",
+      "note": "Gamecocks snapped Mizzou's recent series streak"
+    },
+    "recent_trend": "Missouri won 3 of last 4 meetings"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -330,
+        "implied_prob": 0.767,
+        "opening_line": -350,
+        "line_movement": "moved toward home",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T14:20:00Z"
+      },
+      "away": {
+        "price": 260,
+        "implied_prob": 0.278,
+        "opening_line": 270,
+        "line_movement": "moved against away",
+        "book": "DraftKings",
+        "asof_utc": "2025-09-20T14:20:00Z"
+      }
+    },
+    "spread": {
+      "line": -9.5,
+      "favorite": "MIZ",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -3.5,
+      "line_movement": "steamed toward MIZ by ~6 points",
+      "public_betting": {
+        "home_percent": 62,
+        "away_percent": 38,
+        "note": "Public leaning favorite (Covers consensus)"
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T14:20:00Z"
+    },
+    "total": {
+      "line": 48.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 46.5,
+      "line_movement": "moved up ~2 points",
+      "public_betting": {
+        "over_percent": 62,
+        "under_percent": 38
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T14:20:00Z"
+    },
+    "consensus_note": "Market broadly 9.5/48.5; heavy steam from MIZ -3.5 to -9.5 suggests sharp support on favorite"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Mizzou 3-0 ATS this season",
+      "South Carolina 0-3 to the UNDER",
+      "Mizzou +1 turnover margin; South Carolina net 0"
+    ],
+    "situational_spots": [
+      "Mizzou revenge + home night game = premium focus",
+      "Contrarian take: public on MIZ/OVER; value on SC + points and UNDER"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "SCAR +260",
+      "confidence": 0.58,
+      "rationale": "Outlier steam has stretched price; Sellers back gives live dog upside",
+      "value_assessment": "Small plus-money value if defense creates havoc"
+    },
+    "spread": {
+      "pick": "SCAR +9.5",
+      "confidence": 0.64,
+      "rationale": "Numbers inflated after Vandy loss; public heavy on favorite; rivalry tends to stay tighter",
+      "value_assessment": "Good value vs key number band (9–10)"
+    },
+    "total": {
+      "pick": "UNDER 48.5",
+      "confidence": 0.62,
+      "rationale": "SC offense sputtering; mild wind and slight rain risk; big-game pace often slower",
+      "value_assessment": "Slight value after total ticked up"
+    },
+    "best_bet": {
+      "pick": "UNDER 48.5",
+      "confidence": 0.64,
+      "rationale": "Market drifted up despite SC’s 0-3 O/U and modest weather; aligns with matchup profile"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "SC QB LaNorris Sellers cleared to play after head injury scare vs Vandy",
+      "SC TE Michael Smith doubtful; CB Judge Collier doubtful",
+      "MIZ backup QB Sam Horn out; K Balke Craig out"
+    ],
+    "matchup_notes": [
+      "Mizzou’s top-5 offense by yards faces SC’s havoc-heavy defense",
+      "If Mizzou ground game stalls, Tigers likely lean pass vs SC secondary"
+    ],
+    "coaching_notes": [
+      "Shane Beamer under pressure after Vandy loss",
+      "Eli Drinkwitz strong start; seeking statement in SEC opener"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "Mizzou needs win to stay ranked trajectory; SC would notch résumé upset",
+    "conference_impact": "Early SEC positioning; potential tiebreak stakes",
+    "narrative": "Mayor’s Cup under the lights—ranked home favorite vs desperate underdog",
+    "tv_storylines": [
+      "Sellers returns from injury scare",
+      "Can Mizzou avenge 2024 loss and validate early hype?"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "DraftKings Sportsbook Event Page",
+      "url": "[https://sportsbook.draftkings.com/event/south-carolina-%40-missouri/32773380](https://sportsbook.draftkings.com/event/south-carolina-%40-missouri/32773380)",
+      "asof_utc": "2025-09-20T14:20:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "Action Network Game Page (openers, weather widget)",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/south-carolina-gamecocks-missouri-tigers/254577](https://www.actionnetwork.com/ncaaf-game/south-carolina-gamecocks-missouri-tigers/254577)",
+      "asof_utc": "2025-09-20T14:15:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Covers Consensus (public %)",
+      "url": "[https://contests.covers.com/consensus/matchupconsensusdetails/0716dfe0-0606-4905-be47-b2c20148b5e5](https://contests.covers.com/consensus/matchupconsensusdetails/0716dfe0-0606-4905-be47-b2c20148b5e5)",
+      "asof_utc": "2025-09-20T14:10:00Z"
+    },
+    {
+      "type": "news",
+      "label": "ESPN Game Page (time/TV)",
+      "url": "[https://www.espn.com/college-football/game/](https://www.espn.com/college-football/game/)*/gameId/401752713/south-carolina-missouri",
+      "asof_utc": "2025-09-20T14:05:00Z"
+    },
+    {
+      "type": "news",
+      "label": "Rock M Nation Preview & Picks (series 8-6, context)",
+      "url": "[https://www.rockmnation.com/missouri-tigers-football/122456/missouri-vs-south-carolina-football-game-week-info-where-to-watch-predictions](https://www.rockmnation.com/missouri-tigers-football/122456/missouri-vs-south-carolina-football-game-week-info-where-to-watch-predictions)",
+      "asof_utc": "2025-09-20T13:55:00Z"
+    },
+    {
+      "type": "team_stats",
+      "label": "ESPN Team Leaders (SC) / Team Stats (MIZ)",
+      "url": "[https://www.espn.com/college-football/team/stats/](https://www.espn.com/college-football/team/stats/)*/id/2579/south-carolina-gamecocks",
+      "asof_utc": "2025-09-20T13:50:00Z"
+    },
+    {
+      "type": "advanced_stats",
+      "label": "cfbstats.com Turnover Margin Splits",
+      "url": "[https://cfbstats.com/2025/team/434/turnovermargin/split.html](https://cfbstats.com/2025/team/434/turnovermargin/split.html)",
+      "asof_utc": "2025-09-20T13:48:00Z"
+    },
+    {
+      "type": "news",
+      "label": "Sports Illustrated (SC QB Sellers will play)",
+      "url": "[https://www.si.com/college/southcarolina/football/south-carolina-qb-lanorris-sellers-will-play-vs-missouri-tigers-01k5j14p7jqe](https://www.si.com/college/southcarolina/football/south-carolina-qb-lanorris-sellers-will-play-vs-missouri-tigers-01k5j14p7jqe)",
+      "asof_utc": "2025-09-20T13:46:00Z"
+    },
+    {
+      "type": "venue",
+      "label": "Faurot Field Capacity",
+      "url": "[https://en.wikipedia.org/wiki/Faurot_Field](https://en.wikipedia.org/wiki/Faurot_Field)",
+      "asof_utc": "2025-09-20T13:40:00Z"
+    }
+  ]
+}

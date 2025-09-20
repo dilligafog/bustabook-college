@@ -1,0 +1,261 @@
+{
+  "game_meta": {
+    "game_id": "be4553c118c2689f5cf14fd9dd580c96",
+    "title": "Southeastern Louisiana Lions at LSU Tigers",
+    "datetime_local": "2025-09-20T19:45:00-04:00",
+    "venue": "Tiger Stadium, Baton Rouge, LA",
+    "tv": [
+      "SEC Network"
+    ],
+    "attendance_capacity": 102321,
+    "weather": {
+      "conditions": "Partly cloudy, hot",
+      "temp_f": 86,
+      "wind_mph": null,
+      "notes": "Warm at kickoff with a light breeze; minimal wind impact"
+    },
+    "rankings": {
+      "home_ap": 3,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-15T16:00:00Z"
+    },
+    "hype_factors": [
+      "Top-5 team in primetime",
+      "In-state showcase vs FCS",
+      "Tune-up before Ole Miss",
+      "Death Valley night game"
+    ],
+    "last_updated_utc": "2025-09-20T14:50:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "LSU Tigers",
+      "short": "LSU",
+      "mascot": "Tigers",
+      "conference": "SEC",
+      "record": "3-0 (1-0)",
+      "recent_form": "3-0 start; defense fueling wins",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": null,
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "Stay healthy before SEC gauntlet",
+        "Get reps for depth players"
+      ]
+    },
+    "away": {
+      "name": "Southeastern Louisiana Lions",
+      "short": "SELA",
+      "mascot": "Lions",
+      "conference": "Southland",
+      "record": "2-1 (0-0)",
+      "recent_form": "2-game win streak; step up in class",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": null,
+        "ats_record": null
+      },
+      "motivation_factors": [
+        "In-state showcase opportunity",
+        "Program exposure vs Top-5"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "LSU leads 2-0",
+    "last_meeting": {
+      "date": "2018-09-08",
+      "score": "LSU 31, SELA 0",
+      "note": "Joe Burrow era opener at Death Valley"
+    },
+    "recent_trend": "LSU has won all meetings"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -100000,
+        "implied_prob": 0.999,
+        "opening_line": -100000,
+        "line_movement": "steady heavy favorite",
+        "book": "Consensus (Dimers)",
+        "asof_utc": "2025-09-20T14:45:00Z"
+      },
+      "away": {
+        "price": 8000,
+        "implied_prob": 0.012,
+        "opening_line": 8000,
+        "line_movement": "steady longshot",
+        "book": "Consensus (Dimers)",
+        "asof_utc": "2025-09-20T14:45:00Z"
+      }
+    },
+    "spread": {
+      "line": -39.5,
+      "favorite": "LSU",
+      "price_home": -110,
+      "price_away": -110,
+      "opening_line": -38.5,
+      "line_movement": "moved toward LSU by 1 point (some shops higher)",
+      "public_betting": {
+        "home_percent": null,
+        "away_percent": null,
+        "note": "Limited public splits for FBS vs FCS"
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T14:45:00Z"
+    },
+    "total": {
+      "line": 51.5,
+      "over_price": -110,
+      "under_price": -110,
+      "opening_line": 50.5,
+      "line_movement": "moved up 1 point",
+      "public_betting": {
+        "over_percent": null,
+        "under_percent": null
+      },
+      "book": "DraftKings",
+      "asof_utc": "2025-09-20T14:45:00Z"
+    },
+    "consensus_note": "Market around LSU -38.5 to -40 and 50.5–51.5 total; some reports of higher numbers day-of"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "LSU is 2-1 ATS in 2025; 0-3 to the UNDER (season-to-date)",
+      "UNDER has hit in 7 of LSU’s last 9 home games",
+      "SELA 1-6 ATS in last 7 road games"
+    ],
+    "situational_spots": [
+      "Look-ahead spot with Ole Miss next week; likely rotations and clock bleed",
+      "Massive spread creates backdoor cover risk late vs LSU reserves"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "No bet",
+      "confidence": 0.55,
+      "rationale": "Price unplayable on LSU; underdog ML too thin to justify",
+      "value_assessment": "No value"
+    },
+    "spread": {
+      "pick": "SELA +39.5",
+      "confidence": 0.6,
+      "rationale": "Look-ahead + likely early pull for starters; backdoor live",
+      "value_assessment": "Slight value if market steams to -41"
+    },
+    "total": {
+      "pick": "UNDER 51.5",
+      "confidence": 0.6,
+      "rationale": "LSU defense strong; conservative 2H script and running clock",
+      "value_assessment": "Solid at 51+; reduces above 50"
+    },
+    "best_bet": {
+      "pick": "UNDER 51.5",
+      "confidence": 0.6,
+      "rationale": "Game script and rotations favor fewer late points"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "LSU QB Garrett Nussmeier managing torso issue; expected to play",
+      "LSU TE Trey'Dez Green reportedly out multiple weeks (knee); C Braelin Moore status uncertain"
+    ],
+    "matchup_notes": [
+      "Only prior meetings: 1949 and 2018, both LSU wins",
+      "Look-ahead to Ole Miss on Sept. 27 could cap LSU intensity late"
+    ],
+    "coaching_notes": [
+      "Brian Kelly likely to rotate depth if lead extends",
+      "SELA aims for quick rhythm offense to find late cover"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "LSU stays on CFP track with business-like win",
+    "conference_impact": "Nonconference tune-up before SEC stretch",
+    "narrative": "In-state David vs Goliath under the lights",
+    "tv_storylines": [
+      "Top-5 LSU defense vs overmatched FCS foe",
+      "Health and sharpness check before Ole Miss"
+    ]
+  },
+  "sources": [
+    {
+      "type": "tv",
+      "label": "USA Today / Knox News — How to Watch",
+      "url": "[https://www.knoxnews.com/story/sports/college/2025/09/19/sec-football-games-today-2025-watch-lsu-tigers-vs-southeastern-louisiana-lions-time-channel-schedule/86227680007/](https://www.knoxnews.com/story/sports/college/2025/09/19/sec-football-games-today-2025-watch-lsu-tigers-vs-southeastern-louisiana-lions-time-channel-schedule/86227680007/)",
+      "asof_utc": "2025-09-20T14:40:00Z"
+    },
+    {
+      "type": "tv",
+      "label": "FOX Sports — How to Watch",
+      "url": "[https://www.foxsports.com/articles/college-football/how-to-watch-lsu-vs-se-louisiana-time-tv-channel-live-stream-september-20-2025](https://www.foxsports.com/articles/college-football/how-to-watch-lsu-vs-se-louisiana-time-tv-channel-live-stream-september-20-2025)",
+      "asof_utc": "2025-09-20T14:40:00Z"
+    },
+    {
+      "type": "schedule",
+      "label": "Southeastern Louisiana — 2025 Schedule (time/SECN)",
+      "url": "[https://lionsports.net/sports/football/schedule/2025](https://lionsports.net/sports/football/schedule/2025)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "DraftKings Sportsbook (event page)",
+      "url": "[https://sportsbook.draftkings.com/event/southeastern-louisiana-%40-lsu/32822156](https://sportsbook.draftkings.com/event/southeastern-louisiana-%40-lsu/32822156)",
+      "asof_utc": "2025-09-20T14:45:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "DraftKings Network — line/total mention",
+      "url": "[https://dknetwork.draftkings.com/2025/09/20/lsu-tigers-vs-southeastern-louisiana-lions-prediction-pick-for-saturday-9-20-25/](https://dknetwork.draftkings.com/2025/09/20/lsu-tigers-vs-southeastern-louisiana-lions-prediction-pick-for-saturday-9-20-25/)",
+      "asof_utc": "2025-09-20T14:46:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "Action Network — matchup hub",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/southeastern-louisiana-lsu-score-odds-september-20-2025/254510](https://www.actionnetwork.com/ncaaf-game/southeastern-louisiana-lsu-score-odds-september-20-2025/254510)",
+      "asof_utc": "2025-09-20T14:46:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "VegasInsider — LSU team odds page (consensus spread)",
+      "url": "[https://www.vegasinsider.com/college-football/teams/lsu/](https://www.vegasinsider.com/college-football/teams/lsu/)",
+      "asof_utc": "2025-09-20T14:47:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "Dimers — moneyline snapshot",
+      "url": "[https://www.dimers.com/news/southeastern-louisiana-vs-lsu-prediction-college-football-week-4-2025-ac](https://www.dimers.com/news/southeastern-louisiana-vs-lsu-prediction-college-football-week-4-2025-ac)",
+      "asof_utc": "2025-09-20T14:45:00Z"
+    },
+    {
+      "type": "trends",
+      "label": "Covers — LSU 2025 ATS/O-U",
+      "url": "[https://www.covers.com/sport/football/ncaaf/teams/main/lsu-tigers](https://www.covers.com/sport/football/ncaaf/teams/main/lsu-tigers)",
+      "asof_utc": "2025-09-20T14:48:00Z"
+    },
+    {
+      "type": "news",
+      "label": "LSU on SI — injury notes/Nussmeier status",
+      "url": "[https://www.si.com/college/lsu/football/garrett-nussmeier-injury-update-lsu-football-s-brian-kelly-updates-availability-01k5g32x4zgb](https://www.si.com/college/lsu/football/garrett-nussmeier-injury-update-lsu-football-s-brian-kelly-updates-availability-01k5g32x4zgb)",
+      "asof_utc": "2025-09-20T14:42:00Z"
+    },
+    {
+      "type": "facilities",
+      "label": "LSU Sports — Tiger Stadium capacity",
+      "url": "[https://lsusports.net/facilities/tiger-stadium/](https://lsusports.net/facilities/tiger-stadium/)",
+      "asof_utc": "2025-09-20T14:34:00Z"
+    },
+    {
+      "type": "history",
+      "label": "ESPN — 2018 SELA at LSU box score",
+      "url": "[https://www.espn.com/college-football/game/_/gameId/401012264/se-louisiana-lsu](https://www.espn.com/college-football/game/_/gameId/401012264/se-louisiana-lsu)",
+      "asof_utc": "2025-09-20T14:33:00Z"
+    }
+  ]
+}

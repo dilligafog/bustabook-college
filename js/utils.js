@@ -66,21 +66,30 @@ const DateUtils = {
     /**
      * Check if game is in progress, upcoming, or completed
      * @param {string} gameDate - Game date string
-     * @param {object} scoreData - Score data from scores.json
-     * @returns {string} Game status: 'in-progress', 'upcoming', 'completed'
+     * @param {object} scoreData - Normalized score data (from DataUtils.loadScores)
+     * @returns {string} Game status: 'in_progress', 'upcoming', 'completed'
      */
     getGameStatus(gameDate, scoreData = null) {
-        // Only use score data to determine status - no time-based assumptions
+        // Prefer score data when available
         if (scoreData) {
-            if (scoreData.status === 'final' || scoreData.final === true) {
+            if (scoreData.completed === true || scoreData.status === 'final' || scoreData.final === true) {
                 return 'completed';
-            } else if (scoreData.status === 'in_progress') {
+            }
+            if (scoreData.in_progress === true || scoreData.status === 'in_progress' || (scoreData.last_update && scoreData.completed === false)) {
                 return 'in_progress';
             }
         }
 
-        // If no score data available, default to upcoming
-        return 'upcoming';
+        // Fallback to time-based heuristic when no score info
+        try {
+            const now = new Date();
+            const d = new Date(gameDate);
+            if (isNaN(d.getTime())) return 'upcoming';
+            if (d.toDateString() === now.toDateString()) return 'upcoming';
+            return d < now ? 'completed' : 'upcoming';
+        } catch {
+            return 'upcoming';
+        }
     }
 };
 
@@ -185,35 +194,94 @@ const DataUtils = {
     },
 
     /**
-     * Load live scores from scores.json
-     * @returns {Promise<object>} Scores data indexed by game_id
+     * Load live scores from scores.json (new API format: array of games)
+     * Normalizes into a map keyed by game id with fields expected by the UI.
+     * @returns {Promise<object>} Scores data indexed by game id
      */
     async loadScores() {
-        const scoresData = await this.loadJSON('data/scores.json');
-        if (!scoresData || !scoresData.games) {
+        const raw = await this.loadJSON('data/all-scores.json');
+        if (!raw || !Array.isArray(raw)) {
             return {};
         }
 
-        // Convert array to object indexed by game_id for easy lookup
+        const coerceName = (val, def = '') => {
+            if (val == null) return def;
+            if (typeof val === 'string') return val;
+            if (typeof val === 'object') {
+                const n = val.name || val.team || val.short;
+                if (typeof n === 'string') return n;
+            }
+            try { return String(val); } catch { return def; }
+        };
+        const shortify = (name) => {
+            const s = coerceName(name, '');
+            if (!s) return '';
+            return s.replace(/\(.*?\)/g, '').trim().split(/\s+/)[0].toUpperCase();
+        };
+
         const scoresMap = {};
-        scoresData.games.forEach(game => {
-            scoresMap[game.game_id] = {
-                // Keep the original structure that evaluateBestBet expects
+        raw.forEach(item => {
+            const id = item.id || item.game_id; // prefer new API id
+            if (!id) return;
+
+            let homeScore = null;
+            let awayScore = null;
+
+            // Source 1: explicit nested team objects (preferred for our all-scores.json)
+            const rawHomeScore = item?.home_team?.score;
+            const rawAwayScore = item?.away_team?.score;
+            if (rawHomeScore !== undefined && rawHomeScore !== null) {
+                const v = typeof rawHomeScore === 'number' ? rawHomeScore : parseInt(rawHomeScore);
+                if (!isNaN(v)) homeScore = v;
+            }
+            if (rawAwayScore !== undefined && rawAwayScore !== null) {
+                const v = typeof rawAwayScore === 'number' ? rawAwayScore : parseInt(rawAwayScore);
+                if (!isNaN(v)) awayScore = v;
+            }
+
+            // Source 2: generic array style
+            if ((homeScore === null || awayScore === null) && Array.isArray(item.scores)) {
+                item.scores.forEach(s => {
+                    const n = coerceName(s?.name || s?.team, '').toLowerCase();
+                    const ht = coerceName(item.home_team, '').toLowerCase();
+                    const at = coerceName(item.away_team, '').toLowerCase();
+                    const val = typeof s?.score === 'number' ? s.score : parseInt(s?.score);
+                    if (!isNaN(val)) {
+                        if (homeScore === null && (n === 'home' || (ht && (n === ht || ht.includes(n) || n.includes('home'))))) {
+                            homeScore = val;
+                        } else if (awayScore === null && (n === 'away' || (at && (n === at || at.includes(n) || n.includes('away'))))) {
+                            awayScore = val;
+                        }
+                    }
+                });
+            }
+
+            const normalized = {
                 home_team: {
-                    short: game.home_team.short,
-                    name: game.home_team.name,
-                    score: game.home_team.score
+                    short: shortify(item.home_team),
+                    name: coerceName(item.home_team, 'Home'),
+                    score: homeScore
                 },
                 away_team: {
-                    short: game.away_team.short,
-                    name: game.away_team.name,
-                    score: game.away_team.score
+                    short: shortify(item.away_team),
+                    name: coerceName(item.away_team, 'Away'),
+                    score: awayScore
                 },
-                quarter: game.quarter,
-                time_remaining: game.time_remaining,
-                status: game.status,
-                final: game.final || game.status === 'final'
+                quarter: item.quarter || null,
+                time_remaining: item.time_remaining || null,
+                // Derive a simple status compatible with existing UI logic
+                status: (item.completed === true || item.final === true || item.status === 'final' || item.status === 'completed')
+                    ? 'final'
+                    : ((item.status === 'in_progress' || item.status === 'live' || item.last_update) ? 'in_progress' : 'scheduled'),
+                final: item.completed === true || item.final === true || item.status === 'final',
+                completed: item.completed === true || item.final === true || item.status === 'final',
+                last_update: item.last_update || null,
+                // Flat scores used by game detail live score
+                home_score: homeScore,
+                away_score: awayScore
             };
+
+            scoresMap[id] = normalized;
         });
 
         return scoresMap;
@@ -300,3 +368,67 @@ window.DataUtils = DataUtils;
 window.UIUtils = UIUtils;
 
 console.log('BustaBook utilities loaded successfully');
+
+/**
+ * Theme Utilities - manage Dark Mode Betting Theme
+ */
+const ThemeUtils = {
+    storageKey: 'bb_theme',
+    darkClass: 'bb-dark',
+
+    isDark() {
+        try {
+            return localStorage.getItem(this.storageKey) === 'dark';
+        } catch (e) {
+            return false;
+        }
+    },
+
+    applyTheme(dark) {
+        const el = document.documentElement || document.body;
+        if (dark) {
+            el.classList.add(this.darkClass);
+        } else {
+            el.classList.remove(this.darkClass);
+        }
+    },
+
+    toggle() {
+        const next = !this.isDark();
+        try {
+            localStorage.setItem(this.storageKey, next ? 'dark' : 'light');
+        } catch (e) {
+            // ignore
+        }
+        this.applyTheme(next);
+    },
+
+    init() {
+        // Apply stored theme on load
+        const dark = this.isDark();
+        this.applyTheme(dark);
+
+        // Wire up toggle buttons if present
+        document.querySelectorAll('#theme-toggle').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                this.toggle();
+                // Update button text to indicate current mode
+                const nowDark = this.isDark();
+                btn.textContent = nowDark ? 'Light Mode' : 'Dark Mode';
+            });
+
+            // Set initial button text
+            btn.textContent = dark ? 'Light Mode' : 'Dark Mode';
+        });
+    }
+};
+
+// Initialize theme once DOM is ready
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => ThemeUtils.init());
+} else {
+    ThemeUtils.init();
+}
+
+// Expose ThemeUtils for debugging
+window.ThemeUtils = ThemeUtils;

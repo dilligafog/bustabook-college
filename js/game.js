@@ -252,16 +252,16 @@ class GameDetailApp {
     renderGameHeader() {
         const meta = this.gameData.game_meta;
         const gameTime = DateUtils.formatGameTime(meta.datetime_local);
-        const status = DateUtils.getGameStatus(meta.datetime_local);
+        const status = DateUtils.getGameStatus(meta.datetime_local, this.scores[this.gameId]);
         
         const statusColors = {
-            'in-progress': 'bg-green-100 text-green-800',
+            'in_progress': 'bg-green-100 text-green-800',
             'upcoming': 'bg-blue-100 text-blue-800',
             'completed': 'bg-gray-100 text-gray-800'
         };
         
         const statusLabels = {
-            'in-progress': '🔴 LIVE',
+            'in_progress': '🔴 LIVE',
             'upcoming': '🕒 UPCOMING',
             'completed': '✅ FINAL'
         };
@@ -615,10 +615,12 @@ class GameDetailApp {
 
         const html = `
             ${picks.best_bet ? `
-                <div class="mb-6 bg-gradient-to-r from-green-100 to-green-200 border-2 border-green-500 rounded-lg p-4">
-                    <h3 class="text-lg font-bold text-green-800 mb-2">🏆 BEST BET</h3>
-                    <div class="text-xl font-bold text-green-900">${picks.best_bet.pick}</div>
-                    <div class="text-sm text-green-700 mt-2">${picks.best_bet.rationale}</div>
+                <div class="best-bet-card mb-6 bg-white border-2 border-lime-400 rounded-lg p-4 shadow-md hover:shadow-lg transition-shadow">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="inline-block text-xs font-semibold px-2 py-0.5 rounded bg-lime-100 text-lime-800">BEST BET</span>
+                        <h3 class="text-lg font-bold text-gray-900">🏆 ${picks.best_bet.pick}</h3>
+                    </div>
+                    <div class="best-bet-rationale text-sm text-gray-700">${picks.best_bet.rationale}</div>
                     ${this.renderConfidenceBar(picks.best_bet.confidence)}
                 </div>
             ` : ''}

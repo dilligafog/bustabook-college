@@ -1,0 +1,238 @@
+{
+"game_meta": {
+"game_id": "e7873a03eb97c9a032544e448cc2d55c",
+        "title": "Michigan Wolverines at Nebraska Cornhuskers",
+"datetime_local": "2025-09-20T15:30:00-04:00",
+        "venue": "Memorial Stadium, Lincoln, NE",
+        "tv": [
+            "CBS"
+        ],
+"attendance_capacity": 85458,
+        "weather": {
+            "conditions": "Partly cloudy",
+"temp_f": 75,
+"wind_mph": 6,
+            "notes": "Light winds; minimal weather impact"
+        },
+        "rankings": {
+"home_ap": null,
+"away_ap": 21,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-15T20:00:00Z"
+        },
+"hype_factors": [
+            "Big Ten opener",
+            "Freshman QB duel: Underwood vs Raiola",
+            "Memorial Stadium sellout streak energy",
+            "Nebraska seeking first ranked win in years"
+        ],
+"last_updated_utc": "2025-09-20T14:15:00Z"
+    },
+    "teams": {
+        "home": {
+            "name": "Nebraska Cornhuskers",
+            "short": "NEB",
+            "mascot": "Cornhuskers",
+            "conference": "Big Ten",
+            "record": "3-0 (0-0)",
+"recent_form": "3-0 start, 49 PPG, stingy scoring defense",
+"key_stats": {
+"offense_rank": 12,
+"defense_rank": 7,
+"turnover_margin": "+1.3",
+"ats_record": "2-1 ATS this season"
+            },
+"motivation_factors": [
+                "Shot to topple ranked foe at home",
+                "Signature win for Matt Rhule era"
+            ]
+        },
+        "away": {
+            "name": "Michigan Wolverines",
+            "short": "MICH",
+            "mascot": "Wolverines",
+            "conference": "Big Ten",
+            "record": "2-1 (0-0)",
+"recent_form": "Blew out CMU 63-3 after OU loss; defense rolling",
+"key_stats": {
+"offense_rank": 25,
+"defense_rank": 25,
+"turnover_margin": "+1.7",
+"ats_record": "1-2 ATS this season"
+            },
+"motivation_factors": [
+                "Prove-it road spot",
+                "Playoff path needs quality road win"
+            ]
+        }
+    },
+"matchup_history": {
+"all_time_record": "Michigan leads 8-4-1",
+"last_meeting": {
+            "date": "2023-09-30",
+            "score": "Michigan 45, Nebraska 7",
+            "note": "Blowout in Lincoln"
+        },
+"recent_trend": "Michigan won 4 straight in series"
+    },
+    "odds": {
+        "moneyline": {
+            "home": {
+                "price": -102,
+"implied_prob": 0.505,
+"opening_line": "+114",
+"line_movement": "moved toward home from +114 to near pick'em",
+                "book": "DraftKings",
+"asof_utc": "2025-09-20T13:55:00Z"
+            },
+            "away": {
+                "price": -118,
+"implied_prob": 0.541,
+"opening_line": -135,
+"line_movement": "softened toward Nebraska",
+                "book": "DraftKings",
+"asof_utc": "2025-09-20T13:55:00Z"
+            }
+        },
+        "spread": {
+            "line": -1.5,
+            "favorite": "MICH",
+"price_home": -112,
+"price_away": -108,
+"opening_line": -2.5,
+"line_movement": "moved toward home by 1 point",
+"public_betting": {
+"home_percent": 34,
+"away_percent": 66,
+                "note": "Bets on Michigan -1.5; handle also favors MICH"
+            },
+            "book": "DraftKings",
+"asof_utc": "2025-09-20T13:55:00Z"
+        },
+        "total": {
+            "line": 47.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 45.5,
+"line_movement": "moved up 2 points",
+"public_betting": {
+"over_percent": 74,
+"under_percent": 26
+            },
+            "book": "DraftKings",
+"asof_utc": "2025-09-20T13:55:00Z"
+        },
+"consensus_note": "Market tightened from MICH -2.5 to -1.5; ML near pick'em; total bet up into mid-40s"
+    },
+"betting_angles": {
+"key_trends": [
+            "Nebraska 2-1 ATS; Michigan 1-2 ATS (2025)",
+            "Michigan has covered 4 straight vs Nebraska (series)",
+            "Market move toward home dog despite public MICH interest"
+        ],
+"situational_spots": [
+            "Home dog in raucous environment with elite scoring defense",
+            "Michigan off blowout tune-up; step up in class on road"
+        ]
+    },
+    "picks": {
+        "moneyline": {
+            "pick": "NEB -102",
+            "confidence": 0.58,
+            "rationale": "Line drift toward Huskers + defensive metrics; home-field surge vs public MICH tickets",
+"value_assessment": "Slight value at or better than even"
+        },
+        "spread": {
+            "pick": "NEB +1.5",
+            "confidence": 0.64,
+            "rationale": "Market-to-home move with DK splits showing public on MICH; key numbers limited so take points",
+"value_assessment": "Good value with contrarian angle"
+        },
+        "total": {
+            "pick": "UNDER 47.5",
+            "confidence": 0.66,
+            "rationale": "Nebraska top-10 scoring D; Michigan defense strong; upgrade in opponent quality caps scoring",
+"value_assessment": "Solid value after total was bet up"
+        },
+"best_bet": {
+            "pick": "UNDER 47.5",
+            "confidence": 0.66,
+            "rationale": "Defensive profiles + slower game scripts in Big Ten openers"
+        }
+    },
+    "notables": {
+"injuries_news": [
+            "Michigan head coach Sherrone Moore serving 2-game suspension; Biff Poggi acting HC",
+            "Michigan OL depth thin (Brady Norton/Gio El-Hadi dings)",
+            "Nebraska CB Malcolm Hartzog Jr. listed questionable"
+        ],
+"matchup_notes": [
+            "Michigan rush attack vs Nebraska’s elite pass defense shifts emphasis to ground game",
+            "Turnover edge: MICH +1.7 per game; NEB +1.3 per game"
+        ],
+"coaching_notes": [
+            "Rhule praises MICH DC Wink Martindale’s disguise/pressure packages",
+            "Poggi/Staff expected to lean on QB Bryce Underwood’s legs in big spots"
+        ]
+    },
+"excitement_factors": {
+"playoff_implications": "Early-season resume game; winner strengthens path",
+"conference_impact": "Sets tone in Big Ten race",
+        "narrative": "Freshman QB showdown in a hostile road venue",
+"tv_storylines": [
+            "Underwood vs Raiola headline duel",
+            "Can Nebraska finally beat a ranked opponent?"
+        ]
+    },
+    "sources": [
+        {
+            "type": "odds",
+            "label": "DraftKings Sportsbook (lines/ML/total/splits)",
+            "url": "[https://sportsbook.draftkings.com](https://sportsbook.draftkings.com)",
+"asof_utc": "2025-09-20T13:55:00Z"
+        },
+        {
+            "type": "betting_trends",
+            "label": "VSiN / DK Splits",
+            "url": "[https://data.vsin.com/betting-splits/](https://data.vsin.com/betting-splits/)",
+"asof_utc": "2025-09-20T13:55:00Z"
+        },
+        {
+            "type": "betting_trends",
+            "label": "Action Network Public Betting",
+            "url": "[https://www.actionnetwork.com/ncaaf-game/michigan-wolverines-nebraska-cornhuskers/254521](https://www.actionnetwork.com/ncaaf-game/michigan-wolverines-nebraska-cornhuskers/254521)",
+"asof_utc": "2025-09-20T13:50:00Z"
+        },
+        {
+            "type": "news",
+            "label": "FOX/Yahoo TV Listings",
+            "url": "[https://www.foxsports.com/college-football/michigan-nebraska-odds-sep-20-2025](https://www.foxsports.com/college-football/michigan-nebraska-odds-sep-20-2025)",
+"asof_utc": "2025-09-20T13:40:00Z"
+        },
+        {
+            "type": "news",
+            "label": "Maize n Brew (AP rank & context)",
+            "url": "[https://www.maizenbrew.com/michigan-football-news/92531/michigan-football-ap-poll](https://www.maizenbrew.com/michigan-football-news/92531/michigan-football-ap-poll)",
+"asof_utc": "2025-09-20T13:40:00Z"
+        },
+        {
+            "type": "team_stats",
+            "label": "Covers Team Pages (ATS records)",
+            "url": "[https://www.covers.com/sport/football/ncaaf/teams/main](https://www.covers.com/sport/football/ncaaf/teams/main)",
+"asof_utc": "2025-09-20T13:45:00Z"
+        },
+        {
+            "type": "advanced_stats",
+            "label": "NCAA Team Leaders (Scoring Defense)",
+            "url": "[https://www.ncaa.com/stats/football/fbs/current/team/21](https://www.ncaa.com/stats/football/fbs/current/team/21)",
+"asof_utc": "2025-09-20T13:45:00Z"
+        },
+        {
+            "type": "history",
+            "label": "Michigan–Nebraska series history",
+            "url": "[https://mgoblue.com/sports/football/opponent-history/nebraska/485](https://mgoblue.com/sports/football/opponent-history/nebraska/485)",
+"asof_utc": "2025-09-20T13:35:00Z"
+        }
+    ]
+}

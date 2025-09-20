@@ -1,0 +1,237 @@
+{
+  "game_meta": {
+    "game_id": "3494518f6430d858bb0c13fe8b29b108",
+    "title": "Michigan State Spartans at USC Trojans",
+    "datetime_local": "2025-09-20T23:00:00-04:00",
+    "venue": "United Airlines Field at Los Angeles Memorial Coliseum, Los Angeles, CA",
+    "tv": [
+      "FOX"
+    ],
+    "attendance_capacity": 77500,
+    "weather": {
+      "conditions": "Clear",
+      "temp_f": 70,
+      "wind_mph": 3,
+      "notes": "Calm, dry night; minimal wind — ideal scoring conditions, slight 11pm ET body-clock factor for MSU"
+    },
+    "rankings": {
+      "home_ap": 25,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-14T18:00:00Z"
+    },
+    "hype_factors": [
+      "First meeting since 1990 Sun Bowl",
+      "Big Ten After Dark in LA",
+      "USC newly in AP Top 25",
+      "Smith vs Riley chess match"
+    ],
+    "last_updated_utc": "2025-09-20T14:40:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "University of Southern California",
+      "short": "USC",
+      "mascot": "Trojans",
+      "conference": "Big Ten",
+      "record": "3-0 (1-0)",
+      "recent_form": "3-game win streak, averaging 55.0 PPG",
+      "key_stats": {
+        "offense_rank": 1,
+        "defense_rank": null,
+        "turnover_margin": "N/A",
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "Protect new Top-25 rank",
+        "Statement Big Ten home game"
+      ]
+    },
+    "away": {
+      "name": "Michigan State University",
+      "short": "MSU",
+      "mascot": "Spartans",
+      "conference": "Big Ten",
+      "record": "3-0 (0-0)",
+      "recent_form": "3-game win streak, averaging 35.3 PPG",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "N/A",
+        "ats_record": "0-3 ATS this season"
+      },
+      "motivation_factors": [
+        "Upset shot vs ranked foe",
+        "Program measuring-stick game"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "Series tied 4-4",
+    "last_meeting": {
+      "date": "1990-12-31",
+      "score": "MSU 17, USC 16",
+      "note": "John Hancock (Sun) Bowl; MSU has won last three meetings"
+    },
+    "recent_trend": "MSU won last 3 meetings"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -1000,
+        "implied_prob": 0.909,
+        "opening_line": -750,
+        "line_movement": "drifted toward home",
+        "book": "ESPN BET / Covers consensus",
+        "asof_utc": "2025-09-20T14:35:00Z"
+      },
+      "away": {
+        "price": 650,
+        "implied_prob": 0.133,
+        "opening_line": 525,
+        "line_movement": "drifted against away",
+        "book": "ESPN BET / Covers consensus",
+        "asof_utc": "2025-09-20T14:35:00Z"
+      }
+    },
+    "spread": {
+      "line": -18.5,
+      "favorite": "USC",
+      "price_home": -112,
+      "price_away": -108,
+      "opening_line": -15.5,
+      "line_movement": "moved toward home by ~3 points",
+      "public_betting": {
+        "home_percent": null,
+        "away_percent": null,
+        "note": "Market/analyst lean to USC; precise splits not published"
+      },
+      "book": "DraftKings (current) / ESPN BET (open)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    "total": {
+      "line": 55.5,
+      "over_price": -105,
+      "under_price": -115,
+      "opening_line": 56.5,
+      "line_movement": "ticked down 1.0 point",
+      "public_betting": {
+        "over_percent": null,
+        "under_percent": null
+      },
+      "book": "DraftKings (current) / ESPN BET (open)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    "consensus_note": "Books aligned around USC -18.5/-19.5 and total 54.5–56.5; spread steamed toward USC, total nudged down suggesting some Under money"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "USC is 2-1 ATS; MSU is 0-3 ATS in 2025",
+      "USC offense ranks #1 in YPG early season",
+      "Late 11pm ET kick favors home body clock"
+    ],
+    "situational_spots": [
+      "Inflated favorite after ranking bump — potential buy-low on road dog",
+      "MSU traveling West for very late start"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "MSU +650",
+      "confidence": 0.52,
+      "rationale": "Big number on a competent 3-0 dog; tiny flier only given USC’s heavy ML tax",
+      "value_assessment": "Thin value; price-driven only"
+    },
+    "spread": {
+      "pick": "MSU +19.5",
+      "confidence": 0.63,
+      "rationale": "Market steam and public love on USC create contrarian value on a two-score-plus dog",
+      "value_assessment": "Good value at +19 or better"
+    },
+    "total": {
+      "pick": "UNDER 55.5",
+      "confidence": 0.58,
+      "rationale": "Total has edged down; injuries on MSU skill group and USC’s ability to control on ground",
+      "value_assessment": "Slight value to Under"
+    },
+    "best_bet": {
+      "pick": "MSU +19.5",
+      "confidence": 0.63,
+      "rationale": "Numbers inflated by USC hype/new ranking; classic contrarian road-dog spot"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "MSU WR Nick Marsh questionable; RB Makhi Frazier questionable; OL Luka Vincic likely out long-term",
+      "USC CB Christian Johnson out for season; multiple DBs listed questionable"
+    ],
+    "matchup_notes": [
+      "USC’s explosive offense (#1 YPG) vs MSU secondary; MSU allowed 8 sacks in 3 games",
+      "Late-night kickoff (11pm ET) could slow MSU pace/tempo"
+    ],
+    "coaching_notes": [
+      "Lincoln Riley offense humming with QB Jayden Maiava",
+      "Jonathan Smith’s Spartans physical, but ATS starts slow (0-3)"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "USC must avoid upset to stay in early playoff discussion",
+    "conference_impact": "Early Big Ten positioning game",
+    "narrative": "Reunion game after 35 years; upstart Spartans vs ranked Trojans in LA",
+    "tv_storylines": [
+      "First meeting since 1990 Sun Bowl (MSU 17-16)",
+      "Big Ten After Dark showcase in the Coliseum"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "DraftKings Event Page",
+      "url": "[https://sportsbook.draftkings.com/event/michigan-state-%40-usc/32773565](https://sportsbook.draftkings.com/event/michigan-state-%40-usc/32773565)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "DraftKings Team Page (MSU)",
+      "url": "[https://sportsbook.draftkings.com/teams/football/college-football/michigan-state-spartans](https://sportsbook.draftkings.com/teams/football/college-football/michigan-state-spartans)",
+      "asof_utc": "2025-09-20T14:35:00Z"
+    },
+    {
+      "type": "betting_trends",
+      "label": "Action Network Game Page",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/michigan-state-usc-score-odds-september-20-2025/254548](https://www.actionnetwork.com/ncaaf-game/michigan-state-usc-score-odds-september-20-2025/254548)",
+      "asof_utc": "2025-09-20T14:30:00Z"
+    },
+    {
+      "type": "news",
+      "label": "ESPN Game Page",
+      "url": "[https://www.espn.com/college-football/game/](https://www.espn.com/college-football/game/)*/gameId/401752847/michigan-st-usc",
+      "asof_utc": "2025-09-20T14:25:00Z"
+    },
+    {
+      "type": "rankings",
+      "label": "NCAA AP Top 25 Week 4",
+      "url": "[https://www.ncaa.com/rankings/football/fbs/associated-press](https://www.ncaa.com/rankings/football/fbs/associated-press)",
+      "asof_utc": "2025-09-14T18:00:00Z"
+    },
+    {
+      "type": "venue",
+      "label": "USC Coliseum Capacity",
+      "url": "[https://usctrojans.com/facilities/united-airlines-field-at-los-angeles-memorial-coliseum/2](https://usctrojans.com/facilities/united-airlines-field-at-los-angeles-memorial-coliseum/2)",
+      "asof_utc": "2025-09-20T14:10:00Z"
+    },
+    {
+      "type": "odds",
+      "label": "ESPN BET Snapshot (open/current)",
+      "url": "[https://www.espn.com/college-football/game/](https://www.espn.com/college-football/game/)*/gameId/401752847/michigan-st-usc",
+      "asof_utc": "2025-09-20T14:25:00Z"
+    },
+    {
+      "type": "injuries",
+      "label": "Covers Injury Report",
+      "url": "[https://www.covers.com/sport/football/ncaaf/matchup/357446/injuries](https://www.covers.com/sport/football/ncaaf/matchup/357446/injuries)",
+      "asof_utc": "2025-09-20T14:20:00Z"
+    }
+  ]
+}

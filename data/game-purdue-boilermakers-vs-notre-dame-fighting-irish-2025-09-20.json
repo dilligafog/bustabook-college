@@ -1,0 +1,222 @@
+{
+  "game_meta": {
+    "game_id": "af17a22d1102bd35d73a24c0332f762f",
+    "title": "Purdue Boilermakers at Notre Dame Fighting Irish",
+    "datetime_local": "2025-09-20T15:30:00-04:00",
+    "venue": "Notre Dame Stadium, South Bend, IN",
+    "tv": [
+      "NBC",
+      "Peacock"
+    ],
+    "attendance_capacity": 80795,
+    "weather": {
+      "conditions": "Warm, partly cloudy",
+      "temp_f": 84,
+      "wind_mph": 7,
+      "notes": "Low rain chance; light wind; minimal impact"
+    },
+    "rankings": {
+      "home_ap": 24,
+      "away_ap": null,
+      "home_cfp": null,
+      "away_cfp": null,
+      "poll_asof_utc": "2025-09-15T18:00:00Z"
+    },
+    "hype_factors": [
+      "Shillelagh Trophy rivalry",
+      "Notre Dame trying to avoid 0-3",
+      "In-state matchup on national TV",
+      "Purdue in revenge spot after 66–7 loss last year"
+    ],
+    "last_updated_utc": "2025-09-20T18:20:00Z"
+  },
+  "teams": {
+    "home": {
+      "name": "Notre Dame Fighting Irish",
+      "short": "ND",
+      "mascot": "Fighting Irish",
+      "conference": "Independent",
+      "record": "0-2 (—)",
+      "recent_form": "0-2 with two one-score losses (27–24 at Miami, 41–40 vs A&M)",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "—",
+        "ats_record": "0-2 ATS this season"
+      },
+      "motivation_factors": [
+        "Avoid 0-3 start",
+        "Home crowd and trophy game"
+      ]
+    },
+    "away": {
+      "name": "Purdue Boilermakers",
+      "short": "PUR",
+      "mascot": "Boilermakers",
+      "conference": "Big Ten",
+      "record": "2-1 (0-1)",
+      "recent_form": "2-1; defense trending, 0 second-half TDs allowed this season",
+      "key_stats": {
+        "offense_rank": null,
+        "defense_rank": null,
+        "turnover_margin": "—",
+        "ats_record": "2-1 ATS this season"
+      },
+      "motivation_factors": [
+        "Revenge after 2024 blowout",
+        "Upset bid vs ranked rival"
+      ]
+    }
+  },
+  "matchup_history": {
+    "all_time_record": "Notre Dame leads 60-26-2",
+    "last_meeting": {
+      "date": "2024-09-14",
+      "score": "Notre Dame 66, Purdue 7",
+      "note": "Blowout in West Lafayette"
+    },
+    "recent_trend": "Notre Dame has won 9 straight in the series"
+  },
+  "odds": {
+    "moneyline": {
+      "home": {
+        "price": -4000,
+        "implied_prob": 0.976,
+        "opening_line": -2400,
+        "line_movement": "moved toward home",
+        "book": "Action Network (consensus)",
+        "asof_utc": "2025-09-20T18:15:00Z"
+      },
+      "away": {
+        "price": 1280,
+        "implied_prob": 0.072,
+        "opening_line": 1200,
+        "line_movement": "moved toward home",
+        "book": "Action Network (consensus)",
+        "asof_utc": "2025-09-20T18:15:00Z"
+      }
+    },
+    "spread": {
+      "line": -24.5,
+      "favorite": "ND",
+      "price_home": -112,
+      "price_away": -108,
+      "opening_line": -27.5,
+      "line_movement": "moved toward away by 3.0 points",
+      "public_betting": {
+        "home_percent": 41,
+        "away_percent": 59,
+        "note": "Majority of tickets on Purdue + points (Action Network)"
+      },
+      "book": "Action Network (consensus)",
+      "asof_utc": "2025-09-20T18:15:00Z"
+    },
+    "total": {
+      "line": 51.5,
+      "over_price": -105,
+      "under_price": -110,
+      "opening_line": 54.5,
+      "line_movement": "moved down 3.0 points",
+      "public_betting": {
+        "over_percent": null,
+        "under_percent": null
+      },
+      "book": "Action Network (consensus)",
+      "asof_utc": "2025-09-20T18:15:00Z"
+    },
+    "consensus_note": "Market drifted off the opener toward Purdue and the Under"
+  },
+  "betting_angles": {
+    "key_trends": [
+      "Notre Dame is 0-2 ATS this season",
+      "Purdue is 2-1 ATS; UNDER 3-0 for Purdue",
+      "Purdue is 0-9 SU last 9 vs Notre Dame"
+    ],
+    "situational_spots": [
+      "Buy-low on ND after 0-2 start with spread down ~3 points from open",
+      "Public leaning dog; potential fade-the-public spot on ND"
+    ]
+  },
+  "picks": {
+    "moneyline": {
+      "pick": "No bet",
+      "confidence": 0.5,
+      "rationale": "Price too steep on ND; Purdue ML too long without sufficient edge",
+      "value_assessment": "No value at current prices"
+    },
+    "spread": {
+      "pick": "ND -24.5",
+      "confidence": 0.62,
+      "rationale": "Market overcorrection toward Purdue; talent gap + buy-low ND with public on dog",
+      "value_assessment": "Solid value vs opener"
+    },
+    "total": {
+      "pick": "UNDER 51.5",
+      "confidence": 0.59,
+      "rationale": "Purdue unders trend; modest wind/tempo; ND likely to lean on ground game with lead",
+      "value_assessment": "Slight value after total dipped from 54.5"
+    },
+    "best_bet": {
+      "pick": "ND -24.5",
+      "confidence": 0.62,
+      "rationale": "Fade public + buy the 3-point dip from open in a mismatch"
+    }
+  },
+  "notables": {
+    "injuries_news": [
+      "ND S Adon Shuler suspended for 1st half (targeting vs A&M)",
+      "ND CB Leonard Moore questionable (ankle)",
+      "ND TE Kevin Bauman out (knee, season)",
+      "Purdue WR Jalil Hall out (lower leg)"
+    ],
+    "matchup_notes": [
+      "Purdue defense has not allowed a second-half TD this season",
+      "Line moved ~3 points toward Purdue; value may now sit with ND"
+    ],
+    "coaching_notes": [
+      "Marcus Freeman under pressure to right ship after 0-2 start",
+      "Ryan Walters’ defense showing improvement year over year"
+    ]
+  },
+  "excitement_factors": {
+    "playoff_implications": "ND must win to keep ranking and playoff hopes alive",
+    "conference_impact": "Non-conference rivalry; confidence-builder for ND, statement chance for Purdue",
+    "narrative": "Ranked blue-blood in early-season crisis vs motivated in-state underdog",
+    "tv_storylines": [
+      "Rare ranked 0-2 team (ND #24) tries to steady season",
+      "Rivalry trophy back on NBC stage in South Bend"
+    ]
+  },
+  "sources": [
+    {
+      "type": "odds",
+      "label": "Action Network Game Page (odds, splits, weather)",
+      "url": "[https://www.actionnetwork.com/ncaaf-game/purdue-notre-dame-score-odds-september-20-2025/254553](https://www.actionnetwork.com/ncaaf-game/purdue-notre-dame-score-odds-september-20-2025/254553)",
+      "asof_utc": "2025-09-20T18:15:00Z"
+    },
+    {
+      "type": "odds_movement",
+      "label": "Sportsbook Review (opening lines) / NBC Sports",
+      "url": "[https://www.sportsbookreview.com/picks/college-football/purdue-vs-notre-dame-prediction-odds-picks-week-4-sept-20-2025/](https://www.sportsbookreview.com/picks/college-football/purdue-vs-notre-dame-prediction-odds-picks-week-4-sept-20-2025/)",
+      "asof_utc": "2025-09-20T17:45:00Z"
+    },
+    {
+      "type": "news",
+      "label": "ESPN Scoreboard (time/TV/lines)",
+      "url": "[https://www.espn.com/college-football/scoreboard/_/week/4/year/2025/seasontype/2](https://www.espn.com/college-football/scoreboard/_/week/4/year/2025/seasontype/2)",
+      "asof_utc": "2025-09-20T17:40:00Z"
+    },
+    {
+      "type": "venue",
+      "label": "Notre Dame Stadium (capacity)",
+      "url": "[https://fightingirish.com/facilities-notre-dame-stadium-html/](https://fightingirish.com/facilities-notre-dame-stadium-html/)",
+      "asof_utc": "2025-09-20T17:35:00Z"
+    },
+    {
+      "type": "injuries",
+      "label": "ND injury/suspension updates",
+      "url": "[https://www.ndinsider.com/story/sports/college/2025/09/13/notre-dame-footballs-adon-shuler-ejected-against-texas-am-will-miss-first-half-against-purdue-ncaa/86146130007/](https://www.ndinsider.com/story/sports/college/2025/09/13/notre-dame-footballs-adon-shuler-ejected-against-texas-am-will-miss-first-half-against-purdue-ncaa/86146130007/)",
+      "asof_utc": "2025-09-20T17:50:00Z"
+    }
+  ]
+}
