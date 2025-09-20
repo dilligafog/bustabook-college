@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T22:55:00.466Z",
+  "generated_at": "2025-09-20T23:05:00.335Z",
   "game_count": 70,
   "games_with_detailed_data": 31,
   "games_score_only": 39,
@@ -132,7 +132,7 @@
     },
     {
       "filename": "game-south-carolina-gamecocks-vs-missouri-tigers-2025-09-20.json",
-      "game_id": "512e428ad08bc3ef6efb803bc679d933",
+      "game_id": "0a99c4c19ec716237226adf6f20506ce",
       "title": "South Carolina Gamecocks at Missouri Tigers",
       "datetime": "2025-09-20T19:00:00-04:00",
       "has_detailed_data": true
@@ -385,15 +385,7 @@
       "filename": null,
       "game_id": "f65d280c50613dc0089571280476bc4a",
       "title": "Coastal Carolina Chanticleers at South Alabama Jaguars",
-      "datetime": "2025-09-20T23:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "eba637423f4dc14f6c7039c4b25fa523",
-      "title": "Marshall Thundering Herd at Middle Tennessee Blue Raiders",
-      "datetime": "2025-09-20T23:00:00Z",
+      "datetime": "2025-09-20T23:02:16Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -401,7 +393,15 @@
       "filename": null,
       "game_id": "c6c93f60d8369525b707f1f11c2cd0a1",
       "title": "Nevada Wolf Pack at Western Kentucky Hilltoppers",
-      "datetime": "2025-09-20T23:00:00Z",
+      "datetime": "2025-09-20T23:02:17Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "eba637423f4dc14f6c7039c4b25fa523",
+      "title": "Marshall Thundering Herd at Middle Tennessee Blue Raiders",
+      "datetime": "2025-09-20T23:02:23Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -409,7 +409,7 @@
       "filename": null,
       "game_id": "95902da68b0cef406dd2413e4399a320",
       "title": "Boise State Broncos at Air Force Falcons",
-      "datetime": "2025-09-20T23:03:00Z",
+      "datetime": "2025-09-20T23:03:12Z",
       "has_detailed_data": false,
       "score_only": true
     },
