@@ -17,7 +17,7 @@
         "score": "28"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "f7f75940634e8ec62dac353f09be0677",
@@ -37,7 +37,7 @@
         "score": "19"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "4bab9cbac51f27b9f12617b760247074",
@@ -57,7 +57,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "c0b1ac9a610885d8e56a1891adf68d57",
@@ -77,14 +77,14 @@
         "score": "31"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "3f96037e0014fee643fc8b7a5efaa2d0",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-20T15:51:00Z",
-    "completed": false,
+    "completed": true,
     "home_team": "Clemson Tigers",
     "away_team": "Syracuse Orange",
     "scores": [
@@ -97,7 +97,7 @@
         "score": "34"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "13e04598f89948bf768f8f5456c9bc66",
@@ -117,7 +117,7 @@
         "score": "27"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "a85c3e810f12d0a8bf904fa1a2795aa6",
@@ -137,7 +137,7 @@
         "score": "45"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "e7873a03eb97c9a032544e448cc2d55c",
@@ -157,7 +157,7 @@
         "score": "17"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "038cd404ffe4a5be92eb7c38c93ffd68",
@@ -177,7 +177,7 @@
         "score": "3"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "c2b9d588bf5c96622fea7d89d5f0c115",
@@ -197,7 +197,7 @@
         "score": "3"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "9449961a57cdf571e7248d18613ec131",
@@ -217,7 +217,7 @@
         "score": "14"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "84ae085a96a7a0b18f00587c6136884f",
@@ -237,7 +237,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "a007e86de8d7082641da38233ddeb1b7",
@@ -257,7 +257,7 @@
         "score": "17"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "3fdda89f6826aab0083880182b962b27",
@@ -277,7 +277,7 @@
         "score": "41"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "340927bb8c4eb3f1d8a13c5480646b51",
@@ -297,7 +297,7 @@
         "score": "6"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "3aa7e2c30d9051691c378e202279c6fc",
@@ -317,7 +317,7 @@
         "score": "34"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "103dcd715ce54d763f5d49157b11b2a2",
@@ -337,7 +337,7 @@
         "score": "10"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "6c5b117f5091e161561240ae95fe99a4",
@@ -357,7 +357,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "cbf53f44970801ab245ec4d71276519e",
@@ -377,7 +377,7 @@
         "score": "10"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "ee813cd96576a01199eedf7066cc54d1",
@@ -397,7 +397,7 @@
         "score": "7"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "857f26585f6083c7cfc300026e647ee6",
@@ -410,14 +410,14 @@
     "scores": [
       {
         "name": "Florida State Seminoles",
-        "score": "35"
+        "score": "42"
       },
       {
         "name": "Kent State Golden Flashes",
         "score": "7"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "2c779264544468120afddc92b13c62e3",
@@ -437,7 +437,7 @@
         "score": "21"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "f652e81624955a035c53f10089a56e2e",
@@ -457,7 +457,7 @@
         "score": "10"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "3a348b84db164ba3eddf330ec773c06d",
@@ -477,7 +477,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "3624fd697b751f6852328275de12fd1c",
@@ -497,7 +497,7 @@
         "score": "17"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "93682b6473bd43d01f8b37a24132ef75",
@@ -510,14 +510,14 @@
     "scores": [
       {
         "name": "UConn Huskies",
-        "score": "10"
+        "score": "17"
       },
       {
         "name": "Ball State Cardinals",
         "score": "7"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "12046fc0c213511df41b0eac4fc599ca",
@@ -534,10 +534,10 @@
       },
       {
         "name": "Toledo Rockets",
-        "score": "10"
+        "score": "13"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "af17a22d1102bd35d73a24c0332f762f",
@@ -557,7 +557,7 @@
         "score": "13"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "19c25ee727d70638bb04d4e1bce612ea",
@@ -577,7 +577,7 @@
         "score": "20"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "03977e2fadb000a89f6b3da8a5b174cd",
@@ -597,7 +597,7 @@
         "score": "10"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "e42cbc33af5d7a0d0045f0858e3cdf96",
@@ -617,7 +617,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "9d1789382895a78e49e86838a9f8c44d",
@@ -637,7 +637,7 @@
         "score": "7"
       }
     ],
-    "last_update": "2025-09-20T21:34:50Z"
+    "last_update": "2025-09-20T21:44:34Z"
   },
   {
     "id": "8a6aaf025db38602e739a75bd9cd79a2",
