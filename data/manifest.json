@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-21T02:05:00.436Z",
-  "game_count": 70,
+  "generated_at": "2025-09-21T02:15:00.447Z",
+  "game_count": 71,
   "games_with_detailed_data": 31,
-  "games_score_only": 39,
+  "games_score_only": 40,
   "games": [
     {
       "filename": "game-alabama-vs-wisconsin-2025-09-13.json",
@@ -505,7 +505,7 @@
       "filename": null,
       "game_id": "0428899902640b8db4774cf8c53379d2",
       "title": "Wyoming Cowboys at Colorado Buffaloes",
-      "datetime": "2025-09-21T02:15:00Z",
+      "datetime": "2025-09-21T02:20:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -522,6 +522,14 @@
       "game_id": "4306843c52f1847f42d57fdc5e59652a",
       "title": "Fresno State Bulldogs at Hawaii Rainbow Warriors",
       "datetime": "2025-09-21T03:59:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "c0f4af0d027dc651e1eb60ede8415ec1",
+      "title": "Arizona Wildcats at Iowa State Cyclones",
+      "datetime": "2025-09-27T23:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
