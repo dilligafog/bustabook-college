@@ -181,57 +181,8 @@ const DataUtils = {
             
         } catch (error) {
             console.error('Failed to load manifest:', error);
-            console.log('Falling back to scanning approach...');
-            
-            // Fallback to scanning if manifest doesn't exist
-            const gameFiles = await this.fallbackScanForGameFiles();
-            // Convert filenames to basic game entries for backward compatibility
-            return gameFiles.map(filename => ({
-                filename: filename,
-                game_id: filename.replace('game-', '').replace('.json', ''),
-                has_detailed_data: true,
-                score_only: false
-            }));
+            throw new Error('Manifest is required. Please run `node build-manifest.js` and ensure data/manifest.json is present.');
         }
-    },
-
-    /**
-     * Fallback scanning method when manifest is not available
-     * @returns {Promise<Array<string>>} Array of potential game filenames
-     */
-    async fallbackScanForGameFiles() {
-        console.log('Using fallback scanning for game files...');
-        const potentialFiles = [];
-        
-        // Simple patterns for fallback
-        for (let i = 1; i <= 50; i++) {
-            potentialFiles.push(`game-${i}.json`);
-            potentialFiles.push(`game-${String(i).padStart(3, '0')}.json`);
-        }
-        
-        // Try with today's date
-        const today = new Date();
-        const dateStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
-        
-        for (let i = 1; i <= 20; i++) {
-            potentialFiles.push(`game-${i}-${dateStr}.json`);
-        }
-        
-        // Validate each file
-        const validFiles = [];
-        for (const filename of potentialFiles.slice(0, 100)) { // Limit to prevent too many requests
-            try {
-                const data = await this.loadJSON(`data/${filename}`);
-                if (data && data.game_meta && data.game_meta.game_id) {
-                    validFiles.push(filename);
-                }
-            } catch (error) {
-                continue;
-            }
-        }
-        
-        console.log(`Fallback scan found ${validFiles.length} valid files`);
-        return validFiles;
     },
 
     /**
@@ -268,7 +219,7 @@ const DataUtils = {
             let homeScore = null;
             let awayScore = null;
 
-            // Source 1: explicit nested team objects (preferred for our all-scores.json)
+            // Nested team objects (canonical format in all-scores.json)
             const rawHomeScore = item?.home_team?.score;
             const rawAwayScore = item?.away_team?.score;
             if (rawHomeScore !== undefined && rawHomeScore !== null) {
@@ -278,23 +229,6 @@ const DataUtils = {
             if (rawAwayScore !== undefined && rawAwayScore !== null) {
                 const v = typeof rawAwayScore === 'number' ? rawAwayScore : parseInt(rawAwayScore);
                 if (!isNaN(v)) awayScore = v;
-            }
-
-            // Source 2: generic array style
-            if ((homeScore === null || awayScore === null) && Array.isArray(item.scores)) {
-                item.scores.forEach(s => {
-                    const n = coerceName(s?.name || s?.team, '').toLowerCase();
-                    const ht = coerceName(item.home_team, '').toLowerCase();
-                    const at = coerceName(item.away_team, '').toLowerCase();
-                    const val = typeof s?.score === 'number' ? s.score : parseInt(s?.score);
-                    if (!isNaN(val)) {
-                        if (homeScore === null && (n === 'home' || (ht && (n === ht || ht.includes(n) || n.includes('home'))))) {
-                            homeScore = val;
-                        } else if (awayScore === null && (n === 'away' || (at && (n === at || at.includes(n) || n.includes('away'))))) {
-                            awayScore = val;
-                        }
-                    }
-                });
             }
 
             const completed = item.completed === true || item.final === true || item.status === 'final' || item.status === 'completed';

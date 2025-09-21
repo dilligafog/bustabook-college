@@ -358,46 +358,8 @@ function buildManifest() {
         // Write manifest file
         fs.writeFileSync(MANIFEST_FILE, JSON.stringify(manifest, null, 2));
         
-        // Generate initial scores.json if it doesn't exist or if we want to reset it
-        const scoresFile = path.join(DATA_DIR, 'scores.json');
-        if (!fs.existsSync(scoresFile)) {
-            console.log('\n📊 Creating initial scores.json...');
-            const initialScores = {
-                last_updated: new Date().toISOString(),
-                games: validGameFiles.map(gameEntry => {
-                    // Parse team names from title
-                    const titleParts = gameEntry.title.split(' at ');
-                    const awayTeam = titleParts[0] || 'Away Team';
-                    const homeTeam = titleParts[1] || 'Home Team';
-                    
-                    return {
-                        game_id: gameEntry.game_id,
-                        status: 'upcoming',
-                        scheduled_time: gameEntry.datetime,
-                        home_team: {
-                            name: homeTeam,
-                            short: homeTeam.split(' ')[0].toUpperCase(),
-                            score: 0
-                        },
-                        away_team: {
-                            name: awayTeam,
-                            short: awayTeam.split(' ')[0].toUpperCase(),
-                            score: 0
-                        },
-                        quarter: null,
-                        time_remaining: null,
-                        possession: null,
-                        final: false
-                    };
-                })
-            };
-            
-            fs.writeFileSync(scoresFile, JSON.stringify(initialScores, null, 2));
-            console.log(`✅ Initial scores.json created with ${initialScores.games.length} games`);
-        } else {
-            console.log('📊 scores.json already exists - not overwriting');
-        }
-        
+        // Do not seed scores.json here; it's produced by the API fetcher
+
         // Skipping automatic all-scores.json maintenance per request
 
         // Maintain all-scores.json by ingesting scores.json (no other fallbacks)

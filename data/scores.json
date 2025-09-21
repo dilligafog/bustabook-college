@@ -1240,6 +1240,17 @@
     "last_update": "2025-09-21T12:32:34Z"
   },
   {
+    "id": "9f0c39a454dbb72e6d5d3d8175d63f24",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-25T23:30:00Z",
+    "completed": false,
+    "home_team": "East Carolina Pirates",
+    "away_team": "Army Black Knights",
+    "scores": null,
+    "last_update": null
+  },
+  {
     "id": "0aa30bdb9295af4b13475b7aabb2cfea",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -1284,6 +1295,28 @@
     "last_update": null
   },
   {
+    "id": "00e4a622dd9d352a89042411d98011c2",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T16:00:00Z",
+    "completed": false,
+    "home_team": "Ohio Bobcats",
+    "away_team": "Bowling Green Falcons",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "b4e694771eec00d29e8b0e767fd89844",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T16:00:00Z",
+    "completed": false,
+    "home_team": "Kansas Jayhawks",
+    "away_team": "Cincinnati Bearcats",
+    "scores": null,
+    "last_update": null
+  },
+  {
     "id": "e29f3c5ebdb03de4f11f032cd29fdc30",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -1291,17 +1324,6 @@
     "completed": false,
     "home_team": "Syracuse Orange",
     "away_team": "Duke Blue Devils",
-    "scores": null,
-    "last_update": null
-  },
-  {
-    "id": "63b6a142067e7f67ea91cc67e534ca6f",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T16:00:00Z",
-    "completed": false,
-    "home_team": "Florida Atlantic Owls",
-    "away_team": "Memphis Tigers",
     "scores": null,
     "last_update": null
   },
@@ -1317,17 +1339,6 @@
     "last_update": null
   },
   {
-    "id": "af7edb090e4bdcac144f29453cc9b416",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T16:00:00Z",
-    "completed": false,
-    "home_team": "Iowa Hawkeyes",
-    "away_team": "Indiana Hoosiers",
-    "scores": null,
-    "last_update": null
-  },
-  {
     "id": "1c9f81f98890e8287c3a203f1b95a78b",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -1335,17 +1346,6 @@
     "completed": false,
     "home_team": "Kansas State Wildcats",
     "away_team": "UCF Knights",
-    "scores": null,
-    "last_update": null
-  },
-  {
-    "id": "f0daa9672398345c140434330134b8e2",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T16:00:00Z",
-    "completed": false,
-    "home_team": "Ole Miss Rebels",
-    "away_team": "LSU Tigers",
     "scores": null,
     "last_update": null
   },
@@ -1361,13 +1361,79 @@
     "last_update": null
   },
   {
-    "id": "ad226dc6bd485c9b53acebd5ceae531f",
+    "id": "d7402904994b361eb19c9e7d1c46c221",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-27T16:00:00Z",
     "completed": false,
-    "home_team": "Mississippi State Bulldogs",
-    "away_team": "Tennessee Volunteers",
+    "home_team": "Minnesota Golden Gophers",
+    "away_team": "Rutgers Scarlet Knights",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "0fddb3073ac2e4cf64b1fbab530bd46a",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T16:00:00Z",
+    "completed": false,
+    "home_team": "North Texas Mean Green",
+    "away_team": "South Alabama Jaguars",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "f0e1630f32dc039064b2536422a040ce",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T16:45:00Z",
+    "completed": false,
+    "home_team": "Vanderbilt Commodores",
+    "away_team": "Utah State Aggies",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "7a898acd2cc5f139754fd615d5d03b5b",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T17:00:00Z",
+    "completed": false,
+    "home_team": "Central Michigan Chippewas",
+    "away_team": "Eastern Michigan Eagles",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "4079ac405679c86d2ef11dde29e5713a",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T17:30:00Z",
+    "completed": false,
+    "home_team": "James Madison Dukes",
+    "away_team": "Georgia Southern Eagles",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "f1cf62076107958a8c8076e6ce1c5672",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:00:00Z",
+    "completed": false,
+    "home_team": "UL Monroe Warhawks",
+    "away_team": "Arkansas State Red Wolves",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "2af41e5b7328a096d3f710fa3601cf7a",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:30:00Z",
+    "completed": false,
+    "home_team": "Toledo Rockets",
+    "away_team": "Akron Zips",
     "scores": null,
     "last_update": null
   },
@@ -1383,6 +1449,39 @@
     "last_update": null
   },
   {
+    "id": "95a5fa32d92ea8e02948487d72448740",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:30:00Z",
+    "completed": false,
+    "home_team": "Oklahoma State Cowboys",
+    "away_team": "Baylor Bears",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "e88139ad8e275ed8101bbcb08dc7425b",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:30:00Z",
+    "completed": false,
+    "home_team": "Boston College Eagles",
+    "away_team": "California Golden Bears",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "d0d5d76137834bd53f2f2d9b89185b45",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:30:00Z",
+    "completed": false,
+    "home_team": "Buffalo Bulls",
+    "away_team": "UConn Huskies",
+    "scores": null,
+    "last_update": null
+  },
+  {
     "id": "9211d988a7a37c1171c0402c46bd3ed5",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -1390,6 +1489,50 @@
     "completed": false,
     "home_team": "Illinois Fighting Illini",
     "away_team": "USC Trojans",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "af7edb090e4bdcac144f29453cc9b416",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:30:00Z",
+    "completed": false,
+    "home_team": "Iowa Hawkeyes",
+    "away_team": "Indiana Hoosiers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "f0daa9672398345c140434330134b8e2",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:30:00Z",
+    "completed": false,
+    "home_team": "Ole Miss Rebels",
+    "away_team": "LSU Tigers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "b084a084e383c1025454bfcf8fed4dfe",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:30:00Z",
+    "completed": false,
+    "home_team": "Navy Midshipmen",
+    "away_team": "Rice Owls",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "09386790d17406b6cf395cc3f5eb7a10",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:30:00Z",
+    "completed": false,
+    "home_team": "Northern Illinois Huskies",
+    "away_team": "San Diego State Aztecs",
     "scores": null,
     "last_update": null
   },
@@ -1405,6 +1548,83 @@
     "last_update": null
   },
   {
+    "id": "b9ca3daaa52f5e5e91ac5def4b9b0789",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:30:00Z",
+    "completed": false,
+    "home_team": "West Virginia Mountaineers",
+    "away_team": "Utah Utes",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "f48274120104b3dd6de484cecdbc7e02",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T20:00:00Z",
+    "completed": false,
+    "home_team": "Air Force Falcons",
+    "away_team": "Hawaii Rainbow Warriors",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "58c785bf8f43b721c53ca155b8dff5f8",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T20:00:00Z",
+    "completed": false,
+    "home_team": "New Mexico Lobos",
+    "away_team": "New Mexico State Aggies",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "fdbf98c8da4412e69fc190ad9d6b8278",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T20:00:00Z",
+    "completed": false,
+    "home_team": "Tulsa Golden Hurricane",
+    "away_team": "Tulane Green Wave",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "ad226dc6bd485c9b53acebd5ceae531f",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T20:15:00Z",
+    "completed": false,
+    "home_team": "Mississippi State Bulldogs",
+    "away_team": "Tennessee Volunteers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "22a1dc3f8ead3ed004f12a805b5f0bba",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T22:00:00Z",
+    "completed": false,
+    "home_team": "Kennesaw State Owls",
+    "away_team": "Middle Tennessee Blue Raiders",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "eebdc0d5bb5bf588dc76ef79c2d2f205",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T22:00:00Z",
+    "completed": false,
+    "home_team": "Old Dominion Monarchs",
+    "away_team": "Liberty Flames",
+    "scores": null,
+    "last_update": null
+  },
+  {
     "id": "c0f4af0d027dc651e1eb60ede8415ec1",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -1412,6 +1632,50 @@
     "completed": false,
     "home_team": "Iowa State Cyclones",
     "away_team": "Arizona Wildcats",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "63b6a142067e7f67ea91cc67e534ca6f",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T23:00:00Z",
+    "completed": false,
+    "home_team": "Florida Atlantic Owls",
+    "away_team": "Memphis Tigers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "fb1b5add87c95152d9887785fdfaff81",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T23:00:00Z",
+    "completed": false,
+    "home_team": "Southern Mississippi Golden Eagles",
+    "away_team": "Jacksonville State Gamecocks",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "90f6536a4ea2981769343cbd80baf1cc",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T23:00:00Z",
+    "completed": false,
+    "home_team": "Missouri State Bears",
+    "away_team": "Western Kentucky Hilltoppers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "89ed3d21b7cc87bb80ba621f040d538e",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T23:00:00Z",
+    "completed": false,
+    "home_team": "NC State Wolfpack",
+    "away_team": "Virginia Tech Hokies",
     "scores": null,
     "last_update": null
   },
@@ -1438,6 +1702,28 @@
     "last_update": null
   },
   {
+    "id": "5e919b1126a9cf2a7de96993f9c9b43a",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T23:30:00Z",
+    "completed": false,
+    "home_team": "Boise State Broncos",
+    "away_team": "Appalachian State Mountaineers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "e645c7214a8be1033aacb0416c72d314",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T23:30:00Z",
+    "completed": false,
+    "home_team": "Colorado State Rams",
+    "away_team": "Washington State Cougars",
+    "scores": null,
+    "last_update": null
+  },
+  {
     "id": "b50c9a0239712b72d97978f4adcd4dae",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -1460,6 +1746,17 @@
     "last_update": null
   },
   {
+    "id": "d69912e6f6817c68ca7871d0c47722a8",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T23:30:00Z",
+    "completed": false,
+    "home_team": "Stanford Cardinal",
+    "away_team": "San Jose State Spartans",
+    "scores": null,
+    "last_update": null
+  },
+  {
     "id": "e436c32bc827c2699f7254c2ca5409b0",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -1467,6 +1764,28 @@
     "completed": false,
     "home_team": "South Carolina Gamecocks",
     "away_team": "Kentucky Wildcats",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "8288a19f634bebb4d5d03b9ead0a77fd",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-28T00:00:00Z",
+    "completed": false,
+    "home_team": "Louisiana Ragin Cajuns",
+    "away_team": "Marshall Thundering Herd",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "aaab0ac9ec64cffb7d2921481eab8670",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-28T01:00:00Z",
+    "completed": false,
+    "home_team": "UTEP Miners",
+    "away_team": "Louisiana Tech Bulldogs",
     "scores": null,
     "last_update": null
   },

@@ -467,10 +467,37 @@ class BustaBookApp {
      */
     evaluateBestBet(bestBet, gameScore) {
         if (!bestBet || !gameScore || !bestBet.pick) return 'unknown';
-        
-        const pick = bestBet.pick.toLowerCase().trim();
-        const awayScore = parseInt(gameScore.away_team?.score) || 0;
-        const homeScore = parseInt(gameScore.home_team?.score) || 0;
+
+        // Normalize pick text for reliable parsing
+        const normalizePick = (s) => {
+            try {
+                let t = String(s || '').toLowerCase();
+                // Normalize unicode minus/dashes to ASCII '-'
+                t = t.replace(/[\u2212\u2012\u2013\u2014\u2015]/g, '-');
+                // Normalize unicode plus (rare) to '+'
+                t = t.replace(/[\uFF0B]/g, '+');
+                // Normalize common unicode fractions
+                t = t.replace(/½/g, '.5').replace(/¼/g, '.25').replace(/¾/g, '.75');
+                // Strip commas and extra spaces
+                t = t.replace(/,/g, ' ').replace(/\s+/g, ' ').trim();
+                return t;
+            } catch {
+                return '';
+            }
+        };
+
+        const pick = normalizePick(bestBet.pick);
+        const toInt = (v) => {
+            const n = typeof v === 'number' ? v : parseInt(v);
+            return Number.isFinite(n) ? n : 0;
+        };
+        const toFloat = (v) => {
+            const n = typeof v === 'number' ? v : parseFloat(v);
+            return Number.isFinite(n) ? n : NaN;
+        };
+
+        const awayScore = toInt(gameScore.away_team?.score);
+        const homeScore = toInt(gameScore.home_team?.score);
         const totalScore = awayScore + homeScore;
         
         console.log(`🔍 DEBUGGING BET: "${bestBet.pick}"`);
@@ -524,11 +551,13 @@ class BustaBookApp {
             console.log(`❌ Could not determine team for ML bet: "${mlTeam}"`);
         }
         
-        // Handle spread bets (e.g., "Villanova +48.5", "Tennessee +4", "Home -7.5")
-        const spreadMatch = pick.match(/(.*?)\s*([+-]\d+\.?\d*)/);
+        // Handle spread bets (e.g., "Villanova +48.5", "Tennessee +4", "Home -7.5", "Team PK/Pick")
+        // Convert PK variants to "+0" to unify logic
+        let normalizedForSpread = pick.replace(/\b(pk|pick(?:'|’)?em|pick)\b/g, '+0');
+        const spreadMatch = normalizedForSpread.match(/(.*?)\s*([+-]\d+(?:\.\d+)?)/);
         if (spreadMatch) {
             const team = spreadMatch[1].toLowerCase().trim();
-            const line = parseFloat(spreadMatch[2]);
+            const line = toFloat(spreadMatch[2]);
             
             console.log(`Spread bet: "${team}" with line ${line}`);
             
@@ -570,20 +599,20 @@ class BustaBookApp {
             console.log(`Could not determine which team for spread bet: "${team}"`);
         }
         
-        // Handle over/under bets (e.g., "Over 54.5", "Under 45")
+        // Handle over/under bets (e.g., "Over 54.5", "Under 45", supports unicode fractions)
         if (pick.includes('over')) {
-            const overMatch = pick.match(/over\s*(\d+\.?\d*)/);
+            const overMatch = pick.match(/over\s*(\d+(?:\.\d+)?)/);
             if (overMatch) {
-                const line = parseFloat(overMatch[1]);
+                const line = toFloat(overMatch[1]);
                 console.log(`Over bet: ${totalScore} vs ${line}`);
                 if (totalScore > line) return 'won';
                 if (totalScore < line) return 'lost';
                 return 'push';
             }
         } else if (pick.includes('under')) {
-            const underMatch = pick.match(/under\s*(\d+\.?\d*)/);
+            const underMatch = pick.match(/under\s*(\d+(?:\.\d+)?)/);
             if (underMatch) {
-                const line = parseFloat(underMatch[1]);
+                const line = toFloat(underMatch[1]);
                 console.log(`Under bet: ${totalScore} vs ${line}`);
                 if (totalScore < line) return 'won';
                 if (totalScore > line) return 'lost';
