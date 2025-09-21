@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T23:55:00.470Z",
+  "generated_at": "2025-09-21T00:05:00.448Z",
   "game_count": 70,
   "games_with_detailed_data": 31,
   "games_score_only": 39,
@@ -383,22 +383,6 @@
     },
     {
       "filename": null,
-      "game_id": "5631867903a80876d292ca9634f4749f",
-      "title": "Maine Black Bears at Georgia Southern Eagles",
-      "datetime": "2025-09-20T23:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "fe8803c09e7627bae0109bc98e3ac310",
-      "title": "Murray State Racers at Jacksonville State Gamecocks",
-      "datetime": "2025-09-20T23:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "f65d280c50613dc0089571280476bc4a",
       "title": "Coastal Carolina Chanticleers at South Alabama Jaguars",
       "datetime": "2025-09-20T23:02:16Z",
@@ -466,6 +450,22 @@
       "game_id": "8f3febddcf1504cb91454ac61d25caa8",
       "title": "Washington Huskies at Washington State Cougars",
       "datetime": "2025-09-20T23:41:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "5631867903a80876d292ca9634f4749f",
+      "title": "Maine Black Bears at Georgia Southern Eagles",
+      "datetime": "2025-09-21T00:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "fe8803c09e7627bae0109bc98e3ac310",
+      "title": "Murray State Racers at Jacksonville State Gamecocks",
+      "datetime": "2025-09-21T00:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
