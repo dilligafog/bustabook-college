@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-21T02:45:00.301Z",
-  "game_count": 77,
+  "generated_at": "2025-09-21T02:55:00.324Z",
+  "game_count": 76,
   "games_with_detailed_data": 31,
-  "games_score_only": 46,
+  "games_score_only": 45,
   "games": [
     {
       "filename": "game-alabama-vs-wisconsin-2025-09-13.json",
@@ -522,14 +522,6 @@
       "game_id": "4306843c52f1847f42d57fdc5e59652a",
       "title": "Fresno State Bulldogs at Hawaii Rainbow Warriors",
       "datetime": "2025-09-21T03:59:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "f921de41ef2918f15fc38af1091d6206",
-      "title": "TCU Horned Frogs at Arizona State Sun Devils",
-      "datetime": "2025-09-27T01:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
