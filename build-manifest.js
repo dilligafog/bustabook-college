@@ -70,14 +70,36 @@ function buildManifest() {
     console.log('Building dynamic game manifest...');
     
     try {
-        // Read the data directory
-        const files = fs.readdirSync(DATA_DIR);
-        
-        // Filter for game files (those starting with 'game-' and ending with '.json')
-        const gameFiles = files.filter(file => 
-            file.startsWith('game-') && 
-            file.endsWith('.json')
-        );
+        // Recursively find all game files under data/ (includes data/historic/**)
+        const gameFiles = (() => {
+            const results = [];
+            const walk = (relDir) => {
+                const absDir = path.join(DATA_DIR, relDir);
+                let entries = [];
+                try {
+                    entries = fs.readdirSync(absDir, { withFileTypes: true });
+                } catch (e) {
+                    return;
+                }
+                for (const ent of entries) {
+                    const relPath = relDir ? path.join(relDir, ent.name) : ent.name;
+                    // Skip deep-archive content entirely
+                    if (!relDir && ent.isDirectory() && ent.name === 'deep-archive') {
+                        continue;
+                    }
+                    if (relPath.startsWith('deep-archive/')) {
+                        continue;
+                    }
+                    if (ent.isDirectory()) {
+                        walk(relPath);
+                    } else if (ent.isFile() && ent.name.startsWith('game-') && ent.name.endsWith('.json')) {
+                        results.push(relPath); // store path relative to DATA_DIR
+                    }
+                }
+            };
+            walk('');
+            return results;
+        })();
         
         console.log(`Found ${gameFiles.length} game files:`);
         gameFiles.forEach(file => console.log(`  - ${file}`));
