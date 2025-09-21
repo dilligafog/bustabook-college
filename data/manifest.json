@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-21T03:25:00.473Z",
-  "game_count": 76,
+  "generated_at": "2025-09-21T03:35:00.455Z",
+  "game_count": 77,
   "games_with_detailed_data": 31,
-  "games_score_only": 45,
+  "games_score_only": 46,
   "games": [
     {
       "filename": "game-alabama-vs-wisconsin-2025-09-13.json",
@@ -554,6 +554,14 @@
       "game_id": "c7e9d66aaf9eb361d2c3b2077d637ef6",
       "title": "Louisville Cardinals at Pittsburgh Panthers",
       "datetime": "2025-09-27T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "5c42d56cd31ee19b3d7baba7a220b103",
+      "title": "Auburn Tigers at Texas A&M Aggies",
+      "datetime": "2025-09-27T19:30:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
