@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-21T02:35:00.316Z",
-  "game_count": 76,
+  "generated_at": "2025-09-21T02:45:00.301Z",
+  "game_count": 77,
   "games_with_detailed_data": 31,
-  "games_score_only": 45,
+  "games_score_only": 46,
   "games": [
     {
       "filename": "game-alabama-vs-wisconsin-2025-09-13.json",
@@ -513,7 +513,7 @@
       "filename": null,
       "game_id": "8162cc38b88546a32110dee7af01cb60",
       "title": "California Golden Bears at San Diego State Aztecs",
-      "datetime": "2025-09-21T02:35:00Z",
+      "datetime": "2025-09-21T02:37:42Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -553,6 +553,14 @@
       "filename": null,
       "game_id": "276535da04befff08724bafd3838f086",
       "title": "Georgia Tech Yellow Jackets at Wake Forest Demon Deacons",
+      "datetime": "2025-09-27T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "c7e9d66aaf9eb361d2c3b2077d637ef6",
+      "title": "Louisville Cardinals at Pittsburgh Panthers",
       "datetime": "2025-09-27T16:00:00Z",
       "has_detailed_data": false,
       "score_only": true
