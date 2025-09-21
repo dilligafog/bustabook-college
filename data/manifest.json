@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-21T02:25:00.394Z",
-  "game_count": 74,
+  "generated_at": "2025-09-21T02:35:00.316Z",
+  "game_count": 76,
   "games_with_detailed_data": 31,
-  "games_score_only": 43,
+  "games_score_only": 45,
   "games": [
     {
       "filename": "game-alabama-vs-wisconsin-2025-09-13.json",
@@ -513,7 +513,7 @@
       "filename": null,
       "game_id": "8162cc38b88546a32110dee7af01cb60",
       "title": "California Golden Bears at San Diego State Aztecs",
-      "datetime": "2025-09-21T02:30:00Z",
+      "datetime": "2025-09-21T02:35:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -538,6 +538,22 @@
       "game_id": "8d2d9d2d52be2c1b040572a949cbeb8d",
       "title": "Houston Cougars at Oregon State Beavers",
       "datetime": "2025-09-27T02:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "e29f3c5ebdb03de4f11f032cd29fdc30",
+      "title": "Duke Blue Devils at Syracuse Orange",
+      "datetime": "2025-09-27T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "276535da04befff08724bafd3838f086",
+      "title": "Georgia Tech Yellow Jackets at Wake Forest Demon Deacons",
+      "datetime": "2025-09-27T16:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
