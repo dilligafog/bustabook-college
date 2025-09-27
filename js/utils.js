@@ -231,6 +231,96 @@ const DataUtils = {
                 if (!isNaN(v)) awayScore = v;
             }
 
+            // Fallback: derive scores from generic scores array (common in historic data)
+            if ((homeScore === null || awayScore === null) && Array.isArray(item?.scores)) {
+                const normalizeTeam = (name) => {
+                    const normSource = coerceName(name, '').toLowerCase();
+                    try {
+                        if (typeof DataUtils?.normalizeTeamName === 'function') {
+                            const normalized = DataUtils.normalizeTeamName(coerceName(name, ''));
+                            if (normalized) return normalized;
+                        }
+                    } catch {
+                        // ignore normalization errors
+                    }
+                    return normSource;
+                };
+
+                const parseScore = (val) => {
+                    if (val === null || val === undefined) return null;
+                    if (typeof val === 'number') return Number.isFinite(val) ? val : null;
+                    const cleaned = String(val).trim();
+                    if (!cleaned) return null;
+                    const parsed = parseFloat(cleaned.replace(/[^0-9.-]/g, ''));
+                    return Number.isFinite(parsed) ? parsed : null;
+                };
+
+                const fallbackEntries = item.scores
+                    .map(entry => {
+                        if (!entry) return null;
+                        const name = entry.name || entry.team || entry.short;
+                        const scoreValue = entry.score ?? entry.points ?? entry.value;
+                        const parsedScore = parseScore(scoreValue);
+                        if (parsedScore === null) return null;
+                        const norm = normalizeTeam(name);
+                        if (!norm) return null;
+                        return { norm, score: parsedScore, used: false };
+                    })
+                    .filter(Boolean);
+
+                if (fallbackEntries.length > 0) {
+                    const takeScore = (targetName) => {
+                        if (!targetName) return null;
+                        const normTarget = normalizeTeam(targetName);
+                        if (!normTarget) return null;
+
+                        const exact = fallbackEntries.find(entry => !entry.used && entry.norm === normTarget);
+                        if (exact) {
+                            exact.used = true;
+                            return exact.score;
+                        }
+
+                        const fuzzy = fallbackEntries.find(entry => {
+                            if (entry.used) return false;
+                            return entry.norm.includes(normTarget) || normTarget.includes(entry.norm);
+                        });
+                        if (fuzzy) {
+                            fuzzy.used = true;
+                            return fuzzy.score;
+                        }
+
+                        return null;
+                    };
+
+                    if (homeScore === null) {
+                        homeScore = takeScore(item.home_team);
+                    }
+                    if (awayScore === null) {
+                        awayScore = takeScore(item.away_team);
+                    }
+
+                    const takeRemaining = () => {
+                        const remaining = fallbackEntries.find(entry => !entry.used);
+                        if (!remaining) return null;
+                        remaining.used = true;
+                        return remaining.score;
+                    };
+
+                    if (homeScore === null) {
+                        const remainingScore = takeRemaining();
+                        if (remainingScore !== null) {
+                            homeScore = remainingScore;
+                        }
+                    }
+                    if (awayScore === null) {
+                        const remainingScore = takeRemaining();
+                        if (remainingScore !== null) {
+                            awayScore = remainingScore;
+                        }
+                    }
+                }
+            }
+
             const completed = item.completed === true || item.final === true || item.status === 'final' || item.status === 'completed';
             const derivedInProgress = !completed && (
                 (homeScore !== null || awayScore !== null) ||
