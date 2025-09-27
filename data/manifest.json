@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-27T19:55:00.359Z",
+  "generated_at": "2025-09-27T20:05:00.301Z",
   "game_count": 81,
   "games_with_detailed_data": 38,
   "games_score_only": 43,
@@ -440,17 +440,17 @@
     },
     {
       "filename": null,
-      "game_id": "58c785bf8f43b721c53ca155b8dff5f8",
-      "title": "New Mexico State Aggies at New Mexico Lobos",
-      "datetime": "2025-09-27T20:00:00Z",
+      "game_id": "fdbf98c8da4412e69fc190ad9d6b8278",
+      "title": "Tulane Green Wave at Tulsa Golden Hurricane",
+      "datetime": "2025-09-27T20:03:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
     {
       "filename": null,
-      "game_id": "fdbf98c8da4412e69fc190ad9d6b8278",
-      "title": "Tulane Green Wave at Tulsa Golden Hurricane",
-      "datetime": "2025-09-27T20:03:00Z",
+      "game_id": "58c785bf8f43b721c53ca155b8dff5f8",
+      "title": "New Mexico State Aggies at New Mexico Lobos",
+      "datetime": "2025-09-27T20:05:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
