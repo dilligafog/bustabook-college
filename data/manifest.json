@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-27T19:35:00.353Z",
+  "generated_at": "2025-09-27T19:45:00.303Z",
   "game_count": 81,
   "games_with_detailed_data": 38,
   "games_score_only": 43,
@@ -368,6 +368,14 @@
     },
     {
       "filename": null,
+      "game_id": "95a5fa32d92ea8e02948487d72448740",
+      "title": "Baylor Bears at Oklahoma State Cowboys",
+      "datetime": "2025-09-27T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
       "game_id": "e88139ad8e275ed8101bbcb08dc7425b",
       "title": "California Golden Bears at Boston College Eagles",
       "datetime": "2025-09-27T19:30:00Z",
@@ -376,9 +384,9 @@
     },
     {
       "filename": null,
-      "game_id": "b084a084e383c1025454bfcf8fed4dfe",
-      "title": "Rice Owls at Navy Midshipmen",
-      "datetime": "2025-09-27T19:32:00Z",
+      "game_id": "1b22149e990bdff226742aa529b1147c",
+      "title": "UCLA Bruins at Northwestern Wildcats",
+      "datetime": "2025-09-27T19:30:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -400,25 +408,17 @@
     },
     {
       "filename": null,
-      "game_id": "95a5fa32d92ea8e02948487d72448740",
-      "title": "Baylor Bears at Oklahoma State Cowboys",
-      "datetime": "2025-09-27T19:35:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "1b22149e990bdff226742aa529b1147c",
-      "title": "UCLA Bruins at Northwestern Wildcats",
-      "datetime": "2025-09-27T19:35:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "b9ca3daaa52f5e5e91ac5def4b9b0789",
       "title": "Utah Utes at West Virginia Mountaineers",
-      "datetime": "2025-09-27T19:37:00Z",
+      "datetime": "2025-09-27T19:36:28Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "b084a084e383c1025454bfcf8fed4dfe",
+      "title": "Rice Owls at Navy Midshipmen",
+      "datetime": "2025-09-27T19:37:51Z",
       "has_detailed_data": false,
       "score_only": true
     },
