@@ -1257,7 +1257,7 @@
         "score": "6"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "0aa30bdb9295af4b13475b7aabb2cfea",
@@ -1277,7 +1277,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "f921de41ef2918f15fc38af1091d6206",
@@ -1297,7 +1297,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "8d2d9d2d52be2c1b040572a949cbeb8d",
@@ -1317,7 +1317,7 @@
         "score": "27"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "9211d988a7a37c1171c0402c46bd3ed5",
@@ -1334,10 +1334,10 @@
       },
       {
         "name": "USC Trojans",
-        "score": "17"
+        "score": "25"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "276535da04befff08724bafd3838f086",
@@ -1350,14 +1350,14 @@
     "scores": [
       {
         "name": "Wake Forest Demon Deacons",
-        "score": "20"
+        "score": "23"
       },
       {
         "name": "Georgia Tech Yellow Jackets",
         "score": "20"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "b4e694771eec00d29e8b0e767fd89844",
@@ -1377,7 +1377,7 @@
         "score": "30"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "c7e9d66aaf9eb361d2c3b2077d637ef6",
@@ -1394,10 +1394,10 @@
       },
       {
         "name": "Louisville Cardinals",
-        "score": "27"
+        "score": "34"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "e29f3c5ebdb03de4f11f032cd29fdc30",
@@ -1417,7 +1417,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "1c9f81f98890e8287c3a203f1b95a78b",
@@ -1430,14 +1430,14 @@
     "scores": [
       {
         "name": "Kansas State Wildcats",
-        "score": "31"
+        "score": "34"
       },
       {
         "name": "UCF Knights",
         "score": "20"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "0fddb3073ac2e4cf64b1fbab530bd46a",
@@ -1450,21 +1450,21 @@
     "scores": [
       {
         "name": "North Texas Mean Green",
-        "score": "28"
+        "score": "36"
       },
       {
         "name": "South Alabama Jaguars",
         "score": "22"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "d7402904994b361eb19c9e7d1c46c221",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-27T16:01:34Z",
-    "completed": false,
+    "completed": true,
     "home_team": "Minnesota Golden Gophers",
     "away_team": "Rutgers Scarlet Knights",
     "scores": [
@@ -1477,7 +1477,7 @@
         "score": "28"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "00e4a622dd9d352a89042411d98011c2",
@@ -1497,7 +1497,7 @@
         "score": "20"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "9c00e60e6d66a511cce53c0a0f5bde43",
@@ -1517,7 +1517,7 @@
         "score": "56"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "f0e1630f32dc039064b2536422a040ce",
@@ -1530,14 +1530,14 @@
     "scores": [
       {
         "name": "Vanderbilt Commodores",
-        "score": "41"
+        "score": "48"
       },
       {
         "name": "Utah State Aggies",
         "score": "21"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "7a898acd2cc5f139754fd615d5d03b5b",
@@ -1557,7 +1557,7 @@
         "score": "13"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "4079ac405679c86d2ef11dde29e5713a",
@@ -1577,7 +1577,7 @@
         "score": "3"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "f1cf62076107958a8c8076e6ce1c5672",
@@ -1597,7 +1597,7 @@
         "score": "7"
       }
     ],
-    "last_update": "2025-09-27T19:14:47Z"
+    "last_update": "2025-09-27T19:24:44Z"
   },
   {
     "id": "5c42d56cd31ee19b3d7baba7a220b103",
@@ -1629,17 +1629,6 @@
     "completed": false,
     "home_team": "Iowa Hawkeyes",
     "away_team": "Indiana Hoosiers",
-    "scores": null,
-    "last_update": null
-  },
-  {
-    "id": "2af41e5b7328a096d3f710fa3601cf7a",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T19:30:00Z",
-    "completed": false,
-    "home_team": "Toledo Rockets",
-    "away_team": "Akron Zips",
     "scores": null,
     "last_update": null
   },
@@ -1721,17 +1710,6 @@
     "last_update": null
   },
   {
-    "id": "38ec707066a2e19151e10f088803554b",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T19:30:00Z",
-    "completed": false,
-    "home_team": "Washington Huskies",
-    "away_team": "Ohio State Buckeyes",
-    "scores": null,
-    "last_update": null
-  },
-  {
     "id": "abb1fda962de8e077ef60b6371be4655",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -1739,6 +1717,28 @@
     "completed": false,
     "home_team": "Miami (OH) RedHawks",
     "away_team": "Lindenwood Lions",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "2af41e5b7328a096d3f710fa3601cf7a",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:33:00Z",
+    "completed": false,
+    "home_team": "Toledo Rockets",
+    "away_team": "Akron Zips",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "38ec707066a2e19151e10f088803554b",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T19:40:00Z",
+    "completed": false,
+    "home_team": "Washington Huskies",
+    "away_team": "Ohio State Buckeyes",
     "scores": null,
     "last_update": null
   },
