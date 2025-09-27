@@ -1257,7 +1257,7 @@
         "score": "6"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "0aa30bdb9295af4b13475b7aabb2cfea",
@@ -1277,7 +1277,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "f921de41ef2918f15fc38af1091d6206",
@@ -1297,7 +1297,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "8d2d9d2d52be2c1b040572a949cbeb8d",
@@ -1317,7 +1317,7 @@
         "score": "27"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "9211d988a7a37c1171c0402c46bd3ed5",
@@ -1337,7 +1337,7 @@
         "score": "32"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "276535da04befff08724bafd3838f086",
@@ -1357,7 +1357,7 @@
         "score": "30"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "b4e694771eec00d29e8b0e767fd89844",
@@ -1377,7 +1377,7 @@
         "score": "37"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "c7e9d66aaf9eb361d2c3b2077d637ef6",
@@ -1397,7 +1397,7 @@
         "score": "34"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "e29f3c5ebdb03de4f11f032cd29fdc30",
@@ -1417,7 +1417,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "1c9f81f98890e8287c3a203f1b95a78b",
@@ -1437,7 +1437,7 @@
         "score": "20"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "d7402904994b361eb19c9e7d1c46c221",
@@ -1457,7 +1457,7 @@
         "score": "28"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "00e4a622dd9d352a89042411d98011c2",
@@ -1477,7 +1477,7 @@
         "score": "20"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "9c00e60e6d66a511cce53c0a0f5bde43",
@@ -1497,7 +1497,7 @@
         "score": "56"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "0fddb3073ac2e4cf64b1fbab530bd46a",
@@ -1517,7 +1517,7 @@
         "score": "22"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "38ec707066a2e19151e10f088803554b",
@@ -1537,14 +1537,14 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "5c42d56cd31ee19b3d7baba7a220b103",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-27T16:32:00Z",
-    "completed": false,
+    "completed": true,
     "home_team": "Texas A&M Aggies",
     "away_team": "Auburn Tigers",
     "scores": [
@@ -1557,7 +1557,7 @@
         "score": "10"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "f0e1630f32dc039064b2536422a040ce",
@@ -1577,7 +1577,7 @@
         "score": "35"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "7a898acd2cc5f139754fd615d5d03b5b",
@@ -1597,7 +1597,7 @@
         "score": "13"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "4079ac405679c86d2ef11dde29e5713a",
@@ -1617,7 +1617,7 @@
         "score": "10"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "f1cf62076107958a8c8076e6ce1c5672",
@@ -1637,7 +1637,7 @@
         "score": "16"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "abb1fda962de8e077ef60b6371be4655",
@@ -1657,14 +1657,14 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "95a5fa32d92ea8e02948487d72448740",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-27T19:30:00Z",
-    "completed": false,
+    "completed": true,
     "home_team": "Oklahoma State Cowboys",
     "away_team": "Baylor Bears",
     "scores": [
@@ -1677,7 +1677,7 @@
         "score": "45"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "d0d5d76137834bd53f2f2d9b89185b45",
@@ -1697,7 +1697,7 @@
         "score": "20"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "09386790d17406b6cf395cc3f5eb7a10",
@@ -1717,7 +1717,7 @@
         "score": "6"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "2af41e5b7328a096d3f710fa3601cf7a",
@@ -1737,14 +1737,14 @@
         "score": "3"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "e88139ad8e275ed8101bbcb08dc7425b",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-27T19:35:25Z",
-    "completed": false,
+    "completed": true,
     "home_team": "Boston College Eagles",
     "away_team": "California Golden Bears",
     "scores": [
@@ -1757,27 +1757,27 @@
         "score": "28"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "af7edb090e4bdcac144f29453cc9b416",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-27T19:35:33Z",
-    "completed": false,
+    "completed": true,
     "home_team": "Iowa Hawkeyes",
     "away_team": "Indiana Hoosiers",
     "scores": [
       {
         "name": "Iowa Hawkeyes",
-        "score": "13"
+        "score": "15"
       },
       {
         "name": "Indiana Hoosiers",
         "score": "20"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "b9ca3daaa52f5e5e91ac5def4b9b0789",
@@ -1797,7 +1797,7 @@
         "score": "48"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "b084a084e383c1025454bfcf8fed4dfe",
@@ -1817,7 +1817,7 @@
         "score": "13"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "1b22149e990bdff226742aa529b1147c",
@@ -1837,7 +1837,7 @@
         "score": "14"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "f0daa9672398345c140434330134b8e2",
@@ -1854,10 +1854,10 @@
       },
       {
         "name": "LSU Tigers",
-        "score": "13"
+        "score": "19"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "fdbf98c8da4412e69fc190ad9d6b8278",
@@ -1877,7 +1877,7 @@
         "score": "31"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "f48274120104b3dd6de484cecdbc7e02",
@@ -1890,14 +1890,14 @@
     "scores": [
       {
         "name": "Air Force Falcons",
-        "score": "28"
+        "score": "35"
       },
       {
         "name": "Hawaii Rainbow Warriors",
         "score": "41"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "58c785bf8f43b721c53ca155b8dff5f8",
@@ -1910,14 +1910,14 @@
     "scores": [
       {
         "name": "New Mexico Lobos",
-        "score": "31"
+        "score": "38"
       },
       {
         "name": "New Mexico State Aggies",
         "score": "20"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "ad226dc6bd485c9b53acebd5ceae531f",
@@ -1934,10 +1934,10 @@
       },
       {
         "name": "Tennessee Volunteers",
-        "score": "20"
+        "score": "27"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "eebdc0d5bb5bf588dc76ef79c2d2f205",
@@ -1950,14 +1950,14 @@
     "scores": [
       {
         "name": "Old Dominion Monarchs",
-        "score": "0"
+        "score": "7"
       },
       {
         "name": "Liberty Flames",
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "22a1dc3f8ead3ed004f12a805b5f0bba",
@@ -1974,10 +1974,10 @@
       },
       {
         "name": "Middle Tennessee Blue Raiders",
-        "score": "3"
+        "score": "10"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "65642a972639b4294a3dfb32e1025df6",
@@ -1990,14 +1990,14 @@
     "scores": [
       {
         "name": "Western Michigan Broncos",
-        "score": "3"
+        "score": "10"
       },
       {
         "name": "Rhode Island Rams",
         "score": "7"
       }
     ],
-    "last_update": "2025-09-27T23:04:38Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "c0f4af0d027dc651e1eb60ede8415ec1",
@@ -2007,8 +2007,17 @@
     "completed": false,
     "home_team": "Iowa State Cyclones",
     "away_team": "Arizona Wildcats",
-    "scores": null,
-    "last_update": null
+    "scores": [
+      {
+        "name": "Iowa State Cyclones",
+        "score": "0"
+      },
+      {
+        "name": "Arizona Wildcats",
+        "score": "0"
+      }
+    ],
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "fb1b5add87c95152d9887785fdfaff81",
@@ -2021,14 +2030,14 @@
     "scores": [
       {
         "name": "Southern Mississippi Golden Eagles",
-        "score": "0"
+        "score": "7"
       },
       {
         "name": "Jacksonville State Gamecocks",
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T23:04:07Z"
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "90f6536a4ea2981769343cbd80baf1cc",
@@ -2038,30 +2047,57 @@
     "completed": false,
     "home_team": "Missouri State Bears",
     "away_team": "Western Kentucky Hilltoppers",
-    "scores": null,
-    "last_update": null
+    "scores": [
+      {
+        "name": "Missouri State Bears",
+        "score": "0"
+      },
+      {
+        "name": "Western Kentucky Hilltoppers",
+        "score": "0"
+      }
+    ],
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "63b6a142067e7f67ea91cc67e534ca6f",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T23:05:00Z",
+    "commence_time": "2025-09-27T23:07:00Z",
     "completed": false,
     "home_team": "Florida Atlantic Owls",
     "away_team": "Memphis Tigers",
-    "scores": null,
-    "last_update": null
+    "scores": [
+      {
+        "name": "Florida Atlantic Owls",
+        "score": "0"
+      },
+      {
+        "name": "Memphis Tigers",
+        "score": "7"
+      }
+    ],
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "89ed3d21b7cc87bb80ba621f040d538e",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T23:05:00Z",
+    "commence_time": "2025-09-27T23:10:30Z",
     "completed": false,
     "home_team": "NC State Wolfpack",
     "away_team": "Virginia Tech Hokies",
-    "scores": null,
-    "last_update": null
+    "scores": [
+      {
+        "name": "NC State Wolfpack",
+        "score": "0"
+      },
+      {
+        "name": "Virginia Tech Hokies",
+        "score": "0"
+      }
+    ],
+    "last_update": "2025-09-27T23:14:33Z"
   },
   {
     "id": "b41939807dad226f718eeb8fa56d7342",
