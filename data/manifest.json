@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-27T16:05:00.362Z",
+  "generated_at": "2025-09-27T16:15:00.298Z",
   "game_count": 88,
   "games_with_detailed_data": 38,
   "games_score_only": 50,
@@ -304,9 +304,17 @@
     },
     {
       "filename": null,
+      "game_id": "1c9f81f98890e8287c3a203f1b95a78b",
+      "title": "UCF Knights at Kansas State Wildcats",
+      "datetime": "2025-09-27T15:55:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
       "game_id": "e29f3c5ebdb03de4f11f032cd29fdc30",
       "title": "Duke Blue Devils at Syracuse Orange",
-      "datetime": "2025-09-27T15:54:00Z",
+      "datetime": "2025-09-27T16:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -323,14 +331,6 @@
       "game_id": "c7e9d66aaf9eb361d2c3b2077d637ef6",
       "title": "Louisville Cardinals at Pittsburgh Panthers",
       "datetime": "2025-09-27T16:05:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "1c9f81f98890e8287c3a203f1b95a78b",
-      "title": "UCF Knights at Kansas State Wildcats",
-      "datetime": "2025-09-27T16:07:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
