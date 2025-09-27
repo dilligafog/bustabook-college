@@ -1257,7 +1257,7 @@
         "score": "6"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "0aa30bdb9295af4b13475b7aabb2cfea",
@@ -1277,7 +1277,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "f921de41ef2918f15fc38af1091d6206",
@@ -1297,7 +1297,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "8d2d9d2d52be2c1b040572a949cbeb8d",
@@ -1317,27 +1317,27 @@
         "score": "27"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "9211d988a7a37c1171c0402c46bd3ed5",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-27T15:50:00Z",
-    "completed": false,
+    "completed": true,
     "home_team": "Illinois Fighting Illini",
     "away_team": "USC Trojans",
     "scores": [
       {
         "name": "Illinois Fighting Illini",
-        "score": "31"
+        "score": "34"
       },
       {
         "name": "USC Trojans",
         "score": "32"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "276535da04befff08724bafd3838f086",
@@ -1354,10 +1354,10 @@
       },
       {
         "name": "Georgia Tech Yellow Jackets",
-        "score": "20"
+        "score": "23"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "b4e694771eec00d29e8b0e767fd89844",
@@ -1377,14 +1377,14 @@
         "score": "37"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "c7e9d66aaf9eb361d2c3b2077d637ef6",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-27T15:51:00Z",
-    "completed": false,
+    "completed": true,
     "home_team": "Pittsburgh Panthers",
     "away_team": "Louisville Cardinals",
     "scores": [
@@ -1397,7 +1397,7 @@
         "score": "34"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "e29f3c5ebdb03de4f11f032cd29fdc30",
@@ -1417,7 +1417,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "1c9f81f98890e8287c3a203f1b95a78b",
@@ -1437,7 +1437,7 @@
         "score": "20"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "d7402904994b361eb19c9e7d1c46c221",
@@ -1457,7 +1457,7 @@
         "score": "28"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "00e4a622dd9d352a89042411d98011c2",
@@ -1477,7 +1477,7 @@
         "score": "20"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "9c00e60e6d66a511cce53c0a0f5bde43",
@@ -1497,7 +1497,7 @@
         "score": "56"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "0fddb3073ac2e4cf64b1fbab530bd46a",
@@ -1517,7 +1517,7 @@
         "score": "22"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "f0e1630f32dc039064b2536422a040ce",
@@ -1530,14 +1530,14 @@
     "scores": [
       {
         "name": "Vanderbilt Commodores",
-        "score": "48"
+        "score": "55"
       },
       {
         "name": "Utah State Aggies",
-        "score": "21"
+        "score": "28"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "7a898acd2cc5f139754fd615d5d03b5b",
@@ -1550,14 +1550,14 @@
     "scores": [
       {
         "name": "Central Michigan Chippewas",
-        "score": "21"
+        "score": "24"
       },
       {
         "name": "Eastern Michigan Eagles",
         "score": "13"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "4079ac405679c86d2ef11dde29e5713a",
@@ -1577,7 +1577,7 @@
         "score": "3"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "f1cf62076107958a8c8076e6ce1c5672",
@@ -1597,7 +1597,7 @@
         "score": "10"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "e88139ad8e275ed8101bbcb08dc7425b",
@@ -1610,14 +1610,14 @@
     "scores": [
       {
         "name": "Boston College Eagles",
-        "score": "0"
+        "score": "7"
       },
       {
         "name": "California Golden Bears",
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "abb1fda962de8e077ef60b6371be4655",
@@ -1630,14 +1630,14 @@
     "scores": [
       {
         "name": "Miami (OH) RedHawks",
-        "score": "0"
+        "score": "7"
       },
       {
         "name": "Lindenwood Lions",
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "95a5fa32d92ea8e02948487d72448740",
@@ -1654,10 +1654,10 @@
       },
       {
         "name": "Baylor Bears",
-        "score": "0"
+        "score": "7"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "1b22149e990bdff226742aa529b1147c",
@@ -1677,7 +1677,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "d0d5d76137834bd53f2f2d9b89185b45",
@@ -1697,7 +1697,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "09386790d17406b6cf395cc3f5eb7a10",
@@ -1710,14 +1710,14 @@
     "scores": [
       {
         "name": "Northern Illinois Huskies",
-        "score": "0"
+        "score": "3"
       },
       {
         "name": "San Diego State Aztecs",
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "2af41e5b7328a096d3f710fa3601cf7a",
@@ -1737,7 +1737,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "af7edb090e4bdcac144f29453cc9b416",
@@ -1757,7 +1757,7 @@
         "score": "7"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "b9ca3daaa52f5e5e91ac5def4b9b0789",
@@ -1774,10 +1774,10 @@
       },
       {
         "name": "Utah Utes",
-        "score": "0"
+        "score": "6"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "b084a084e383c1025454bfcf8fed4dfe",
@@ -1790,14 +1790,14 @@
     "scores": [
       {
         "name": "Navy Midshipmen",
-        "score": "0"
+        "score": "7"
       },
       {
         "name": "Rice Owls",
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "5c42d56cd31ee19b3d7baba7a220b103",
@@ -1810,14 +1810,14 @@
     "scores": [
       {
         "name": "Texas A&M Aggies",
-        "score": "0"
+        "score": "7"
       },
       {
         "name": "Auburn Tigers",
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "38ec707066a2e19151e10f088803554b",
@@ -1837,18 +1837,27 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T19:44:32Z"
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "f0daa9672398345c140434330134b8e2",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T19:45:00Z",
+    "commence_time": "2025-09-27T19:45:16Z",
     "completed": false,
     "home_team": "Ole Miss Rebels",
     "away_team": "LSU Tigers",
-    "scores": null,
-    "last_update": null
+    "scores": [
+      {
+        "name": "Ole Miss Rebels",
+        "score": "0"
+      },
+      {
+        "name": "LSU Tigers",
+        "score": "0"
+      }
+    ],
+    "last_update": "2025-09-27T19:54:33Z"
   },
   {
     "id": "f48274120104b3dd6de484cecdbc7e02",
