@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-27T20:55:00.382Z",
+  "generated_at": "2025-09-27T21:05:00.377Z",
   "game_count": 81,
   "games_with_detailed_data": 38,
   "games_score_only": 43,
@@ -376,14 +376,6 @@
     },
     {
       "filename": null,
-      "game_id": "e88139ad8e275ed8101bbcb08dc7425b",
-      "title": "California Golden Bears at Boston College Eagles",
-      "datetime": "2025-09-27T19:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "1b22149e990bdff226742aa529b1147c",
       "title": "UCLA Bruins at Northwestern Wildcats",
       "datetime": "2025-09-27T19:30:00Z",
@@ -403,6 +395,14 @@
       "game_id": "09386790d17406b6cf395cc3f5eb7a10",
       "title": "San Diego State Aztecs at Northern Illinois Huskies",
       "datetime": "2025-09-27T19:33:01Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "e88139ad8e275ed8101bbcb08dc7425b",
+      "title": "California Golden Bears at Boston College Eagles",
+      "datetime": "2025-09-27T19:35:25Z",
       "has_detailed_data": false,
       "score_only": true
     },
