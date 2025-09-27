@@ -1257,7 +1257,7 @@
         "score": "6"
       }
     ],
-    "last_update": "2025-09-27T16:14:52Z"
+    "last_update": "2025-09-27T16:24:47Z"
   },
   {
     "id": "0aa30bdb9295af4b13475b7aabb2cfea",
@@ -1277,7 +1277,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-27T16:14:52Z"
+    "last_update": "2025-09-27T16:24:47Z"
   },
   {
     "id": "f921de41ef2918f15fc38af1091d6206",
@@ -1297,7 +1297,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-27T16:14:52Z"
+    "last_update": "2025-09-27T16:24:47Z"
   },
   {
     "id": "8d2d9d2d52be2c1b040572a949cbeb8d",
@@ -1317,7 +1317,87 @@
         "score": "27"
       }
     ],
-    "last_update": "2025-09-27T16:14:52Z"
+    "last_update": "2025-09-27T16:24:47Z"
+  },
+  {
+    "id": "c7e9d66aaf9eb361d2c3b2077d637ef6",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T15:51:00Z",
+    "completed": false,
+    "home_team": "Pittsburgh Panthers",
+    "away_team": "Louisville Cardinals",
+    "scores": [
+      {
+        "name": "Pittsburgh Panthers",
+        "score": "10"
+      },
+      {
+        "name": "Louisville Cardinals",
+        "score": "0"
+      }
+    ],
+    "last_update": "2025-09-27T16:24:47Z"
+  },
+  {
+    "id": "b4e694771eec00d29e8b0e767fd89844",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T15:52:00Z",
+    "completed": false,
+    "home_team": "Kansas Jayhawks",
+    "away_team": "Cincinnati Bearcats",
+    "scores": [
+      {
+        "name": "Kansas Jayhawks",
+        "score": "7"
+      },
+      {
+        "name": "Cincinnati Bearcats",
+        "score": "7"
+      }
+    ],
+    "last_update": "2025-09-27T16:24:47Z"
+  },
+  {
+    "id": "276535da04befff08724bafd3838f086",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T15:53:00Z",
+    "completed": false,
+    "home_team": "Wake Forest Demon Deacons",
+    "away_team": "Georgia Tech Yellow Jackets",
+    "scores": [
+      {
+        "name": "Wake Forest Demon Deacons",
+        "score": "0"
+      },
+      {
+        "name": "Georgia Tech Yellow Jackets",
+        "score": "0"
+      }
+    ],
+    "last_update": "2025-09-27T16:24:47Z"
+  },
+  {
+    "id": "e29f3c5ebdb03de4f11f032cd29fdc30",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T15:54:00Z",
+    "completed": false,
+    "home_team": "Syracuse Orange",
+    "away_team": "Duke Blue Devils",
+    "scores": [
+      {
+        "name": "Syracuse Orange",
+        "score": "0"
+      },
+      {
+        "name": "Duke Blue Devils",
+        "score": "3"
+      }
+    ],
+    "last_update": "2025-09-27T16:24:47Z"
   },
   {
     "id": "1c9f81f98890e8287c3a203f1b95a78b",
@@ -1337,27 +1417,27 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T16:14:52Z"
+    "last_update": "2025-09-27T16:24:47Z"
   },
   {
-    "id": "e29f3c5ebdb03de4f11f032cd29fdc30",
+    "id": "0fddb3073ac2e4cf64b1fbab530bd46a",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-09-27T16:00:00Z",
     "completed": false,
-    "home_team": "Syracuse Orange",
-    "away_team": "Duke Blue Devils",
+    "home_team": "North Texas Mean Green",
+    "away_team": "South Alabama Jaguars",
     "scores": [
       {
-        "name": "Syracuse Orange",
+        "name": "North Texas Mean Green",
         "score": "0"
       },
       {
-        "name": "Duke Blue Devils",
-        "score": "0"
+        "name": "South Alabama Jaguars",
+        "score": "7"
       }
     ],
-    "last_update": "2025-09-27T16:14:52Z"
+    "last_update": "2025-09-27T16:24:47Z"
   },
   {
     "id": "d7402904994b361eb19c9e7d1c46c221",
@@ -1377,7 +1457,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T16:14:52Z"
+    "last_update": "2025-09-27T16:24:47Z"
   },
   {
     "id": "00e4a622dd9d352a89042411d98011c2",
@@ -1394,50 +1474,10 @@
       },
       {
         "name": "Bowling Green Falcons",
-        "score": "0"
-      }
-    ],
-    "last_update": "2025-09-27T16:14:52Z"
-  },
-  {
-    "id": "c7e9d66aaf9eb361d2c3b2077d637ef6",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T16:05:00Z",
-    "completed": false,
-    "home_team": "Pittsburgh Panthers",
-    "away_team": "Louisville Cardinals",
-    "scores": [
-      {
-        "name": "Pittsburgh Panthers",
-        "score": "3"
-      },
-      {
-        "name": "Louisville Cardinals",
-        "score": "0"
-      }
-    ],
-    "last_update": "2025-09-27T16:14:52Z"
-  },
-  {
-    "id": "b4e694771eec00d29e8b0e767fd89844",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T16:05:00Z",
-    "completed": false,
-    "home_team": "Kansas Jayhawks",
-    "away_team": "Cincinnati Bearcats",
-    "scores": [
-      {
-        "name": "Kansas Jayhawks",
         "score": "7"
-      },
-      {
-        "name": "Cincinnati Bearcats",
-        "score": "0"
       }
     ],
-    "last_update": "2025-09-27T16:14:52Z"
+    "last_update": "2025-09-27T16:24:47Z"
   },
   {
     "id": "9c00e60e6d66a511cce53c0a0f5bde43",
@@ -1450,54 +1490,14 @@
     "scores": [
       {
         "name": "Arkansas Razorbacks",
-        "score": "0"
+        "score": "3"
       },
       {
         "name": "Notre Dame Fighting Irish",
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T16:14:52Z"
-  },
-  {
-    "id": "276535da04befff08724bafd3838f086",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T16:08:00Z",
-    "completed": false,
-    "home_team": "Wake Forest Demon Deacons",
-    "away_team": "Georgia Tech Yellow Jackets",
-    "scores": [
-      {
-        "name": "Wake Forest Demon Deacons",
-        "score": "0"
-      },
-      {
-        "name": "Georgia Tech Yellow Jackets",
-        "score": "0"
-      }
-    ],
-    "last_update": "2025-09-27T16:14:52Z"
-  },
-  {
-    "id": "0fddb3073ac2e4cf64b1fbab530bd46a",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T16:09:00Z",
-    "completed": false,
-    "home_team": "North Texas Mean Green",
-    "away_team": "South Alabama Jaguars",
-    "scores": [
-      {
-        "name": "North Texas Mean Green",
-        "score": "0"
-      },
-      {
-        "name": "South Alabama Jaguars",
-        "score": "0"
-      }
-    ],
-    "last_update": "2025-09-27T16:14:52Z"
+    "last_update": "2025-09-27T16:24:47Z"
   },
   {
     "id": "9211d988a7a37c1171c0402c46bd3ed5",
@@ -1517,7 +1517,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T16:14:52Z"
+    "last_update": "2025-09-27T16:24:47Z"
   },
   {
     "id": "f0e1630f32dc039064b2536422a040ce",
