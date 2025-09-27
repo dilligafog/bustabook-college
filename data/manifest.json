@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-27T16:25:00.308Z",
-  "game_count": 83,
+  "generated_at": "2025-09-27T16:35:00.340Z",
+  "game_count": 81,
   "games_with_detailed_data": 38,
-  "games_score_only": 45,
+  "games_score_only": 43,
   "games": [
     {
       "filename": "game-akron-zips-vs-toledo-rockets-2025-09-27.json",
@@ -584,14 +584,6 @@
     },
     {
       "filename": null,
-      "game_id": "0169b39d461abff544e93d0287c1fab1",
-      "title": "Vanderbilt Commodores at Alabama Crimson Tide",
-      "datetime": "2025-10-04T19:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "fbde7d91385363d991f47b06e939428c",
       "title": "Texas Longhorns at Florida Gators",
       "datetime": "2025-10-04T19:30:00Z",
@@ -619,14 +611,6 @@
       "game_id": "e90085ebaf4a599c531e3e0bd5a6c1b1",
       "title": "Nevada Wolf Pack at Fresno State Bulldogs",
       "datetime": "2025-10-05T02:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "a17c0bb6637ad2192754d6d1059f7e92",
-      "title": "Ohio State Buckeyes at Michigan Wolverines",
-      "datetime": "2025-11-29T17:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     }

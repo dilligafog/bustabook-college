@@ -17,7 +17,7 @@
         "score": "6"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "0aa30bdb9295af4b13475b7aabb2cfea",
@@ -37,7 +37,7 @@
         "score": "38"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "f921de41ef2918f15fc38af1091d6206",
@@ -57,7 +57,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "8d2d9d2d52be2c1b040572a949cbeb8d",
@@ -77,7 +77,27 @@
         "score": "27"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
+  },
+  {
+    "id": "9211d988a7a37c1171c0402c46bd3ed5",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-09-27T15:50:00Z",
+    "completed": false,
+    "home_team": "Illinois Fighting Illini",
+    "away_team": "USC Trojans",
+    "scores": [
+      {
+        "name": "Illinois Fighting Illini",
+        "score": "7"
+      },
+      {
+        "name": "USC Trojans",
+        "score": "0"
+      }
+    ],
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "c7e9d66aaf9eb361d2c3b2077d637ef6",
@@ -97,7 +117,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "b4e694771eec00d29e8b0e767fd89844",
@@ -117,7 +137,7 @@
         "score": "7"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "276535da04befff08724bafd3838f086",
@@ -134,10 +154,10 @@
       },
       {
         "name": "Georgia Tech Yellow Jackets",
-        "score": "0"
+        "score": "3"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "e29f3c5ebdb03de4f11f032cd29fdc30",
@@ -150,14 +170,14 @@
     "scores": [
       {
         "name": "Syracuse Orange",
-        "score": "0"
+        "score": "3"
       },
       {
         "name": "Duke Blue Devils",
-        "score": "3"
+        "score": "10"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "1c9f81f98890e8287c3a203f1b95a78b",
@@ -177,7 +197,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "0fddb3073ac2e4cf64b1fbab530bd46a",
@@ -190,14 +210,14 @@
     "scores": [
       {
         "name": "North Texas Mean Green",
-        "score": "0"
+        "score": "7"
       },
       {
         "name": "South Alabama Jaguars",
         "score": "7"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "d7402904994b361eb19c9e7d1c46c221",
@@ -214,10 +234,10 @@
       },
       {
         "name": "Rutgers Scarlet Knights",
-        "score": "0"
+        "score": "7"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "00e4a622dd9d352a89042411d98011c2",
@@ -230,14 +250,14 @@
     "scores": [
       {
         "name": "Ohio Bobcats",
-        "score": "7"
+        "score": "13"
       },
       {
         "name": "Bowling Green Falcons",
         "score": "7"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "9c00e60e6d66a511cce53c0a0f5bde43",
@@ -254,30 +274,10 @@
       },
       {
         "name": "Notre Dame Fighting Irish",
-        "score": "0"
+        "score": "7"
       }
     ],
-    "last_update": "2025-09-27T16:24:47Z"
-  },
-  {
-    "id": "9211d988a7a37c1171c0402c46bd3ed5",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-09-27T16:10:00Z",
-    "completed": false,
-    "home_team": "Illinois Fighting Illini",
-    "away_team": "USC Trojans",
-    "scores": [
-      {
-        "name": "Illinois Fighting Illini",
-        "score": "0"
-      },
-      {
-        "name": "USC Trojans",
-        "score": "0"
-      }
-    ],
-    "last_update": "2025-09-27T16:24:47Z"
+    "last_update": "2025-09-27T16:34:36Z"
   },
   {
     "id": "f0e1630f32dc039064b2536422a040ce",
@@ -742,17 +742,6 @@
     "last_update": null
   },
   {
-    "id": "0169b39d461abff544e93d0287c1fab1",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-10-04T19:30:00Z",
-    "completed": false,
-    "home_team": "Alabama Crimson Tide",
-    "away_team": "Vanderbilt Commodores",
-    "scores": null,
-    "last_update": null
-  },
-  {
     "id": "fbde7d91385363d991f47b06e939428c",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -815,17 +804,6 @@
     "completed": false,
     "home_team": "Fresno State Bulldogs",
     "away_team": "Nevada Wolf Pack",
-    "scores": null,
-    "last_update": null
-  },
-  {
-    "id": "a17c0bb6637ad2192754d6d1059f7e92",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-11-29T17:00:00Z",
-    "completed": false,
-    "home_team": "Michigan Wolverines",
-    "away_team": "Ohio State Buckeyes",
     "scores": null,
     "last_update": null
   }
