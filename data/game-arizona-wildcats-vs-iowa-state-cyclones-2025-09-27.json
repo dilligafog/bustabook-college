@@ -1,0 +1,247 @@
+{
+"game_meta": {
+"game_id": "c0f4af0d027dc651e1eb60ede8415ec1",
+"title": "Arizona Wildcats at Iowa State Cyclones",
+"datetime_local": "2025-09-27T19:00:00-04:00",
+"venue": "MidAmerican Energy Field at Jack Trice Stadium, Ames, IA",
+"tv": ["ESPN"],
+"attendance_capacity": 61500,
+"weather": {
+"conditions": "Clear",
+"temp_f": 76,
+"wind_mph": 8,
+"notes": "Calm, dry evening; minimal weather impact"
+},
+"rankings": {
+"home_ap": 14,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-27T12:35:00Z"
+},
+"hype_factors": [
+"First meeting since 1968",
+"Arizona’s Big 12 road opener",
+"Top-15 Iowa State in primetime",
+"Stadium whiteout buzz"
+],
+"last_updated_utc": "2025-09-27T12:35:00Z"
+},
+"teams": {
+"home": {
+"name": "Iowa State Cyclones",
+"short": "ISU",
+"mascot": "Cyclones",
+"conference": "Big 12",
+"record": "4-0 (1-0)",
+"recent_form": "4-0 start; defense allowing ~17 PPG; 3-1 to the UNDER",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": 22,
+"turnover_margin": "0.0",
+"ats_record": "2-1-1 ATS"
+},
+"motivation_factors": [
+"Protecting Top-15 ranking",
+"Rowdy home crowd/whiteout"
+]
+},
+"away": {
+"name": "Arizona Wildcats",
+"short": "ARIZ",
+"mascot": "Wildcats",
+"conference": "Big 12",
+"record": "3-0 (0-0)",
+"recent_form": "3-0 start; defense allowing 8.7 PPG; 3-0 to the UNDER",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "+2.0",
+"ats_record": "3-0 ATS"
+},
+"motivation_factors": [
+"Statement chance vs ranked foe",
+"Fresh off bye; defense surging"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Arizona leads 4-1-1",
+"last_meeting": {
+"date": "1968-09-21",
+"score": "Arizona 21, Iowa State 12",
+"note": "Last meeting before Arizona joined Big 12"
+},
+"recent_trend": "First meeting in 57 years"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -245,
+"implied_prob": 0.710,
+"opening_line": -240,
+"line_movement": "slightly toward home",
+"book": "Action Network (consensus)",
+"asof_utc": "2025-09-27T10:06:00Z"
+},
+"away": {
+"price": 200,
+"implied_prob": 0.333,
+"opening_line": 195,
+"line_movement": "slightly toward away",
+"book": "Covers (consensus)",
+"asof_utc": "2025-09-27T03:00:00Z"
+}
+},
+"spread": {
+"line": -6.5,
+"favorite": "HOME",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -7.5,
+"line_movement": "moved toward away by 1 point",
+"public_betting": {
+"home_percent": 48,
+"away_percent": 52,
+"note": "Slight public lean to road dog"
+},
+"book": "FanDuel / SBR (market consensus)",
+"asof_utc": "2025-09-27T12:20:00Z"
+},
+"total": {
+"line": 48.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 49.5,
+"line_movement": "ticked down 1 point",
+"public_betting": {
+"over_percent": null,
+"under_percent": null
+},
+"book": "Action Network (consensus)",
+"asof_utc": "2025-09-27T10:06:00Z"
+},
+"consensus_note": "Market clustering around ISU -6.5 / 48.5; earlier openers near -7.5 and 49.5 have been bet down"
+},
+"betting_angles": {
+"key_trends": [
+"Arizona is 3-0 ATS; all 3 UNDERs this season",
+"Iowa State is 2-1-1 ATS; UNDER 3-1",
+"Arizona +6 turnover margin through 3 games (~+2.0/g)"
+],
+"situational_spots": [
+"Both off bye weeks → defensive prep edge",
+"Primetime whiteout in Ames boosts home field"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "ARIZ +200",
+"confidence": 0.55,
+"rationale": "Live dog profile: elite early turnover margin and defense; market moved off -7.5 toward Arizona",
+"value_assessment": "Small plus-money value if ISU offense stalls"
+},
+"spread": {
+"pick": "ARIZ +6.5",
+"confidence": 0.60,
+"rationale": "Numbers bet down from +7.5; Arizona defense + turnover edge travels",
+"value_assessment": "Solid value at +6.5; better at +7 if it pops"
+},
+"total": {
+"pick": "UNDER 48.5",
+"confidence": 0.66,
+"rationale": "Both teams trending UNDER; strong defenses, modest pace, fair weather",
+"value_assessment": "Good value after slight tick down"
+},
+"best_bet": {
+"pick": "UNDER 48.5",
+"confidence": 0.66,
+"rationale": "Correlated trends plus defensive identities and calm conditions"
+}
+},
+"notables": {
+"injuries_news": [
+"Iowa State starting K Kyle Konrardy reportedly out; backup in play",
+"Arizona and Iowa State both coming off bye weeks; no major new injuries reported"
+],
+"matchup_notes": [
+"Arizona’s +6 turnover margin vs ISU’s 3-3-5 and third-down efficiency is key battleground",
+"Hostile Jack Trice environment; whiteout and Top-15 target for visitors"
+],
+"coaching_notes": [
+"Matt Campbell’s disciplined ISU defense vs Brent Brennan’s revamped Arizona offense",
+"Arizona DC Danny Gonzales emphasizing takeaways and 4th-down stops"
+]
+},
+"excitement_factors": {
+"playoff_implications": "Undefeated start on the line; ISU keeps fringe CFP path alive with win",
+"conference_impact": "Early Big 12 positioning game with tiebreaker stakes",
+"narrative": "Underdog Arizona’s surging defense vs ISU’s ranked home juggernaut",
+"tv_storylines": [
+"First meeting since 1968",
+"Turnover margin vs third-down machine"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "Action Network Game Page",
+"url": "[https://www.actionnetwork.com/ncaaf-game/ari-isu-score-odds-september-27-2025/254652](https://www.actionnetwork.com/ncaaf-game/ari-isu-score-odds-september-27-2025/254652)",
+"asof_utc": "2025-09-27T10:06:00Z"
+},
+{
+"type": "odds",
+"label": "Covers Odds (Consensus)",
+"url": "[https://www.covers.com/ncaaf/arizona-vs-iowa-state-prediction-picks-odds-september-27-2025](https://www.covers.com/ncaaf/arizona-vs-iowa-state-prediction-picks-odds-september-27-2025)",
+"asof_utc": "2025-09-27T03:00:00Z"
+},
+{
+"type": "betting_trends",
+"label": "ATS.io Trends",
+"url": "[https://ats.io/college-football/arizona-wildcats-vs-iowa-state-cyclones-pick-prediction-9-27-2025/468785/](https://ats.io/college-football/arizona-wildcats-vs-iowa-state-cyclones-pick-prediction-9-27-2025/468785/)",
+"asof_utc": "2025-09-27T10:30:00Z"
+},
+{
+"type": "betting_trends",
+"label": "SportsbookReview Splits (Spread)",
+"url": "[https://www.sportsbookreview.com/picks/college-football/arizona-vs-iowa-state-prediction-odds-picks-week-5-sept-27-2025/](https://www.sportsbookreview.com/picks/college-football/arizona-vs-iowa-state-prediction-odds-picks-week-5-sept-27-2025/)",
+"asof_utc": "2025-09-27T12:20:00Z"
+},
+{
+"type": "news",
+"label": "AZ Desert Swarm Preview & TV Info",
+"url": "[https://www.azdesertswarm.com/football/70175/arizona-wildcats-football-preview-iowa-state-cyclones-fifita-becht-tight-ends-ames-big12-2025](https://www.azdesertswarm.com/football/70175/arizona-wildcats-football-preview-iowa-state-cyclones-fifita-becht-tight-ends-ames-big12-2025)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+{
+"type": "news",
+"label": "Des Moines Register Odds/Preview",
+"url": "[https://www.desmoinesregister.com/story/sports/college/iowa-state/football/2025/09/27/iowa-state-arizona-predictions-picks-odds-college-football-week-5/86384865007/](https://www.desmoinesregister.com/story/sports/college/iowa-state/football/2025/09/27/iowa-state-arizona-predictions-picks-odds-college-football-week-5/86384865007/)",
+"asof_utc": "2025-09-27T12:15:00Z"
+},
+{
+"type": "venue",
+"label": "Jack Trice Stadium Capacity",
+"url": "[https://discoverames.com/business-listing/jack-trice-stadium/](https://discoverames.com/business-listing/jack-trice-stadium/)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "history",
+"label": "Arizona Football vs Iowa State (All-Time)",
+"url": "[https://arizonawildcats.com/sports/football/opponent-history/iowa-state-university/224](https://arizonawildcats.com/sports/football/opponent-history/iowa-state-university/224)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "weather",
+"label": "Action Network Weather Snapshot",
+"url": "[https://www.actionnetwork.com/ncaaf-game/ari-isu-score-odds-september-27-2025/254652](https://www.actionnetwork.com/ncaaf-game/ari-isu-score-odds-september-27-2025/254652)",
+"asof_utc": "2025-09-27T10:06:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Game Page",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401756904/arizona-iowa-state](https://www.espn.com/college-football/game/_/gameId/401756904/arizona-iowa-state)",
+"asof_utc": "2025-09-27T11:40:00Z"
+}
+]
+}

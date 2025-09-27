@@ -1,0 +1,222 @@
+{
+"game_meta": {
+"game_id": "0aed7c08799beb9a4ed133518b11194a",
+"title": "Oregon Ducks at Penn State Nittany Lions",
+"datetime_local": "2025-09-27T19:30:00-04:00",
+"venue": "West Shore Home Field at Beaver Stadium, University Park, PA",
+"tv": ["NBC", "Peacock"],
+"attendance_capacity": 106304,
+"weather": {
+"conditions": "Mostly cloudy",
+"temp_f": 67,
+"wind_mph": 4,
+"notes": "Light winds; minimal weather impact expected"
+},
+"rankings": {
+"home_ap": 3,
+"away_ap": 6,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-22T00:00:00Z"
+},
+"hype_factors": [
+"White Out night game",
+"Rematch of 2024 Big Ten title game",
+"Top-10 matchup with playoff implications",
+"ESPN College GameDay on campus"
+],
+"last_updated_utc": "2025-09-27T12:55:00Z"
+},
+"teams": {
+"home": {
+"name": "Penn State Nittany Lions",
+"short": "PSU",
+"mascot": "Nittany Lions",
+"conference": "Big Ten",
+"record": "3-0 (0-0)",
+"recent_form": "Undefeated; elite defense allowing ~5.7 PPG",
+"key_stats": {
+"offense_rank": 18,
+"defense_rank": 1,
+"turnover_margin": "+2.0",
+"ats_record": "0-3 ATS this season"
+},
+"motivation_factors": [
+"White Out energy",
+"Revenge for 2024 title loss"
+]
+},
+"away": {
+"name": "Oregon Ducks",
+"short": "ORE",
+"mascot": "Ducks",
+"conference": "Big Ten",
+"record": "4-0 (1-0)",
+"recent_form": "4-game win streak; scoring ~48 PPG, allowing ~8 PPG",
+"key_stats": {
+"offense_rank": 7,
+"defense_rank": 3,
+"turnover_margin": "+1.3",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Cross-country prove-it spot",
+"Key starters trending healthy"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "PSU leads 3-2",
+"last_meeting": {
+"date": "2024-12-07",
+"score": "Oregon 45, Penn State 37",
+"note": "Big Ten Championship in Indianapolis"
+},
+"recent_trend": "Split last two marquee meetings (1995 Rose Bowl, 2024 title game)"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -166,
+"implied_prob": 0.624,
+"opening_line": -185,
+"line_movement": "eased toward away",
+"book": "VegasInsider Consensus",
+"asof_utc": "2025-09-27T12:40:00Z"
+},
+"away": {
+"price": 142,
+"implied_prob": 0.413,
+"opening_line": 154,
+"line_movement": "eased toward away",
+"book": "VegasInsider Consensus",
+"asof_utc": "2025-09-27T12:40:00Z"
+}
+},
+"spread": {
+"line": -3.5,
+"favorite": "PSU",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -3.0,
+"line_movement": "moved toward home by 0.5",
+"public_betting": {
+"home_percent": 33,
+"away_percent": 67,
+"note": "Majority of tickets on Oregon despite PSU laying -3.5"
+},
+"book": "Consensus (Action Network / VegasInsider)",
+"asof_utc": "2025-09-27T12:40:00Z"
+},
+"total": {
+"line": 53.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 52.5,
+"line_movement": "moved up 1.0",
+"public_betting": {
+"over_percent": 45,
+"under_percent": 55
+},
+"book": "Consensus (VegasInsider)",
+"asof_utc": "2025-09-27T12:40:00Z"
+},
+"consensus_note": "Market clustered at PSU -3.5 / 53.5; small RLM toward PSU with tickets on Oregon"
+},
+"betting_angles": {
+"key_trends": [
+"Penn State 0-3 ATS in 2025",
+"Oregon 3-1 ATS in 2025",
+"Line nudged from -3 to -3.5 toward PSU despite public on Oregon"
+],
+"situational_spots": [
+"White Out night-game boost for PSU",
+"Oregon flying ~2,300 miles east; body-clock disadvantage"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "PSU -166",
+"confidence": 0.63,
+"rationale": "Sharp-lean line move toward home; elite PSU defense in White Out",
+"value_assessment": "Moderate value vs public Ducks tickets"
+},
+"spread": {
+"pick": "PSU -3.5",
+"confidence": 0.60,
+"rationale": "Market support at -3.5; defensive edge + home noise",
+"value_assessment": "Slight value if -3 reappears"
+},
+"total": {
+"pick": "UNDER 53.5",
+"confidence": 0.57,
+"rationale": "Two top defenses; PSU likely to lean run and shorten game",
+"value_assessment": "Slight value after total ticked up"
+},
+"best_bet": {
+"pick": "PSU -166 ML",
+"confidence": 0.63,
+"rationale": "Combines matchup edge and market signal without hook risk"
+}
+},
+"notables": {
+"injuries_news": [
+"Oregon RB Noah Whittington expected to return from 2-game absence",
+"Oregon WR Justius Lowe trending toward available per midweek reports"
+],
+"matchup_notes": [
+"PSU’s #1 scoring defense vs Oregon’s top-10 scoring offense is the hinge matchup",
+"GameDay in town; White Out crowd historically impacts cadence/communication"
+],
+"coaching_notes": [
+"Franklin’s Nittany Lions thrive at home at night; Ducks well-drilled under Lanning in hostile spots"
+]
+},
+"excitement_factors": {
+"playoff_implications": "Winner strengthens CFP resume; loser faces uphill climb",
+"conference_impact": "Early Big Ten pecking-order clarifier with tiebreak stakes",
+"narrative": "White Out revenge shot vs defending B1G champs",
+"tv_storylines": [
+"GameDay + NBC primetime spotlight",
+"Allar vs. Moore QB showcase under the lights"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "VegasInsider: PSU vs Oregon odds & movement",
+"url": "[https://www.vegasinsider.com/college-football/penn-state-vs-oregon-september-27-2025/](https://www.vegasinsider.com/college-football/penn-state-vs-oregon-september-27-2025/)",
+"asof_utc": "2025-09-27T12:40:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Action Network game page (spread/total/weather/splits)",
+"url": "[https://www.actionnetwork.com/ncaaf-game/oregon-penn-state-score-odds-september-27-2025/254637](https://www.actionnetwork.com/ncaaf-game/oregon-penn-state-score-odds-september-27-2025/254637)",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+{
+"type": "news",
+"label": "NBC: How to watch Oregon at Penn State (7:30 ET)",
+"url": "[https://www.nbc.com/nbc-insider/watch-oregon-vs-penn-state-college-football-on-nbc-and-peacock](https://www.nbc.com/nbc-insider/watch-oregon-vs-penn-state-college-football-on-nbc-and-peacock)",
+"asof_utc": "2025-09-27T12:20:00Z"
+},
+{
+"type": "stats",
+"label": "TeamRankings: PSU & Oregon team pages",
+"url": "[https://www.teamrankings.com/college-football/team/penn-state-nittany-lions/stats](https://www.teamrankings.com/college-football/team/penn-state-nittany-lions/stats)",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+{
+"type": "history",
+"label": "Oregon official H2H vs Penn State",
+"url": "[https://goducks.com/sports/football/opponent-history/penn-state/174](https://goducks.com/sports/football/opponent-history/penn-state/174)",
+"asof_utc": "2025-09-27T12:25:00Z"
+},
+{
+"type": "venue",
+"label": "Beaver Stadium capacity update (2025)",
+"url": "[https://www.centredaily.com/sports/college/penn-state-university/psu-football/article311763848.html](https://www.centredaily.com/sports/college/penn-state-university/psu-football/article311763848.html)",
+"asof_utc": "2025-09-27T12:45:00Z"
+}
+]
+}

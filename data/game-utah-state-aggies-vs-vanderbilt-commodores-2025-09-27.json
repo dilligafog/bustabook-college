@@ -1,0 +1,241 @@
+{
+"game_meta": {
+"game_id": "f0e1630f32dc039064b2536422a040ce",
+"title": "Utah State Aggies at Vanderbilt Commodores",
+"datetime_local": "2025-09-27T12:45:00-04:00",
+"venue": "FirstBank Stadium, Nashville, TN",
+"tv": ["SEC Network"],
+"attendance_capacity": 27901,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 78,
+"wind_mph": 5,
+"notes": "Light winds, dry and warm — ideal scoring conditions"
+},
+"rankings": {
+"home_ap": 18,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-22T00:00:00Z"
+},
+"hype_factors": [
+"Top-20 Vanderbilt at home",
+"SEC vs Mountain West showcase",
+"Lookahead spot with Alabama next week",
+"First-ever meeting"
+],
+"last_updated_utc": "2025-09-27T12:20:00Z"
+},
+"teams": {
+"home": {
+"name": "Vanderbilt Commodores",
+"short": "VAN",
+"mascot": "Commodores",
+"conference": "SEC",
+"record": "4-0 (1-0)",
+"recent_form": "4-game win streak, averaging 47.5 PPG",
+"key_stats": {
+"offense_rank": 18,
+"defense_rank": 21,
+"turnover_margin": "+1.3",
+"ats_record": "4-0 ATS this season"
+},
+"motivation_factors": [
+"Protect AP Top-20 ranking",
+"Avoid trap before @Alabama"
+]
+},
+"away": {
+"name": "Utah State Aggies",
+"short": "USU",
+"mascot": "Aggies",
+"conference": "Mountain West",
+"record": "3-1 (1-0)",
+"recent_form": "Won 3 of last 4, 36.8 PPG",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "+0.5",
+"ats_record": "4-0 ATS this season"
+},
+"motivation_factors": [
+"Statement shot vs SEC",
+"Bye next week — full focus"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "First meeting",
+"last_meeting": {
+"date": null,
+"score": "",
+"note": "First-ever meeting"
+},
+"recent_trend": "No history between programs"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -2100,
+"implied_prob": 0.955,
+"opening_line": -2500,
+"line_movement": "moved toward away",
+"book": "DraftKings / market consensus",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+"away": {
+"price": 1100,
+"implied_prob": 0.083,
+"opening_line": 1050,
+"line_movement": "moved toward home",
+"book": "DraftKings / market consensus",
+"asof_utc": "2025-09-27T12:00:00Z"
+}
+},
+"spread": {
+"line": -23.5,
+"favorite": "HOME",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -21.5,
+"line_movement": "moved toward home by 2.0 points",
+"public_betting": {
+"home_percent": 65,
+"away_percent": 35,
+"note": "Consensus picks favor Vanderbilt ATS"
+},
+"book": "Consensus (Action Network/Covers)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+"total": {
+"line": 58.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 57.5,
+"line_movement": "moved up 1.0 point",
+"public_betting": {
+"over_percent": 63,
+"under_percent": 37
+},
+"book": "Consensus (Action Network/Covers)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+"consensus_note": "Market shows steady support for Vanderbilt and slight upward pressure on the total"
+},
+"betting_angles": {
+"key_trends": [
+"Utah State is 4-0 ATS in 2025",
+"Vanderbilt is 4-0 ATS in 2025",
+"Utah State 6-3-1 ATS last 10 overall"
+],
+"situational_spots": [
+"Vanderbilt potential lookahead with Alabama next",
+"Utah State enters off blowout win; bye on deck"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "USU +1100",
+"confidence": 0.52,
+"rationale": "Extreme price on a competent offense vs noon-kick lookahead favorite",
+"value_assessment": "Speculative plus-money sprinkle only"
+},
+"spread": {
+"pick": "USU +23.5",
+"confidence": 0.64,
+"rationale": "Public heavy on favorite; backdoor live with Utah State’s offense and low wind",
+"value_assessment": "Solid value at +23 or better"
+},
+"total": {
+"pick": "UNDER 58.5",
+"confidence": 0.61,
+"rationale": "Vanderbilt defense top-25 by yardage; noon start and minimal wind temper scoring spikes",
+"value_assessment": "Slight edge after tick up from opener"
+},
+"best_bet": {
+"pick": "Utah State +23.5",
+"confidence": 0.64,
+"rationale": "Contrarian side with market drifting to big number and potential lookahead for favorite"
+}
+},
+"notables": {
+"injuries_news": [
+"Vanderbilt DL Yilanan Ouattara doubtful (shoulder)",
+"Utah State WR Demick Starling out for season; multiple depth pieces questionable"
+],
+"matchup_notes": [
+"Vanderbilt’s offense vs Utah State’s back-seven depth is key; Vandy top-25 in total O & D",
+"Weather benign: little wind; noon local kick can slow pace early"
+],
+"coaching_notes": [
+"Clark Lea’s defense creating takeaways (+5 through 4 games)",
+"Utah State offense trending up under Barnes with explosive plays last two weeks"
+]
+},
+"excitement_factors": {
+"playoff_implications": "Vanderbilt stays in mix with win; major upset would ripple through polls",
+"conference_impact": "Non-conference tune-up before Vanderbilt’s SEC gauntlet",
+"narrative": "Ranked SEC upstart vs feisty Mountain West dog at high noon",
+"tv_storylines": [
+"Diego Pavia’s dual-threat vs Aggies’ pass defense",
+"Can Utah State hang inside the number against a top-20 team?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings Sportsbook (event + editorial)",
+"url": "[https://sportsbook.draftkings.com/event/utah-state-%40-vanderbilt/32803039](https://sportsbook.draftkings.com/event/utah-state-%40-vanderbilt/32803039)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus",
+"url": "[https://contests.covers.com/consensus/matchupconsensusdetails/afa37e99-18ac-4132-8734-b2c2014745f5](https://contests.covers.com/consensus/matchupconsensusdetails/afa37e99-18ac-4132-8734-b2c2014745f5)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "odds",
+"label": "Action Network Game Page",
+"url": "[https://www.actionnetwork.com/ncaaf-game/utah-state-aggies-vanderbilt-commodores/254623](https://www.actionnetwork.com/ncaaf-game/utah-state-aggies-vanderbilt-commodores/254623)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Game Summary",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401752725/utah-state-vanderbilt](https://www.espn.com/college-football/game/_/gameId/401752725/utah-state-vanderbilt)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+{
+"type": "venue",
+"label": "Vanderbilt Facilities (capacity)",
+"url": "[https://vucommodores.com/facilities/vanderbilt-firstbank-stadium/](https://vucommodores.com/facilities/vanderbilt-firstbank-stadium/)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "team_stats",
+"label": "cfbstats — Vanderbilt 2025 profile",
+"url": "[https://cfbstats.com/2025/team/736/index.html](https://cfbstats.com/2025/team/736/index.html)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "team_stats",
+"label": "Utah State official 2025 stats",
+"url": "[https://utahstateaggies.com/sports/football/stats](https://utahstateaggies.com/sports/football/stats)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "injuries",
+"label": "Covers — Injuries",
+"url": "[https://www.covers.com/sport/football/ncaaf/matchup/357601/injuries](https://www.covers.com/sport/football/ncaaf/matchup/357601/injuries)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "analysis",
+"label": "FOX Sports — How to Watch & Team ranks",
+"url": "[https://www.foxsports.com/articles/college-football/how-to-watch-vanderbilt-vs-utah-state-time-tv-channel-live-stream-september-27-2025](https://www.foxsports.com/articles/college-football/how-to-watch-vanderbilt-vs-utah-state-time-tv-channel-live-stream-september-27-2025)",
+"asof_utc": "2025-09-27T12:05:00Z"
+}
+]
+}

@@ -1,0 +1,229 @@
+{
+"game_meta": {
+"game_id": "00e4a622dd9d352a89042411d98011c2",
+"title": "Bowling Green Falcons at Ohio Bobcats",
+"datetime_local": "2025-09-27T12:00:00-04:00",
+"venue": "Frank Solich Field at Peden Stadium, Athens, OH",
+"tv": ["CBS Sports Network"],
+"attendance_capacity": 24000,
+"weather": {
+"conditions": "Mostly sunny, warm",
+"temp_f": 75,
+"wind_mph": 3,
+"notes": "Light winds; minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-27T12:00:00Z"
+},
+"hype_factors": [
+"MAC opener",
+"In-state MAC tilt",
+"Eddie George's first MAC game as BGSU HC",
+"Ohio defending MAC champions"
+],
+"last_updated_utc": "2025-09-27T12:20:00Z"
+},
+"teams": {
+"home": {
+"name": "Ohio Bobcats",
+"short": "OHIO",
+"mascot": "Bobcats",
+"conference": "MAC",
+"record": "2-2 (0-0)",
+"recent_form": "2-0 at home; 52 points last week vs Gardner-Webb",
+"key_stats": {
+"offense_rank": 74,
+"defense_rank": 111,
+"turnover_margin": "+0.3",
+"ats_record": "2-1-1 ATS this season"
+},
+"motivation_factors": [
+"Title defense begins",
+"First MAC home game under Brian Smith"
+]
+},
+"away": {
+"name": "Bowling Green Falcons",
+"short": "BGSU",
+"mascot": "Falcons",
+"conference": "MAC",
+"record": "2-2 (0-0)",
+"recent_form": "3-1 ATS; off road loss at Louisville",
+"key_stats": {
+"offense_rank": 101,
+"defense_rank": 76,
+"turnover_margin": "+1.0",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"First MAC test for Eddie George",
+"Spoiler role vs defending champs"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Bowling Green leads 29-21-2",
+"last_meeting": {
+"date": "2023-09-23",
+"score": "Ohio 38, Bowling Green 7",
+"note": "Bobcats dominated on the road"
+},
+"recent_trend": "Ohio won 4 of last 5 meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -304,
+"implied_prob": 0.752,
+"opening_line": -425,
+"line_movement": "moved toward away",
+"book": "FOX Sports (Sportradar)",
+"asof_utc": "2025-09-27T07:04:00Z"
+},
+"away": {
+"price": 241,
+"implied_prob": 0.293,
+"opening_line": 330,
+"line_movement": "moved toward away",
+"book": "FOX Sports (Sportradar)",
+"asof_utc": "2025-09-27T07:04:00Z"
+}
+},
+"spread": {
+"line": -7.5,
+"favorite": "OHIO",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -10.0,
+"line_movement": "moved toward away by 2.5 points",
+"public_betting": {
+"home_percent": 61,
+"away_percent": 39,
+"note": "Public leaning Ohio -7.5 (Covers consensus)"
+},
+"book": "Consensus (VegasInsider)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+"total": {
+"line": 50.5,
+"over_price": -109,
+"under_price": -114,
+"opening_line": 51.5,
+"line_movement": "moved down 1.0",
+"public_betting": {
+"over_percent": 47,
+"under_percent": 53
+},
+"book": "FOX Sports (Sportradar)",
+"asof_utc": "2025-09-27T07:04:00Z"
+},
+"consensus_note": "Market tightened from OHIO -10 to -7.5; some sharp interest on BGSU and slight total dip."
+},
+"betting_angles": {
+"key_trends": [
+"BGSU is 3-1 ATS this season",
+"BGSU 2-0 ATS as ≥7.5-pt dog in 2025",
+"UNDER is 3-1 in last 4 meetings"
+],
+"situational_spots": [
+"Line move toward dog suggests sharp BGSU interest",
+"MAC opener; home favorite potentially overvalued after big win"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "BGSU +241",
+"confidence": 0.57,
+"rationale": "Line drift toward dog and low-ish total create live upset profile; contrarian to public on OHIO",
+"value_assessment": "Modest plus-money value"
+},
+"spread": {
+"pick": "BGSU +7.5",
+"confidence": 0.65,
+"rationale": "Market move from +10 to +7.5 with public on favorite; BGSU 3-1 ATS and thriving as big dog",
+"value_assessment": "Good value vs consensus"
+},
+"total": {
+"pick": "UNDER 50.5",
+"confidence": 0.58,
+"rationale": "Series leans under recently; slight market drop; calm weather reduces explosive variance",
+"value_assessment": "Slight value after total ticked down"
+},
+"best_bet": {
+"pick": "BGSU +7.5",
+"confidence": 0.65,
+"rationale": "Aligned with line movement and contrarian to public"
+}
+},
+"notables": {
+"injuries_news": [
+"BGSU LB Dorian Pringle out (ACL)",
+"Ohio depth generally healthy; no major new absences reported day-of"
+],
+"matchup_notes": [
+"BGSU +1.0 per-game turnover margin vs OHIO +0.3",
+"BGSU special teams strong in FG volume; close-game leverage"
+],
+"coaching_notes": [
+"Eddie George in 1st year at BGSU",
+"Brian Smith in 1st year at OHIO"
+]
+},
+"excitement_factors": {
+"playoff_implications": "Group-of-5 stakes; MAC race positioning",
+"conference_impact": "Early MAC East positioning game",
+"narrative": "New-look Falcons under Eddie George vs defending MAC champs",
+"tv_storylines": [
+"Drew Pyne guiding BGSU under new staff",
+"Parker Navarro’s dual-threat spark for OHIO"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "FOX Sports Odds (Sportradar)",
+"url": "[https://www.foxsports.com/articles/college-football/ohio-vs-bowling-green-prediction-odds-picks-september-27-2025](https://www.foxsports.com/articles/college-football/ohio-vs-bowling-green-prediction-odds-picks-september-27-2025)",
+"asof_utc": "2025-09-27T07:04:00Z"
+},
+{
+"type": "odds_movement",
+"label": "VegasInsider Line History & Consensus",
+"url": "[https://www.vegasinsider.com/college-football/matchups/bowling-green-vs-ohio/](https://www.vegasinsider.com/college-football/matchups/bowling-green-vs-ohio/)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus & Matchup",
+"url": "[https://www.covers.com/sport/football/ncaaf/matchup/357559](https://www.covers.com/sport/football/ncaaf/matchup/357559)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "weather",
+"label": "Covers NCAAF Weather (Peden Stadium)",
+"url": "[https://www.covers.com/sport/ncaaf/weather](https://www.covers.com/sport/ncaaf/weather)",
+"asof_utc": "2025-09-27T11:30:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Game Page",
+"url": "[https://www.espn.com/college-football/game/_/gameId/](https://www.espn.com/college-football/game/_/gameId/)",
+"asof_utc": "2025-09-27T11:30:00Z"
+},
+{
+"type": "venue",
+"label": "Ohio University Facilities — Peden Stadium",
+"url": "[https://ohiobobcats.com/facilities/frank-solich-field-at-peden-stadium/8](https://ohiobobcats.com/facilities/frank-solich-field-at-peden-stadium/8)",
+"asof_utc": "2025-09-27T11:00:00Z"
+},
+{
+"type": "injuries",
+"label": "Covers Team Pages (BGSU/OHIO)",
+"url": "[https://www.covers.com/sport/football/ncaaf/teams/main/bowling-green-falcons](https://www.covers.com/sport/football/ncaaf/teams/main/bowling-green-falcons)",
+"asof_utc": "2025-09-27T11:45:00Z"
+}
+]
+}

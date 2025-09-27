@@ -1,0 +1,229 @@
+{
+"game_meta": {
+"game_id": "38ec707066a2e19151e10f088803554b",
+"title": "Ohio State Buckeyes at Washington Huskies",
+"datetime_local": "2025-09-27T12:30:00-07:00",
+"venue": "Alaska Airlines Field at Husky Stadium, Seattle, WA",
+"tv": ["CBS", "Paramount+"],
+"attendance_capacity": 70138,
+"weather": {
+"conditions": "Partly Cloudy",
+"temp_f": 66,
+"wind_mph": 2,
+"notes": "Mild temps, very light wind; minimal weather impact expected"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": 1,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-22T18:00:00Z"
+},
+"hype_factors": [
+"Big Ten opener in Seattle",
+"Nation’s No. 1 visits 22-game home win streak",
+"First meeting as Big Ten foes",
+"Defending champs on first road test"
+],
+"last_updated_utc": "2025-09-27T12:40:00Z"
+},
+"teams": {
+"home": {
+"name": "Washington Huskies",
+"short": "WASH",
+"mascot": "Huskies",
+"conference": "Big Ten",
+"record": "3-0 (0-0)",
+"recent_form": "3-0, averaging ~55.7 PPG; 2-1 ATS",
+"key_stats": {
+"offense_rank": 2,
+"defense_rank": 40,
+"turnover_margin": "+1.3",
+"ats_record": "2-1 ATS this season"
+},
+"motivation_factors": [
+"Protect 22-game home win streak",
+"Program statement vs. No. 1"
+]
+},
+"away": {
+"name": "Ohio State Buckeyes",
+"short": "OSU",
+"mascot": "Buckeyes",
+"conference": "Big Ten",
+"record": "3-0 (0-0)",
+"recent_form": "Elite defense (5.3 PAPG), 2-0-1 ATS",
+"key_stats": {
+"offense_rank": 29,
+"defense_rank": 1,
+"turnover_margin": "+0.0",
+"ats_record": "2-0-1 ATS this season"
+},
+"motivation_factors": [
+"Defending champs, first road game",
+"End Washington’s home streak"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "OHIO STATE leads 9-3",
+"last_meeting": {
+"date": "2019-01-01",
+"score": "Ohio State 28, Washington 23",
+"note": "Rose Bowl; OSU won Urban Meyer’s finale"
+},
+"recent_trend": "Ohio State has won 4 straight vs Washington"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": "+260",
+"implied_prob": 0.278,
+"opening_line": "+280",
+"line_movement": "moved toward home",
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+"away": {
+"price": -325,
+"implied_prob": 0.765,
+"opening_line": -355,
+"line_movement": "moved toward home",
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:35:00Z"
+}
+},
+"spread": {
+"line": -8.5,
+"favorite": "AWAY",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -13.5,
+"line_movement": "moved toward home by 5 points",
+"public_betting": {
+"home_percent": 53,
+"away_percent": 47,
+"note": "Slight majority of tickets on home dog"
+},
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+"total": {
+"line": 52.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 48.5,
+"line_movement": "moved up 4 points",
+"public_betting": {
+"over_percent": 52,
+"under_percent": 48
+},
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+"consensus_note": "Market crashed from -13.5 to -8.5 on Washington money; totals holding 52.5 across majors"
+},
+"betting_angles": {
+"key_trends": [
+"Ohio State is 2-0-1 ATS this season",
+"Washington OVER 3-0 this season",
+"Ohio State defense #1 in scoring D (5.3 PAPG)"
+],
+"situational_spots": [
+"Ohio State off bye, first road start for QB Julian Sayin",
+"Washington home streak (22) vs. top-ranked opponent"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "Ohio State -325",
+"confidence": 0.63,
+"rationale": "Elite defense vs. step-up in class; line move created palatable implied ~76%",
+"value_assessment": "Fair but not juicy"
+},
+"spread": {
+"pick": "Ohio State -8.5",
+"confidence": 0.66,
+"rationale": "Five-point steam toward UW sets up contrarian fave; OSU D travel-ready",
+"value_assessment": "Solid value after move"
+},
+"total": {
+"pick": "UNDER 52.5",
+"confidence": 0.60,
+"rationale": "OSU’s top-ranked defense vs. noon-local kick; market up 4 points",
+"value_assessment": "Slight value on under"
+},
+"best_bet": {
+"pick": "Ohio State -8.5",
+"confidence": 0.66,
+"rationale": "Market over-corrected toward home dog; matchups favor OSU defense"
+}
+},
+"notables": {
+"injuries_news": [
+"Washington LB Buddah Al-Uqdah out (knee)",
+"Washington CB Tacario Davis questionable (secondary depth)"
+],
+"matchup_notes": [
+"Washington #2 scoring offense (55.7 PPG) vs Ohio State #1 scoring defense (5.3 PAPG)",
+"22-game UW home win streak on the line; OSU first road game"
+],
+"coaching_notes": [
+"Ryan Day 6-0 off byes (reported), strong true-road record",
+"Jedd Fisch Year 2 with explosive offense, revamped defense"
+]
+},
+"excitement_factors": {
+"playoff_implications": "Top-1 road test; résumé game for both",
+"conference_impact": "Early Big Ten pecking-order setter",
+"narrative": "Streak vs. Standard: UW’s 22 straight at home vs OSU’s title defense",
+"tv_storylines": [
+"Julian Sayin’s first road start",
+"Can UW’s 55.7 PPG crack OSU’s elite D?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "Action Network Game Page",
+"url": "[https://www.actionnetwork.com/ncaaf-game/ohio-state-washington-score-odds-september-27-2025/254602](https://www.actionnetwork.com/ncaaf-game/ohio-state-washington-score-odds-september-27-2025/254602)",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+{
+"type": "odds",
+"label": "Covers Odds Snapshot",
+"url": "[https://www.covers.com/ncaaf/ohio-state-vs-washington-prediction-picks-odds-september-27-2025](https://www.covers.com/ncaaf/ohio-state-vs-washington-prediction-picks-odds-september-27-2025)",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+{
+"type": "news",
+"label": "NCAA.com Week 5 Top 25/TV",
+"url": "[https://www.ncaa.com/news/football/article/2025-09-26/college-football-scores-top-25-rankings-schedule-results-week-5](https://www.ncaa.com/news/football/article/2025-09-26/college-football-scores-top-25-rankings-schedule-results-week-5)",
+"asof_utc": "2025-09-27T12:25:00Z"
+},
+{
+"type": "venue",
+"label": "Husky Stadium Capacity",
+"url": "[https://en.wikipedia.org/wiki/Husky_Stadium](https://en.wikipedia.org/wiki/Husky_Stadium)",
+"asof_utc": "2025-09-27T12:20:00Z"
+},
+{
+"type": "injury",
+"label": "SI FanNation (On Montlake) – UW injuries",
+"url": "[https://www.si.com/college/washington/football/huskies-put-the-streak-up-against-the-ohio-state-01k54jk4kp9p](https://www.si.com/college/washington/football/huskies-put-the-streak-up-against-the-ohio-state-01k54jk4kp9p)",
+"asof_utc": "2025-09-27T12:32:00Z"
+},
+{
+"type": "stats",
+"label": "NCAA Stat Leaders – Scoring Offense/Defense",
+"url": "[https://www.ncaa.com/stats/football/fbs](https://www.ncaa.com/stats/football/fbs)",
+"asof_utc": "2025-09-27T12:28:00Z"
+},
+{
+"type": "game_notes",
+"label": "ESPN Game Page",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401752852/ohio-state-washington](https://www.espn.com/college-football/game/_/gameId/401752852/ohio-state-washington)",
+"asof_utc": "2025-09-27T12:22:00Z"
+}
+]
+}

@@ -1,0 +1,251 @@
+{
+"game_meta": {
+"game_id": "af7edb090e4bdcac144f29453cc9b416",
+"title": "Indiana Hoosiers at Iowa Hawkeyes",
+"datetime_local": "2025-09-27T15:30:00-04:00",
+"venue": "Kinnick Stadium, Iowa City, IA",
+"tv": ["Peacock"],
+"attendance_capacity": 69250,
+"weather": {
+"conditions": "Sunny/Hot",
+"temp_f": 86,
+"wind_mph": 10,
+"notes": "Unseasonably warm; light wind; minimal rain risk"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": 11,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-21T18:00:00Z"
+},
+"hype_factors": [
+"Top-15 road test",
+"Indiana's first road game",
+"Historic Big Ten series; Kinnick crowd factor",
+"Market steamed 6 points toward IU"
+],
+"last_updated_utc": "2025-09-27T12:45:00Z"
+},
+"teams": {
+"home": {
+"name": "Iowa Hawkeyes",
+"short": "IOWA",
+"mascot": "Hawkeyes",
+"conference": "Big Ten",
+"record": "3-1 (1-0)",
+"recent_form": "Won 3 of 4; offense trending up after 38-28 at Rutgers",
+"key_stats": {
+"offense_rank": 33,
+"defense_rank": 24,
+"turnover_margin": "+0.3",
+"ats_record": "2-1-1 ATS this season"
+},
+"motivation_factors": [
+"Home dog pride at Kinnick",
+"Short-handed RB room; next-man-up"
+]
+},
+"away": {
+"name": "Indiana Hoosiers",
+"short": "IU",
+"mascot": "Hoosiers",
+"conference": "Big Ten",
+"record": "4-0 (1-0)",
+"recent_form": "4-game win streak; 63-10 over then-#9 Illinois",
+"key_stats": {
+"offense_rank": 2,
+"defense_rank": 9,
+"turnover_margin": "+1.2",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Top-15 momentum",
+"Statement road win for Big Ten race"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "IOWA leads 46-28-4",
+"last_meeting": {
+"date": "2021-09-04",
+"score": "IOWA 34, IU 6",
+"note": "Season opener at Kinnick"
+},
+"recent_trend": "IOWA won 8 of last 9 meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 260,
+"implied_prob": 0.278,
+"opening_line": 240,
+"line_movement": "moved toward away",
+"book": "Consensus (Action Network)",
+"asof_utc": "2025-09-27T12:40:00Z"
+},
+"away": {
+"price": -325,
+"implied_prob": 0.765,
+"opening_line": -300,
+"line_movement": "moved toward away",
+"book": "Consensus (Action Network)",
+"asof_utc": "2025-09-27T12:40:00Z"
+}
+},
+"spread": {
+"line": -8.5,
+"favorite": "AWAY",
+"price_home": -115,
+"price_away": -105,
+"opening_line": -2.5,
+"line_movement": "moved toward away by 6.0 points",
+"public_betting": {
+"home_percent": 41,
+"away_percent": 59,
+"note": "Consensus ATS picks favor IU"
+},
+"book": "Consensus (multiple)",
+"asof_utc": "2025-09-27T12:40:00Z"
+},
+"total": {
+"line": 47.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 48.5,
+"line_movement": "moved down 1.0 point",
+"public_betting": {
+"over_percent": 60,
+"under_percent": 40
+},
+"book": "Consensus (multiple)",
+"asof_utc": "2025-09-27T12:40:00Z"
+},
+"consensus_note": "Books split -7.5/-8.5; steam early to IU with some buyback near +8.5"
+},
+"betting_angles": {
+"key_trends": [
+"IOWA 2-1-1 ATS in 2025",
+"IU 3-1 ATS in 2025",
+"IOWA leads series 46-28-4; won 8 of last 9"
+],
+"situational_spots": [
+"IU first road game; potential flat spot after Illinois blowout",
+"IOWA home dog in heat; RB injuries cap upside but enhance run defense focus"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "IOWA +260 ML",
+"confidence": 0.58,
+"rationale": "Home dog, contrarian to public splits; market inflated after 6-point steam toward IU",
+"value_assessment": "Moderate value at +240 to +270"
+},
+"spread": {
+"pick": "IOWA +8.5",
+"confidence": 0.66,
+"rationale": "Numbers steamed; Kinnick effect; injuries priced in; key numbers live for backdoor",
+"value_assessment": "Good value above +7.5"
+},
+"total": {
+"pick": "UNDER 47.5",
+"confidence": 0.62,
+"rationale": "Consensus total ticked down; heat + modest wind + Iowa pace lean under",
+"value_assessment": "Slight value; prefer 48 if available"
+},
+"best_bet": {
+"pick": "IOWA +8.5 spread",
+"confidence": 0.66,
+"rationale": "Contrarian home dog with market inflation creates the cleanest edge"
+}
+},
+"notables": {
+"injuries_news": [
+"IOWA RB Jaziun Patterson out",
+"IOWA TE Addison Ostrenga out (season)",
+"IOWA WR Reece Vander Zee questionable",
+"IU RB Lee Beebe out (season)",
+"IU S Bryson Bonds out; FR S Byron Baldwin Jr. day-to-day"
+],
+"matchup_notes": [
+"IU’s top-5 scoring offense vs IOWA’s top-25 scoring defense",
+"First IU road test; Kinnick crowd noise a factor",
+"Series favors IOWA; last meeting 2021 was 34-6 Hawkeyes"
+],
+"coaching_notes": [
+"IU HC Curt Cignetti has accelerated rebuild; aggressive RPO attack",
+"IOWA DC Phil Parker steadies defense; OC Tim Lester modernizing offense"
+]
+},
+"excitement_factors": {
+"playoff_implications": "IU needs road wins to stay in top-10 hunt",
+"conference_impact": "Early Big Ten positioning battle",
+"narrative": "Surging Hoosiers face trap-like spot vs wounded but game Hawkeyes",
+"tv_storylines": [
+"Can IU’s offense travel?",
+"Kinnick heat and The Wave backdrop"
+]
+},
+"sources": [
+{
+"type": "schedule",
+"label": "ESPN Game Page",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401713851/indiana-iowa](https://www.espn.com/college-football/game/_/gameId/401713851/indiana-iowa)",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+{
+"type": "odds",
+"label": "Action Network – Odds & Line History",
+"url": "[https://www.actionnetwork.com/ncaaf-game/indiana-iowa/odds](https://www.actionnetwork.com/ncaaf-game/indiana-iowa/odds)",
+"asof_utc": "2025-09-27T12:40:00Z"
+},
+{
+"type": "public_betting",
+"label": "Covers Consensus (ATS/Total)",
+"url": "[https://contests.covers.com/consensus/matchupconsensusdetails/38485111-c3ce-4205-958d-b2c20147a858](https://contests.covers.com/consensus/matchupconsensusdetails/38485111-c3ce-4205-958d-b2c20147a858)",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+{
+"type": "odds",
+"label": "SI Betting (DraftKings snapshot)",
+"url": "[https://www.si.com/betting/indiana-vs-iowa-odds-9-27-2025](https://www.si.com/betting/indiana-vs-iowa-odds-9-27-2025)",
+"asof_utc": "2025-09-27T12:20:00Z"
+},
+{
+"type": "rankings",
+"label": "CBS Sports – AP Top 25",
+"url": "[https://www.cbssports.com/college-football/rankings/ap/](https://www.cbssports.com/college-football/rankings/ap/)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+{
+"type": "weather",
+"label": "Forecast – Iowa City",
+"url": "[https://weather.com/](https://weather.com/)",
+"asof_utc": "2025-09-27T12:25:00Z"
+},
+{
+"type": "venue",
+"label": "Kinnick Stadium Capacity",
+"url": "[https://en.wikipedia.org/wiki/Kinnick_Stadium](https://en.wikipedia.org/wiki/Kinnick_Stadium)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "injuries",
+"label": "HawkCentral – Patterson ruled out",
+"url": "[https://www.hawkcentral.com/story/sports/college/iowa/football/2025/09/23/jaziun-patterson-seth-anderson-injury-update-iowa-indiana-football/86295039007/](https://www.hawkcentral.com/story/sports/college/iowa/football/2025/09/23/jaziun-patterson-seth-anderson-injury-update-iowa-indiana-football/86295039007/)",
+"asof_utc": "2025-09-27T12:32:00Z"
+},
+{
+"type": "injuries",
+"label": "On3 – Indiana injury notes",
+"url": "[https://www.on3.com/teams/indiana-hoosiers/news/indiana-football-game-preview-iowa-key-question-injury-report-how-to-watch/](https://www.on3.com/teams/indiana-hoosiers/news/indiana-football-game-preview-iowa-key-question-injury-report-how-to-watch/)",
+"asof_utc": "2025-09-27T12:33:00Z"
+},
+{
+"type": "history",
+"label": "Yahoo Sports – Series note",
+"url": "[https://sports.yahoo.com/article/iowa-football-vs-indiana-interesting-230104210.html](https://sports.yahoo.com/article/iowa-football-vs-indiana-interesting-230104210.html)",
+"asof_utc": "2025-09-27T12:34:00Z"
+}
+]
+}

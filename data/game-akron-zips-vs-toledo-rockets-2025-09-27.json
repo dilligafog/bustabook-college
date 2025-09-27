@@ -1,0 +1,229 @@
+{
+"game_meta": {
+"game_id": "2af41e5b7328a096d3f710fa3601cf7a",
+"title": "Akron Zips at Toledo Rockets",
+"datetime_local": "2025-09-27T15:30:00-04:00",
+"venue": "Glass Bowl, Toledo, OH",
+"tv": ["ESPN+"],
+"attendance_capacity": 26038,
+"weather": {
+"conditions": "Sunny/Warm",
+"temp_f": 82,
+"wind_mph": 7,
+"notes": "Warm afternoon, light winds, no rain signal"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-23T00:00:00Z"
+},
+"hype_factors": [
+"Toledo Homecoming",
+"Revenge spot after 2024 OT loss",
+"MAC opener momentum game",
+"Akron off 51-7 tune-up win"
+],
+"last_updated_utc": "2025-09-27T12:40:00Z"
+},
+"teams": {
+"home": {
+"name": "Toledo Rockets",
+"short": "TOL",
+"mascot": "Rockets",
+"conference": "MAC",
+"record": "2-2 (0-1)",
+"recent_form": "Stingy defense; 1-pt loss at WMU after strong WKU/Morgan St wins",
+"key_stats": {
+"offense_rank": 57,
+"defense_rank": 17,
+"turnover_margin": "+1.0",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Homecoming + revenge",
+"MAC bounce-back urgency"
+]
+},
+"away": {
+"name": "Akron Zips",
+"short": "AKR",
+"mascot": "Zips",
+"conference": "MAC",
+"record": "1-3 (0-0)",
+"recent_form": "51-7 vs Duquesne; struggled vs FBS (lost 68-0 at Nebraska)",
+"key_stats": {
+"offense_rank": 104,
+"defense_rank": 127,
+"turnover_margin": "+0.3",
+"ats_record": "2-2 ATS this season"
+},
+"motivation_factors": [
+"Spoiler role after last year’s upset",
+"Nothing-to-lose road dog"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "HOME leads 13-10",
+"last_meeting": {
+"date": "2024-11-26",
+"score": "AWAY 21, HOME 14",
+"note": "Akron won in OT"
+},
+"recent_trend": "HOME has won 6 of last 9 meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -1650,
+"implied_prob": 0.943,
+"opening_line": -1600,
+"line_movement": "inched toward home",
+"book": "DraftKings",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+"away": {
+"price": 950,
+"implied_prob": 0.095,
+"opening_line": 900,
+"line_movement": "drifted longer",
+"book": "DraftKings",
+"asof_utc": "2025-09-27T12:35:00Z"
+}
+},
+"spread": {
+"line": -21.0,
+"favorite": "HOME",
+"price_home": -105,
+"price_away": -115,
+"opening_line": -21.5,
+"line_movement": "moved toward away by 0.5",
+"public_betting": {
+"home_percent": 67,
+"away_percent": 33,
+"note": "Majority of bets on favorite (VSiN splits)"
+},
+"book": "DraftKings",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+"total": {
+"line": 49.5,
+"over_price": -105,
+"under_price": -115,
+"opening_line": 48.5,
+"line_movement": "moved up 1.0",
+"public_betting": {
+"over_percent": 35,
+"under_percent": 65
+},
+"book": "DraftKings",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+"consensus_note": "Market clustered near TOL -21/49.5; small move to dog; under getting more interest"
+},
+"betting_angles": {
+"key_trends": [
+"HOME is 12-2 SU in last 14 home games",
+"AWAY is 5-2 ATS last 7 overall",
+"Series: HOME 6-3 last 9 meetings"
+],
+"situational_spots": [
+"Revenge + Homecoming boost for HOME",
+"Public heavy on big favorite → contrarian dog"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "Pass",
+"confidence": 0.55,
+"rationale": "Price implies ~94.3% for HOME; little edge either side",
+"value_assessment": "No value at current number"
+},
+"spread": {
+"pick": "AWAY +21",
+"confidence": 0.64,
+"rationale": "Inflated number with public on HOME; Akron turnover margin positive and recent cover profile",
+"value_assessment": "Solid contrarian value"
+},
+"total": {
+"pick": "UNDER 49.5",
+"confidence": 0.63,
+"rationale": "HOME defense top-25, AWAY offense struggles vs FBS; clock-moving run game",
+"value_assessment": "Good but market-aware (under already taking money)"
+},
+"best_bet": {
+"pick": "AWAY +21",
+"confidence": 0.64,
+"rationale": "Largest perceived edge vs market with public skew to favorite"
+}
+},
+"notables": {
+"injuries_news": [
+"HOME WRs Z. Lang/J. Willoughby listed questionable (undisclosed)",
+"AWAY several defensive backs questionable (undisclosed)"
+],
+"matchup_notes": [
+"HOME’s rush O (RB Trayanum, Akron native) vs AWAY run D (#97 yds allowed) is leverage point",
+"AWAY pass D ranks #129; explosive shots possible if HOME leans balanced"
+],
+"coaching_notes": [
+"HOME’s Jason Candle off upset loss; typically strong at Glass Bowl",
+"AWAY’s Joe Moorhead creative as big dog; upset this series in 2024 OT"
+]
+},
+"excitement_factors": {
+"playoff_implications": "None nationally; MAC positioning only",
+"conference_impact": "Sets tone for MAC standings momentum",
+"narrative": "Revenge/homecoming vs giant underdog that shocked them last year",
+"tv_storylines": [
+"RB Chip Trayanum (Akron native) starring for HOME",
+"Can AWAY recreate last year’s OT magic?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings Game Lines",
+"url": "[https://sportsbook.draftkings.com/leagues/football/ncaaf?category=game-lines&subcategory=game](https://sportsbook.draftkings.com/leagues/football/ncaaf?category=game-lines&subcategory=game)",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+{
+"type": "odds",
+"label": "DraftKings Team Pages (Akron/Toledo)",
+"url": "[https://sportsbook.draftkings.com/teams/football/college-football/akron-zips](https://sportsbook.draftkings.com/teams/football/college-football/akron-zips)",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+{
+"type": "betting_trends",
+"label": "VSiN CFB Betting Splits",
+"url": "[https://data.vsin.com/college-football/betting-splits/](https://data.vsin.com/college-football/betting-splits/)",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Pregame (Data Skrive)",
+"url": "[https://www.espn.in/college-football/preview/_/gameId/401762824](https://www.espn.in/college-football/preview/_/gameId/401762824)",
+"asof_utc": "2025-09-22T07:13:00Z"
+},
+{
+"type": "news",
+"label": "Hustle Belt Week 5 Preview",
+"url": "[https://www.hustlebelt.com/mac-football/42487/toledo-rockets-vs-akron-zips-football-game-recap-week-5-2025](https://www.hustlebelt.com/mac-football/42487/toledo-rockets-vs-akron-zips-football-game-recap-week-5-2025)",
+"asof_utc": "2025-09-27T12:20:00Z"
+},
+{
+"type": "trends",
+"label": "Oddsshark Trends Page",
+"url": "[https://www.oddsshark.com/ncaaf/akron-toledo-odds-september-27-2025-2441554](https://www.oddsshark.com/ncaaf/akron-toledo-odds-september-27-2025-2441554)",
+"asof_utc": "2025-09-27T12:25:00Z"
+},
+{
+"type": "history",
+"label": "Winsipedia Series Page",
+"url": "[https://winsipedia.com/games/akron/vs/toledo](https://winsipedia.com/games/akron/vs/toledo)",
+"asof_utc": "2025-09-27T12:15:00Z"
+}
+]
+}

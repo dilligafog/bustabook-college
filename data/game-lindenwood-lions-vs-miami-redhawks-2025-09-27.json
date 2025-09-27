@@ -1,0 +1,231 @@
+{
+"game_meta": {
+"game_id": "abb1fda962de8e077ef60b6371be4655",
+"title": "Lindenwood Lions at Miami (OH) RedHawks",
+"datetime_local": "2025-09-27T15:30:00-04:00",
+"venue": "Fred C. Yager Stadium, Oxford, OH",
+"tv": ["ESPN+"],
+"attendance_capacity": 24286,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 83,
+"wind_mph": 4,
+"notes": "Warm, light wind; minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-27T13:00:00Z"
+},
+"hype_factors": [
+"Miami homecoming",
+"FBS vs FCS showcase",
+"Miami seeking first win",
+"QB injury watch for Miami"
+],
+"last_updated_utc": "2025-09-27T13:25:00Z"
+},
+"teams": {
+"home": {
+"name": "Miami (Ohio) RedHawks",
+"short": "M-OH",
+"mascot": "RedHawks",
+"conference": "MAC",
+"record": "0-3 (0-0)",
+"recent_form": "0-3, blew late lead vs UNLV",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": null,
+"ats_record": "0-3 ATS this season"
+},
+"motivation_factors": [
+"Homecoming bounce-back",
+"Avoiding 0-4 start before MAC play"
+]
+},
+"away": {
+"name": "Lindenwood Lions",
+"short": "LIND",
+"mascot": "Lions",
+"conference": "OVC–Big South",
+"record": "2-2 (1-0)",
+"recent_form": "Won last game; balanced, slow-paced offense",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": null,
+"ats_record": "3-0 ATS this season"
+},
+"motivation_factors": [
+"FCS upset shot on FBS stage",
+"Momentum builder before league slate"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "First meeting",
+"last_meeting": {
+"date": null,
+"score": null,
+"note": null
+},
+"recent_trend": "No prior H2H"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -1350,
+"implied_prob": 0.931,
+"opening_line": -1350,
+"line_movement": "steady",
+"book": "VegasInsider Consensus",
+"asof_utc": "2025-09-27T13:00:00Z"
+},
+"away": {
+"price": 800,
+"implied_prob": 0.111,
+"opening_line": 800,
+"line_movement": "steady",
+"book": "VegasInsider Consensus",
+"asof_utc": "2025-09-27T13:00:00Z"
+}
+},
+"spread": {
+"line": -20.5,
+"favorite": "HOME",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -20.5,
+"line_movement": "no change",
+"public_betting": {
+"home_percent": 23,
+"away_percent": 77,
+"note": "Public heavy on dog +20.5"
+},
+"book": "DraftKings",
+"asof_utc": "2025-09-27T13:00:00Z"
+},
+"total": {
+"line": 49.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 49.5,
+"line_movement": "no change",
+"book": "DraftKings",
+"asof_utc": "2025-09-27T13:00:00Z"
+},
+"consensus_note": "Lines steady across major books (-20.5/49.5; ML ~-1350/+800)"
+},
+"betting_angles": {
+"key_trends": [
+"Miami is 0-3 ATS in 2025",
+"Over is 1-0 in Miami’s home non-conf games",
+"Under is 1-0 when Lindenwood is a road underdog"
+],
+"situational_spots": [
+"Homecoming bounce-back for Miami after collapse",
+"Public piling on big dog despite talent gap"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "Pass (no value at -1350)",
+"confidence": 0.52,
+"rationale": "Heavy juice on clear favorite; better angles elsewhere",
+"value_assessment": "No value"
+},
+"spread": {
+"pick": "MIAMI (OH) -20.5",
+"confidence": 0.58,
+"rationale": "Market steady; public on dog; trench mismatch favors RedHawks",
+"value_assessment": "Slight contrarian value"
+},
+"total": {
+"pick": "UNDER 49.5",
+"confidence": 0.62,
+"rationale": "Potential QB limitation for Miami, Lindenwood slows pace; warm but calm weather",
+"value_assessment": "Slight value at current number"
+},
+"best_bet": {
+"pick": "UNDER 49.5",
+"confidence": 0.62,
+"rationale": "Most consistent edge given pace/injury context and no total movement"
+}
+},
+"notables": {
+"injuries_news": [
+"Miami QB Dequan Finn left UNLV game with injury; status to monitor",
+"Lindenwood riding QB Nate Glantz-led offense; no major injuries reported"
+],
+"matchup_notes": [
+"Miami front vs FCS OL a major edge",
+"Lindenwood aims to shorten game via TOP and efficiency"
+],
+"coaching_notes": [
+"Miami HC Chuck Martin seeking first win of 2025",
+"Lindenwood HC Jed Stugart experienced at engineering upsets"
+]
+},
+"excitement_factors": {
+"playoff_implications": "None",
+"conference_impact": "Tune-up before MAC/OVC-Big South play",
+"narrative": "Homecoming redemption vs FCS upstart",
+"tv_storylines": [
+"Miami QB status after UNLV injury",
+"Can Lindenwood hang inside the number?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "VegasInsider Consensus (LIN @ M-OH)",
+"url": "[https://www.vegasinsider.com/college-football/matchups/miami-oh-vs-unlv/](https://www.vegasinsider.com/college-football/matchups/miami-oh-vs-unlv/)",
+"asof_utc": "2025-09-27T13:00:00Z"
+},
+{
+"type": "odds",
+"label": "DraftKings (Miami OH team page)",
+"url": "[https://sportsbook.draftkings.com/teams/football/college-football/miami-oh-redhawks](https://sportsbook.draftkings.com/teams/football/college-football/miami-oh-redhawks)",
+"asof_utc": "2025-09-27T13:00:00Z"
+},
+{
+"type": "odds",
+"label": "FanDuel event page",
+"url": "[https://sportsbook.fanduel.com/football/ncaa-football-games/lindenwood-%40-miami-ohio-34746888](https://sportsbook.fanduel.com/football/ncaa-football-games/lindenwood-%40-miami-ohio-34746888)",
+"asof_utc": "2025-09-27T13:00:00Z"
+},
+{
+"type": "betting_trends",
+"label": "VegasInsider Public Betting",
+"url": "[https://www.vegasinsider.com/college-football/matchups/miami-oh-vs-unlv/](https://www.vegasinsider.com/college-football/matchups/miami-oh-vs-unlv/)",
+"asof_utc": "2025-09-27T13:00:00Z"
+},
+{
+"type": "news",
+"label": "The Miami Student – Game Preview",
+"url": "[https://www.miamistudent.net/article/2025/09/preview-miami-football-faces-lindenwood-at-yager-for-final-non-conference-matchup-of-2025](https://www.miamistudent.net/article/2025/09/preview-miami-football-faces-lindenwood-at-yager-for-final-non-conference-matchup-of-2025)",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+{
+"type": "news",
+"label": "Lindenwood – Game Notes/Preview",
+"url": "[https://lindenwoodlions.com/news/2025/9/25/football-visits-miami-oh-on-saturday.aspx](https://lindenwoodlions.com/news/2025/9/25/football-visits-miami-oh-on-saturday.aspx)",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Game Page",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401762827/lindenwood-miami-oh](https://www.espn.com/college-football/game/_/gameId/401762827/lindenwood-miami-oh)",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+{
+"type": "weather",
+"label": "NWS Oxford OH Forecast",
+"url": "[https://forecast.weather.gov/zipcity.php?Go2=Go&inputstring=Oxford%2COH](https://forecast.weather.gov/zipcity.php?Go2=Go&inputstring=Oxford%2COH)",
+"asof_utc": "2025-09-27T12:40:00Z"
+}
+]
+}

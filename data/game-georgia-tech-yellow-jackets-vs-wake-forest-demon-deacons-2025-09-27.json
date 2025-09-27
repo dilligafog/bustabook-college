@@ -1,0 +1,235 @@
+{
+"game_meta": {
+"game_id": "276535da04befff08724bafd3838f086",
+"title": "Georgia Tech Yellow Jackets at Wake Forest Demon Deacons",
+"datetime_local": "2025-09-27T12:00:00-04:00",
+"venue": "Allegacy Federal Credit Union Stadium, Winston-Salem, NC",
+"tv": ["ESPN"],
+"attendance_capacity": 31500,
+"weather": {
+"conditions": "Mostly cloudy; damp field",
+"temp_f": 72,
+"wind_mph": 5,
+"notes": "Morning showers tapering by midday; light NE breeze"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": 16,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-21T18:51:00Z"
+},
+"hype_factors": [
+"Ranked road favorite chasing 5-0 start",
+"Wake in spoiler role at home off a bye",
+"Series streak: GT has won 4 straight",
+"Weather could tilt game script to the run"
+],
+"last_updated_utc": "2025-09-27T12:10:00Z"
+},
+"teams": {
+"home": {
+"name": "Wake Forest Demon Deacons",
+"short": "WAKE",
+"mascot": "Demon Deacons",
+"conference": "ACC",
+"record": "2-1 (0-1)",
+"recent_form": "2-1, offense inconsistent (~400 YPG)",
+"key_stats": {
+"offense_rank": 98,
+"defense_rank": 45,
+"turnover_margin": "-1.0",
+"ats_record": "1-2 ATS this season"
+},
+"motivation_factors": [
+"Home upset chance vs Top-25",
+"New coach establishing identity"
+]
+},
+"away": {
+"name": "Georgia Tech Yellow Jackets",
+"short": "GT",
+"mascot": "Yellow Jackets",
+"conference": "ACC",
+"record": "4-0 (1-0)",
+"recent_form": "4-0 start, averaging ~38.8 PPG on ~492 YPG",
+"key_stats": {
+"offense_rank": 18,
+"defense_rank": 41,
+"turnover_margin": "-0.7",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Chasing first 5-0 start since 2014",
+"Maintain Top-20 ranking and ACC push"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "AWAY leads 24-8",
+"last_meeting": {
+"date": "2023-09-23",
+"score": "Georgia Tech 30, Wake Forest 16",
+"note": "GT won in Winston-Salem"
+},
+"recent_trend": "Georgia Tech has won 4 straight vs Wake Forest"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 450,
+"implied_prob": 0.182,
+"opening_line": 525,
+"line_movement": "moved toward away",
+"book": "Consensus (VegasInsider)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+"away": {
+"price": -575,
+"implied_prob": 0.852,
+"opening_line": -750,
+"line_movement": "moved toward away",
+"book": "Consensus (VegasInsider)",
+"asof_utc": "2025-09-27T12:10:00Z"
+}
+},
+"spread": {
+"line": -14.0,
+"favorite": "AWAY",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -17.0,
+"line_movement": "moved toward home by 3 points",
+"public_betting": {
+"home_percent": 57,
+"away_percent": 43,
+"note": "Public leaning dog at +14"
+},
+"book": "Consensus (VegasInsider & Covers)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+"total": {
+"line": 52.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 53.5,
+"line_movement": "moved down 1.0 point",
+"public_betting": {
+"over_percent": 52,
+"under_percent": 48
+},
+"book": "Consensus (VegasInsider & Covers)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+"consensus_note": "Open GT -17/-750 to ~-14/-575; market respect for home dog while public also on WAKE +14."
+},
+"betting_angles": {
+"key_trends": [
+"Georgia Tech is 3-1 ATS; Wake Forest is 1-2 ATS in 2025",
+"UNDER is 2-1 in Wake Forest games this season",
+"Georgia Tech has covered and won the last two meetings at Wake (2017, 2023)"
+],
+"situational_spots": [
+"Wake off a bye; GT in potential noon road favorite 'flat spot'",
+"Line crash from -17 to -14 offers better number for favorite if market overreacted"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "Pass (no value at -575)",
+"confidence": 0.52,
+"rationale": "Heavy juice on GT; dog price attractive but injuries limit upset equity",
+"value_assessment": "Minimal value unless parlayed"
+},
+"spread": {
+"pick": "GT -14",
+"confidence": 0.66,
+"rationale": "Contrarian to public with improved number after 3-pt steam toward dog; GT run game vs banged-up WAKE front in damp conditions",
+"value_assessment": "Good value at -14 or better"
+},
+"total": {
+"pick": "UNDER 52.5",
+"confidence": 0.62,
+"rationale": "Market drifted down; Wake offense middling and weather/field could slow pace",
+"value_assessment": "Slight value to 51.5"
+},
+"best_bet": {
+"pick": "GT -14",
+"confidence": 0.66,
+"rationale": "Fade public dog with a superior team and favorable matchup script"
+}
+},
+"notables": {
+"injuries_news": [
+"Wake Forest missing multiple starters (OL/CB/Front seven) incl. OG N. Pahanich and CB B. Winston III",
+"GT RB depth boosted with Trelain Maddox trending available; Jamal Haynes coming off 100-yard game"
+],
+"matchup_notes": [
+"GT rush offense (~249 RYPG) should test WAKE’s thin defensive front",
+"Market moved off GT -17 to -14; potential buyback spot on favorite"
+],
+"coaching_notes": [
+"GT: Brent Key in year 3 building momentum",
+"WAKE: Jake Dickert’s first season; looking for signature win"
+]
+},
+"excitement_factors": {
+"playoff_implications": "GT needs win to sustain Top-15 trajectory",
+"conference_impact": "Early ACC positioning; GT aiming to stay unbeaten in league",
+"narrative": "Ranked riser vs injury-hit home dog in possible rain game",
+"tv_storylines": [
+"Can GT start 5-0 for first time since 2014?",
+"Can WAKE spring a Top-25 upset at home?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "VegasInsider Consensus (lines & movement)",
+"url": "[https://www.vegasinsider.com/college-football/matchups/georgia-tech-vs-wake-forest/](https://www.vegasinsider.com/college-football/matchups/georgia-tech-vs-wake-forest/)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus (ATS & O/U splits)",
+"url": "[https://contests.covers.com/consensus/matchupconsensusdetails/5f42f904-7ec7-4ccd-8e5c-b2c201486517](https://contests.covers.com/consensus/matchupconsensusdetails/5f42f904-7ec7-4ccd-8e5c-b2c201486517)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "game",
+"label": "ESPN Game Page (time/TV/odds snapshot)",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401754546/georgia-tech-wake-forest](https://www.espn.com/college-football/game/_/gameId/401754546/georgia-tech-wake-forest)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "weather",
+"label": "Weather.com Hourly — Winston-Salem",
+"url": "[https://weather.com/weather/hourbyhour/l/USNC0794:1](https://weather.com/weather/hourbyhour/l/USNC0794:1):US",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "rankings",
+"label": "ESPN AP Top 25 (GT #16)",
+"url": "[https://www.espn.com/college-football/rankings](https://www.espn.com/college-football/rankings)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "history",
+"label": "Wake Forest Opponent History vs Georgia Tech",
+"url": "[https://godeacs.com/sports/football/opponent-history/georgia-tech/67](https://godeacs.com/sports/football/opponent-history/georgia-tech/67)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "stats",
+"label": "TeamRankings (YPP & TO margin)",
+"url": "[https://www.teamrankings.com/college-football/stat/yards-per-play](https://www.teamrankings.com/college-football/stat/yards-per-play)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "ats_records",
+"label": "Covers Team Pages (ATS records)",
+"url": "[https://www.covers.com/sport/football/ncaaf/teams/main/georgia-tech-yellow-jackets](https://www.covers.com/sport/football/ncaaf/teams/main/georgia-tech-yellow-jackets)",
+"asof_utc": "2025-09-27T12:05:00Z"
+}
+]
+}

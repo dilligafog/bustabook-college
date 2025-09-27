@@ -1,0 +1,224 @@
+{
+"game_meta": {
+"game_id": "9c00e60e6d66a511cce53c0a0f5bde43",
+"title": "Notre Dame Fighting Irish at Arkansas Razorbacks",
+"datetime_local": "2025-09-27T12:00:00-04:00",
+"venue": "Donald W. Reynolds Razorback Stadium, Fayetteville, AR",
+"tv": ["ABC"],
+"attendance_capacity": 76212,
+"weather": {
+"conditions": "Clear",
+"temp_f": 73,
+"wind_mph": 3,
+"notes": "Light wind; ideal scoring conditions"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": 22,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-22T00:00:00Z"
+},
+"hype_factors": [
+"First-ever meeting between programs",
+"Blue-blood vs SEC home dog",
+"Noon ABC national window",
+"Arkansas coach under pressure"
+],
+"last_updated_utc": "2025-09-27T12:20:00Z"
+},
+"teams": {
+"home": {
+"name": "Arkansas Razorbacks",
+"short": "ARK",
+"mascot": "Razorbacks",
+"conference": "SEC",
+"record": "2-2 (0-1)",
+"recent_form": "Lost 2 straight (at Ole Miss 35-41, at Memphis 31-32) after 2 big wins; rushing attack rolling",
+"key_stats": {
+"offense_rank": 2,
+"defense_rank": 91,
+"turnover_margin": "+0.0",
+"ats_record": "1-3 ATS (3-1 O/U)"
+},
+"motivation_factors": [
+"Upset ranked visitor at home",
+"Coach on hot seat"
+]
+},
+"away": {
+"name": "Notre Dame Fighting Irish",
+"short": "ND",
+"mascot": "Fighting Irish",
+"conference": "Independent",
+"record": "1-2 (—)",
+"recent_form": "Blew out Purdue 56-30 after 0-2 start; offense trending up",
+"key_stats": {
+"offense_rank": 19,
+"defense_rank": 105,
+"turnover_margin": "-0.3",
+"ats_record": "1-2 ATS (3-0 O/U)"
+},
+"motivation_factors": [
+"Ranked team protecting playoff hopes",
+"Statement road win opportunity"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "First meeting",
+"last_meeting": {
+"date": null,
+"score": null,
+"note": "First-ever matchup"
+},
+"recent_trend": "No history"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 160,
+"implied_prob": 0.385,
+"opening_line": 150,
+"line_movement": "slightly toward away favorite",
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+"away": {
+"price": -185,
+"implied_prob": 0.649,
+"opening_line": -175,
+"line_movement": "slightly toward favorite",
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:10:00Z"
+}
+},
+"spread": {
+"line": -4.5,
+"favorite": "AWAY",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -5.5,
+"line_movement": "moved toward home by 1 point",
+"public_betting": {
+"home_percent": 46,
+"away_percent": 54,
+"note": "More tickets on ND; more money on ARK"
+},
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+"total": {
+"line": 63.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 64.5,
+"line_movement": "moved down 1 point",
+"public_betting": {
+"over_percent": 45,
+"under_percent": 55
+},
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+"consensus_note": "Markets clustered around ND -4.5 / 63.5; openers varied by book; tickets lean ND while money leans ARK"
+},
+"betting_angles": {
+"key_trends": [
+"Notre Dame totals 3-0 to the OVER this season",
+"Arkansas totals 3-1 to the OVER this season",
+"Arkansas 1-3 ATS; Notre Dame 1-2 ATS"
+],
+"situational_spots": [
+"SEC home dog in noon ABC window",
+"Sharp-vs-public split favors Arkansas"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "ARK +160",
+"confidence": 0.62,
+"rationale": "Home dog with run game + sharper money; SP+ leans Hogs",
+"value_assessment": "Moderate plus-money value"
+},
+"spread": {
+"pick": "ARK +4.5",
+"confidence": 0.69,
+"rationale": "Line shortened from -5.5 with tickets on ND; home dog profile",
+"value_assessment": "Good value at current number"
+},
+"total": {
+"pick": "UNDER 63.5",
+"confidence": 0.57,
+"rationale": "Market ticked down; noon pace + slight wind offsets explosive offenses",
+"value_assessment": "Slight value after drop from 64.5"
+},
+"best_bet": {
+"pick": "ARK +4.5",
+"confidence": 0.69,
+"rationale": "Contrarian home dog with sharper support and favorable movement"
+}
+},
+"notables": {
+"injuries_news": [
+"ND CB Leonard Moore questionable (ankle); nickel DeVonta Smith probable",
+"ND K Noah Burnette probable (hip); multiple ND OL/TEs out",
+"ARK CB Kani Walker status uncertain; WR Issaiah Cisse out (wrist)"
+],
+"matchup_notes": [
+"Arkansas #2 in yards per play; ND defense has struggled (Opp PPG rank ~105)",
+"Taylen Green’s legs vs ND front; Irish passing efficiency vs ARK tackling issues"
+],
+"coaching_notes": [
+"ND DC Chris Ash in first season under Marcus Freeman",
+"Sam Pittman under scrutiny after close losses"
+]
+},
+"excitement_factors": {
+"playoff_implications": "ND must win to keep hopes alive",
+"conference_impact": "Non-conference; SEC optics for Arkansas",
+"narrative": "Blue-blood on the road vs hungry home dog",
+"tv_storylines": [
+"First-ever meeting in Fayetteville",
+"ND trying to avoid 1-3 start"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "Action Network Game Page",
+"url": "[https://www.actionnetwork.com/ncaaf-game/notre-dame-arkansas-score-odds-september-27-2025/254630](https://www.actionnetwork.com/ncaaf-game/notre-dame-arkansas-score-odds-september-27-2025/254630)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+{
+"type": "odds",
+"label": "FanDuel via Yahoo",
+"url": "[https://sports.yahoo.com/article/betting-odds-no-22-notre-182327552.html](https://sports.yahoo.com/article/betting-odds-no-22-notre-182327552.html)",
+"asof_utc": "2025-09-24T22:30:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Team Pages (ATS/O-U)",
+"url": "[https://www.covers.com/sport/football/ncaaf/teams/main/notre-dame-fighting-irish](https://www.covers.com/sport/football/ncaaf/teams/main/notre-dame-fighting-irish)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "news",
+"label": "CBS Sports Preview",
+"url": "[https://www.cbssports.com/college-football/news/notre-dame-vs-arkansas-prediction-pick-odds-spread-where-to-watch-live/](https://www.cbssports.com/college-football/news/notre-dame-vs-arkansas-prediction-pick-odds-spread-where-to-watch-live/)",
+"asof_utc": "2025-09-27T13:00:00Z"
+},
+{
+"type": "news",
+"label": "Arkansas Game Info",
+"url": "[https://fayettevilleflyer.com/2025/09/26/arkansas-razorbacks-vs-notre-dame-preview-time-tv/](https://fayettevilleflyer.com/2025/09/26/arkansas-razorbacks-vs-notre-dame-preview-time-tv/)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "weather",
+"label": "Action Network Weather Widget",
+"url": "[https://www.actionnetwork.com/ncaaf-game/notre-dame-arkansas-score-odds-september-27-2025/254630#weather](https://www.actionnetwork.com/ncaaf-game/notre-dame-arkansas-score-odds-september-27-2025/254630#weather)",
+"asof_utc": "2025-09-27T12:10:00Z"
+}
+]
+}

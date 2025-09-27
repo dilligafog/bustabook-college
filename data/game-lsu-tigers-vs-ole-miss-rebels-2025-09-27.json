@@ -1,0 +1,253 @@
+{
+"game_meta": {
+"game_id": "f0daa9672398345c140434330134b8e2",
+"title": "LSU Tigers at Ole Miss Rebels",
+"datetime_local": "2025-09-27T15:30:00-04:00",
+"venue": "Vaught-Hemingway Stadium, Oxford, MS",
+"tv": ["ABC"],
+"attendance_capacity": 64038,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 86,
+"wind_mph": 6,
+"notes": "Warm afternoon, light winds; fast track favors offense"
+},
+"rankings": {
+"home_ap": 13,
+"away_ap": 4,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-22T18:00:00Z"
+},
+"hype_factors": [
+"Magnolia Bowl rivalry",
+"Top-15 SEC showdown",
+"Home team has dominated series lately",
+"QB storyline: Chambliss starting for Ole Miss"
+],
+"last_updated_utc": "2025-09-27T12:45:00Z"
+},
+"teams": {
+"home": {
+"name": "Ole Miss Rebels",
+"short": "MISS",
+"mascot": "Rebels",
+"conference": "SEC",
+"record": "4-0 (2-0)",
+"recent_form": "4-0 start, 3-1 ATS; offense ~543 YPG, balanced attack",
+"key_stats": {
+"offense_rank": 12,
+"defense_rank": 41,
+"turnover_margin": "-0.7",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Protect home field in rivalry",
+"Revenge for 2024 OT loss"
+]
+},
+"away": {
+"name": "LSU Tigers",
+"short": "LSU",
+"mascot": "Tigers",
+"conference": "SEC",
+"record": "4-0 (1-0)",
+"recent_form": "Defense allowing ~9.0 PPG; 3-0 Under vs FBS",
+"key_stats": {
+"offense_rank": 84,
+"defense_rank": 7,
+"turnover_margin": "+0.7",
+"ats_record": "2-2 ATS this season"
+},
+"motivation_factors": [
+"Top-4 team protecting playoff resume",
+"Road statement opportunity"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "LSU leads 64-42-4",
+"last_meeting": {
+"date": "2024-10-12",
+"score": "LSU 29, Ole Miss 26 (OT)",
+"note": "Tigers rallied late in Baton Rouge"
+},
+"recent_trend": "Home team has won 5 straight (2020–2024)"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -120,
+"implied_prob": 0.545,
+"opening_line": -118,
+"line_movement": "inched toward home",
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+"away": {
+"price": +100,
+"implied_prob": 0.500,
+"opening_line": -102,
+"line_movement": "moved against away",
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:30:00Z"
+}
+},
+"spread": {
+"line": -1.5,
+"favorite": "HOME",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -2.5,
+"line_movement": "moved toward away by 1 point",
+"public_betting": {
+"home_percent": 60,
+"away_percent": 40,
+"note": "Slight public lean to Rebels ATS"
+},
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+"total": {
+"line": 55.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 54.5,
+"line_movement": "moved up 1 point",
+"public_betting": {
+"over_percent": 54,
+"under_percent": 46
+},
+"book": "Consensus",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+"consensus_note": "Market tight near pick'em; early move toward LSU on spread while total ticked up"
+},
+"betting_angles": {
+"key_trends": [
+"LSU is 2-2 ATS; defense #7 in opp PPG",
+"Ole Miss is 3-1 ATS; offense top-15 by YPG",
+"UNDER is 3-0 in LSU FBS games (avg -21.8 vs total)"
+],
+"situational_spots": [
+"Home-team streak in series favors Ole Miss",
+"Public leaning Ole Miss ATS while some money reported on LSU"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "LSU +100",
+"confidence": 0.66,
+"rationale": "Contrarian vs ATS public; LSU defense travel-ready and QB edge if game tight late",
+"value_assessment": "Solid value at even money"
+},
+"spread": {
+"pick": "LSU +1.5",
+"confidence": 0.64,
+"rationale": "Line moved toward Tigers; series tight; hook valuable in projected one-score game",
+"value_assessment": "Good value catching points"
+},
+"total": {
+"pick": "UNDER 55.5",
+"confidence": 0.58,
+"rationale": "LSU unders trending; heat but light wind; Rebels’ TO issues could stall drives",
+"value_assessment": "Slight value after total ticked up"
+},
+"best_bet": {
+"pick": "LSU +100 ML",
+"confidence": 0.66,
+"rationale": "Market close to coin flip; defensive profile and contrarian angle tilt value to LSU"
+}
+},
+"notables": {
+"injuries_news": [
+"LSU lead RB Caden Durham doubtful (ankle)",
+"Ole Miss QB Austin Simmons managing ankle; Trinidad Chambliss to start"
+],
+"matchup_notes": [
+"LSU run game lagging; Ole Miss negative TO margin (-0.7) early",
+"VSiN notes Ole Miss low Havoc (7.1%) — potential time for LSU pass game to operate"
+],
+"coaching_notes": [
+"Lane Kiffin aggressive on 4th downs, tempo",
+"Brian Kelly’s Tigers 4-0 start; defense carrying early"
+]
+},
+"excitement_factors": {
+"playoff_implications": "LSU protecting top-4 slot; Ole Miss can vault into CFP talk with win",
+"conference_impact": "Early SEC positioning with tiebreaker stakes",
+"narrative": "Rivalry heat plus backup QB spark vs elite defense",
+"tv_storylines": [
+"Chambliss vs Nussmeier",
+"Can LSU win on the road where home team has ruled?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "VegasInsider LSU vs Ole Miss",
+"url": "[https://www.vegasinsider.com/college-football/lsu-vs-ole-miss-september-27-2025/](https://www.vegasinsider.com/college-football/lsu-vs-ole-miss-september-27-2025/)",
+"asof_utc": "2025-09-27T12:20:00Z"
+},
+{
+"type": "odds",
+"label": "Covers Odds & Preview",
+"url": "[https://www.covers.com/ncaaf/lsu-vs-mississippi-prediction-picks-odds-september-27-2025](https://www.covers.com/ncaaf/lsu-vs-mississippi-prediction-picks-odds-september-27-2025)",
+"asof_utc": "2025-09-27T12:20:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus (ATS/OU)",
+"url": "[https://contests.covers.com/consensus/matchupconsensusdetails/950809c7-e9ba-4589-9cb8-b2c2014757fc](https://contests.covers.com/consensus/matchupconsensusdetails/950809c7-e9ba-4589-9cb8-b2c2014757fc)",
+"asof_utc": "2025-09-27T12:25:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Red Cup Rebellion – public money note",
+"url": "[https://www.redcuprebellion.com/ole-miss-sports-gambling/39471/opening-odds-give-ole-miss-a-narrow-margin-over-lsu](https://www.redcuprebellion.com/ole-miss-sports-gambling/39471/opening-odds-give-ole-miss-a-narrow-margin-over-lsu)",
+"asof_utc": "2025-09-24T18:00:00Z"
+},
+{
+"type": "news",
+"label": "AP Top 25 (Week 5)",
+"url": "[https://apnews.com/article/b1b357fd032586e5d208cc43cb8477ea](https://apnews.com/article/b1b357fd032586e5d208cc43cb8477ea)",
+"asof_utc": "2025-09-22T18:00:00Z"
+},
+{
+"type": "news",
+"label": "Reuters – LSU RB Durham doubtful",
+"url": "[https://www.reuters.com/sports/report-lsu-rb-caden-durham-ankle-doubtful-vs-ole-miss--flm-2025-09-27/](https://www.reuters.com/sports/report-lsu-rb-caden-durham-ankle-doubtful-vs-ole-miss--flm-2025-09-27/)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+{
+"type": "news",
+"label": "ESPN – Ole Miss to start Chambliss",
+"url": "[https://www.espn.com/college-football/story/_/id/46367816/ole-miss-start-qb-trinidad-chambliss-vs-lsu-source-confirms](https://www.espn.com/college-football/story/_/id/46367816/ole-miss-start-qb-trinidad-chambliss-vs-lsu-source-confirms)",
+"asof_utc": "2025-09-25T18:24:00Z"
+},
+{
+"type": "stats",
+"label": "TeamRankings – LSU team page",
+"url": "[https://www.teamrankings.com/college-football/team/louisiana-state-tigers](https://www.teamrankings.com/college-football/team/louisiana-state-tigers)",
+"asof_utc": "2025-09-27T12:15:00Z"
+},
+{
+"type": "stats",
+"label": "TeamRankings – Ole Miss team page",
+"url": "[https://www.teamrankings.com/college-football/team/mississippi-rebels](https://www.teamrankings.com/college-football/team/mississippi-rebels)",
+"asof_utc": "2025-09-27T12:15:00Z"
+},
+{
+"type": "history",
+"label": "Winsipedia – LSU vs Ole Miss",
+"url": "[https://winsipedia.com/lsu/vs/ole-miss](https://winsipedia.com/lsu/vs/ole-miss)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "weather",
+"label": "Weather – Oxford, MS",
+"url": "[https://weather.com/weather/today/l/Oxford+MS](https://weather.com/weather/today/l/Oxford+MS)",
+"asof_utc": "2025-09-27T12:00:00Z"
+}
+]
+}

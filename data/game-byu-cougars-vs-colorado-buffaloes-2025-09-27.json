@@ -1,0 +1,260 @@
+{
+"game_meta": {
+"game_id": "c3b917feed8e8d174995ae62cfd8942c",
+"title": "BYU Cougars at Colorado Buffaloes",
+"datetime_local": "2025-09-27T22:15:00-04:00",
+"venue": "Folsom Field, Boulder, CO",
+"tv": ["ESPN"],
+"attendance_capacity": 50183,
+"weather": {
+"conditions": "Mostly clear",
+"temp_f": 65,
+"wind_mph": 6,
+"notes": "Calm winds; minimal impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": 25,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-22T18:00:00Z"
+},
+"hype_factors": [
+"Alamo Bowl rematch",
+"Primetime in Boulder",
+"BYU Big 12 opener",
+"Coach Prime vs ranked BYU"
+],
+"last_updated_utc": "2025-09-27T16:45:00Z"
+},
+"teams": {
+"home": {
+"name": "Colorado Buffaloes",
+"short": "COLO",
+"mascot": "Buffaloes",
+"conference": "Big 12",
+"record": "2-2 (0-1)",
+"recent_form": "Won 2 of last 3; offense 6.1 YPP",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": 98,
+"turnover_margin": "+0.5",
+"ats_record": "1-2-1 ATS this season"
+},
+"motivation_factors": [
+"Revenge for 2024 bowl loss",
+"Home crowd in primetime"
+]
+},
+"away": {
+"name": "BYU Cougars",
+"short": "BYU",
+"mascot": "Cougars",
+"conference": "Big 12",
+"record": "3-0 (0-0)",
+"recent_form": "3-game win streak; elite defense (5.3 PAPG)",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": 1,
+"turnover_margin": "+1.7",
+"ats_record": "3-0 ATS this season"
+},
+"motivation_factors": [
+"Stay ranked",
+"League opener on road"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "HOME leads 8-4-1",
+"last_meeting": {
+"date": "2024-12-28",
+"score": "BYU 36, Colorado 14",
+"note": "Alamo Bowl rematch"
+},
+"recent_trend": "BYU has won 3 straight in series"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 210,
+"implied_prob": 0.323,
+"opening_line": 170,
+"line_movement": "moved toward BYU",
+"book": "Consensus",
+"asof_utc": "2025-09-27T16:40:00Z"
+},
+"away": {
+"price": -250,
+"implied_prob": 0.714,
+"opening_line": -205,
+"line_movement": "moved toward BYU",
+"book": "Consensus",
+"asof_utc": "2025-09-27T16:40:00Z"
+}
+},
+"spread": {
+"line": -6.5,
+"favorite": "AWAY",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -5.5,
+"line_movement": "moved toward BYU by 1 point",
+"public_betting": {
+"home_percent": 26,
+"away_percent": 74,
+"note": "Public heavy on BYU spread"
+},
+"book": "Consensus",
+"asof_utc": "2025-09-27T16:40:00Z"
+},
+"total": {
+"line": 49.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 46.5,
+"line_movement": "moved up 3 points",
+"public_betting": {
+"over_percent": 47,
+"under_percent": 53
+},
+"book": "Consensus",
+"asof_utc": "2025-09-27T16:40:00Z"
+},
+"consensus_note": "Market drifted to BYU -6.5/-7; total pushed up to ~49.5"
+},
+"betting_angles": {
+"key_trends": [
+"BYU is 3-0 ATS this season",
+"Colorado is 1-2-1 ATS this season",
+"Line moved from -5.5 to -6.5/-7 toward BYU"
+],
+"situational_spots": [
+"BYU first Big 12 road test",
+"Colorado home dog in primetime with revenge"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "COLO +210",
+"confidence": 0.57,
+"rationale": "Contrarian home dog with market inflated toward BYU; injuries but live if offense sustains",
+"value_assessment": "Moderate plus-money value"
+},
+"spread": {
+"pick": "COLO +6.5",
+"confidence": 0.62,
+"rationale": "Public lopsided on BYU; key number proximity with potential +7 buy-up",
+"value_assessment": "Good value if +7 appears"
+},
+"total": {
+"pick": "UNDER 49.5",
+"confidence": 0.60,
+"rationale": "BYU defense stingy; CU RB room thin; under money showing",
+"value_assessment": "Slight value post move up"
+},
+"best_bet": {
+"pick": "COLO +6.5",
+"confidence": 0.62,
+"rationale": "Fade public at home in revenge spot; number near 7"
+}
+},
+"notables": {
+"injuries_news": [
+"Colorado OUT: CB RJ Johnson, S Terrance Love, RB DeKalon Taylor, RB Simeon Price, DE Samuel Okunlola, DT Tawfiq Thomas, OL Phillip Houston",
+"Colorado secondary depth doubtful/questionable (Makari Vickers among DBs)",
+"BYU OUT: WR JoJo Phillips, CB Jonathan Kabeya"
+],
+"matchup_notes": [
+"BYU’s rush attack (≈266 ypg) vs Colorado run D that just allowed 320 rush yards to GT",
+"BYU defense allowing 5.3 PPG and 3.5 YPP through 3 games"
+],
+"coaching_notes": [
+"Colorado’s Deion Sanders seeks first top-25 win of 2025",
+"BYU DC Jay Hill’s unit generating takeaways (+1.7 per game)"
+]
+},
+"excitement_factors": {
+"playoff_implications": "BYU needs road win to stay in early CFP conversation",
+"conference_impact": "Key Big 12 positioning game",
+"narrative": "Ranked upstart vs Coach Prime under the lights",
+"tv_storylines": [
+"Bachmeier’s first Big 12 road start",
+"Colorado’s banged-up secondary vs BYU play-action"
+]
+},
+"sources": [
+{
+"type": "schedule_tv",
+"label": "Colorado Athletics (Game Day vs BYU) / ESPN listing",
+"url": "[https://cubuffs.com/sports/football/schedule](https://cubuffs.com/sports/football/schedule)",
+"asof_utc": "2025-09-27T16:20:00Z"
+},
+{
+"type": "odds",
+"label": "VegasInsider Line Movements",
+"url": "[https://www.vegasinsider.com/college-football/matchups/colorado-vs-tcu/line-movements/](https://www.vegasinsider.com/college-football/matchups/colorado-vs-tcu/line-movements/)",
+"asof_utc": "2025-09-27T16:40:00Z"
+},
+{
+"type": "odds",
+"label": "Covers Odds & Consensus",
+"url": "[https://www.covers.com/sport/football/ncaaf/matchup/289105/odds](https://www.covers.com/sport/football/ncaaf/matchup/289105/odds)",
+"asof_utc": "2025-09-27T16:35:00Z"
+},
+{
+"type": "betting_trends",
+"label": "ScoresAndOdds Splits",
+"url": "[https://www.scoresandodds.com/college-football/byu-vs-colorado](https://www.scoresandodds.com/college-football/byu-vs-colorado)",
+"asof_utc": "2025-09-27T16:35:00Z"
+},
+{
+"type": "ranks_stats",
+"label": "cfbstats — BYU team page",
+"url": "[https://cfbstats.com/2025/team/77/index.html](https://cfbstats.com/2025/team/77/index.html)",
+"asof_utc": "2025-09-27T16:25:00Z"
+},
+{
+"type": "ranks_stats",
+"label": "cfbstats — Colorado team page",
+"url": "[https://cfbstats.com/2025/team/157/index.html](https://cfbstats.com/2025/team/157/index.html)",
+"asof_utc": "2025-09-27T16:25:00Z"
+},
+{
+"type": "news",
+"label": "Ralphie Report — Game Preview",
+"url": "[https://www.ralphiereport.com/colorado-buffaloes-football/22464/game-preview-buffs-host-byu-cougars](https://www.ralphiereport.com/colorado-buffaloes-football/22464/game-preview-buffs-host-byu-cougars)",
+"asof_utc": "2025-09-27T16:30:00Z"
+},
+{
+"type": "news",
+"label": "Vanquish The Foe — Enemy Scouting & Opening Line",
+"url": "[https://www.vanquishthefoe.com/byu-football/25173/byu-football-enemy-scouting-report-colorado-buffaloes](https://www.vanquishthefoe.com/byu-football/25173/byu-football-enemy-scouting-report-colorado-buffaloes)",
+"asof_utc": "2025-09-27T16:30:00Z"
+},
+{
+"type": "injuries",
+"label": "Sports Illustrated — Colorado Injury Report",
+"url": "[https://www.si.com/college/colorado/football/colorado-buffaloes-injury-report-byu-cougars-game-difference-maker-dekalon-taylor-makari-vickers](https://www.si.com/college/colorado/football/colorado-buffaloes-injury-report-byu-cougars-game-difference-maker-dekalon-taylor-makari-vickers)",
+"asof_utc": "2025-09-27T16:32:00Z"
+},
+{
+"type": "series_history",
+"label": "Colorado Opponent History vs BYU",
+"url": "[https://cubuffs.com/sports/football/opponent-history/byu/9](https://cubuffs.com/sports/football/opponent-history/byu/9)",
+"asof_utc": "2025-09-27T16:28:00Z"
+},
+{
+"type": "stadium",
+"label": "Folsom Field (Wikipedia)",
+"url": "[https://en.wikipedia.org/wiki/Folsom_Field](https://en.wikipedia.org/wiki/Folsom_Field)",
+"asof_utc": "2025-09-27T16:22:00Z"
+},
+{
+"type": "weather",
+"label": "NWS Hourly Forecast — Boulder, CO",
+"url": "[https://forecast.weather.gov/MapClick.php?lat=40.014&lon=-105.2705](https://forecast.weather.gov/MapClick.php?lat=40.014&lon=-105.2705)",
+"asof_utc": "2025-09-27T16:10:00Z"
+}
+]
+}

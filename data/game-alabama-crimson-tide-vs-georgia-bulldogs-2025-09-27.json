@@ -1,0 +1,245 @@
+{
+"game_meta": {
+"game_id": "b41939807dad226f718eeb8fa56d7342",
+"title": "Alabama Crimson Tide at Georgia Bulldogs",
+"datetime_local": "2025-09-27T19:30:00-04:00",
+"venue": "Dooley Field at Sanford Stadium, Athens, GA",
+"tv": ["ABC"],
+"attendance_capacity": 93033,
+"weather": {
+"conditions": "Clear",
+"temp_f": 75,
+"wind_mph": 2,
+"notes": "Storm chances earlier; calm wind at kickoff"
+},
+"rankings": {
+"home_ap": 5,
+"away_ap": 17,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-22T18:00:00Z"
+},
+"hype_factors": [
+"Top-25 SEC primetime",
+"First Bama trip to Sanford since 2015",
+"Playoff path implications",
+"Rematch of recent SEC title and 2024 thriller"
+],
+"last_updated_utc": "2025-09-27T12:30:00Z"
+},
+"teams": {
+"home": {
+"name": "Georgia Bulldogs",
+"short": "UGA",
+"mascot": "Bulldogs",
+"conference": "SEC",
+"record": "3-0 (1-0)",
+"recent_form": "3-0, OT win at #15 UT, off bye",
+"key_stats": {
+"offense_rank": 10,
+"defense_rank": 5,
+"turnover_margin": "-0.3",
+"ats_record": "0-2-1 ATS"
+},
+"motivation_factors": [
+"33-game home win streak",
+"Revenge after 2 straight losses to Bama"
+]
+},
+"away": {
+"name": "Alabama Crimson Tide",
+"short": "ALA",
+"mascot": "Crimson Tide",
+"conference": "SEC",
+"record": "2-1 (0-0)",
+"recent_form": "2-game win streak after FSU loss",
+"key_stats": {
+"offense_rank": 3,
+"defense_rank": 6,
+"turnover_margin": "+2.0",
+"ats_record": "2-1 ATS"
+},
+"motivation_factors": [
+"Key starters returning (RB Miller, DT Keenan)",
+"Prove it game on the road"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Alabama leads 44-26-4",
+"last_meeting": {
+"date": "2024-09-28",
+"score": "Alabama 41, Georgia 34",
+"note": "Tuscaloosa shootout"
+},
+"recent_trend": "Alabama won 2 straight"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -155,
+"implied_prob": 0.608,
+"opening_line": -150,
+"line_movement": "slight drift toward home",
+"book": "DraftKings",
+"asof_utc": "2025-09-27T12:20:00Z"
+},
+"away": {
+"price": 130,
+"implied_prob": 0.435,
+"opening_line": 120,
+"line_movement": "moved toward away earlier in week",
+"book": "DraftKings",
+"asof_utc": "2025-09-27T12:20:00Z"
+}
+},
+"spread": {
+"line": -2.5,
+"favorite": "HOME",
+"price_home": -112,
+"price_away": -108,
+"opening_line": -4.5,
+"line_movement": "moved toward away by 2 points",
+"public_betting": {
+"home_percent": 41,
+"away_percent": 59,
+"note": "Tickets on Alabama, larger money leaning Georgia"
+},
+"book": "Action Network (consensus)",
+"asof_utc": "2025-09-27T12:15:00Z"
+},
+"total": {
+"line": 53.5,
+"over_price": -112,
+"under_price": -108,
+"opening_line": 52.5,
+"line_movement": "moved up 1.0",
+"book": "Action Network (consensus)",
+"asof_utc": "2025-09-27T12:15:00Z"
+},
+"consensus_note": "UGA opened -4/-4.5; now -2.5/-3. Weather benign; market split shows tickets on Bama, sharper money on UGA"
+},
+"betting_angles": {
+"key_trends": [
+"Georgia 0-3 ATS this season",
+"Georgia 2-12 ATS as favorite since 2024",
+"Alabama 7-3 ATS as underdog since 2008"
+],
+"situational_spots": [
+"Fade public tickets: majority on Alabama spread",
+"UGA 33-game home win streak vs Alabama road form concerns"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "HOME -155",
+"confidence": 0.63,
+"rationale": "Home dominance + sharper money trend toward UGA",
+"value_assessment": "Moderate value if -155 or better"
+},
+"spread": {
+"pick": "HOME -2.5",
+"confidence": 0.60,
+"rationale": "Market moved toward Bama; buy low on UGA < -3",
+"value_assessment": "Solid if -2.5; pass at -3.5"
+},
+"total": {
+"pick": "UNDER 53.5",
+"confidence": 0.55,
+"rationale": "Big-game pace + finishing-drives volatility; slight weather dampener earlier",
+"value_assessment": "Slight value after total ticked up"
+},
+"best_bet": {
+"pick": "HOME ML -155",
+"confidence": 0.63,
+"rationale": "Home edge + money split vs tickets offers contrarian angle without hook risk"
+}
+},
+"notables": {
+"injuries_news": [
+"Alabama RB Jam Miller expected to debut; DT Tim Keenan III expected to play",
+"Alabama WR Jalen Hale out; LB Jah-Marien Latham and DL Jeremiah Beaman out",
+"Georgia LT Earnest Greene II doubtful; TE Ethan Barbour, OL Malachi Toliver, WR Thomas Blackshear out"
+],
+"matchup_notes": [
+"Alabama +2.0 turnover margin per game vs Georgia turnover ratio ~-0.3/g",
+"UGA special teams SP+ edge; Bama offense SP+ top-3",
+"Series over trend in recent meetings; UGA pass rush ratings questioned early"
+],
+"coaching_notes": [
+"Kirby Smart undefeated at home since 2019 (33 straight)",
+"Kalen DeBoer 9-2 ATS as underdog; road form a concern recently"
+]
+},
+"excitement_factors": {
+"playoff_implications": "Winner strengthens CFP resume; loser faces uphill path",
+"conference_impact": "Early SEC pecking-order game",
+"narrative": "Sharps vs tickets: public riding Bama points vs UGA home aura",
+"tv_storylines": [
+"First Bama visit to Athens in a decade",
+"QB duel: Simpson vs Stockton under lights"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "Action Network Game Page (odds, weather, movement)",
+"url": "[https://www.actionnetwork.com/ncaaf-game/alabama-georgia-score-odds-september-27-2025/254641](https://www.actionnetwork.com/ncaaf-game/alabama-georgia-score-odds-september-27-2025/254641)",
+"asof_utc": "2025-09-27T12:15:00Z"
+},
+{
+"type": "odds",
+"label": "DraftKings via SI Betting (current DK prices)",
+"url": "[https://www.si.com/betting/alabama-vs-georgia-prediction-odds-key-players-to-watch-for-college-football-week-5](https://www.si.com/betting/alabama-vs-georgia-prediction-odds-key-players-to-watch-for-college-football-week-5)",
+"asof_utc": "2025-09-27T12:20:00Z"
+},
+{
+"type": "odds_consensus",
+"label": "VegasInsider (openers & consensus)",
+"url": "[https://www.vegasinsider.com/college-football/alabama-vs-georgia-september-27-2025/](https://www.vegasinsider.com/college-football/alabama-vs-georgia-september-27-2025/)",
+"asof_utc": "2025-09-26T23:59:00Z"
+},
+{
+"type": "betting_trends",
+"label": "ESPN Betting Trends",
+"url": "[https://www.espn.com/espn/betting/story/](https://www.espn.com/espn/betting/story/)*/id/46360957/college-football-betting-2025-how-bet-georgia-bulldogs-alabama-crimson-tide",
+"asof_utc": "2025-09-26T18:00:00Z"
+},
+{
+"type": "rankings",
+"label": "AP Poll Week 5 (DawgSports summary)",
+"url": "[https://www.dawgsports.com/college-football/35446/2025-college-football-polls-week-5](https://www.dawgsports.com/college-football/35446/2025-college-football-polls-week-5)",
+"asof_utc": "2025-09-22T18:00:00Z"
+},
+{
+"type": "team_stats",
+"label": "CFBStats & ESPN team stats (turnovers/records)",
+"url": "[https://cfbstats.com/2025/team/8/turnovermargin/gamelog.html](https://cfbstats.com/2025/team/8/turnovermargin/gamelog.html)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+{
+"type": "team_stats",
+"label": "UGA team stats & turnover ratio",
+"url": "[https://www.espn.com/college-football/team/stats/](https://www.espn.com/college-football/team/stats/)*/type/team/id/61",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+{
+"type": "stadium",
+"label": "Sanford Stadium capacity",
+"url": "[https://sports.yahoo.com/uga-football-debuting-capacity-against-183047166.html](https://sports.yahoo.com/uga-football-debuting-capacity-against-183047166.html)",
+"asof_utc": "2025-09-26T16:00:00Z"
+},
+{
+"type": "injuries",
+"label": "SEC availability & injury roundups",
+"url": "[https://247sports.com/article/4-georgia-bulldogs-included-on-initial-injury-report-for-alabama-game-254532130/](https://247sports.com/article/4-georgia-bulldogs-included-on-initial-injury-report-for-alabama-game-254532130/)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "preview",
+"label": "DawgNation TV/time details",
+"url": "[https://www.dawgnation.com/football/georgia-football-alabama-odds-tv-time-stream-channels-how-to-watch/](https://www.dawgnation.com/football/georgia-football-alabama-odds-tv-time-stream-channels-how-to-watch/)",
+"asof_utc": "2025-09-24T13:00:00Z"
+}
+]
+}

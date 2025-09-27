@@ -1,0 +1,230 @@
+{
+"game_meta": {
+"game_id": "9211d988a7a37c1171c0402c46bd3ed5",
+"title": "USC Trojans at Illinois Fighting Illini",
+"datetime_local": "2025-09-27T12:00:00-04:00",
+"venue": "Gies Memorial Stadium (Memorial Stadium), Champaign, IL",
+"tv": ["FOX"],
+"attendance_capacity": 60670,
+"weather": {
+"conditions": "Clear",
+"temp_f": 77,
+"wind_mph": 2,
+"notes": "Light wind; minimal weather impact"
+},
+"rankings": {
+"home_ap": 23,
+"away_ap": 21,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-27T12:00:00Z"
+},
+"hype_factors": [
+"Top-25 Big Ten showdown",
+"Big Noon Kickoff live on site",
+"Illinois Homecoming",
+"USC road test vs banged-up Illini secondary"
+],
+"last_updated_utc": "2025-09-27T12:15:00Z"
+},
+"teams": {
+"home": {
+"name": "Illinois Fighting Illini",
+"short": "ILL",
+"mascot": "Fighting Illini",
+"conference": "Big Ten",
+"record": "3-1 (0-1)",
+"recent_form": "Lost big last week; offense ~36 PPG",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "+1.3",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Homecoming bounce-back",
+"Prove legitimacy after bad loss"
+]
+},
+"away": {
+"name": "USC Trojans",
+"short": "USC",
+"mascot": "Trojans",
+"conference": "Big Ten",
+"record": "4-0 (2-0)",
+"recent_form": "Undefeated; elite offense ~51 PPG",
+"key_stats": {
+"offense_rank": 3,
+"defense_rank": 36,
+"turnover_margin": "+1.0",
+"ats_record": "2-2 ATS this season"
+},
+"motivation_factors": [
+"Playoff push narrative",
+"Statement road win in Big Ten"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "USC leads 11-2",
+"last_meeting": {
+"date": "2008-01-01",
+"score": "USC 49, Illinois 17",
+"note": "Rose Bowl (neutral)"
+},
+"recent_trend": "USC won 3 of last 4 meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 200,
+"implied_prob": 0.333,
+"opening_line": 168,
+"line_movement": "moved toward USC",
+"book": "DraftKings",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+"away": {
+"price": -250,
+"implied_prob": 0.714,
+"opening_line": -205,
+"line_movement": "moved toward USC",
+"book": "DraftKings",
+"asof_utc": "2025-09-27T12:10:00Z"
+}
+},
+"spread": {
+"line": -6.5,
+"favorite": "AWAY",
+"price_home": -105,
+"price_away": -115,
+"opening_line": -5.5,
+"line_movement": "toggled -6.5 to -7 and back",
+"public_betting": {
+"home_percent": 40,
+"away_percent": 60,
+"note": "Public leaning USC ATS"
+},
+"book": "DraftKings",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+"total": {
+"line": 60.5,
+"over_price": -115,
+"under_price": -105,
+"opening_line": 58.5,
+"line_movement": "moved up 2.0 points",
+"public_betting": {
+"over_percent": 65,
+"under_percent": 35
+},
+"book": "DraftKings",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+"consensus_note": "Lines clustered DK/Caesars/FanDuel; brief -7 buyback; total trending up"
+},
+"betting_angles": {
+"key_trends": [
+"Illinois 3-1 ATS this season",
+"USC 0-1 ATS on road in 2025",
+"UNDER 2-0 in Illinois home games this season"
+],
+"situational_spots": [
+"Buy-low home dog off 53-10 loss",
+"USC in look-ahead stretch of ranked opponents"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "ILL +200",
+"confidence": 0.55,
+"rationale": "Contrarian home dog; market inflated after Illini collapse",
+"value_assessment": "Small plus-money value"
+},
+"spread": {
+"pick": "ILL +6.5",
+"confidence": 0.64,
+"rationale": "Public on USC; Homecoming bounce with potential injury returns",
+"value_assessment": "Good value; prefer +7 if available"
+},
+"total": {
+"pick": "UNDER 60.5",
+"confidence": 0.58,
+"rationale": "Market to Over; Illini home totals trending Under; calm weather",
+"value_assessment": "Slight value after 2-point steam up"
+},
+"best_bet": {
+"pick": "ILL +6.5",
+"confidence": 0.64,
+"rationale": "Fade public and buy home dog in Big Noon spot"
+}
+},
+"notables": {
+"injuries_news": [
+"Illinois All-Big Ten CB Xavier Scott out after surgery",
+"USC WR Ja'Kobi Lane and LT Elijah Paige questionable"
+],
+"matchup_notes": [
+"USC’s top-tier offense vs injury-thin Illinois secondary",
+"USC +1.0 TO margin; Illinois +1.3 TO margin",
+"Totals pushed up to 60.5 despite mild weather"
+],
+"coaching_notes": [
+"Lincoln Riley under pressure to deliver vs ranked stretch",
+"Bret Bielema in classic bounce-back home dog spot"
+]
+},
+"excitement_factors": {
+"playoff_implications": "USC stays in chase with road win; Illini avoid slide",
+"conference_impact": "Big Ten pecking order test",
+"narrative": "Explosive USC vs wounded but proud Illini on Homecoming",
+"tv_storylines": [
+"Big Noon Kickoff live from Champaign",
+"Can Illinois secondary hold up?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "Action Network Game Page",
+"url": "[https://www.actionnetwork.com/ncaaf-game/usc-illinois-score-odds-september-27-2025/254644](https://www.actionnetwork.com/ncaaf-game/usc-illinois-score-odds-september-27-2025/254644)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus",
+"url": "[https://contests.covers.com/consensus/matchupconsensusdetails/481efd8c-5693-4e39-85cf-b2c201481a85](https://contests.covers.com/consensus/matchupconsensusdetails/481efd8c-5693-4e39-85cf-b2c201481a85)",
+"asof_utc": "2025-09-27T12:05:00Z"
+},
+{
+"type": "news",
+"label": "The Telegraph: Big Noon Kickoff & odds context",
+"url": "[https://www.thetelegraph.com/sports/article/illinois-usc-football-betting-odds-point-spread-21059461.php](https://www.thetelegraph.com/sports/article/illinois-usc-football-betting-odds-point-spread-21059461.php)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "weather",
+"label": "Action Network Weather",
+"url": "[https://www.actionnetwork.com/ncaaf-game/usc-illinois-score-odds-september-27-2025/254644](https://www.actionnetwork.com/ncaaf-game/usc-illinois-score-odds-september-27-2025/254644)",
+"asof_utc": "2025-09-27T12:10:00Z"
+},
+{
+"type": "stats",
+"label": "TeamRankings (USC team stats)",
+"url": "[https://www.teamrankings.com/college-football/team/usc-trojans/stats](https://www.teamrankings.com/college-football/team/usc-trojans/stats)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "venue",
+"label": "Illinois Athletics: Memorial Stadium profile",
+"url": "[https://fightingillini.com/facilities/memorial-stadium/64](https://fightingillini.com/facilities/memorial-stadium/64)",
+"asof_utc": "2025-09-27T12:00:00Z"
+},
+{
+"type": "rankings",
+"label": "AP Top 25 snapshot",
+"url": "[https://www.espn.com/college-football/team/_/id/30/usc-trojans](https://www.espn.com/college-football/team/_/id/30/usc-trojans)",
+"asof_utc": "2025-09-27T12:00:00Z"
+}
+]
+}

@@ -1,0 +1,229 @@
+{
+"game_meta": {
+"game_id": "ad226dc6bd485c9b53acebd5ceae531f",
+"title": "Tennessee Volunteers at Mississippi State Bulldogs",
+"datetime_local": "2025-09-27T16:15:00-04:00",
+"venue": "Davis Wade Stadium at Scott Field, Starkville, MS",
+"tv": ["SEC Network"],
+"attendance_capacity": 60311,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 85,
+"wind_mph": 7,
+"notes": "Dry, light N wind; minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": 15,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-22T18:00:00Z"
+},
+"hype_factors": [
+"Tennessee Top-15 on road",
+"MSU unbeaten SEC opener",
+"Cowbells & 'whiteout' crowd",
+"Heupel vs Lebby reunion; first UT trip to Starkville since 2012"
+],
+"last_updated_utc": "2025-09-27T12:55:00Z"
+},
+"teams": {
+"home": {
+"name": "Mississippi State Bulldogs",
+"short": "MSST",
+"mascot": "Bulldogs",
+"conference": "SEC",
+"record": "4-0 (0-0)",
+"recent_form": "4-game win streak; defense trending up",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": 14,
+"turnover_margin": "+5",
+"ats_record": "4-0 ATS this season"
+},
+"motivation_factors": [
+"SEC opener in sold-out home 'whiteout'",
+"Chance to validate 4-0 start vs ranked foe"
+]
+},
+"away": {
+"name": "Tennessee Volunteers",
+"short": "TENN",
+"mascot": "Volunteers",
+"conference": "SEC",
+"record": "3-1 (0-1)",
+"recent_form": "Won 3 of last 4; 56 points vs UAB",
+"key_stats": {
+"offense_rank": 7,
+"defense_rank": null,
+"turnover_margin": "+0",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Top-15 team needs SEC road bounce-back",
+"OL/DL reinforcements trending toward return"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Tennessee leads 30-16-1",
+"last_meeting": {
+"date": "2024-11-09",
+"score": "Tennessee 33, Mississippi State 14",
+"note": "UT controlled on ground; game in Knoxville"
+},
+"recent_trend": "Tennessee won 8 of last 9 meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 245,
+"implied_prob": 0.29,
+"opening_line": 280,
+"line_movement": "shortened toward home dog",
+"book": "bet365 (via Action Network)",
+"asof_utc": "2025-09-27T12:50:00Z"
+},
+"away": {
+"price": -305,
+"implied_prob": 0.753,
+"opening_line": -360,
+"line_movement": "eased toward away",
+"book": "bet365 (via Action Network)",
+"asof_utc": "2025-09-27T12:50:00Z"
+}
+},
+"spread": {
+"line": -7.5,
+"favorite": "TENN",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -9.5,
+"line_movement": "moved toward home by 2.0 points",
+"public_betting": {
+"home_percent": 55,
+"away_percent": 45,
+"note": "Slight public lean to home dog"
+},
+"book": "bet365 (market consensus range -7.5 to -8.5)",
+"asof_utc": "2025-09-27T12:50:00Z"
+},
+"total": {
+"line": 63.0,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 62.5,
+"line_movement": "ticked up 0.5",
+"book": "bet365 (via Action Network)",
+"asof_utc": "2025-09-27T12:50:00Z"
+},
+"consensus_note": "Open near TENN -9.5/62.5; market nudged to -7.5 and total up slightly; public shades MSST +7.5"
+},
+"betting_angles": {
+"key_trends": [
+"MSST 4-0 ATS this season",
+"TENN 5-2 ATS last 7 vs MSST",
+"UNDER has hit in 4 of MSST’s last 5 games"
+],
+"situational_spots": [
+"Market move toward home dog creates contrarian fave value",
+"MSST 134th in penalty yards per game could stall drives",
+"TENN secondary injuries vs MSST pass game; leverage pace with totals"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "TENN -305",
+"confidence": 0.58,
+"rationale": "Vols’ win prob ~75% with superior passing attack; price steep",
+"value_assessment": "Low value; anchor/round-robin only"
+},
+"spread": {
+"pick": "TENN -7.5",
+"confidence": 0.61,
+"rationale": "Buy low after drift from -9.5; slight public on dog; MSST penalties a risk",
+"value_assessment": "Solid if -7.5 holds"
+},
+"total": {
+"pick": "UNDER 63.0",
+"confidence": 0.62,
+"rationale": "Number ticked up; light N wind, cleaner conditions; MSST flags and UT road script can suppress drives",
+"value_assessment": "Slight value vs market"
+},
+"best_bet": {
+"pick": "UNDER 63.0",
+"confidence": 0.62,
+"rationale": "Most mispriced angle relative to pace narratives"
+}
+},
+"notables": {
+"injuries_news": [
+"TENN CBs Jermod McCoy & Rickey Gibson out; depth thin at corner",
+"TENN OT David Sanders Jr. upgraded to probable",
+"TENN DL Jaxson Moi probable to return",
+"MSST LB Derion Gullette, DL Will Whitson, OL Blake Steen out"
+],
+"matchup_notes": [
+"TENN has a top-10 passing attack; MSST top-15 pass defense",
+"Turnover margin: MSST +5 vs TENN even",
+"MSST ranks 134th in penalty yards per game (~89 yds)"
+],
+"coaching_notes": [
+"Heupel vs Lebby: tempo-on-tempo chess match",
+"Cowbell noise a real factor for UT’s first SEC road game"
+]
+},
+"excitement_factors": {
+"playoff_implications": "UT stays in early playoff hunt with road SEC win",
+"conference_impact": "Sets tone in SEC standings for both",
+"narrative": "Ranked road favorite vs unbeaten home dog with cowbells",
+"tv_storylines": [
+"Heupel-Lebby reunion & tempo war",
+"Can MSST stay perfect against Top-15 UT?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "Action Network (bet365 feed)",
+"url": "[https://www.actionnetwork.com/ncaaf-game/tennessee-volunteers-mississippi-state-bulldogs/254628](https://www.actionnetwork.com/ncaaf-game/tennessee-volunteers-mississippi-state-bulldogs/254628)",
+"asof_utc": "2025-09-27T12:50:00Z"
+},
+{
+"type": "odds",
+"label": "ESPN Game Page (ESPN BET snapshot)",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401752720/tennessee-mississippi-st](https://www.espn.com/college-football/game/_/gameId/401752720/tennessee-mississippi-st)",
+"asof_utc": "2025-09-27T12:45:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus & Trends",
+"url": "[https://contests.covers.com/consensus/topconsensus/all](https://contests.covers.com/consensus/topconsensus/all)",
+"asof_utc": "2025-09-27T12:40:00Z"
+},
+{
+"type": "news",
+"label": "On3 — How to Watch & Injury Updates",
+"url": "[https://www.on3.com/teams/tennessee-volunteers/news/tennessee-vols-football-mississippi-state-watch-channel-start-time-update/](https://www.on3.com/teams/tennessee-volunteers/news/tennessee-vols-football-mississippi-state-watch-channel-start-time-update/)",
+"asof_utc": "2025-09-27T12:40:00Z"
+},
+{
+"type": "news",
+"label": "Tennessee Opponent History & Last Meeting",
+"url": "[https://utsports.com/sports/football/opponent-history/mississippi-state/49](https://utsports.com/sports/football/opponent-history/mississippi-state/49)",
+"asof_utc": "2025-09-27T12:35:00Z"
+},
+{
+"type": "weather",
+"label": "NWS Starkville Forecast",
+"url": "[https://forecast.weather.gov/MapClick.php?CityName=Starkville&site=JAN](https://forecast.weather.gov/MapClick.php?CityName=Starkville&site=JAN)",
+"asof_utc": "2025-09-27T12:30:00Z"
+},
+{
+"type": "venue",
+"label": "Davis Wade Stadium capacity",
+"url": "[https://en.wikipedia.org/wiki/Davis_Wade_Stadium](https://en.wikipedia.org/wiki/Davis_Wade_Stadium)",
+"asof_utc": "2025-09-27T12:30:00Z"
+}
+]
+}
