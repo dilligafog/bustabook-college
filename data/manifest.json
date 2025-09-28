@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T00:05:00.339Z",
+  "generated_at": "2025-09-28T00:15:00.339Z",
   "game_count": 81,
   "games_with_detailed_data": 38,
   "games_score_only": 43,
@@ -432,6 +432,14 @@
     },
     {
       "filename": null,
+      "game_id": "63b6a142067e7f67ea91cc67e534ca6f",
+      "title": "Memphis Tigers at Florida Atlantic Owls",
+      "datetime": "2025-09-27T20:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
       "game_id": "fdbf98c8da4412e69fc190ad9d6b8278",
       "title": "Tulane Green Wave at Tulsa Golden Hurricane",
       "datetime": "2025-09-27T20:05:16Z",
@@ -491,14 +499,6 @@
       "game_id": "90f6536a4ea2981769343cbd80baf1cc",
       "title": "Western Kentucky Hilltoppers at Missouri State Bears",
       "datetime": "2025-09-27T23:03:26Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "63b6a142067e7f67ea91cc67e534ca6f",
-      "title": "Memphis Tigers at Florida Atlantic Owls",
-      "datetime": "2025-09-27T23:07:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
