@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T00:15:00.339Z",
+  "generated_at": "2025-09-28T00:25:00.340Z",
   "game_count": 81,
   "games_with_detailed_data": 38,
   "games_score_only": 43,
@@ -464,6 +464,14 @@
     },
     {
       "filename": null,
+      "game_id": "e436c32bc827c2699f7254c2ca5409b0",
+      "title": "Kentucky Wildcats at South Carolina Gamecocks",
+      "datetime": "2025-09-27T21:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
       "game_id": "eebdc0d5bb5bf588dc76ef79c2d2f205",
       "title": "Liberty Flames at Old Dominion Monarchs",
       "datetime": "2025-09-27T22:02:15Z",
@@ -531,14 +539,6 @@
       "game_id": "d69912e6f6817c68ca7871d0c47722a8",
       "title": "San Jose State Spartans at Stanford Cardinal",
       "datetime": "2025-09-27T23:35:27Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "e436c32bc827c2699f7254c2ca5409b0",
-      "title": "Kentucky Wildcats at South Carolina Gamecocks",
-      "datetime": "2025-09-27T23:55:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
