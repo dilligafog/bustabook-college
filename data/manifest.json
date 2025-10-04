@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-10-04T16:15:00.375Z",
-  "game_count": 103,
+  "generated_at": "2025-10-04T16:25:00.285Z",
+  "game_count": 99,
   "games_with_detailed_data": 60,
-  "games_score_only": 43,
+  "games_score_only": 39,
   "games": [
     {
       "filename": "game-air-force-falcons-vs-navy-midshipmen-2025-10-04.json",
@@ -216,7 +216,7 @@
     },
     {
       "filename": "historic/week4/game-michigan-state-spartans-vs-usc-trojans-2025-09-20.json",
-      "game_id": "e06151a147cb4d93456e732ad2013a3e",
+      "game_id": "3494518f6430d858bb0c13fe8b29b108",
       "title": "Michigan State Spartans at USC Trojans",
       "datetime": "2025-09-20T23:00:00-04:00",
       "has_detailed_data": true
@@ -706,30 +706,6 @@
     },
     {
       "filename": null,
-      "game_id": "4e5471d34b6f44691d945144edd9e96c",
-      "title": "Alabama Crimson Tide at Missouri Tigers",
-      "datetime": "2025-10-11T16:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "6850ce38681c03906af201d68cdd70e7",
-      "title": "Ohio State Buckeyes at Illinois Fighting Illini",
-      "datetime": "2025-10-11T16:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "5a1127219ae128003dc5154af7f3561e",
-      "title": "Georgia Bulldogs at Auburn Tigers",
-      "datetime": "2025-10-11T16:45:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "e3bcfd275ce0b20d919ac20c49997962",
       "title": "Washington State Cougars at Ole Miss Rebels",
       "datetime": "2025-10-11T16:45:00Z",
@@ -757,14 +733,6 @@
       "game_id": "a109b71f4beba173453582bb0043e075",
       "title": "Arizona State Sun Devils at Utah Utes",
       "datetime": "2025-10-12T02:15:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "a17c0bb6637ad2192754d6d1059f7e92",
-      "title": "Ohio State Buckeyes at Michigan Wolverines",
-      "datetime": "2025-11-29T17:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     }

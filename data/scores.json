@@ -17,7 +17,7 @@
         "score": "10"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "ed6e2166a1b10224914b27016e04ee80",
@@ -37,7 +37,7 @@
         "score": "26"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "60be30c76c784a4f4c7e3f4c4a0fbea2",
@@ -57,7 +57,7 @@
         "score": "27"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "cf7ba66ecbf71b1b62cc12b80654ff2d",
@@ -77,7 +77,7 @@
         "score": "21"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "4ce2d16a7941f87821553c4d18504581",
@@ -97,7 +97,7 @@
         "score": "28"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "f92b0c2e0458d4b67a708cf2cc086479",
@@ -117,7 +117,7 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "6dd65fe376b5947e6b3e12f53e4f2f85",
@@ -137,33 +137,53 @@
         "score": "24"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
-    "id": "03d3f28e904cf8e05320709c03cbf06e",
+    "id": "2e59cc43133dd809fffed4c843d7afcc",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
-    "commence_time": "2025-10-04T15:57:00Z",
+    "commence_time": "2025-10-04T15:50:00Z",
     "completed": false,
-    "home_team": "Ball State Cardinals",
-    "away_team": "Ohio Bobcats",
+    "home_team": "North Carolina Tar Heels",
+    "away_team": "Clemson Tigers",
     "scores": [
       {
-        "name": "Ball State Cardinals",
+        "name": "North Carolina Tar Heels",
+        "score": "3"
+      },
+      {
+        "name": "Clemson Tigers",
+        "score": "7"
+      }
+    ],
+    "last_update": "2025-10-04T16:23:48Z"
+  },
+  {
+    "id": "3cdecb280dab6308f21d5b4bf89806f6",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-10-04T15:51:00Z",
+    "completed": false,
+    "home_team": "Michigan Wolverines",
+    "away_team": "Wisconsin Badgers",
+    "scores": [
+      {
+        "name": "Michigan Wolverines",
         "score": "0"
       },
       {
-        "name": "Ohio Bobcats",
-        "score": "0"
+        "name": "Wisconsin Badgers",
+        "score": "7"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "04cd118858c9a4749333439b29cdc548",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
-    "commence_time": "2025-10-04T16:02:00Z",
+    "commence_time": "2025-10-04T15:55:00Z",
     "completed": false,
     "home_team": "Purdue Boilermakers",
     "away_team": "Illinois Fighting Illini",
@@ -177,7 +197,27 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
+  },
+  {
+    "id": "03d3f28e904cf8e05320709c03cbf06e",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-10-04T15:58:00Z",
+    "completed": false,
+    "home_team": "Ball State Cardinals",
+    "away_team": "Ohio Bobcats",
+    "scores": [
+      {
+        "name": "Ball State Cardinals",
+        "score": "0"
+      },
+      {
+        "name": "Ohio Bobcats",
+        "score": "0"
+      }
+    ],
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "81a0b8c7652008629139781d76b75ef8",
@@ -197,7 +237,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "22b680e3b474d2c7da3c0f3d223374c4",
@@ -217,7 +257,7 @@
         "score": "7"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "4c9bd2ce4bac0213c310def6bf4fb8be",
@@ -230,54 +270,14 @@
     "scores": [
       {
         "name": "Pittsburgh Panthers",
-        "score": "0"
+        "score": "7"
       },
       {
         "name": "Boston College Eagles",
         "score": "0"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
-  },
-  {
-    "id": "2e59cc43133dd809fffed4c843d7afcc",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-10-04T16:05:00Z",
-    "completed": false,
-    "home_team": "North Carolina Tar Heels",
-    "away_team": "Clemson Tigers",
-    "scores": [
-      {
-        "name": "North Carolina Tar Heels",
-        "score": "0"
-      },
-      {
-        "name": "Clemson Tigers",
-        "score": "7"
-      }
-    ],
-    "last_update": "2025-10-04T16:14:30Z"
-  },
-  {
-    "id": "3cdecb280dab6308f21d5b4bf89806f6",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-10-04T16:05:00Z",
-    "completed": false,
-    "home_team": "Michigan Wolverines",
-    "away_team": "Wisconsin Badgers",
-    "scores": [
-      {
-        "name": "Michigan Wolverines",
-        "score": "0"
-      },
-      {
-        "name": "Wisconsin Badgers",
-        "score": "0"
-      }
-    ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "2d276512e01be0ee84a7d0bb9fc4d604",
@@ -290,14 +290,14 @@
     "scores": [
       {
         "name": "Georgia Bulldogs",
-        "score": "0"
+        "score": "7"
       },
       {
         "name": "Kentucky Wildcats",
         "score": "0"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "e4f37b5c4c242407568e3e36b4f9612c",
@@ -317,7 +317,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "7bf7e3851e7ac12cd6fe2f8ec3b795da",
@@ -337,7 +337,7 @@
         "score": "0"
       }
     ],
-    "last_update": "2025-10-04T16:14:30Z"
+    "last_update": "2025-10-04T16:23:48Z"
   },
   {
     "id": "863c5961ee2ec9ffac32398c75e5dcbe",
@@ -791,39 +791,6 @@
     "last_update": null
   },
   {
-    "id": "4e5471d34b6f44691d945144edd9e96c",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-10-11T16:00:00Z",
-    "completed": false,
-    "home_team": "Missouri Tigers",
-    "away_team": "Alabama Crimson Tide",
-    "scores": null,
-    "last_update": null
-  },
-  {
-    "id": "6850ce38681c03906af201d68cdd70e7",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-10-11T16:00:00Z",
-    "completed": false,
-    "home_team": "Illinois Fighting Illini",
-    "away_team": "Ohio State Buckeyes",
-    "scores": null,
-    "last_update": null
-  },
-  {
-    "id": "5a1127219ae128003dc5154af7f3561e",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-10-11T16:45:00Z",
-    "completed": false,
-    "home_team": "Auburn Tigers",
-    "away_team": "Georgia Bulldogs",
-    "scores": null,
-    "last_update": null
-  },
-  {
     "id": "e3bcfd275ce0b20d919ac20c49997962",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -868,17 +835,6 @@
     "last_update": null
   },
   {
-    "id": "e06151a147cb4d93456e732ad2013a3e",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-10-11T23:30:00Z",
-    "completed": false,
-    "home_team": "USC Trojans",
-    "away_team": "Michigan Wolverines",
-    "scores": null,
-    "last_update": null
-  },
-  {
     "id": "a109b71f4beba173453582bb0043e075",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -886,17 +842,6 @@
     "completed": false,
     "home_team": "Utah Utes",
     "away_team": "Arizona State Sun Devils",
-    "scores": null,
-    "last_update": null
-  },
-  {
-    "id": "a17c0bb6637ad2192754d6d1059f7e92",
-    "sport_key": "americanfootball_ncaaf",
-    "sport_title": "NCAAF",
-    "commence_time": "2025-11-29T17:00:00Z",
-    "completed": false,
-    "home_team": "Michigan Wolverines",
-    "away_team": "Ohio State Buckeyes",
     "scores": null,
     "last_update": null
   }
