@@ -1,135 +1,177 @@
 [
-{
-"date": "2025-09-27",
-"team1": "Georgia Tech Yellow Jackets",
-"team2": "Wake Forest Demon Deacons",
-"time": "12:00 PM ET",
-"network": "ESPN"
-},
-{
-"date": "2025-09-27",
-"team1": "USC Trojans",
-"team2": "Illinois Fighting Illini",
-"time": "12:00 PM ET",
-"network": "FOX"
-},
-{
-"date": "2025-09-27",
-"team1": "Notre Dame Fighting Irish",
-"team2": "Arkansas Razorbacks",
-"time": "12:00 PM ET",
-"network": "ABC"
-},
-{
-"date": "2025-09-27",
-"team1": "Cincinnati Bearcats",
-"team2": "Kansas Jayhawks",
-"time": "12:00 PM ET",
-"network": "TNT"
-},
-{
-"date": "2025-09-27",
-"team1": "Bowling Green Falcons",
-"team2": "Ohio Bobcats",
-"time": "12:00 PM ET",
-"network": "CBS Sports Network"
-},
-{
-"date": "2025-09-27",
-"team1": "Stetson Hatters",
-"team2": "Dayton Flyers",
-"time": "12:00 PM ET",
-"network": "YouTube"
-},
-{
-"date": "2025-09-27",
-"team1": "Vanderbilt Commodores",
-"team2": "Utah State Aggies",
-"time": "12:45 PM ET",
-"network": "SEC Network"
-},
-{
-"date": "2025-09-27",
-"team1": "Ohio State Buckeyes",
-"team2": "Washington Huskies",
-"time": "3:30 PM ET",
-"network": "CBS"
-},
-{
-"date": "2025-09-27",
-"team1": "LSU Tigers",
-"team2": "Ole Miss Rebels",
-"time": "3:30 PM ET",
-"network": "ABC"
-},
-{
-"date": "2025-09-27",
-"team1": "Texas A&M Aggies",
-"team2": "Auburn Tigers",
-"time": "3:30 PM ET",
-"network": "ESPN"
-},
-{
-"date": "2025-09-27",
-"team1": "Indiana Hoosiers",
-"team2": "Iowa Hawkeyes",
-"time": "3:30 PM ET",
-"network": "Peacock"
-},
-{
-"date": "2025-09-27",
-"team1": "Akron Zips",
-"team2": "Toledo Rockets",
-"time": "3:30 PM ET",
-"network": "ESPN+"
-},
-{
-"date": "2025-09-27",
-"team1": "Lindenwood Lions",
-"team2": "Miami (OH) RedHawks",
-"time": "3:30 PM ET",
-"network": "ESPN+"
-},
-{
-"date": "2025-09-27",
-"team1": "Tennessee Volunteers",
-"team2": "Mississippi State Bulldogs",
-"time": "4:15 PM ET",
-"network": "SEC Network"
-},
-{
-"date": "2025-09-27",
-"team1": "Iowa State Cyclones",
-"team2": "Arizona Wildcats",
-"time": "7:00 PM ET",
-"network": "ESPN"
-},
-{
-"date": "2025-09-27",
-"team1": "Penn State Nittany Lions",
-"team2": "Oregon Ducks",
-"time": "7:30 PM ET",
-"network": "NBC"
-},
-{
-"date": "2025-09-27",
-"team1": "Georgia Bulldogs",
-"team2": "Alabama Crimson Tide",
-"time": "7:30 PM ET",
-"network": "ABC"
-},
-{
-"date": "2025-09-27",
-"team1": "Missouri Tigers",
-"team2": "UMass Minutemen",
-"time": "7:30 PM ET",
-"network": "ESPNU"
-},
-{
-"date": "2025-09-27",
-"team1": "BYU Cougars",
-"team2": "Colorado Buffaloes",
-"time": "10:15 PM ET",
-"network": "ESPN"
-}
+	{
+		"date": "2025-10-02",
+		"team1": "Sam Houston Bearkats",
+		"team2": "New Mexico State Aggies",
+		"time": "7:30 PM ET",
+		"network": "CBSSN"
+	},
+	{
+		"date": "2025-10-03",
+		"team1": "Charlotte 49ers",
+		"team2": "USF Bulls",
+		"time": "7:00 PM ET",
+		"network": "ESPN"
+	},
+	{
+		"date": "2025-10-03",
+		"team1": "West Virginia Mountaineers",
+		"team2": "BYU Cougars",
+		"time": "10:30 PM ET",
+		"network": "ESPN"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Kentucky Wildcats",
+		"team2": "Georgia Bulldogs",
+		"time": "12:00 PM ET",
+		"network": "ABC"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Iowa State Cyclones",
+		"team2": "Cincinnati Bearcats",
+		"time": "12:00 PM ET",
+		"network": "ESPN2"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Illinois Fighting Illini",
+		"team2": "Purdue Boilermakers",
+		"time": "12:00 PM ET",
+		"network": "BTN"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Wisconsin Badgers",
+		"team2": "Michigan Wolverines",
+		"time": "12:00 PM ET",
+		"network": "FOX"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Ohio Bobcats",
+		"team2": "Ball State Cardinals",
+		"time": "12:00 PM ET",
+		"network": "CBSSN"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Air Force Falcons",
+		"team2": "Navy Midshipmen",
+		"time": "12:00 PM ET",
+		"network": "CBS"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Clemson Tigers",
+		"team2": "North Carolina Tar Heels",
+		"time": "12:00 PM ET",
+		"network": "ESPN"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Virginia Tech Hokies",
+		"team2": "Wake Forest Demon Deacons",
+		"time": "1:00 PM ET",
+		"network": "CW"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Western Michigan Broncos",
+		"team2": "UMass Minutemen",
+		"time": "2:30 PM ET",
+		"network": "ESPN+"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Central Michigan Chippewas",
+		"team2": "Akron Zips",
+		"time": "3:30 PM ET",
+		"network": "ESPN+"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Miami (OH) RedHawks",
+		"team2": "NIU Huskies",
+		"time": "3:30 PM ET",
+		"network": "ESPN+"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Penn State Nittany Lions",
+		"team2": "UCLA Bruins",
+		"time": "3:30 PM ET",
+		"network": "CBS"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Washington Huskies",
+		"team2": "Maryland Terrapins",
+		"time": "3:30 PM ET",
+		"network": "BTN"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Vanderbilt Commodores",
+		"team2": "Alabama Crimson Tide",
+		"time": "3:30 PM ET",
+		"network": "ABC"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Texas Longhorns",
+		"team2": "Florida Gators",
+		"time": "3:30 PM ET",
+		"network": "ESPN"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Kent State Golden Flashes",
+		"team2": "Oklahoma Sooners",
+		"time": "4:00 PM ET",
+		"network": "SEC Network"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Texas Tech Red Raiders",
+		"team2": "Houston Cougars",
+		"time": "7:00 PM ET",
+		"network": "ESPN"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Miami (FL) Hurricanes",
+		"team2": "Florida State Seminoles",
+		"time": "7:30 PM ET",
+		"network": "ABC"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Minnesota Golden Gophers",
+		"team2": "Ohio State Buckeyes",
+		"time": "7:30 PM ET",
+		"network": "NBC"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Colorado Buffaloes",
+		"team2": "TCU Horned Frogs",
+		"time": "7:30 PM ET",
+		"network": "FOX"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Duke Blue Devils",
+		"team2": "California Golden Bears",
+		"time": "10:30 PM ET",
+		"network": "ESPN"
+	},
+	{
+		"date": "2025-10-04",
+		"team1": "Nevada Wolf Pack",
+		"team2": "Fresno State Bulldogs",
+		"time": "10:30 PM ET",
+		"network": "CBSSN"
+	}
 ]

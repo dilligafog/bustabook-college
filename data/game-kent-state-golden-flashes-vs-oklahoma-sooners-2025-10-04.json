@@ -1,0 +1,243 @@
+{
+"game_meta": {
+"game_id": "5f923887c7b45059d84dcd5972b25a16",
+"title": "Kent State Golden Flashes at Oklahoma Sooners",
+"datetime_local": "2025-10-04T15:00:00-05:00",
+"venue": "Gaylord Family Oklahoma Memorial Stadium, Norman, OK",
+"tv": ["SEC Network"],
+"attendance_capacity": 80126,
+"weather": {
+"conditions": "Sunny/Breezy",
+"temp_f": 87,
+"wind_mph": 13,
+"notes": "Sunny and dry; S/SE winds 9–15 mph with gusts ~20+ mph may slightly aid/knock down deep balls"
+},
+"rankings": {
+"home_ap": 5,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-29T16:00:00Z"
+},
+"hype_factors": [
+"Top-5 team tune-up before Red River",
+"Backup QB Michael Hawkins Jr. first 2025 start",
+"Kent State seeking first FBS win since 2022",
+"Only second-ever meeting (OU leads 1-0)"
+],
+"last_updated_utc": "2025-10-03T23:30:00Z"
+},
+"teams": {
+"home": {
+"name": "Oklahoma Sooners",
+"short": "OU",
+"mascot": "Sooners",
+"conference": "SEC",
+"record": "4-0 (1-0)",
+"recent_form": "4-0 with wins over Michigan and Auburn; defense rolling",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": 2,
+"turnover_margin": "-1.5/g (through 9/26)",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Stay sharp before Texas",
+"Backup QB audition for Hawkins Jr."
+]
+},
+"away": {
+"name": "Kent State Golden Flashes",
+"short": "KENT",
+"mascot": "Golden Flashes",
+"conference": "MAC",
+"record": "1-3 (0-0)",
+"recent_form": "Lost 3 straight vs FBS; offense struggling",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "-0.25/g",
+"ats_record": "1-3 ATS this season"
+},
+"motivation_factors": [
+"Nothing to lose vs Top-5",
+"Showcase vs SEC power"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "OU leads 1-0",
+"last_meeting": {
+"date": "2022-09-10",
+"score": "OU 33, KENT 3",
+"note": "Sooners pulled away after halftime in Norman"
+},
+"recent_trend": "Second-ever meeting; no series trend"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": null,
+"implied_prob": null,
+"opening_line": null,
+"line_movement": "off board at many books",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"away": {
+"price": null,
+"implied_prob": null,
+"opening_line": null,
+"line_movement": "off board at many books",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:20:00Z"
+}
+},
+"spread": {
+"line": -45.5,
+"favorite": "OU",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -44.5,
+"line_movement": "moved toward home by 1.0",
+"public_betting": {
+"home_percent": 67,
+"away_percent": 33,
+"note": "Action Network Bets% split on spread"
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"total": {
+"line": 53.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 51.5,
+"line_movement": "moved up 2.0",
+"public_betting": {
+"over_percent": null,
+"under_percent": null
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"consensus_note": "Consensus -45.5/53.5 across major books; ML largely off due to mismatch"
+},
+"betting_angles": {
+"key_trends": [
+"OU 3-1 ATS this season",
+"UNDER 4-0 in OU games",
+"Kent State 1-3 ATS; heavy losses vs ranked FBS"
+],
+"situational_spots": [
+"OU lookahead to Texas next week",
+"First start for OU QB Hawkins Jr. could cap explosiveness",
+"Daytime heat/wind favors UNDER"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "No play",
+"confidence": 0.50,
+"rationale": "Moneyline off board/juiced; no value",
+"value_assessment": "No value"
+},
+"spread": {
+"pick": "KENT +45.5",
+"confidence": 0.62,
+"rationale": "Lookahead + backup QB + public on OU; backdoor live",
+"value_assessment": "Decent contrarian value"
+},
+"total": {
+"pick": "UNDER 53.5",
+"confidence": 0.66,
+"rationale": "OU defense elite; tempo likely modest; breeze/gusts; models lean UNDER",
+"value_assessment": "Solid value after tick up"
+},
+"best_bet": {
+"pick": "UNDER 53.5",
+"confidence": 0.66,
+"rationale": "Market drifted up; matchup and weather support UNDER"
+}
+},
+"notables": {
+"injuries_news": [
+"OU QB John Mateer out (right hand surgery); Hawkins Jr. starts",
+"Kent State under interim HC Mark Carney (since April 2025)"
+],
+"matchup_notes": [
+"OU #2 total defense vs KENT bottom-tier offense",
+"KENT WR Cade Wolford emerging deep threat",
+"OU run game seeking rebound; may shorten game script"
+],
+"coaching_notes": [
+"Brent Venables’ defense surging",
+"Carney rebuilding KENT amid tough non-conference slate"
+]
+},
+"excitement_factors": {
+"playoff_implications": "OU must avoid slip-up to stay in CFP hunt",
+"conference_impact": "Non-conference for OU; tune-up before SEC gauntlet",
+"narrative": "Top-5 power with backup QB vs longshot MAC underdog",
+"tv_storylines": [
+"Hawkins Jr. first start",
+"Red River on deck for OU"
+]
+},
+"sources": [
+{
+"type": "team_site",
+"label": "OU Game Primer (time/TV/history)",
+"url": "[https://soonersports.com/news/2025/10/3/football-game-primer-ou-vs-kent-state](https://soonersports.com/news/2025/10/3/football-game-primer-ou-vs-kent-state)",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+{
+"type": "odds",
+"label": "DraftKings (spread/total listing)",
+"url": "[https://sportsbook.draftkings.com/teams/football/college-football/kent-state-golden-flashes](https://sportsbook.draftkings.com/teams/football/college-football/kent-state-golden-flashes)",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Action Network (public % / weather widget)",
+"url": "[https://www.actionnetwork.com/ncaaf-game/kent-state-golden-flashes-oklahoma-sooners/254746](https://www.actionnetwork.com/ncaaf-game/kent-state-golden-flashes-oklahoma-sooners/254746)",
+"asof_utc": "2025-10-03T23:22:00Z"
+},
+{
+"type": "news",
+"label": "ESPN (Mateer surgery news)",
+"url": "[https://www.espn.com/college-football/story/_/id/46380615/oklahoma-qb-john-mateer-says-surgery-broken-hand-success](https://www.espn.com/college-football/story/_/id/46380615/oklahoma-qb-john-mateer-says-surgery-broken-hand-success)",
+"asof_utc": "2025-10-03T23:18:00Z"
+},
+{
+"type": "news",
+"label": "Reuters (Mateer out; Hawkins to start)",
+"url": "[https://www.reuters.com/sports/oklahoma-qb-heisman-frontrunner-john-mateer-miss-time-due-hand-surgery--flm-2025-09-23/](https://www.reuters.com/sports/oklahoma-qb-heisman-frontrunner-john-mateer-miss-time-due-hand-surgery--flm-2025-09-23/)",
+"asof_utc": "2025-10-03T23:18:00Z"
+},
+{
+"type": "rankings",
+"label": "NCAA/AP Top 25 (OU #5)",
+"url": "[https://www.ncaa.com/news/football/article/2025-09-28/college-football-scores-top-25-rankings-schedule-results-week-6](https://www.ncaa.com/news/football/article/2025-09-28/college-football-scores-top-25-rankings-schedule-results-week-6)",
+"asof_utc": "2025-10-03T23:16:00Z"
+},
+{
+"type": "weather",
+"label": "NWS Norman Forecast (wind/temp)",
+"url": "[https://forecast.weather.gov/MapClick.php?lat=35.2226&lon=-97.4395](https://forecast.weather.gov/MapClick.php?lat=35.2226&lon=-97.4395)",
+"asof_utc": "2025-10-03T23:12:00Z"
+},
+{
+"type": "history",
+"label": "OU vs Kent State last meeting",
+"url": "[https://soonersports.com/news/2025/10/3/football-game-primer-ou-vs-kent-state](https://soonersports.com/news/2025/10/3/football-game-primer-ou-vs-kent-state)",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+{
+"type": "stats",
+"label": "FOX Sports (OU defense rank; OU/KENT ATS notes)",
+"url": "[https://www.foxsports.com/articles/college-football/oklahoma-vs-kent-state-prediction-odds-picks-october-4-2025](https://www.foxsports.com/articles/college-football/oklahoma-vs-kent-state-prediction-odds-picks-october-4-2025)",
+"asof_utc": "2025-10-03T23:21:00Z"
+}
+]
+}

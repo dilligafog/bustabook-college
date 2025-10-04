@@ -1,0 +1,242 @@
+{
+"game_meta": {
+"game_id": "0169b39d461abff544e93d0287c1fab1",
+"title": "Vanderbilt Commodores at Alabama Crimson Tide",
+"datetime_local": "2025-10-04T15:30:00-04:00",
+"venue": "Saban Field at Bryant–Denny Stadium, Tuscaloosa, AL",
+"tv": ["ABC"],
+"attendance_capacity": 100077,
+"weather": {
+"conditions": "Mostly sunny",
+"temp_f": 84,
+"wind_mph": 10,
+"notes": "Warm, dry, light E wind; minimal weather impact"
+},
+"rankings": {
+"home_ap": 10,
+"away_ap": 16,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-28T18:00:00Z"
+},
+"hype_factors": [
+"Top-25 SEC showdown",
+"Alabama revenge after 2024 upset",
+"Diego Pavia vs Ty Simpson",
+"Playoff/SEC race stakes"
+],
+"last_updated_utc": "2025-10-03T23:20:00Z"
+},
+"teams": {
+"home": {
+"name": "Alabama Crimson Tide",
+"short": "ALA",
+"mascot": "Crimson Tide",
+"conference": "SEC",
+"record": "3-1 (1-0 SEC)",
+"recent_form": "Won 3 of 4; defense rounding into form after win at Georgia",
+"key_stats": {
+"offense_rank": 18,
+"defense_rank": 12,
+"turnover_margin": "+1.8",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Revenge after last season’s loss",
+"Home crowd edge in marquee slot"
+]
+},
+"away": {
+"name": "Vanderbilt Commodores",
+"short": "VAN",
+"mascot": "Commodores",
+"conference": "SEC",
+"record": "5-0 (1-0 SEC)",
+"recent_form": "Undefeated; explosive offense, 6.49 YPC",
+"key_stats": {
+"offense_rank": 6,
+"defense_rank": 29,
+"turnover_margin": "+0.8",
+"ats_record": "4-1 ATS this season"
+},
+"motivation_factors": [
+"Prove 2024 wasn’t a fluke",
+"Program statement game on ABC"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Alabama leads 63-19-4",
+"last_meeting": {
+"date": "2024-10-05",
+"score": "Vanderbilt 40, Alabama 35",
+"note": "Vandy stunned No. 1 Alabama in Nashville"
+},
+"recent_trend": "Alabama has won 6 straight at home vs Vanderbilt; Vandy won last overall meeting"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -440,
+"implied_prob": 0.815,
+"opening_line": -400,
+"line_movement": "moved toward home",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T22:30:00Z"
+},
+"away": {
+"price": 340,
+"implied_prob": 0.227,
+"opening_line": 325,
+"line_movement": "moved toward home",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T22:30:00Z"
+}
+},
+"spread": {
+"line": -10.5,
+"favorite": "ALA",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -12.0,
+"line_movement": "moved toward away by 1.5 points",
+"public_betting": {
+"home_percent": 43,
+"away_percent": 57,
+"note": "Public slightly on Vanderbilt +pts"
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T22:30:00Z"
+},
+"total": {
+"line": 55.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 56.5,
+"line_movement": "ticked down 1 point",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T22:30:00Z"
+},
+"consensus_note": "Market tight across books; spread ticked to Vanderbilt while ML shaded to Alabama"
+},
+"betting_angles": {
+"key_trends": [
+"Alabama is 4-1 ATS vs ranked teams under DeBoer",
+"UNDER has hit in Alabama’s last 6 SEC games",
+"Vanderbilt is 4-1 ATS this season"
+],
+"situational_spots": [
+"Classic revenge spot for Alabama after 2024 loss",
+"Vanderbilt as road dog with elite run game",
+"Public leaning to the dog on spread"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "ALA -440",
+"confidence": 0.55,
+"rationale": "Home edge + revenge; price offers little value",
+"value_assessment": "Limited value at current number"
+},
+"spread": {
+"pick": "ALA -10.5",
+"confidence": 0.62,
+"rationale": "Contrarian to public; defense + WR edge vs Vandy secondary",
+"value_assessment": "Solid if < -11"
+},
+"total": {
+"pick": "UNDER 55.5",
+"confidence": 0.63,
+"rationale": "Alabama SEC under trend + warm but calm conditions; Tide defense improving",
+"value_assessment": "Moderate value with slight market dip"
+},
+"best_bet": {
+"pick": "UNDER 55.5",
+"confidence": 0.63,
+"rationale": "Trend + matchup (Bama pass D vs Vandy) point to lower pace than market"
+}
+},
+"notables": {
+"injuries_news": [
+"Alabama LB Qua Russaw out (foot surgery); multi-week absence",
+"Alabama LB Jah-Marien Latham out for season (neck)",
+"Alabama DL James Smith suspended 1st half (targeting)",
+"Vanderbilt CB Marlon Jones out; RB Chase Gillespie and S Brail Lipford on report"
+],
+"matchup_notes": [
+"Vandy rush O 6.49 YPC vs Alabama top-15 D is pivotal",
+"Vandy No. 1 in PPG; Alabama turnover margin top-5",
+"Alabama WR group (Williams/Bernard/Horton) vs Vandy secondary depth"
+],
+"coaching_notes": [
+"DeBoer teams strong vs ranked; disciplined in revenge spots",
+"Clark Lea’s defense aggressive under new DC Steve Gregory"
+]
+},
+"excitement_factors": {
+"playoff_implications": "Winner strengthens playoff résumé",
+"conference_impact": "SEC seeding swing game",
+"narrative": "Revenge-minded blueblood vs unbeaten upstart",
+"tv_storylines": [
+"Can Pavia’s Vandy shock the Tide again?",
+"Ty Simpson’s rise and Alabama WR health",
+"Year-after-upset pressure on Alabama"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "SI.com (DK odds)",
+"url": "[https://www.si.com/fannation/college/cfb-hq/betting/alabama-vs-vanderbilt-prediction-odds-2025](https://www.si.com/fannation/college/cfb-hq/betting/alabama-vs-vanderbilt-prediction-odds-2025)",
+"asof_utc": "2025-10-03T22:30:00Z"
+},
+{
+"type": "odds_movement",
+"label": "CBS Sports line movement",
+"url": "[https://www.cbssports.com/college-football/news/college-football-line-movements-for-week-6-including-no-3-miami-at-no-18-florida-state/](https://www.cbssports.com/college-football/news/college-football-line-movements-for-week-6-including-no-3-miami-at-no-18-florida-state/)",
+"asof_utc": "2025-10-03T22:35:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Action Network public betting",
+"url": "[https://www.actionnetwork.com/ncaaf/public-betting](https://www.actionnetwork.com/ncaaf/public-betting)",
+"asof_utc": "2025-10-03T22:40:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Week 6 preview",
+"url": "[https://www.espn.com/college-football/story/_/id/46464181/college-football-week-6-preview-alabama-vanderbilt-miami-florida-state-more](https://www.espn.com/college-football/story/_/id/46464181/college-football-week-6-preview-alabama-vanderbilt-miami-florida-state-more)",
+"asof_utc": "2025-10-03T22:45:00Z"
+},
+{
+"type": "rankings",
+"label": "AP Top 25 (CBS/BR)",
+"url": "[https://www.cbssports.com/college-football/rankings/ap/](https://www.cbssports.com/college-football/rankings/ap/)",
+"asof_utc": "2025-09-28T22:00:00Z"
+},
+{
+"type": "weather",
+"label": "Covers NCAAF Weather",
+"url": "[https://www.covers.com/sport/ncaaf/weather](https://www.covers.com/sport/ncaaf/weather)",
+"asof_utc": "2025-10-03T22:20:00Z"
+},
+{
+"type": "stadium",
+"label": "Bryant–Denny capacity",
+"url": "[https://en.wikipedia.org/wiki/Bryant%E2%80%93Denny_Stadium](https://en.wikipedia.org/wiki/Bryant%E2%80%93Denny_Stadium)",
+"asof_utc": "2025-10-03T22:10:00Z"
+},
+{
+"type": "team_stats",
+"label": "TeamRankings & cfbstats",
+"url": "[https://cfbstats.com/2025/team/736/index.html](https://cfbstats.com/2025/team/736/index.html)",
+"asof_utc": "2025-10-03T22:50:00Z"
+},
+{
+"type": "series_history",
+"label": "Winsipedia series page",
+"url": "[https://www.winsipedia.com/alabama/vs/vanderbilt](https://www.winsipedia.com/alabama/vs/vanderbilt)",
+"asof_utc": "2025-10-03T22:55:00Z"
+}
+]
+}

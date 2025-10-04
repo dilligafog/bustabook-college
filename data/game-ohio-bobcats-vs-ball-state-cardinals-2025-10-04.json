@@ -1,0 +1,235 @@
+{
+"game_meta": {
+"game_id": "03d3f28e904cf8e05320709c03cbf06e",
+"title": "Ohio Bobcats at Ball State Cardinals",
+"datetime_local": "2025-10-04T12:00:00-04:00",
+"venue": "Scheumann Stadium, Muncie, IN",
+"tv": ["CBS Sports Network"],
+"attendance_capacity": 22500,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 88,
+"wind_mph": 5,
+"notes": "Unseasonably hot noon kickoff; fast track, mild wind"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": null
+},
+"hype_factors": [
+"MAC opener for Ball State",
+"Defending MAC champ on road",
+"Post-bye home dog",
+"Early TV window heat"
+],
+"last_updated_utc": "2025-10-03T23:10:00Z"
+},
+"teams": {
+"home": {
+"name": "Ball State Cardinals",
+"short": "BALLST",
+"mascot": "Cardinals",
+"conference": "MAC",
+"record": "1-3 (0-0)",
+"recent_form": "Off bye; offense showed life vs UConn",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "-0.75",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Conference opener at home",
+"Big stage vs MAC favorite"
+]
+},
+"away": {
+"name": "Ohio Bobcats",
+"short": "OHIO",
+"mascot": "Bobcats",
+"conference": "MAC",
+"record": "3-2 (1-0)",
+"recent_form": "Beat Bowling Green 35-20 in MAC opener",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "+0.2",
+"ats_record": "4-1 ATS this season"
+},
+"motivation_factors": [
+"Defending MAC champs",
+"Road test to stay atop MAC"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "HOME leads 15-13",
+"last_meeting": {
+"date": "2024-11-29",
+"score": "OHIO 42, BALLST 21",
+"note": "Ohio clinched share of MAC regular season"
+},
+"recent_trend": "OHIO won 5 straight in series"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 470,
+"implied_prob": 0.175,
+"opening_line": null,
+"line_movement": "n/a",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+"away": {
+"price": -650,
+"implied_prob": 0.867,
+"opening_line": null,
+"line_movement": "n/a",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:10:00Z"
+}
+},
+"spread": {
+"line": -14.5,
+"favorite": "AWAY",
+"price_home": -112,
+"price_away": -108,
+"opening_line": -16.5,
+"line_movement": "moved toward home by 2 points",
+"public_betting": {
+"home_percent": 36,
+"away_percent": 64,
+"note": "Public on Ohio -14.5"
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+"total": {
+"line": 51.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 50.5,
+"line_movement": "moved up 1.0",
+"public_betting": {
+"over_percent": 57,
+"under_percent": 43
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+"consensus_note": "Market clustered at OHIO -14.5 / 51–51.5; spread ticked toward home, hinting sharper interest on BALLST"
+},
+"betting_angles": {
+"key_trends": [
+"BALLST 3-1 ATS this season",
+"OHIO 4-1 ATS this season",
+"UNDER 2-0 in last two meetings at Muncie"
+],
+"situational_spots": [
+"BALLST off a bye as double-digit home dog",
+"Heat and noon start tend to slow pace"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "BALLST +470",
+"confidence": 0.55,
+"rationale": "Contrarian sprinkle with public heavy on OHIO; bye + home + line drift toward Cards",
+"value_assessment": "Small plus-money value"
+},
+"spread": {
+"pick": "BALLST +14.5",
+"confidence": 0.66,
+"rationale": "Line moved toward BALLST while majority on OHIO; home dog off bye in heat",
+"value_assessment": "Good value at +14.5 or better"
+},
+"total": {
+"pick": "UNDER 51.5",
+"confidence": 0.62,
+"rationale": "Ball State run-heavy, heat/early kickoff, and recent Muncie unders",
+"value_assessment": "Slight value after tick up"
+},
+"best_bet": {
+"pick": "BALLST +14.5",
+"confidence": 0.66,
+"rationale": "Public favored side is laying two TDs after a move toward the dog"
+}
+},
+"notables": {
+"injuries_news": [
+"No major new injuries listed for either team as of Oct. 3",
+"Ohio RB Sieh Bangura active and producing in 2025"
+],
+"matchup_notes": [
+"Ohio ground game vs Ball State run defense key to pace",
+"Cards’ QB run game + bye could shorten game"
+],
+"coaching_notes": [
+"Ohio first-year HC Brian Smith (promoted Dec 2024)",
+"Ball State under first-year HC Mike Uremovich"
+]
+},
+"excitement_factors": {
+"playoff_implications": "None nationally; MAC race positioning",
+"conference_impact": "Early MAC standings leverage game",
+"narrative": "Heated noon MACtion: defending champs vs rebuilding home dog off bye",
+"tv_storylines": [
+"Can Ohio avoid a trap spot on the road?",
+"Ball State’s fresh legs vs heat at home"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings Event Page",
+"url": "[https://sportsbook.draftkings.com/event/ohio-%40-ball-state/32843071](https://sportsbook.draftkings.com/event/ohio-%40-ball-state/32843071)",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus",
+"url": "[https://contests.covers.com/consensus/matchupconsensusdetails/d30ee159-74f3-49dc-abf9-b2c201482aa9](https://contests.covers.com/consensus/matchupconsensusdetails/d30ee159-74f3-49dc-abf9-b2c201482aa9)",
+"asof_utc": "2025-10-03T23:05:00Z"
+},
+{
+"type": "news",
+"label": "Ohio Athletics Game Preview (TV/Time)",
+"url": "[https://www.ohiobobcats.com/news/2025/10/1/ohio-football-set-to-face-off-against-ball-state-on-saturday.aspx](https://www.ohiobobcats.com/news/2025/10/1/ohio-football-set-to-face-off-against-ball-state-on-saturday.aspx)",
+"asof_utc": "2025-10-03T23:04:00Z"
+},
+{
+"type": "odds",
+"label": "FOX Sports Match Preview",
+"url": "[https://www.foxsports.com/articles/college-football/ohio-vs-ball-state-prediction-odds-picks-october-4-2025](https://www.foxsports.com/articles/college-football/ohio-vs-ball-state-prediction-odds-picks-october-4-2025)",
+"asof_utc": "2025-10-03T23:04:00Z"
+},
+{
+"type": "odds",
+"label": "Rotowire (DK lines & prices)",
+"url": "[https://www.rotowire.com/betting/college-football/game/ball-state-vs-ohio-odds-2025-10-04-2871532](https://www.rotowire.com/betting/college-football/game/ball-state-vs-ohio-odds-2025-10-04-2871532)",
+"asof_utc": "2025-10-03T23:06:00Z"
+},
+{
+"type": "history",
+"label": "Winsipedia Series History",
+"url": "[https://winsipedia.com/games/ball-state/vs/ohio](https://winsipedia.com/games/ball-state/vs/ohio)",
+"asof_utc": "2025-10-03T23:03:00Z"
+},
+{
+"type": "team_stats",
+"label": "cfbstats Turnover Margin (Both Teams)",
+"url": "[https://cfbstats.com/2025/team/47/turnovermargin/split.html](https://cfbstats.com/2025/team/47/turnovermargin/split.html)",
+"asof_utc": "2025-10-03T23:02:00Z"
+},
+{
+"type": "weather",
+"label": "Forecast – Muncie, IN",
+"url": "https://",
+"asof_utc": "2025-10-03T23:00:00Z"
+}
+]
+}

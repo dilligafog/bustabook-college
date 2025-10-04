@@ -1,0 +1,259 @@
+{
+"game_meta": {
+"game_id": "e3f1c7a8b94a532b18987dfd0c13998e",
+"title": "Miami Hurricanes at Florida State Seminoles",
+"datetime_local": "2025-10-04T19:30:00-04:00",
+"venue": "Bobby Bowden Field at Doak S. Campbell Stadium, Tallahassee, FL",
+"tv": ["ABC"],
+"attendance_capacity": 67277,
+"weather": {
+"conditions": "Partly cloudy",
+"temp_f": 81,
+"wind_mph": 8,
+"notes": "Warm, light NE wind; minimal weather impact expected"
+},
+"rankings": {
+"home_ap": 18,
+"away_ap": 3,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-10-03T15:35:00Z"
+},
+"hype_factors": [
+"Primetime rivalry on ABC",
+"Both ranked; first top-20 meeting since 2013",
+"Miami's first road game",
+"FSU revenge after 36-14 loss last year"
+],
+"last_updated_utc": "2025-10-03T23:20:00Z"
+},
+"teams": {
+"home": {
+"name": "Florida State Seminoles",
+"short": "FSU",
+"mascot": "Seminoles",
+"conference": "ACC",
+"record": "3-1 (0-1)",
+"recent_form": "Off 2OT loss; elite offense at home",
+"key_stats": {
+"offense_rank": 24,
+"defense_rank": 28,
+"turnover_margin": "0.00",
+"ats_record": "2-1 ATS this season"
+},
+"motivation_factors": [
+"Bounce-back after UVA loss",
+"Home dog in rivalry"
+]
+},
+"away": {
+"name": "Miami Hurricanes",
+"short": "MIA",
+"mascot": "Hurricanes",
+"conference": "ACC",
+"record": "4-0 (0-0)",
+"recent_form": "4-0 start; defense rolling",
+"key_stats": {
+"offense_rank": 7,
+"defense_rank": 27,
+"turnover_margin": "+0.75",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Playoff push",
+"Road statement opportunity"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Miami leads 36-33",
+"last_meeting": {
+"date": "2024-10-26",
+"score": "Miami 36, Florida State 14",
+"note": "Miami controlled rivalry game"
+},
+"recent_trend": "Florida State won 3 of previous 4 before 2024"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 164,
+"implied_prob": 0.379,
+"opening_line": 159,
+"line_movement": "moved toward home",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T22:30:00Z"
+},
+"away": {
+"price": -198,
+"implied_prob": 0.664,
+"opening_line": -188,
+"line_movement": "moved toward away earlier; tightened late",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T22:30:00Z"
+}
+},
+"spread": {
+"line": -4.5,
+"favorite": "AWAY",
+"price_home": -108,
+"price_away": -112,
+"opening_line": -5.0,
+"line_movement": "moved toward home by 0.5",
+"public_betting": {
+"home_percent": 38,
+"away_percent": 62,
+"note": "Majority on Miami -4.5"
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T22:30:00Z"
+},
+"total": {
+"line": 53.5,
+"over_price": -112,
+"under_price": -108,
+"opening_line": 54.5,
+"line_movement": "moved down 1.0",
+"public_betting": {
+"over_percent": null,
+"under_percent": null
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T22:30:00Z"
+},
+"consensus_note": "Books clustered around MIA -4.5 / 53.5; spread ticked toward home, total edged down from 54.5"
+},
+"betting_angles": {
+"key_trends": [
+"UNDER is 12-2 in last 14 FSU vs Miami meetings",
+"Miami 3-1 ATS; Florida State 2-1 ATS this season",
+"FSU 3-0 at home in 2025"
+],
+"situational_spots": [
+"FSU home dog in rivalry after OT loss",
+"Miami first road game; potential adjustment"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "FSU +164",
+"confidence": 0.66,
+"rationale": "Home dog with explosive offense; market tilted to Miami",
+"value_assessment": "Plus-money value vs implied 37.9%"
+},
+"spread": {
+"pick": "FSU +4.5",
+"confidence": 0.69,
+"rationale": "Public on Miami; line nudged toward FSU; rivalry coin-flip profile",
+"value_assessment": "Solid value at +4.5"
+},
+"total": {
+"pick": "UNDER 53.5",
+"confidence": 0.58,
+"rationale": "Series trends to UNDER; slight weather humidity; market dipped from 54.5",
+"value_assessment": "Slight value after drop"
+},
+"best_bet": {
+"pick": "FSU +4.5",
+"confidence": 0.69,
+"rationale": "Home dog in primetime with public fading; key number support"
+}
+},
+"notables": {
+"injuries_news": [
+"Miami: DL Hayden Lowe, OL Demetrius Campbell, OL Ralph Scroggins, TE Jackson Carver, TE Dylan Reiman OUT; DL Daylen Russell, LB Bobby Washington Jr., OL Yerovi Valdes Alfonso, WR Chance Robinson QUESTIONABLE; RB Jordan Lyle and WR JoJo Trader available",
+"FSU: DL Deamontae Diggs, TE Chase Loftin OUT; DB Ashlynd Barker, LB Caleb LaVallee, RB Kam Davis QUESTIONABLE; QB Tommy Castellanos PROBABLE"
+],
+"matchup_notes": [
+"Miami SP+ offense #7 vs FSU defense #28",
+"FSU’s offense ranks among nation’s best; Miami top-tier 3rd-down defense"
+],
+"coaching_notes": [
+"Cristobal’s Canes unbeaten and physical up front",
+"Norvell in bounce-back spot; home crowd edge"
+]
+},
+"excitement_factors": {
+"playoff_implications": "Miami stays in top-4 chase; FSU can re-enter mix with upset",
+"conference_impact": "Early ACC pecking order game with tiebreaker stakes",
+"narrative": "Rivalry redux: resurgent ‘Noles vs. unbeaten Canes",
+"tv_storylines": [
+"Miami’s first road test",
+"FSU redemption arc after UVA loss"
+]
+},
+"sources": [
+{
+"type": "schedule_tv",
+"label": "Wikipedia (2025 Miami–FSU game details)",
+"url": "[https://en.wikipedia.org/wiki/2025_Miami_Hurricanes_football_team](https://en.wikipedia.org/wiki/2025_Miami_Hurricanes_football_team)",
+"asof_utc": "2025-10-03T22:10:00Z"
+},
+{
+"type": "rankings",
+"label": "CBS Sports AP Top 25",
+"url": "[https://www.cbssports.com/college-football/rankings/ap-top25/](https://www.cbssports.com/college-football/rankings/ap-top25/)",
+"asof_utc": "2025-10-03T15:35:00Z"
+},
+{
+"type": "odds",
+"label": "DraftKings via VSiN Betting Preview",
+"url": "[https://vsin.com/college-football/miami-vs-florida-state-betting-preview-analysis-odds-predictions/](https://vsin.com/college-football/miami-vs-florida-state-betting-preview-analysis-odds-predictions/)",
+"asof_utc": "2025-10-03T22:30:00Z"
+},
+{
+"type": "odds",
+"label": "DraftKings Team Pages (current lines)",
+"url": "[https://sportsbook.draftkings.com/teams/football/college-football/miami-fl-hurricanes](https://sportsbook.draftkings.com/teams/football/college-football/miami-fl-hurricanes)",
+"asof_utc": "2025-10-03T22:05:00Z"
+},
+{
+"type": "public_betting",
+"label": "Sports Illustrated – Spread Consensus",
+"url": "[https://www.si.com/fannation/college/cfb-hq/betting/miami-vs-florida-state-prediction-odds](https://www.si.com/fannation/college/cfb-hq/betting/miami-vs-florida-state-prediction-odds)",
+"asof_utc": "2025-10-03T21:45:00Z"
+},
+{
+"type": "history",
+"label": "ESPN Game Recap (2024 MIA 36–14 FSU)",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401635596/florida-st-miami](https://www.espn.com/college-football/game/_/gameId/401635596/florida-st-miami)",
+"asof_utc": "2025-10-03T22:00:00Z"
+},
+{
+"type": "injuries",
+"label": "CanesWarning Injury Report (ACC availability)",
+"url": "[https://caneswarning.com/nine-miami-players-on-initial-injury-report-versus-florida-state](https://caneswarning.com/nine-miami-players-on-initial-injury-report-versus-florida-state)",
+"asof_utc": "2025-10-03T22:40:00Z"
+},
+{
+"type": "injuries",
+"label": "Yahoo Sports – FSU vs Miami Injury Report",
+"url": "[https://sports.yahoo.com/article/fsu-vs-miami-injury-report-021853478.html](https://sports.yahoo.com/article/fsu-vs-miami-injury-report-021853478.html)",
+"asof_utc": "2025-10-03T22:45:00Z"
+},
+{
+"type": "advanced_stats",
+"label": "StateOfTheU Film Forecast (SP+ ranks, 3rd-down data)",
+"url": "[https://www.stateoftheu.com/football-news/78636/film-forecast-miami-hurricanes-at-florida-state-seminoles-10-4](https://www.stateoftheu.com/football-news/78636/film-forecast-miami-hurricanes-at-florida-state-seminoles-10-4)",
+"asof_utc": "2025-10-03T22:20:00Z"
+},
+{
+"type": "weather",
+"label": "Weather.com Hourly Tallahassee",
+"url": "[https://weather.com/weather/hourbyhour/l/Tallahassee%2BFL](https://weather.com/weather/hourbyhour/l/Tallahassee%2BFL)",
+"asof_utc": "2025-10-03T22:50:00Z"
+},
+{
+"type": "venue",
+"label": "Doak Campbell Stadium Capacity (Wikipedia)",
+"url": "[https://en.wikipedia.org/wiki/Doak_Campbell_Stadium](https://en.wikipedia.org/wiki/Doak_Campbell_Stadium)",
+"asof_utc": "2025-10-03T22:12:00Z"
+},
+{
+"type": "trends",
+"label": "OddsShark Trends",
+"url": "[https://www.oddsshark.com/ncaaf/miami-fl-florida-state-odds-october-4-2025-2443289](https://www.oddsshark.com/ncaaf/miami-fl-florida-state-odds-october-4-2025-2443289)",
+"asof_utc": "2025-10-03T22:55:00Z"
+}
+]
+}

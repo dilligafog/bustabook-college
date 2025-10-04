@@ -1,0 +1,235 @@
+{
+"game_meta": {
+"game_id": "e90085ebaf4a599c531e3e0bd5a6c1b1",
+"title": "Nevada Wolf Pack at Fresno State Bulldogs",
+"datetime_local": "2025-10-04T22:30:00-04:00",
+"venue": "Valley Children’s Stadium (Bulldog Stadium), Fresno, CA",
+"tv": ["CBSSN"],
+"attendance_capacity": 40727,
+"weather": {
+"conditions": "Clear",
+"temp_f": 71,
+"wind_mph": 4,
+"notes": "Dry, light wind; minimal impact."
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-10-03T23:35:00Z"
+},
+"hype_factors": [
+"Final MW meeting before FSU moves to Pac-12",
+"Nevada on 11-game MW losing streak",
+"Night game on CBSSN",
+"Regional rivalry with recent close finishes"
+],
+"last_updated_utc": "2025-10-03T23:35:00Z"
+},
+"teams": {
+"home": {
+"name": "Fresno State Bulldogs",
+"short": "FRES",
+"mascot": "Bulldogs",
+"conference": "Mountain West",
+"record": "4-1 (1-0)",
+"recent_form": "Won 4 of last 5; allowing 20.0 PPG",
+"key_stats": {
+"offense_rank": 61,
+"defense_rank": 51,
+"turnover_margin": "-0.4",
+"ats_record": "3-2 ATS"
+},
+"motivation_factors": [
+"Push toward bowl & MW race",
+"Home crowd in primetime"
+]
+},
+"away": {
+"name": "Nevada Wolf Pack",
+"short": "NEV",
+"mascot": "Wolf Pack",
+"conference": "Mountain West",
+"record": "1-3 (0-0)",
+"recent_form": "Lost 3 of last 4; scoring 15.0 PPG",
+"key_stats": {
+"offense_rank": 124,
+"defense_rank": 95,
+"turnover_margin": "-1.3",
+"ats_record": "1-3 ATS"
+},
+"motivation_factors": [
+"Spoiler role vs rival",
+"Snap MW losing streak"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Fresno State leads 33-22-1",
+"last_meeting": {
+"date": "2024-10-18",
+"score": "Fresno State 24, Nevada 21",
+"note": "Late rally in Reno"
+},
+"recent_trend": "Fresno State has won 4 straight meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -543,
+"implied_prob": 0.844,
+"opening_line": -520,
+"line_movement": "slight move toward home",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T19:45:00Z"
+},
+"away": {
+"price": 400,
+"implied_prob": 0.200,
+"opening_line": 400,
+"line_movement": "steady",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T19:45:00Z"
+}
+},
+"spread": {
+"line": -13.5,
+"favorite": "HOME",
+"price_home": -111,
+"price_away": -109,
+"opening_line": -15.5,
+"line_movement": "moved toward away by 2.0 points",
+"public_betting": {
+"home_percent": 61,
+"away_percent": 39,
+"note": "Public leaning favorite"
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T19:45:00Z"
+},
+"total": {
+"line": 45.5,
+"over_price": -112,
+"under_price": -108,
+"opening_line": 47.5,
+"line_movement": "moved down 2.0 points",
+"public_betting": {
+"over_percent": null,
+"under_percent": null
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T19:45:00Z"
+},
+"consensus_note": "Numbers align across major books; moves point to dog and under."
+},
+"betting_angles": {
+"key_trends": [
+"Fresno State is 3-2 ATS this season",
+"Nevada is 1-3 ATS this season",
+"Spread and total both moved against Fresno State/over"
+],
+"situational_spots": [
+"Both teams off rest; Fresno off road win",
+"Nevada’s first MW game; desperate underdog angle"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "NEV +400",
+"confidence": 0.55,
+"rationale": "Contrarian sprinkle with public on favorite; spread/total drift suggests lower-scoring variance",
+"value_assessment": "Small plus-money value"
+},
+"spread": {
+"pick": "NEV +13.5",
+"confidence": 0.64,
+"rationale": "Two-point move toward dog with public on home favorite; Nevada defense can keep it inside two TDs",
+"value_assessment": "Good value at >+13"
+},
+"total": {
+"pick": "UNDER 45.5",
+"confidence": 0.62,
+"rationale": "Both offenses modest; market move down and mild weather support lower total",
+"value_assessment": "Slight value despite move"
+},
+"best_bet": {
+"pick": "NEV +13.5",
+"confidence": 0.64,
+"rationale": "Market and matchup support dog keeping it close"
+}
+},
+"notables": {
+"injuries_news": [
+"Fresno State LT Brayden Walton out vs Nevada",
+"Nevada WR Jordan Brown out; WR Marquis Ashley out; DE Chris Smalley questionable"
+],
+"matchup_notes": [
+"Fresno defense allowing 192 yds/g at home; Nevada offense ~315 yds/g",
+"Fresno’s PPG boosted by non-offensive scores; Nevada offense turnover-prone"
+],
+"coaching_notes": [
+"Fresno’s Matt Entz in first season building identity",
+"Nevada’s Jeff Choate seeking first MW win since taking over"
+]
+},
+"excitement_factors": {
+"playoff_implications": "None; G5 bowl positioning",
+"conference_impact": "Early MW positioning; Fresno can stay atop standings",
+"narrative": "Desperate underdog vs steady favorite; last MW clash pre-realignment",
+"tv_storylines": [
+"E.J. Warner’s progress under new staff",
+"Can Chubba Purdy limit turnovers on the road?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings via FOX Sports odds page",
+"url": "[https://www.foxsports.com/articles/college-football/fresno-state-vs-nevada-prediction-odds-picks-october-4-2025](https://www.foxsports.com/articles/college-football/fresno-state-vs-nevada-prediction-odds-picks-october-4-2025)",
+"asof_utc": "2025-10-03T19:45:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Action Network game page (public splits, openers, weather)",
+"url": "[https://www.actionnetwork.com/ncaaf-game/nevada-wolf-pack-fresno-state-bulldogs/254725](https://www.actionnetwork.com/ncaaf-game/nevada-wolf-pack-fresno-state-bulldogs/254725)",
+"asof_utc": "2025-10-03T19:50:00Z"
+},
+{
+"type": "news",
+"label": "ESPN College Football (records, last meeting)",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401643735/fresno-st-nevada](https://www.espn.com/college-football/game/_/gameId/401643735/fresno-st-nevada)",
+"asof_utc": "2025-10-03T19:40:00Z"
+},
+{
+"type": "team_stats",
+"label": "cfbstats.com (Fresno team & defensive splits, TO margin)",
+"url": "[https://cfbstats.com/2025/team/96/index.html](https://cfbstats.com/2025/team/96/index.html)",
+"asof_utc": "2025-10-03T19:55:00Z"
+},
+{
+"type": "team_stats",
+"label": "TeamRankings (PPG ranks, TO margin, ATS/OU records)",
+"url": "[https://www.teamrankings.com/college-football/team/fresno-state-bulldogs/stats](https://www.teamrankings.com/college-football/team/fresno-state-bulldogs/stats)",
+"asof_utc": "2025-10-03T19:55:00Z"
+},
+{
+"type": "preview",
+"label": "MWCConnection preview",
+"url": "[https://www.mwcconnection.com/nevada-wolfpack-football/73614/nevada-fresno-state-week-6-time-to-break-a-horrid-stretch-vs-conference-foes](https://www.mwcconnection.com/nevada-wolfpack-football/73614/nevada-fresno-state-week-6-time-to-break-a-horrid-stretch-vs-conference-foes)",
+"asof_utc": "2025-10-03T19:52:00Z"
+},
+{
+"type": "local_report",
+"label": "Nevada Sports Net preview",
+"url": "[https://nevadasportsnet.com/newsletter-daily/nevada-football-at-fresno-state-three-keys-to-victory-and-a-prediction](https://nevadasportsnet.com/newsletter-daily/nevada-football-at-fresno-state-three-keys-to-victory-and-a-prediction)",
+"asof_utc": "2025-10-03T19:53:00Z"
+},
+{
+"type": "venue",
+"label": "Fresno State Athletics (stadium capacity)",
+"url": "[https://gobulldogs.com/sports/football/roster/stadium](https://gobulldogs.com/sports/football/roster/stadium)",
+"asof_utc": "2025-10-03T19:35:00Z"
+}
+]
+}

@@ -1,0 +1,235 @@
+{
+"game_meta": {
+"game_id": "48dea4f4b99b6976d2c519dc48b52ed4",
+"title": "Central Michigan Chippewas at Akron Zips",
+"datetime_local": "2025-10-04T15:30:00-04:00",
+"venue": "InfoCision Stadium–Summa Field, Akron, OH",
+"tv": ["ESPN+"],
+"attendance_capacity": 30000,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 83,
+"wind_mph": 7,
+"notes": "Warm fall day; light winds—minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-29T16:00:00Z"
+},
+"hype_factors": [
+"First MAC road test for CMU",
+"Akron trying to rebound after blowout",
+"New CMU coach vs Moorhead under pressure",
+"Streaming spotlight game for MAC pecking order"
+],
+"last_updated_utc": "2025-10-03T23:25:00Z"
+},
+"teams": {
+"home": {
+"name": "Akron Zips",
+"short": "AKRON",
+"mascot": "Zips",
+"conference": "MAC",
+"record": "1-4 (0-1)",
+"recent_form": "Lost 3 of last 4; offense struggled vs FBS",
+"key_stats": {
+"offense_rank": 132,
+"defense_rank": 118,
+"turnover_margin": null,
+"ats_record": "2-3 ATS this season"
+},
+"motivation_factors": [
+"MAC home opener",
+"Spoiler role vs favored CMU"
+]
+},
+"away": {
+"name": "Central Michigan Chippewas",
+"short": "CMU",
+"mascot": "Chippewas",
+"conference": "MAC",
+"record": "3-2 (1-0)",
+"recent_form": "2-game win streak; 305 rush yards last week",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": null,
+"ats_record": "3-2 ATS this season"
+},
+"motivation_factors": [
+"Building momentum under new coach",
+"Division positioning early in MAC play"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "CMU leads 19-10-1",
+"last_meeting": {
+"date": "2023-10-14",
+"score": "CMU 17, AKRON 10",
+"note": "CMU has won 3 straight in series"
+},
+"recent_trend": "CMU won 3 of last 3 meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 240,
+"implied_prob": 0.294,
+"opening_line": 200,
+"line_movement": "moved toward CMU",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+"away": {
+"price": -298,
+"implied_prob": 0.749,
+"opening_line": -250,
+"line_movement": "moved toward favorite",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:15:00Z"
+}
+},
+"spread": {
+"line": -7.5,
+"favorite": "AWAY",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -6.5,
+"line_movement": "moved toward CMU by 1.0",
+"public_betting": {
+"home_percent": 31,
+"away_percent": 69,
+"note": "Public heavy on favorite CMU"
+},
+"book": "Consensus",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+"total": {
+"line": 46.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 45.5,
+"line_movement": "moved up 1.0",
+"public_betting": {
+"over_percent": 59,
+"under_percent": 41
+},
+"book": "Consensus",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+"consensus_note": "Market split: spread -7.5 (some -8/-8.5); total 45.5–46.5; movement favors CMU and slight Over"
+},
+"betting_angles": {
+"key_trends": [
+"CMU 3-2 ATS; Akron 2-3 ATS",
+"Akron offense <10 PPG vs FBS losses",
+"CMU run rate among highest in FBS—tempo suppresses plays"
+],
+"situational_spots": [
+"Home dog with public against them",
+"CMU off physical, run-heavy win—possible letdown on road"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "AKRON +240",
+"confidence": 0.55,
+"rationale": "Contrarian home dog; public heavy on CMU; low total enhances variance",
+"value_assessment": "Small plus-money value"
+},
+"spread": {
+"pick": "AKRON +7.5",
+"confidence": 0.62,
+"rationale": "Home dog in MAC spot with public on road favorite; CMU run style keeps games tight",
+"value_assessment": "Solid value at +7.5 or better"
+},
+"total": {
+"pick": "UNDER 46.5",
+"confidence": 0.64,
+"rationale": "CMU run-heavy, Akron offense struggling vs FBS; warm but light-wind day",
+"value_assessment": "Slight edge after total ticked up"
+},
+"best_bet": {
+"pick": "UNDER 46.5",
+"confidence": 0.64,
+"rationale": "Matchup and pace lean under; market drifted up creating value"
+}
+},
+"notables": {
+"injuries_news": [
+"Akron QB Ben Finley status uncertain for Week 6",
+"CMU enters with no major new injuries reported in Friday preview"
+],
+"matchup_notes": [
+"CMU rush offense vs Akron run defense is key",
+"Akron passing efficiency has lagged vs FBS; CMU defense trending up"
+],
+"coaching_notes": [
+"CMU’s Matt Drinkall in Year 1 leaning on ground game",
+"Akron’s Joe Moorhead seeking stability amid pressure"
+]
+},
+"excitement_factors": {
+"playoff_implications": "None—bowl and MAC positioning stakes",
+"conference_impact": "Early MAC standings tiebreaker implications",
+"narrative": "Desperate home dog vs surging, run-first favorite",
+"tv_storylines": [
+"New-look CMU under Drinkall’s ground attack",
+"Can Akron’s offense find life at home?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings Event Page",
+"url": "[https://sportsbook.draftkings.com/event/central-michigan-%40-akron/32843107](https://sportsbook.draftkings.com/event/central-michigan-%40-akron/32843107)",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+{
+"type": "odds",
+"label": "BetMGM Preview",
+"url": "[https://sports.betmgm.com/en/blog/c-michigan-akron-prediction-odds-player-prop-bets-picks-ncaaf-week-6-jaa/](https://sports.betmgm.com/en/blog/c-michigan-akron-prediction-odds-player-prop-bets-picks-ncaaf-week-6-jaa/)",
+"asof_utc": "2025-10-03T19:00:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus",
+"url": "[https://www.covers.com/sport/football/ncaaf/teams/main/central-michigan-chippewas](https://www.covers.com/sport/football/ncaaf/teams/main/central-michigan-chippewas)",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+{
+"type": "news",
+"label": "CMU Athletics Game Preview",
+"url": "[https://cmuchippewas.com/news/2025/10/3/football-preview-chippewas-head-to-akron-for-first-mac-road-game](https://cmuchippewas.com/news/2025/10/3/football-preview-chippewas-head-to-akron-for-first-mac-road-game)",
+"asof_utc": "2025-10-03T12:00:00Z"
+},
+{
+"type": "news",
+"label": "Hustle Belt Week 6 Preview",
+"url": "[https://www.hustlebelt.com/mac-football/42570/central-michigan-chippewas-akron-zips-football-game-preview-week-6-2025](https://www.hustlebelt.com/mac-football/42570/central-michigan-chippewas-akron-zips-football-game-preview-week-6-2025)",
+"asof_utc": "2025-10-03T20:00:00Z"
+},
+{
+"type": "schedule",
+"label": "ESPN Team Schedules",
+"url": "[https://www.espn.com/college-football/team/schedule/_/id/2006/akron-zips](https://www.espn.com/college-football/team/schedule/_/id/2006/akron-zips)",
+"asof_utc": "2025-10-03T23:05:00Z"
+},
+{
+"type": "series_history",
+"label": "Winsipedia Series",
+"url": "[https://www.winsipedia.com/central-michigan/vs/akron](https://www.winsipedia.com/central-michigan/vs/akron)",
+"asof_utc": "2025-10-03T23:05:00Z"
+},
+{
+"type": "weather",
+"label": "NWS Akron Forecast",
+"url": "[https://forecast.weather.gov/MapClick.php?lat=41.08144&lon=-81.51901](https://forecast.weather.gov/MapClick.php?lat=41.08144&lon=-81.51901)",
+"asof_utc": "2025-10-03T23:20:00Z"
+}
+]
+}

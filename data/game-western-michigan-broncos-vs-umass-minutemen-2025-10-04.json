@@ -1,0 +1,244 @@
+{
+"game_meta": {
+"game_id": "3c1a2eb27aec91630f0cda00f959ee61",
+"title": "Western Michigan Broncos at UMass Minutemen",
+"datetime_local": "2025-10-04T14:30:00-04:00",
+"venue": "Warren P. McGuirk Alumni Stadium, Amherst, MA",
+"tv": ["ESPN+"],
+"attendance_capacity": 17000,
+"weather": {
+"conditions": "Mostly sunny",
+"temp_f": 82,
+"wind_mph": 7,
+"notes": "Warm, light wind; minimal weather edge"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-10-03T23:30:00Z"
+},
+"hype_factors": [
+"UMass returns to MAC play",
+"Homecoming in Amherst",
+"QB decision for UMass",
+"Big spread moved toward WMU"
+],
+"last_updated_utc": "2025-10-03T23:30:00Z"
+},
+"teams": {
+"home": {
+"name": "Massachusetts Minutemen",
+"short": "UMASS",
+"mascot": "Minutemen",
+"conference": "MAC",
+"record": "0-4 (0-0)",
+"recent_form": "Lost 4 straight, scoring 12.3 PPG",
+"key_stats": {
+"offense_rank": 131,
+"defense_rank": 136,
+"turnover_margin": "-0.2",
+"ats_record": "1-3 ATS"
+},
+"motivation_factors": [
+"First MAC game since 2015",
+"Homecoming, first win hunt"
+]
+},
+"away": {
+"name": "Western Michigan Broncos",
+"short": "WMU",
+"mascot": "Broncos",
+"conference": "MAC",
+"record": "2-3 (1-0)",
+"recent_form": "Won 2 of last 3; 18 sacks in 5 games",
+"key_stats": {
+"offense_rank": 109,
+"defense_rank": 92,
+"turnover_margin": "+0.4",
+"ats_record": "4-1 ATS"
+},
+"motivation_factors": [
+"First MAC road test",
+"Chance to start 2-0 in MAC"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "WMU leads 2-0",
+"last_meeting": {
+"date": "2013-10-26",
+"score": "UMASS 30, WMU 31",
+"note": "Played at Gillette Stadium; first trip to McGuirk now"
+},
+"recent_trend": "WMU won both prior meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 380,
+"implied_prob": 0.208,
+"opening_line": 320,
+"line_movement": "moved toward away",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"away": {
+"price": -500,
+"implied_prob": 0.833,
+"opening_line": -410,
+"line_movement": "moved toward away",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:20:00Z"
+}
+},
+"spread": {
+"line": -12.5,
+"favorite": "AWAY",
+"price_home": -105,
+"price_away": -115,
+"opening_line": -10.0,
+"line_movement": "moved toward away by 2.5 points",
+"public_betting": {
+"home_percent": 26,
+"away_percent": 74,
+"note": "Public heavy on Broncos spread"
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"total": {
+"line": 45.5,
+"over_price": -112,
+"under_price": -108,
+"opening_line": 47.5,
+"line_movement": "moved down 2.0 points",
+"public_betting": {
+"over_percent": 63,
+"under_percent": 37
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"consensus_note": "Market pushed WMU and nudged total down; consensus near WMU -12.5/-13.5 and 45.5-46"
+},
+"betting_angles": {
+"key_trends": [
+"WMU 4-1 ATS this season",
+"WMU games 3 of last 4 UNDER",
+"UMASS 0-2 ATS at home in 2025"
+],
+"situational_spots": [
+"Public lopsided on WMU; fade spot on UMASS",
+"UMASS DBs returning; QB uncertainty could slow pace"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "UMASS +380",
+"confidence": 0.55,
+"rationale": "Contrarian sprinkle vs heavy public WMU; homecoming boost and returning DBs",
+"value_assessment": "Small plus-money value; high variance"
+},
+"spread": {
+"pick": "UMASS +13.5",
+"confidence": 0.60,
+"rationale": "Market inflated toward WMU; take two TDs at home with public stacked on favorite",
+"value_assessment": "Solid value if it hits +14"
+},
+"total": {
+"pick": "UNDER 45.5",
+"confidence": 0.66,
+"rationale": "UMASS offense ranks bottom-tier; WMU run-heavy + pass-rush vs shaky UMASS OL -> clock, sacks, drives stall",
+"value_assessment": "Best edge with market drifting down"
+},
+"best_bet": {
+"pick": "UNDER 45.5",
+"confidence": 0.66,
+"rationale": "Strongest alignment of matchup + market movement"
+}
+},
+"notables": {
+"injuries_news": [
+"UMASS WR T.Y. Harding out for season",
+"UMASS QB Brandon Rose questionable; AJ Hairston started last week",
+"WMU RB Jalen Buckley day-to-day",
+"WMU TE Nathan Sines questionable",
+"WMU OG J. Schleicher out for season"
+],
+"matchup_notes": [
+"WMU 59% run rate vs UMASS front allowing high stuff rate",
+"WMU pass rush (18 sacks) vs UMASS pass pro woes points to negative plays"
+],
+"coaching_notes": [
+"UMASS HC Joe Harasymiak non-committal at QB",
+"WMU DC’s unit generating steady Havoc; pressure is path to cover"
+]
+},
+"excitement_factors": {
+"playoff_implications": "None",
+"conference_impact": "Early MAC positioning; WMU aiming 2-0 start",
+"narrative": "Public darling road favorite vs homecoming dog with QB mystery",
+"tv_storylines": [
+"UMass back in the MAC",
+"Can WMU’s pass rush travel?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings via RotoWire",
+"url": "[https://www.rotowire.com/betting/college-football/game/massachusetts-vs-western-michigan-odds-2025-10-04-2871534?book=draftkings](https://www.rotowire.com/betting/college-football/game/massachusetts-vs-western-michigan-odds-2025-10-04-2871534?book=draftkings)",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+{
+"type": "betting_trends",
+"label": "VegasInsider (public & line history)",
+"url": "[https://www.vegasinsider.com/college-football/matchups/umass-vs-western-michigan/](https://www.vegasinsider.com/college-football/matchups/umass-vs-western-michigan/)",
+"asof_utc": "2025-10-03T23:25:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Game Page",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401762832/w-michigan-umass](https://www.espn.com/college-football/game/_/gameId/401762832/w-michigan-umass)",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+{
+"type": "team_notes",
+"label": "UMass Athletics Game Notes",
+"url": "[https://umassathletics.com/news/2025/9/29/massachusetts-football-hosts-western-michigan-on-saturday-to-begin-mac-play](https://umassathletics.com/news/2025/9/29/massachusetts-football-hosts-western-michigan-on-saturday-to-begin-mac-play)",
+"asof_utc": "2025-10-03T23:05:00Z"
+},
+{
+"type": "team_notes",
+"label": "WMU Athletics Preview",
+"url": "[https://wmubroncos.com/news/2025/10/2/football-faces-first-mac-road-test-at-umass.aspx](https://wmubroncos.com/news/2025/10/2/football-faces-first-mac-road-test-at-umass.aspx)",
+"asof_utc": "2025-10-03T23:05:00Z"
+},
+{
+"type": "injuries",
+"label": "Minuteman Command Injury Update",
+"url": "[https://www.minutemancommand.com/p/umass-week-six-injury-update](https://www.minutemancommand.com/p/umass-week-six-injury-update)",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+{
+"type": "series_history",
+"label": "UMass Opponent History",
+"url": "[https://umassathletics.com/sports/football/opponent-history/western-michigan/134](https://umassathletics.com/sports/football/opponent-history/western-michigan/134)",
+"asof_utc": "2025-10-03T23:00:00Z"
+},
+{
+"type": "advanced_stats",
+"label": "Punt & Rally Matchup (SP+ & efficiency)",
+"url": "[https://www.puntandrally.com/matchup.php?game=401762832](https://www.puntandrally.com/matchup.php?game=401762832)",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+{
+"type": "weather",
+"label": "AccuWeather Amherst Forecast",
+"url": "[https://www.accuweather.com/en/us/amherst/01002/weather-forecast/338706](https://www.accuweather.com/en/us/amherst/01002/weather-forecast/338706)",
+"asof_utc": "2025-10-03T23:18:00Z"
+}
+]
+}

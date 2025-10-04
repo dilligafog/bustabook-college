@@ -1,0 +1,253 @@
+{
+"game_meta": {
+"game_id": "4579a2cd837e62498e3b3831d4475c96",
+"title": "Wake Forest Demon Deacons at Virginia Tech Hokies",
+"datetime_local": "2025-10-04T13:00:00-04:00",
+"venue": "Lane Stadium, Blacksburg, VA",
+"tv": ["CW"],
+"attendance_capacity": 65632,
+"weather": {
+"conditions": "Clear",
+"temp_f": 68,
+"wind_mph": 2,
+"notes": "Light winds, no rain expected; minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-10-03T23:45:00Z"
+},
+"hype_factors": [
+"ACC showdown in Lane Stadium",
+"VT momentum under interim coach",
+"Enter Sandman home edge",
+"Wake seeking payback after 2023 loss"
+],
+"last_updated_utc": "2025-10-03T23:45:00Z"
+},
+"teams": {
+"home": {
+"name": "Virginia Tech Hokies",
+"short": "VT",
+"mascot": "Hokies",
+"conference": "ACC",
+"record": "2-3 (1-0 ACC)",
+"recent_form": "2-game win streak; run game surging (229 rush yds at NC State)",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "-0.4",
+"ats_record": "1-4 ATS"
+},
+"motivation_factors": [
+"Home push to get back to .500",
+"Energy under interim staff"
+]
+},
+"away": {
+"name": "Wake Forest Demon Deacons",
+"short": "WAKE",
+"mascot": "Demon Deacons",
+"conference": "ACC",
+"record": "2-2 (0-2 ACC)",
+"recent_form": "Lost 2 straight by one score; offense volatile",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "-0.5",
+"ats_record": "2-2 ATS"
+},
+"motivation_factors": [
+"Desperate for first ACC win",
+"Spoiler role vs favored Hokies"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "VT leads 26-13-1",
+"last_meeting": {
+"date": "2023-10-14",
+"score": "VT 30, WAKE 13",
+"note": "Tech controlled at home"
+},
+"recent_trend": "VT won 2 of last 3 meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -250,
+"implied_prob": 0.714,
+"opening_line": -205,
+"line_movement": "moved toward home",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+"away": {
+"price": 205,
+"implied_prob": 0.328,
+"opening_line": 170,
+"line_movement": "moved against away",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:30:00Z"
+}
+},
+"spread": {
+"line": -6.5,
+"favorite": "VT",
+"price_home": -112,
+"price_away": -108,
+"opening_line": -5.5,
+"line_movement": "moved toward home by ~1 point",
+"public_betting": {
+"home_percent": null,
+"away_percent": null,
+"note": "Consensus leans VT across books"
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+"total": {
+"line": 51.5,
+"over_price": -102,
+"under_price": -118,
+"opening_line": 50.5,
+"line_movement": "ticked up ~1 point",
+"public_betting": {
+"over_percent": null,
+"under_percent": null
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+"consensus_note": "DK/FD/BetMGM align near VT -6 to -6.5, ~51 total; movement toward VT"
+},
+"betting_angles": {
+"key_trends": [
+"VT is 1-4 ATS this season",
+"UNDER 5 of WAKE's last 7 overall",
+"WAKE 2-2 ATS in 2025; two 1-score ACC losses"
+],
+"situational_spots": [
+"Potential VT letdown after road win",
+"WAKE as road dog with public likely on VT"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "WAKE +205",
+"confidence": 0.58,
+"rationale": "Contrarian shot vs inflated home tax; VT offense still inconsistent",
+"value_assessment": "Moderate value at +200 or better"
+},
+"spread": {
+"pick": "WAKE +6.5",
+"confidence": 0.64,
+"rationale": "Market moved to -6.5; WAKE in tight ACC games, VT 1-4 ATS",
+"value_assessment": "Good value above +6"
+},
+"total": {
+"pick": "UNDER 51.5",
+"confidence": 0.57,
+"rationale": "Slow pace + VT run lean; weather benign; WAKE recent UNDERS",
+"value_assessment": "Slight value at 51+"
+},
+"best_bet": {
+"pick": "WAKE +6.5",
+"confidence": 0.64,
+"rationale": "Numbers + trend favor a one-score game with public on VT"
+}
+},
+"notables": {
+"injuries_news": [
+"VT RB Terion Stewart emerging as lead back after 174-yd game vs NC State",
+"No major new injuries publicly reported as of Friday"
+],
+"matchup_notes": [
+"VT rush offense vs WAKE run fits; early down success key",
+"Lane Stadium energy, but early kickoff can mute effect"
+],
+"coaching_notes": [
+"VT under interim HC Philip Montgomery riding momentum",
+"Dave Clawson’s WAKE typically strong as underdog"
+]
+},
+"excitement_factors": {
+"playoff_implications": "None",
+"conference_impact": "Early ACC positioning; bowl path leverage game",
+"narrative": "Resurgent Hokies vs desperate Deacs",
+"tv_storylines": [
+"Enter Sandman intro in daylight slot",
+"Can WAKE close a tight ACC game?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings (via Hokie blog recap of DK board)",
+"url": "[https://fightinggobbler.com/full-guide-to-virginia-tech-wake-forest-how-to-watch-history](https://fightinggobbler.com/full-guide-to-virginia-tech-wake-forest-how-to-watch-history)",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+{
+"type": "odds",
+"label": "VegasInsider Line Movements",
+"url": "[https://www.vegasinsider.com/college-football/matchups/virginia-tech-vs-wake-forest/line-movements/](https://www.vegasinsider.com/college-football/matchups/virginia-tech-vs-wake-forest/line-movements/)",
+"asof_utc": "2025-10-03T23:25:00Z"
+},
+{
+"type": "odds",
+"label": "BetMGM Snapshot",
+"url": "[https://sports.betmgm.com/en/blog/college-football/wake-forest-virginia-tech-prediction-odds-player-prop-bets-picks-ncaaf-week-6-jaa/](https://sports.betmgm.com/en/blog/college-football/wake-forest-virginia-tech-prediction-odds-player-prop-bets-picks-ncaaf-week-6-jaa/)",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+{
+"type": "weather",
+"label": "OddsTrader Game Weather",
+"url": "[https://www.oddstrader.com/ncaa-college-football/weather/](https://www.oddstrader.com/ncaa-college-football/weather/)",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+{
+"type": "news",
+"label": "VT beat NC State recap (run-game surge)",
+"url": "[https://www.gobblercountry.com/virginia-tech-football/28262/virginia-tech-beats-nc-state-terion-stewart](https://www.gobblercountry.com/virginia-tech-football/28262/virginia-tech-beats-nc-state-terion-stewart)",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+{
+"type": "how_to_watch",
+"label": "SI How to Watch (TV CW, time)",
+"url": "[https://www.si.com/college/wake-forest/football/how-to-watch-and-listen-to-wake-forest-vs-virginia-tech-01k6dp71we7v](https://www.si.com/college/wake-forest/football/how-to-watch-and-listen-to-wake-forest-vs-virginia-tech-01k6dp71we7v)",
+"asof_utc": "2025-10-03T23:05:00Z"
+},
+{
+"type": "venue",
+"label": "Lane Stadium capacity",
+"url": "[https://hokiesports.com/lane-stadium-worsham-field](https://hokiesports.com/lane-stadium-worsham-field)",
+"asof_utc": "2025-10-03T23:00:00Z"
+},
+{
+"type": "trends",
+"label": "Team ATS trends (2025)",
+"url": "[https://www.teamrankings.com/ncf/trends/ats_trends/](https://www.teamrankings.com/ncf/trends/ats_trends/)",
+"asof_utc": "2025-10-03T22:58:00Z"
+},
+{
+"type": "history",
+"label": "Series history & odds blurb",
+"url": "[https://www.gobblercountry.com/virginia-tech-football/28314/virginia-tech-hokies-wake-forest-preview-odds-how-watch](https://www.gobblercountry.com/virginia-tech-football/28314/virginia-tech-hokies-wake-forest-preview-odds-how-watch)",
+"asof_utc": "2025-10-03T22:55:00Z"
+},
+{
+"type": "turnovers",
+"label": "Turnover margin logs (2025)",
+"url": "[https://cfbstats.com/2025/team/742/turnovermargin/gamelog.html](https://cfbstats.com/2025/team/742/turnovermargin/gamelog.html)",
+"asof_utc": "2025-10-03T22:52:00Z"
+},
+{
+"type": "turnovers",
+"label": "Turnover margin logs (2025) Wake",
+"url": "[https://cfbstats.com/2025/team/749/turnovermargin/gamelog.html](https://cfbstats.com/2025/team/749/turnovermargin/gamelog.html)",
+"asof_utc": "2025-10-03T22:52:00Z"
+}
+]
+}

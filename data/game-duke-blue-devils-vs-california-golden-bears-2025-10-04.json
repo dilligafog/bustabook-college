@@ -1,0 +1,219 @@
+{
+"game_meta": {
+"game_id": "98032c76517a301d3547a0224bb802f1",
+"title": "Duke Blue Devils at California Golden Bears",
+"datetime_local": "2025-10-04T22:30:00-04:00",
+"venue": "California Memorial Stadium, Berkeley, CA",
+"tv": ["ESPN"],
+"attendance_capacity": 52428,
+"weather": {
+"conditions": "Clear",
+"temp_f": 64,
+"wind_mph": 5,
+"notes": "Cool, light wind; minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-28T18:00:00Z"
+},
+"hype_factors": [
+"ACC coast-to-coast showcase",
+"Late-night ESPN window",
+"First meeting since 1963",
+"Duke’s first West Coast game in 13 years"
+],
+"last_updated_utc": "2025-10-03T23:52:13Z"
+},
+"teams": {
+"home": {
+"name": "California Golden Bears",
+"short": "CAL",
+"mascot": "Golden Bears",
+"conference": "ACC",
+"record": "4-1 (1-0)",
+"recent_form": "Won 4 of last 5; defense trending strong",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": null,
+"ats_record": "3-2 ATS this season"
+},
+"motivation_factors": [
+"Home underdog in primetime",
+"Validate 4-1 start vs ACC foe"
+]
+},
+"away": {
+"name": "Duke Blue Devils",
+"short": "DUKE",
+"mascot": "Blue Devils",
+"conference": "ACC",
+"record": "3-2 (2-0)",
+"recent_form": "Won 3 of last 5; offense ~472 ypg, 34.8 ppg",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": null,
+"ats_record": "2-3 ATS this season"
+},
+"motivation_factors": [
+"Stay unbeaten in ACC play",
+"National TV statement spot"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Duke leads 1-0-1",
+"last_meeting": {
+"date": "1963-10-12",
+"score": "CAL 22, DUKE 22",
+"note": "First trip since the 1960s series"
+},
+"recent_trend": "Only two prior meetings; Duke unbeaten (1-0-1)"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 120,
+"implied_prob": 0.455,
+"opening_line": 105,
+"line_movement": "drifted against home (+105 to +120)",
+"book": "VegasInsider Consensus",
+"asof_utc": "2025-10-03T23:45:00Z"
+},
+"away": {
+"price": -142,
+"implied_prob": 0.587,
+"opening_line": -125,
+"line_movement": "moved toward away (-125 to -142)",
+"book": "VegasInsider Consensus",
+"asof_utc": "2025-10-03T23:45:00Z"
+}
+},
+"spread": {
+"line": -2.5,
+"favorite": "AWAY",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -1.5,
+"line_movement": "moved toward away by ~1 point (touching -3 at times)",
+"public_betting": {
+"home_percent": 11,
+"away_percent": 89,
+"note": "Public heavy on road favorite"
+},
+"book": "VegasInsider Consensus",
+"asof_utc": "2025-10-03T23:45:00Z"
+},
+"total": {
+"line": 54.5,
+"over_price": -112,
+"under_price": -108,
+"opening_line": 56.5,
+"line_movement": "moved down ~2 points",
+"public_betting": {
+"over_percent": null,
+"under_percent": null
+},
+"book": "FOX Sports (market composite)",
+"asof_utc": "2025-10-03T23:45:00Z"
+},
+"consensus_note": "Market opened Duke -1.5/56.5; now -2.5 to -3 and 54.5–55.5 with public stacked on Duke"
+},
+"betting_angles": {
+"key_trends": [
+"CAL is 3-2 ATS; UNDER 4 of last 5 CAL games",
+"DUKE is 2-3 ATS; 3-0 SU as favorite this season",
+"Public ~89% on DUKE spread; contrarian home dog spot"
+],
+"situational_spots": [
+"Body-clock edge for CAL (10:30 p.m. ET kick)",
+"Duke cross-country travel on late window"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "CAL +120",
+"confidence": 0.70,
+"rationale": "Home dog with improving defense; market and public tilted to DUKE",
+"value_assessment": "Solid plus-money value"
+},
+"spread": {
+"pick": "CAL +3",
+"confidence": 0.66,
+"rationale": "Key number +3 appears; fade public road fave",
+"value_assessment": "Good value at +3"
+},
+"total": {
+"pick": "UNDER 55.5",
+"confidence": 0.58,
+"rationale": "CAL trend to UNDER; defensive injuries but pace/late window favors lower scoring",
+"value_assessment": "Slight value after drop"
+},
+"best_bet": {
+"pick": "CAL +120 ML",
+"confidence": 0.70,
+"rationale": "Contrarian home dog with late-window dynamics"
+}
+},
+"notables": {
+"injuries_news": [
+"CAL OLB Ryan McCulloch out for season",
+"CAL DB Isaiah Crosby out for season",
+"DUKE LB Kendall Johnson out",
+"DUKE RB Jaquez Moore day-to-day"
+],
+"matchup_notes": [
+"CAL defense ranks well in ACC scoring defense; limiting explosives",
+"Duke offense producing ~35 ppg; explosive pass game vs CAL secondary depth"
+],
+"coaching_notes": [
+"Justin Wilcox’s defenses typically solid at home",
+"Manny Diaz brings aggressive front; travel and depth at LB are factors"
+]
+},
+"excitement_factors": {
+"playoff_implications": "Low playoff impact; bowl/ACC standing relevance",
+"conference_impact": "Early ACC positioning for both",
+"narrative": "Coast-to-coast clash; rising CAL vs favored DUKE",
+"tv_storylines": [
+"Freshman QB JKS vs ACC defense",
+"Duke’s 2-0 ACC start tested on road"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "VegasInsider Consensus",
+"url": "[https://www.vegasinsider.com/college-football/matchups/california-vs-san-diego-state/](https://www.vegasinsider.com/college-football/matchups/california-vs-san-diego-state/)",
+"asof_utc": "2025-10-03T23:45:00Z"
+},
+{
+"type": "odds",
+"label": "FOX Sports Game Page",
+"url": "[https://www.foxsports.com/articles/college-football/duke-vs-cal-prediction-odds-picks-october-4-2025](https://www.foxsports.com/articles/college-football/duke-vs-cal-prediction-odds-picks-october-4-2025)",
+"asof_utc": "2025-10-03T18:45:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Action Network Game Page",
+"url": "[https://www.actionnetwork.com/ncaaf-game/duke-blue-devils-california-golden-bears/254751](https://www.actionnetwork.com/ncaaf-game/duke-blue-devils-california-golden-bears/254751)",
+"asof_utc": "2025-10-03T23:40:00Z"
+},
+{
+"type": "news",
+"label": "Cal Athletics – Season-ending injuries",
+"url": "[https://calbears.com/news/2025/9/29/football-wilcox-confirms-season-ending-injuries.aspx](https://calbears.com/news/2025/9/29/football-wilcox-confirms-season-ending-injuries.aspx)",
+"asof_utc": "2025-10-03T23:35:00Z"
+},
+{
+"type": "news",
+"label": "Write For California – How to watch",
+"url": "[https://writeforcalifornia.com/p/how-to-watch-cal-v-duke-college-football-2025-espn-stream](https://writeforcalifornia.com/p/how-to-watch-cal-v-duke-college-football-2025-espn-stream)",
+"asof_utc": "2025-10-03T23:30:00Z"
+}
+]
+}

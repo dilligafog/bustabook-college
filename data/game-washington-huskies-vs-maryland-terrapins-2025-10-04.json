@@ -1,0 +1,229 @@
+{
+"game_meta": {
+"game_id": "0626d930549333f431b6e7700ffd7291",
+"title": "Washington Huskies at Maryland Terrapins",
+"datetime_local": "2025-10-04T15:30:00-04:00",
+"venue": "SECU Stadium, College Park, MD",
+"tv": ["BTN"],
+"attendance_capacity": 46185,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 77,
+"wind_mph": 3,
+"notes": "Warm, light wind; minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-29T00:00:00Z"
+},
+"hype_factors": [
+"Maryland Family Weekend",
+"First UW visit to College Park; first meeting since 1982",
+"Cross-country body-clock spot for UW (12:30 PT)",
+"Locksley 0-9 after bye narrative"
+],
+"last_updated_utc": "2025-10-03T23:25:00Z"
+},
+"teams": {
+"home": {
+"name": "Maryland Terrapins",
+"short": "MD",
+"mascot": "Terrapins",
+"conference": "Big Ten",
+"record": "4-0 (1-0)",
+"recent_form": "4-0 start; beat Wisconsin 27-10; defense rolling",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": 7,
+"turnover_margin": "+2.0",
+"ats_record": "2-2 ATS"
+},
+"motivation_factors": [
+"Chance to start 5-0",
+"Home showcase vs Top-25 caliber opponent"
+]
+},
+"away": {
+"name": "Washington Huskies",
+"short": "WASH",
+"mascot": "Huskies",
+"conference": "Big Ten",
+"record": "3-1 (0-1)",
+"recent_form": "Lost at Ohio State; offense strong overall",
+"key_stats": {
+"offense_rank": 13,
+"defense_rank": null,
+"turnover_margin": "+1.3",
+"ats_record": "2-2 ATS"
+},
+"motivation_factors": [
+"Bounce-back after OSU loss",
+"Road statement in Big Ten play"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Washington leads 1-0",
+"last_meeting": {
+"date": "1982-12-25",
+"score": "Washington 21, Maryland 20",
+"note": "Aloha Bowl (Honolulu)"
+},
+"recent_trend": "Only prior meeting was 1982"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 190,
+"implied_prob": 0.345,
+"opening_line": 175,
+"line_movement": "drifted longer on home",
+"book": "Consensus",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"away": {
+"price": -235,
+"implied_prob": 0.701,
+"opening_line": -205,
+"line_movement": "moved toward away",
+"book": "Consensus",
+"asof_utc": "2025-10-03T23:20:00Z"
+}
+},
+"spread": {
+"line": -5.5,
+"favorite": "WASH",
+"price_home": -105,
+"price_away": -115,
+"opening_line": -7.5,
+"line_movement": "moved toward home by 2 points",
+"public_betting": {
+"home_percent": 63,
+"away_percent": 37,
+"note": "Majority on home dog"
+},
+"book": "Consensus",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"total": {
+"line": 53.5,
+"over_price": -112,
+"under_price": -108,
+"opening_line": 52.5,
+"line_movement": "moved up 1 point",
+"public_betting": {
+"over_percent": 59,
+"under_percent": 41
+},
+"book": "Consensus",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"consensus_note": "Market pushed spread toward Maryland; public leans MD and Over"
+},
+"betting_angles": {
+"key_trends": [
+"Washington is 1-5 ATS in last 6 road games",
+"Maryland is 1-3 O/U this season",
+"Public ~63% on Maryland ATS"
+],
+"situational_spots": [
+"UW body-clock early start (12:30 PT) after travel",
+"Maryland off a bye (Locksley 0-9 post-bye)"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "WASH -235",
+"confidence": 0.58,
+"rationale": "Superior offense vs home dog; travel risk priced in",
+"value_assessment": "Modest value; better as parlay leg"
+},
+"spread": {
+"pick": "WASH -5.5",
+"confidence": 0.64,
+"rationale": "Buy-low after move toward MD with public on home dog",
+"value_assessment": "Good value vs opener (-7.5)"
+},
+"total": {
+"pick": "UNDER 53.5",
+"confidence": 0.66,
+"rationale": "UMD defense, light wind, and UW road pace point to lower total",
+"value_assessment": "Slight edge with public on Over"
+},
+"best_bet": {
+"pick": "UNDER 53.5",
+"confidence": 0.66,
+"rationale": "Defensive matchup + market to 53.5 creates value under"
+}
+},
+"notables": {
+"injuries_news": [
+"Washington LT Carver Willis reportedly out/very doubtful (knee)",
+"Maryland secondary highly graded; multiple DBs banged up but expected"
+],
+"matchup_notes": [
+"Maryland tied among national leaders in sacks; opportunistic secondary",
+"UW run game (Jonah Coleman) vs UMD front is pivotal"
+],
+"coaching_notes": [
+"Jedd Fisch in Year 2 at UW; seeks first Big Ten road win this season",
+"Mike Locksley addressing 0-9 post-bye skid with lighter week plan"
+]
+},
+"excitement_factors": {
+"playoff_implications": "UW must win to stay in CFP hunt; UMD can enter rankings with upset",
+"conference_impact": "Big Ten positioning swing game",
+"narrative": "Public home dog vs tested road favorite in tricky travel spot",
+"tv_storylines": [
+"Freshman QBs: Demond Williams Jr. vs Malik Washington",
+"Maryland defense vs Washington’s explosive attack"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "Action Network Game Page",
+"url": "[https://www.actionnetwork.com/ncaaf-game/washington-maryland-score-odds-october-4-2025/254723](https://www.actionnetwork.com/ncaaf-game/washington-maryland-score-odds-october-4-2025/254723)",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+{
+"type": "odds",
+"label": "DraftKings (teams/events pages)",
+"url": "[https://sportsbook.draftkings.com/teams/football/college-football/maryland-terrapins](https://sportsbook.draftkings.com/teams/football/college-football/maryland-terrapins)",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus",
+"url": "[https://contests.covers.com/consensus/matchupconsensusdetails/f3f82184-f1d2-4dd3-83cf-b2c201478b4d](https://contests.covers.com/consensus/matchupconsensusdetails/f3f82184-f1d2-4dd3-83cf-b2c201478b4d)",
+"asof_utc": "2025-10-03T23:05:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Game Page",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401752857/washington-maryland](https://www.espn.com/college-football/game/_/gameId/401752857/washington-maryland)",
+"asof_utc": "2025-10-03T22:55:00Z"
+},
+{
+"type": "news",
+"label": "Washington Post Preview",
+"url": "[https://www.washingtonpost.com/sports/2025/10/03/maryland-washington-football-preview/](https://www.washingtonpost.com/sports/2025/10/03/maryland-washington-football-preview/)",
+"asof_utc": "2025-10-03T22:50:00Z"
+},
+{
+"type": "stats",
+"label": "TeamRankings Efficiency (TO margin, per-game)",
+"url": "[https://www.teamrankings.com/college-football/matchup/huskies-terrapins-week-6-2025/efficiency](https://www.teamrankings.com/college-football/matchup/huskies-terrapins-week-6-2025/efficiency)",
+"asof_utc": "2025-10-03T23:00:00Z"
+},
+{
+"type": "venue",
+"label": "SECU Stadium Capacity",
+"url": "[https://en.wikipedia.org/wiki/SECU_Stadium](https://en.wikipedia.org/wiki/SECU_Stadium)",
+"asof_utc": "2025-10-03T22:45:00Z"
+}
+]
+}

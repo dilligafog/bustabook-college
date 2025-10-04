@@ -1,0 +1,251 @@
+{
+"game_meta": {
+"game_id": "2d276512e01be0ee84a7d0bb9fc4d604",
+"title": "Kentucky Wildcats at Georgia Bulldogs",
+"datetime_local": "2025-10-04T12:00:00-04:00",
+"venue": "Dooley Field at Sanford Stadium, Athens, GA",
+"tv": ["ABC"],
+"attendance_capacity": 93033,
+"weather": {
+"conditions": "Partly sunny",
+"temp_f": 76,
+"wind_mph": 8,
+"notes": "Light NE breeze; minimal weather impact."
+},
+"rankings": {
+"home_ap": 12,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-28T18:00:00Z"
+},
+"hype_factors": [
+"Georgia bounce-back after ending 33-game home win streak",
+"SEC East rivalry with long Georgia streak",
+"Noon ABC national window",
+"Kentucky QB situation in flux"
+],
+"last_updated_utc": "2025-10-03T23:30:00Z"
+},
+"teams": {
+"home": {
+"name": "Georgia Bulldogs",
+"short": "UGA",
+"mascot": "Bulldogs",
+"conference": "SEC",
+"record": "3-1 (1-1)",
+"recent_form": "Lost 24-21 to Alabama; defense stout, offense inconsistent; 0-3-1 ATS",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "-0.5",
+"ats_record": "0-3-1 ATS this season"
+},
+"motivation_factors": [
+"Protect home turf after Alabama loss",
+"Maintain 15-game win streak over Kentucky"
+]
+},
+"away": {
+"name": "Kentucky Wildcats",
+"short": "UK",
+"mascot": "Wildcats",
+"conference": "SEC",
+"record": "2-2 (0-2)",
+"recent_form": "Lost 35-13 at South Carolina; offense turnover-prone; 1-3 ATS",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "-0.5",
+"ats_record": "1-3 ATS this season"
+},
+"motivation_factors": [
+"Spoiler role vs ranked rival",
+"End long losing skid in series"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "GEORGIA leads 64-12-2",
+"last_meeting": {
+"date": "2024-09-14",
+"score": "GEORGIA 13, KENTUCKY 12",
+"note": "Defensive battle at Kroger Field"
+},
+"recent_trend": "Georgia has won 15 straight since 2010; UK held under 20 in last 8 meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -1600,
+"implied_prob": 0.941,
+"opening_line": -2400,
+"line_movement": "moved toward away",
+"book": "Consensus (FanDuel current / VegasInsider open)",
+"asof_utc": "2025-10-03T22:50:00Z"
+},
+"away": {
+"price": 900,
+"implied_prob": 0.100,
+"opening_line": null,
+"line_movement": "moved toward away",
+"book": "Consensus (FanDuel current)",
+"asof_utc": "2025-10-03T22:50:00Z"
+}
+},
+"spread": {
+"line": -20.5,
+"favorite": "GEORGIA",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -21.5,
+"line_movement": "moved toward away by 1 point",
+"public_betting": {
+"home_percent": null,
+"away_percent": null,
+"note": "Limited split data; favorite likely public side"
+},
+"book": "Consensus (Action Network / NFP / FoxSports)",
+"asof_utc": "2025-10-03T22:50:00Z"
+},
+"total": {
+"line": 48.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 50.5,
+"line_movement": "moved down 2 points",
+"public_betting": {
+"over_percent": null,
+"under_percent": null
+},
+"book": "Consensus (NFP open / multiple books current)",
+"asof_utc": "2025-10-03T22:50:00Z"
+},
+"consensus_note": "Market drift toward Kentucky and Under since open; heavy favorite ML compressed."
+},
+"betting_angles": {
+"key_trends": [
+"Georgia is 0-3-1 ATS in 2025",
+"Kentucky is 1-3 ATS; 3-1 to the Over",
+"UGA has held UK <20 pts in 8 straight meetings"
+],
+"situational_spots": [
+"Georgia in bounce-back after first home loss since 2019",
+"Kentucky big road dog at noon; potential backdoor if UGA offense starts slow"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "KENTUCKY +900",
+"confidence": 0.52,
+"rationale": "Price shortened; tiny sprinkle only if chasing variance; better value is spread.",
+"value_assessment": "Thin value; longshot only"
+},
+"spread": {
+"pick": "KENTUCKY +20.5",
+"confidence": 0.63,
+"rationale": "Market and matchup point to dog cover: UGA poor ATS, low turnover creation, potential pace drag.",
+"value_assessment": "Solid value at +20.5 or better"
+},
+"total": {
+"pick": "UNDER 48.5",
+"confidence": 0.62,
+"rationale": "UGA defense + UK offensive struggles; series historically low-scoring.",
+"value_assessment": "Acceptable after drop from 50.5"
+},
+"best_bet": {
+"pick": "KENTUCKY +20.5",
+"confidence": 0.63,
+"rationale": "Contrarian dog with market support and UGA ATS issues."
+}
+},
+"notables": {
+"injuries_news": [
+"UGA WR Talyn Taylor out (upper body)",
+"UGA TE Ethan Barbour out (ankle)",
+"UGA OL Malachi Toliver, OL Earnest Greene III out",
+"UK DB DJ Waller Jr. questionable",
+"UK QB Zach Calzada probable; Boley usage possible"
+],
+"matchup_notes": [
+"Georgia leads series 64-12-2 and has won 15 straight",
+"Georgia’s turnover margin sits negative; emphasis from staff to improve",
+"UGA slow starts have appeared this season; Kentucky 1Q Under trend"
+],
+"coaching_notes": [
+"Kirby Smart pushing defense/turnovers after Alabama loss",
+"Mark Stoops under pressure to end SEC skid"
+]
+},
+"excitement_factors": {
+"playoff_implications": "UGA must win to stay on CFP track; UK hunting signature upset",
+"conference_impact": "SEC pecking order; tiebreaker value for UGA",
+"narrative": "Blueblood rebound vs desperate underdog",
+"tv_storylines": [
+"Can Georgia respond after home streak snapped?",
+"Kentucky QB plan and turnover issues under microscope"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "FanDuel Sportsbook (current ML/lines)",
+"url": "[https://sportsbook.fanduel.com/football/ncaa-football-games/kentucky-%40-georgia-34778654](https://sportsbook.fanduel.com/football/ncaa-football-games/kentucky-%40-georgia-34778654)",
+"asof_utc": "2025-10-03T22:50:00Z"
+},
+{
+"type": "odds",
+"label": "National Football Post (opening & consensus)",
+"url": "[https://www.nationalfootballpost.com/football-betting/college-football/kentucky-at-georgia-%2812%29-october-4-2025/2443379/](https://www.nationalfootballpost.com/football-betting/college-football/kentucky-at-georgia-%2812%29-october-4-2025/2443379/)",
+"asof_utc": "2025-10-03T22:45:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Team Pages (ATS records)",
+"url": "[https://www.covers.com/sport/football/ncaaf/teams/main/georgia-bulldogs](https://www.covers.com/sport/football/ncaaf/teams/main/georgia-bulldogs)",
+"asof_utc": "2025-10-03T22:40:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Team Pages (ATS records)",
+"url": "[https://www.covers.com/sport/football/ncaaf/teams/main/kentucky-wildcats](https://www.covers.com/sport/football/ncaaf/teams/main/kentucky-wildcats)",
+"asof_utc": "2025-10-03T22:40:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Game Page (time/TV)",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401752728/kentucky-georgia](https://www.espn.com/college-football/game/_/gameId/401752728/kentucky-georgia)",
+"asof_utc": "2025-10-03T22:35:00Z"
+},
+{
+"type": "history",
+"label": "UGA Official Series History",
+"url": "[https://georgiadogs.com/sports/football/opponent-history/kentucky/92](https://georgiadogs.com/sports/football/opponent-history/kentucky/92)",
+"asof_utc": "2025-10-03T22:20:00Z"
+},
+{
+"type": "injuries",
+"label": "Sports Illustrated – SEC Injury Report",
+"url": "[https://www.si.com/college/georgia/football/georgia-bulldogs-vs-kentucky-wildcats-official-injury-report-released-ahead-of-game-01k6h0nqb6pg](https://www.si.com/college/georgia/football/georgia-bulldogs-vs-kentucky-wildcats-official-injury-report-released-ahead-of-game-01k6h0nqb6pg)",
+"asof_utc": "2025-10-03T22:25:00Z"
+},
+{
+"type": "weather",
+"label": "NWS Athens Forecast (game window)",
+"url": "[https://forecast.weather.gov/MapClick.php?lat=33.95&lon=-83.3833333](https://forecast.weather.gov/MapClick.php?lat=33.95&lon=-83.3833333)",
+"asof_utc": "2025-10-03T22:55:00Z"
+},
+{
+"type": "context",
+"label": "247Sports Stat Snapshot / Turnover margin",
+"url": "[https://247sports.com/college/georgia/longformarticle/georgia-vs-kentucky-stat-rankings-heading-into-week-6-matchup-254788494/](https://247sports.com/college/georgia/longformarticle/georgia-vs-kentucky-stat-rankings-heading-into-week-6-matchup-254788494/)",
+"asof_utc": "2025-10-03T22:30:00Z"
+},
+{
+"type": "news",
+"label": "A Sea of Blue – Odds/UK context",
+"url": "[https://www.aseaofblue.com/kentucky-wildcats-football/148294/uk-georgia-odds-betting-spread-sec-week-6](https://www.aseaofblue.com/kentucky-wildcats-football/148294/uk-georgia-odds-betting-spread-sec-week-6)",
+"asof_utc": "2025-10-03T22:30:00Z"
+}
+]
+}

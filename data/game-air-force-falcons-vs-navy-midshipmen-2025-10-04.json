@@ -1,0 +1,243 @@
+{
+"game_meta": {
+"game_id": "7bf7e3851e7ac12cd6fe2f8ec3b795da",
+"title": "Air Force Falcons at Navy Midshipmen",
+"datetime_local": "2025-10-04T12:00:00-04:00",
+"venue": "Navy-Marine Corps Memorial Stadium, Annapolis, MD",
+"tv": ["CBS"],
+"attendance_capacity": 34000,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 71,
+"wind_mph": 4,
+"notes": "Light winds, minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-29T00:00:00Z"
+},
+"hype_factors": [
+"Commander-in-Chief’s Trophy opener",
+"Service-academy rivalry",
+"Navy chasing 5-0 start",
+"Gov’t shutdown backdrop but game on"
+],
+"last_updated_utc": "2025-10-03T23:47:00Z"
+},
+"teams": {
+"home": {
+"name": "Navy Midshipmen",
+"short": "NAVY",
+"mascot": "Midshipmen",
+"conference": "AAC",
+"record": "4-0 (3-0)",
+"recent_form": "4-0 start, ground game rolling",
+"key_stats": {
+"offense_rank": 34,
+"defense_rank": 54,
+"turnover_margin": "+0.3",
+"ats_record": "2-2 ATS this season"
+},
+"motivation_factors": [
+"Defend CIC Trophy",
+"Undefeated momentum at home"
+]
+},
+"away": {
+"name": "Air Force Falcons",
+"short": "AFA",
+"mascot": "Falcons",
+"conference": "MWC",
+"record": "1-3 (0-3)",
+"recent_form": "Three-game skid, offense sparked by Szarka",
+"key_stats": {
+"offense_rank": 59,
+"defense_rank": 125,
+"turnover_margin": "-1.5",
+"ats_record": "1-3 ATS this season"
+},
+"motivation_factors": [
+"Season-stabilizing upset shot",
+"Rivalry pride in CIC race"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Air Force leads 34-23",
+"last_meeting": {
+"date": "2024-10-05",
+"score": "Navy 34, Air Force 7",
+"note": "CIC opener at Falcon Stadium"
+},
+"recent_trend": "Air Force won 4 of last 6; Navy won 2024"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -463,
+"implied_prob": 0.822,
+"opening_line": -420,
+"line_movement": "moved toward home",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:45:00Z"
+},
+"away": {
+"price": 355,
+"implied_prob": 0.220,
+"opening_line": 325,
+"line_movement": "moved against away",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:45:00Z"
+}
+},
+"spread": {
+"line": -12.5,
+"favorite": "NAVY",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -11.5,
+"line_movement": "moved toward home by 1.0",
+"public_betting": {
+"home_percent": 64,
+"away_percent": 36,
+"note": "Public siding with favorite"
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:45:00Z"
+},
+"total": {
+"line": 52.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 49.5,
+"line_movement": "moved up 3.0",
+"public_betting": {
+"over_percent": 54,
+"under_percent": 46
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:45:00Z"
+},
+"consensus_note": "Market ~NAVY -12 to -13, total ~51.5-53; movement up with public on NAVY"
+},
+"betting_angles": {
+"key_trends": [
+"Service-academy UNDERS historically profitable",
+"Air Force 0-3 ATS vs FBS in 2025",
+"Navy SP+ offense #34 vs Air Force SP+ defense #125"
+],
+"situational_spots": [
+"Rivalry early kickoff favors dog historically low-variance",
+"Public heavy on favorite; contrarian dog value"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "AFA +355",
+"confidence": 0.56,
+"rationale": "Inflated price vs public NAVY love; rivalry variance",
+"value_assessment": "Moderate plus-money value"
+},
+"spread": {
+"pick": "AFA +12.5",
+"confidence": 0.66,
+"rationale": "CIC game tightness, market high on NAVY after 4-0",
+"value_assessment": "Good contrarian value"
+},
+"total": {
+"pick": "UNDER 52.5",
+"confidence": 0.60,
+"rationale": "Service-academy under trend + run-heavy scripts",
+"value_assessment": "Slight value after move up"
+},
+"best_bet": {
+"pick": "AFA +12.5",
+"confidence": 0.66,
+"rationale": "Public vs dog setup in rivalry with elevated spread"
+}
+},
+"notables": {
+"injuries_news": [
+"Navy S A. Rose out for season",
+"Air Force CB H. Hendrix questionable",
+"Navy RB Alex Tecza leads team; expected to play"
+],
+"matchup_notes": [
+"Navy top-tier rushing attack vs struggling Air Force defense",
+"Air Force turnover issues (-1.5 per game)"
+],
+"coaching_notes": [
+"Navy HC Brian Newberry’s option attack humming",
+"Air Force HC Troy Calhoun leaning on Szarka-led offense"
+]
+},
+"excitement_factors": {
+"playoff_implications": "None",
+"conference_impact": "Non-conference; CIC trophy stakes",
+"narrative": "Resurgent Navy hosts desperate Air Force in rivalry tilt",
+"tv_storylines": [
+"Unbeaten Navy’s ground game",
+"Air Force’s Szarka breakout",
+"CIC opener on CBS"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings Sportsbook (Team pages)",
+"url": "[https://sportsbook.draftkings.com/teams/football/college-football/navy-midshipmen](https://sportsbook.draftkings.com/teams/football/college-football/navy-midshipmen)",
+"asof_utc": "2025-10-03T23:45:00Z"
+},
+{
+"type": "odds",
+"label": "CBS Sports (DK line ref)",
+"url": "[https://www.cbssports.com/college-football/news/air-force-navy-prediction-odds-spread-time-week-6-college-football-picks/](https://www.cbssports.com/college-football/news/air-force-navy-prediction-odds-spread-time-week-6-college-football-picks/)",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus",
+"url": "[https://contests.covers.com/consensus/matchupconsensusdetails/6c4f76ce-16af-445a-9df5-b2c20148ae3b](https://contests.covers.com/consensus/matchupconsensusdetails/6c4f76ce-16af-445a-9df5-b2c20148ae3b)",
+"asof_utc": "2025-10-03T23:40:00Z"
+},
+{
+"type": "news",
+"label": "Navy Athletics Game Notes",
+"url": "[https://navysports.com/news/2025/9/29/football-navy-and-air-force-meet-saturday-in-first-leg-of-the-battle-for-the-cic-trophy.aspx](https://navysports.com/news/2025/9/29/football-navy-and-air-force-meet-saturday-in-first-leg-of-the-battle-for-the-cic-trophy.aspx)",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+{
+"type": "news",
+"label": "AP News: Game on despite shutdown",
+"url": "[https://apnews.com/article/990f01242678068becc548cab2a325ac](https://apnews.com/article/990f01242678068becc548cab2a325ac)",
+"asof_utc": "2025-10-03T23:12:00Z"
+},
+{
+"type": "stats",
+"label": "ESPN SP+ Rankings",
+"url": "[https://www.espn.com/college-football/story/_/id/46128861/2025-college-football-sp%2B-rankings-all-136-fbs-teams](https://www.espn.com/college-football/story/_/id/46128861/2025-college-football-sp%2B-rankings-all-136-fbs-teams)",
+"asof_utc": "2025-10-03T23:25:00Z"
+},
+{
+"type": "stats",
+"label": "TeamRankings Turnover Margin",
+"url": "[https://www.teamrankings.com/college-football/team/air-force-falcons/stats](https://www.teamrankings.com/college-football/team/air-force-falcons/stats)",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+{
+"type": "weather",
+"label": "Timeanddate Hourly (Annapolis)",
+"url": "[https://www.timeanddate.com/weather/usa/annapolis/hourly](https://www.timeanddate.com/weather/usa/annapolis/hourly)",
+"asof_utc": "2025-10-03T23:35:00Z"
+},
+{
+"type": "history",
+"label": "Navy vs Air Force Series",
+"url": "[https://navysports.com/sports/football/opponent-history/air-force/31](https://navysports.com/sports/football/opponent-history/air-force/31)",
+"asof_utc": "2025-10-03T23:15:00Z"
+}
+]
+}

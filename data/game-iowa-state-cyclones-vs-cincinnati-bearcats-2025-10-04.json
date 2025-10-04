@@ -1,0 +1,235 @@
+{
+"game_meta": {
+"game_id": "81a0b8c7652008629139781d76b75ef8",
+"title": "Iowa State Cyclones at Cincinnati Bearcats",
+"datetime_local": "2025-10-04T12:00:00-04:00",
+"venue": "Nippert Stadium, Cincinnati, OH",
+"tv": ["ESPN2"],
+"attendance_capacity": 38088,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 76,
+"wind_mph": 2.2,
+"notes": "Dry, light wind; minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": 14,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-10-03T20:00:00Z"
+},
+"hype_factors": [
+"Top-15 unbeaten vs surging home favorite",
+"Big 12 standings impact",
+"Tickets on ISU, money on UC",
+"Possible return of star DT Dontay Corleone"
+],
+"last_updated_utc": "2025-10-03T23:25:00Z"
+},
+"teams": {
+"home": {
+"name": "Cincinnati Bearcats",
+"short": "CIN",
+"mascot": "Bearcats",
+"conference": "Big 12",
+"record": "3-1 (1-0)",
+"recent_form": "3-1 start, top-20 scoring offense",
+"key_stats": {
+"offense_rank": 16,
+"defense_rank": 57,
+"turnover_margin": "-0.3",
+"ats_record": "3-1 ATS this season"
+},
+"motivation_factors": [
+"Push into AP Top 25",
+"First series win vs ISU"
+]
+},
+"away": {
+"name": "Iowa State Cyclones",
+"short": "ISU",
+"mascot": "Cyclones",
+"conference": "Big 12",
+"record": "5-0 (2-0)",
+"recent_form": "Won 5 straight; defense allowing ~16 PPG",
+"key_stats": {
+"offense_rank": 71,
+"defense_rank": 15,
+"turnover_margin": "+0.6",
+"ats_record": "3-1-1 ATS this season"
+},
+"motivation_factors": [
+"Protect Top-15 ranking",
+"First Big 12 road test"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "AWAY leads 2-0",
+"last_meeting": {
+"date": "2024-11-16",
+"score": "Iowa State 34, Cincinnati 17",
+"note": "Played in Ames"
+},
+"recent_trend": "ISU 2-0 H2H; Under 2-0"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -125,
+"implied_prob": 0.556,
+"opening_line": -120,
+"line_movement": "slight move toward home",
+"book": "FanDuel",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"away": {
+"price": 104,
+"implied_prob": 0.49,
+"opening_line": 100,
+"line_movement": "slight move against away",
+"book": "FanDuel",
+"asof_utc": "2025-10-03T23:20:00Z"
+}
+},
+"spread": {
+"line": -1.5,
+"favorite": "HOME",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -1.5,
+"line_movement": "flat to slight ticks both ways",
+"public_betting": {
+"home_percent": 31,
+"away_percent": 69,
+"note": "Tickets on ISU, money on UC"
+},
+"book": "Consensus",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"total": {
+"line": 55.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 52.5,
+"line_movement": "moved up ~3 points",
+"public_betting": {
+"over_percent": null,
+"under_percent": null
+},
+"book": "Consensus",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+"consensus_note": "Market shows UC short fave, rising total; split tickets vs money favors Bearcats"
+},
+"betting_angles": {
+"key_trends": [
+"ISU 3-1-1 ATS this season",
+"CIN 3-1 ATS this season",
+"Under 2-0 in last 2 ISU–CIN meetings"
+],
+"situational_spots": [
+"ISU banged-up secondary on the road",
+"Handle > tickets on UC hints sharp side"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "CIN -125",
+"confidence": 0.66,
+"rationale": "Sharp-money tilt toward Bearcats at home with potential Corleone boost",
+"value_assessment": "Moderate value vs public tickets"
+},
+"spread": {
+"pick": "CIN -1.5",
+"confidence": 0.62,
+"rationale": "Home fave with ticket/handle split; ISU secondary depleted",
+"value_assessment": "Slight edge near pick’em"
+},
+"total": {
+"pick": "UNDER 55.5",
+"confidence": 0.59,
+"rationale": "Market pushed up from 52.5; sunny but low wind; ISU defense well-coached",
+"value_assessment": "Small contrarian value after steam up"
+},
+"best_bet": {
+"pick": "CIN -125 ML",
+"confidence": 0.66,
+"rationale": "Home edge plus pros-vs-joes split favors Bearcats"
+}
+},
+"notables": {
+"injuries_news": [
+"ISU starting DBs Jeremiah Cooper (ACL) and Jontez Williams out for season",
+"CIN star DT Dontay Corleone questionable, trending to play"
+],
+"matchup_notes": [
+"CIN #16 scoring offense vs ISU top-15 scoring defense",
+"ISU secondary depth tested vs Sorsby; clean weather favors passing"
+],
+"coaching_notes": [
+"Matt Campbell’s ISU 9-1 in last 10 one-score games",
+"Satterfield’s offense humming early behind Sorsby"
+]
+},
+"excitement_factors": {
+"playoff_implications": "ISU must win to stay in playoff hunt",
+"conference_impact": "Big 12 pecking order swing game",
+"narrative": "Unbeaten Top-15 on the road vs rising home favorite",
+"tv_storylines": [
+"ISU’s banged-up secondary vs Sorsby",
+"Corleone’s status and impact up front"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "FanDuel via SI Betting",
+"url": "[https://www.si.com/betting/iowa-state-vs-cincinnati-prediction-odds-key-players-to-watch-for-college-football-week-6](https://www.si.com/betting/iowa-state-vs-cincinnati-prediction-odds-key-players-to-watch-for-college-football-week-6)",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+{
+"type": "odds",
+"label": "Covers Odds/Weather",
+"url": "[https://www.covers.com/ncaaf/iowa-state-vs-cincinnati-prediction-picks-odds-october-4-2025](https://www.covers.com/ncaaf/iowa-state-vs-cincinnati-prediction-picks-odds-october-4-2025)",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Action Network Public Betting",
+"url": "[https://www.actionnetwork.com/ncaaf-game/iowa-state-cyclones-cincinnati-bearcats/254732](https://www.actionnetwork.com/ncaaf-game/iowa-state-cyclones-cincinnati-bearcats/254732)",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Game Preview/TV",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401756912](https://www.espn.com/college-football/game/_/gameId/401756912)",
+"asof_utc": "2025-10-03T22:50:00Z"
+},
+{
+"type": "rankings",
+"label": "NCAA AP Top 25",
+"url": "[https://www.ncaa.com/rankings/football/fbs/ap-top-25](https://www.ncaa.com/rankings/football/fbs/ap-top-25)",
+"asof_utc": "2025-10-03T20:00:00Z"
+},
+{
+"type": "team_notes",
+"label": "Cyclones.com Primer",
+"url": "[https://cyclones.com/news/2025/10/1/football-primer-no-14-iowa-state-faces-road-test-at-cincinnati](https://cyclones.com/news/2025/10/1/football-primer-no-14-iowa-state-faces-road-test-at-cincinnati)",
+"asof_utc": "2025-10-03T22:40:00Z"
+},
+{
+"type": "injury",
+"label": "Heartland College Sports (Corleone update)",
+"url": "[https://www.heartlandcollegesports.com/2025/10/03/cincinnati-dontay-corleone-injury-update-iowa-state/](https://www.heartlandcollegesports.com/2025/10/03/cincinnati-dontay-corleone-injury-update-iowa-state/)",
+"asof_utc": "2025-10-03T22:55:00Z"
+},
+{
+"type": "venue",
+"label": "Nippert Stadium Capacity",
+"url": "[https://en.wikipedia.org/wiki/Nippert_Stadium](https://en.wikipedia.org/wiki/Nippert_Stadium)",
+"asof_utc": "2025-10-03T22:35:00Z"
+}
+]
+}

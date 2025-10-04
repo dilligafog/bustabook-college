@@ -1,0 +1,241 @@
+{
+"game_meta": {
+"game_id": "3cdecb280dab6308f21d5b4bf89806f6",
+"title": "Wisconsin Badgers at Michigan Wolverines",
+"datetime_local": "2025-10-04T12:00:00-04:00",
+"venue": "Michigan Stadium, Ann Arbor, MI",
+"tv": ["FOX"],
+"attendance_capacity": 107601,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 81,
+"wind_mph": 6,
+"notes": "Unseasonably warm, light SSW wind; minimal weather impact"
+},
+"rankings": {
+"home_ap": 20,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-29T16:00:00Z"
+},
+"hype_factors": [
+"Big Noon Kickoff",
+"Maize Out at the Big House",
+"First meeting since 2021",
+"Wisconsin QB injury storyline"
+],
+"last_updated_utc": "2025-10-03T23:36:00Z"
+},
+"teams": {
+"home": {
+"name": "Michigan Wolverines",
+"short": "MICH",
+"mascot": "Wolverines",
+"conference": "Big Ten",
+"record": "3-1 (1-0)",
+"recent_form": "Won 2 straight; 3 of 4 overs",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": 8,
+"turnover_margin": null,
+"ats_record": "2-2 ATS this season"
+},
+"motivation_factors": [
+"Maize Out energy",
+"Freshman QB showcase"
+]
+},
+"away": {
+"name": "Wisconsin Badgers",
+"short": "WIS",
+"mascot": "Badgers",
+"conference": "Big Ten",
+"record": "2-2 (0-1)",
+"recent_form": "Loss to Maryland; offense uneven",
+"key_stats": {
+"offense_rank": 89,
+"defense_rank": 30,
+"turnover_margin": null,
+"ats_record": "1-3 ATS this season"
+},
+"motivation_factors": [
+"Spoiler role vs Top-25",
+"Bounce back after injuries"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "MICH leads 52-17-1",
+"last_meeting": {
+"date": "2021-10-02",
+"score": "MICH 38, WIS 17",
+"note": "Road win for Michigan in Madison"
+},
+"recent_trend": "WIS won 3 of last 4 before 2021; MICH won last meeting"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -943,
+"implied_prob": 0.904,
+"opening_line": null,
+"line_movement": "steady heavy favorite",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+"away": {
+"price": 619,
+"implied_prob": 0.139,
+"opening_line": null,
+"line_movement": "steady long shot",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:30:00Z"
+}
+},
+"spread": {
+"line": -17.5,
+"favorite": "MICH",
+"price_home": -108,
+"price_away": -112,
+"opening_line": -16.5,
+"line_movement": "moved toward home by 1.0",
+"public_betting": {
+"home_percent": 67,
+"away_percent": 33,
+"note": "Public heavier on favorite"
+},
+"book": "Consensus",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+"total": {
+"line": 43.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 42.5,
+"line_movement": "moved up 1.0",
+"public_betting": {
+"over_percent": 62,
+"under_percent": 38
+},
+"book": "Consensus",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+"consensus_note": "Market to -17.5/43.5; public on MICH and Over; some books show heavier MICH tickets"
+},
+"betting_angles": {
+"key_trends": [
+"MICH 2-2 ATS in 2025",
+"WIS 1-3 ATS in 2025",
+"Over 4 of last 5 at MICH in series"
+],
+"situational_spots": [
+"MICH off bye with Maize Out",
+"WIS as big road dog with QB uncertainty"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "WIS +619",
+"confidence": 0.54,
+"rationale": "Extreme price vs low-total game; QB uncertainty bakes in downside but variance-friendly",
+"value_assessment": "Small contrarian sprinkle only"
+},
+"spread": {
+"pick": "WIS +17.5",
+"confidence": 0.66,
+"rationale": "Public on favorite; WIS defense respectable; big number in noon start",
+"value_assessment": "Good value with market up from -16.5"
+},
+"total": {
+"pick": "UNDER 43.5",
+"confidence": 0.62,
+"rationale": "WIS QB issues vs top-10 MICH D; pace likely conservative",
+"value_assessment": "Slight value after total ticked up"
+},
+"best_bet": {
+"pick": "WIS +17.5",
+"confidence": 0.66,
+"rationale": "Most robust edge vs public and movement"
+}
+},
+"notables": {
+"injuries_news": [
+"WIS starting QB Billy Edwards expected out (knee); Danny O’Neil likely to start",
+"WIS S Preston Zachman ruled out; OL Jake Renfro questionable"
+],
+"matchup_notes": [
+"MICH top-10 defense vs WIS offense ranked ~89th SP+",
+"MICH run game explosive; WIS run D strong—edges point to field-position game"
+],
+"coaching_notes": [
+"MICH DC Wink Martindale’s unit thriving",
+"Pressure on Luke Fickell amid uneven start"
+]
+},
+"excitement_factors": {
+"playoff_implications": "MICH needs convincing win to stay in hunt",
+"conference_impact": "Early Big Ten positioning",
+"narrative": "Big brand vs rebuilding underdog with backup QB",
+"tv_storylines": [
+"Bryce Underwood’s first Big Ten home start vs 3-4 looks",
+"Can WIS ugly it up and cover a big number?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings (moneyline)",
+"url": "[https://www.sportsline.com/college-football/game-forecast/NCAAF_20251004_WIS@MICH/](https://www.sportsline.com/college-football/game-forecast/NCAAF_20251004_WIS@MICH/)",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+{
+"type": "odds",
+"label": "Action Network (spread consensus/prices & tickets)",
+"url": "[https://www.actionnetwork.com/ncaaf-game/wisconsin-michigan-odds](https://www.actionnetwork.com/ncaaf-game/wisconsin-michigan-odds)",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+{
+"type": "odds",
+"label": "Covers Team Pages (ATS & totals records)",
+"url": "[https://www.covers.com/sport/football/ncaaf/teams/main/michigan-wolverines](https://www.covers.com/sport/football/ncaaf/teams/main/michigan-wolverines)",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+{
+"type": "news",
+"label": "FOX Sports Preview / Big Noon",
+"url": "[https://www.foxsports.com/stories/college-football/wisconsin-vs-michigan-how-watch-tv-channel-streaming-prediction](https://www.foxsports.com/stories/college-football/wisconsin-vs-michigan-how-watch-tv-channel-streaming-prediction)",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+{
+"type": "news",
+"label": "iHeart (time/TV/venue)",
+"url": "[https://1070thegame.iheart.com/content/2025-10-03-michigan-vs-wisconsin-oct-4-tv-stream/](https://1070thegame.iheart.com/content/2025-10-03-michigan-vs-wisconsin-oct-4-tv-stream/)",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+{
+"type": "rankings",
+"label": "AP Poll Week 6",
+"url": "[https://bleacherreport.com/articles/25253607-ap-college-football-poll-2025-week-6-rankings-released-top-risers-and-fallers](https://bleacherreport.com/articles/25253607-ap-college-football-poll-2025-week-6-rankings-released-top-risers-and-fallers)",
+"asof_utc": "2025-09-29T16:00:00Z"
+},
+{
+"type": "weather",
+"label": "NWS Ann Arbor Forecast",
+"url": "[https://forecast.weather.gov/MapClick.php?lat=42.2821&lon=-83.74847](https://forecast.weather.gov/MapClick.php?lat=42.2821&lon=-83.74847)",
+"asof_utc": "2025-10-03T23:05:00Z"
+},
+{
+"type": "history",
+"label": "Wisconsin vs Michigan Series (UW)",
+"url": "[https://uwbadgers.com/sports/football/opponent-history/university-of-michigan/38](https://uwbadgers.com/sports/football/opponent-history/university-of-michigan/38)",
+"asof_utc": "2025-10-03T23:00:00Z"
+},
+{
+"type": "injuries",
+"label": "Wisconsin QB & injuries",
+"url": "[https://www.buckys5thquarter.com/wisconsin-badgers-football/86754/billy-edwardss-status-vs-michigan-revealed-ahead-of-game](https://www.buckys5thquarter.com/wisconsin-badgers-football/86754/billy-edwardss-status-vs-michigan-revealed-ahead-of-game)",
+"asof_utc": "2025-10-03T23:25:00Z"
+}
+]
+}

@@ -1,0 +1,230 @@
+{
+"game_meta": {
+"game_id": "1c2bc1c8623e7527c13a515529541b89",
+"title": "Minnesota Golden Gophers at Ohio State Buckeyes",
+"datetime_local": "2025-10-04T19:30:00-04:00",
+"venue": "Ohio Stadium, Columbus, OH",
+"tv": ["NBC", "Peacock"],
+"attendance_capacity": 102780,
+"weather": {
+"conditions": "Clear",
+"temp_f": 78,
+"wind_mph": 5,
+"notes": "Warm, light SE breeze; minimal weather impact"
+},
+"rankings": {
+"home_ap": 1,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-10-03T23:30:00Z"
+},
+"hype_factors": [
+"No. 1 Ohio State in primetime",
+"Big Ten matchup with playoff stakes",
+"Minnesota seeks first win in Columbus since 2000",
+"National showcase for elite OSU defense"
+],
+"last_updated_utc": "2025-10-03T23:30:00Z"
+},
+"teams": {
+"home": {
+"name": "Ohio State Buckeyes",
+"short": "OHST",
+"mascot": "Buckeyes",
+"conference": "Big Ten",
+"record": "4-0 (1-0)",
+"recent_form": "4-game win streak; allowing 5.5 PPG",
+"key_stats": {
+"offense_rank": 53,
+"defense_rank": 1,
+"turnover_margin": "+0.3",
+"ats_record": "3-1 ATS"
+},
+"motivation_factors": [
+"Protect No. 1 ranking",
+"Clean up special teams after Washington"
+]
+},
+"away": {
+"name": "Minnesota Golden Gophers",
+"short": "MINN",
+"mascot": "Golden Gophers",
+"conference": "Big Ten",
+"record": "3-1 (1-0)",
+"recent_form": "Won 3 of 4; rallied to beat Rutgers",
+"key_stats": {
+"offense_rank": 66,
+"defense_rank": 25,
+"turnover_margin": "+0.5",
+"ats_record": "1-3 ATS"
+},
+"motivation_factors": [
+"Spoiler shot vs No. 1",
+"Prove it game for freshman QB"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Ohio State leads 47-7",
+"last_meeting": {
+"date": "2023-11-18",
+"score": "Ohio State 37, Minnesota 3",
+"note": "OSU extended streak; series dominated by Buckeyes"
+},
+"recent_trend": "Ohio State won 13 straight; Minnesota last won in Columbus in 2000"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -2400,
+"implied_prob": 0.960,
+"opening_line": -4000,
+"line_movement": "moved toward away (less juiced on OSU)",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+"away": {
+"price": 1200,
+"implied_prob": 0.077,
+"opening_line": 1350,
+"line_movement": "moved toward away (shortened)",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:30:00Z"
+}
+},
+"spread": {
+"line": -23.5,
+"favorite": "OHST",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -21.0,
+"line_movement": "moved toward home by 2.5 points",
+"public_betting": {
+"home_percent": 56,
+"away_percent": 44,
+"note": "Slight public lean to OSU"
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+"total": {
+"line": 42.5,
+"over_price": -115,
+"under_price": -105,
+"opening_line": 46.5,
+"line_movement": "moved down 4.0 points",
+"public_betting": {
+"over_percent": 85,
+"under_percent": 15
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+"consensus_note": "Books align around OSU -23.5; total bet down despite over tickets"
+},
+"betting_angles": {
+"key_trends": [
+"Ohio State 3-1 ATS; Minnesota 1-3 ATS",
+"OSU games 1-3 to the OVER (defense-driven unders)",
+"Minnesota rush D ranks top-5; OSU pass D top-10"
+],
+"situational_spots": [
+"Inflated favorite tax on No. 1 in primetime",
+"Market moved total down vs heavy over tickets → potential contrarian under"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "No play (price too steep on OHST; MINN longshot only for parlays)",
+"confidence": 0.55,
+"rationale": "OSU win likely but -2400 offers no value; plus-money not justified vs No.1 defense",
+"value_assessment": "Poor value"
+},
+"spread": {
+"pick": "MINN +23.5",
+"confidence": 0.62,
+"rationale": "Number inflated after move; Minnesota’s top-5 rush D and slow OSU pace support dog",
+"value_assessment": "Moderate value vs public lean"
+},
+"total": {
+"pick": "UNDER 42.5",
+"confidence": 0.72,
+"rationale": "OSU No.1 scoring D, Minnesota RB injuries, market move to under despite over tickets",
+"value_assessment": "Strong value after 4-pt drop"
+},
+"best_bet": {
+"pick": "UNDER 42.5",
+"confidence": 0.72,
+"rationale": "Elite OSU defense + Minnesota shorthanded backfield; market signals agree"
+}
+},
+"notables": {
+"injuries_news": [
+"Minnesota RB Darius Taylor questionable (hamstring) after missing 2 straight",
+"Minnesota RB A.J. Turner out for season",
+"Ohio State defense allowing 5.5 PPG; red-zone TDs allowed: 0 through Week 5"
+],
+"matchup_notes": [
+"OSU pass D top-10; Minnesota run D top-5 → profile favors lower scoring",
+"Minnesota last beat OSU in 2000 (in Columbus)"
+],
+"coaching_notes": [
+"OSU DC Matt Patricia in Year 1 with dominant early returns",
+"P.J. Fleck leans on defense and field position as big underdog"
+]
+},
+"excitement_factors": {
+"playoff_implications": "OSU protecting top seed trajectory",
+"conference_impact": "Big Ten title race positioning",
+"narrative": "Giant vs gritty underdog with elite defenses",
+"tv_storylines": [
+"Jeremiah Smith breakout watch",
+"Can Minnesota’s front slow OSU run game?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings Sportsbook (via Bleacher Report live odds)",
+"url": "[https://bleacherreport.com/game/minnesota-golden-gophers-football-vs-ohio-state-football-2025-10-4-18-30](https://bleacherreport.com/game/minnesota-golden-gophers-football-vs-ohio-state-football-2025-10-4-18-30)",
+"asof_utc": "2025-10-03T23:30:00Z"
+},
+{
+"type": "betting_trends",
+"label": "Action Network odds, splits, weather",
+"url": "[https://www.actionnetwork.com/ncaaf-game/minnesota-golden-gophers-ohio-state-buckeyes/254714](https://www.actionnetwork.com/ncaaf-game/minnesota-golden-gophers-ohio-state-buckeyes/254714)",
+"asof_utc": "2025-10-03T23:25:00Z"
+},
+{
+"type": "news",
+"label": "AP/Week 6 rankings context",
+"url": "[https://bigten.org/fb/article/58575/](https://bigten.org/fb/article/58575/)",
+"asof_utc": "2025-10-03T23:20:00Z"
+},
+{
+"type": "stats",
+"label": "Bleacher Nation team ranks snapshot",
+"url": "[https://www.bleachernation.com/picks/2025/10/01/ohio-state-vs-minnesota-prediction-live-odds-stats-history-and-picks-october-4-2025/](https://www.bleachernation.com/picks/2025/10/01/ohio-state-vs-minnesota-prediction-live-odds-stats-history-and-picks-october-4-2025/)",
+"asof_utc": "2025-10-03T23:18:00Z"
+},
+{
+"type": "weather",
+"label": "NWS Columbus forecast",
+"url": "[https://forecast.weather.gov/MapClick.php?lat=40&lon=-82.99](https://forecast.weather.gov/MapClick.php?lat=40&lon=-82.99)",
+"asof_utc": "2025-10-03T23:15:00Z"
+},
+{
+"type": "series_history",
+"label": "Winsipedia series record",
+"url": "[https://www.winsipedia.com/games/minnesota/vs/ohio-state](https://www.winsipedia.com/games/minnesota/vs/ohio-state)",
+"asof_utc": "2025-10-03T23:10:00Z"
+},
+{
+"type": "injuries",
+"label": "Minnesota RB injuries roundup",
+"url": "[https://www.startribune.com/gophers-rb-darius-taylor-injury-rutgers/601481883](https://www.startribune.com/gophers-rb-darius-taylor-injury-rutgers/601481883)",
+"asof_utc": "2025-10-03T23:12:00Z"
+}
+]
+}

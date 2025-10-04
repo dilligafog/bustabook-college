@@ -1,0 +1,235 @@
+{
+"game_meta": {
+"game_id": "c1614464ceef18bdc3108d0fb3899343",
+"title": "Colorado Buffaloes at TCU Horned Frogs",
+"datetime_local": "2025-10-04T19:30:00-04:00",
+"venue": "Amon G. Carter Stadium, Fort Worth, TX",
+"tv": ["FOX"],
+"attendance_capacity": 47000,
+"weather": {
+"conditions": "Clear",
+"temp_f": 88,
+"wind_mph": 9,
+"notes": "Hot evening, light wind; minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": null,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-09-28T18:00:00Z"
+},
+"hype_factors": [
+"FOX primetime Big 12 clash",
+"Revenge angle after 2023 upset",
+"Coach Prime back in Fort Worth",
+"Early conference pecking-order game"
+],
+"last_updated_utc": "2025-10-03T23:52:32Z"
+},
+"teams": {
+"home": {
+"name": "TCU Horned Frogs",
+"short": "TCU",
+"mascot": "Horned Frogs",
+"conference": "Big 12",
+"record": "3-1 (0-1)",
+"recent_form": "Won 3 of 4; top-10 3rd-down offense",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": "+0.0",
+"ats_record": "2-1-1 ATS"
+},
+"motivation_factors": [
+"Payback for 2023 loss",
+"Bounce-back after ASU loss"
+]
+},
+"away": {
+"name": "Colorado Buffaloes",
+"short": "COLO",
+"mascot": "Buffaloes",
+"conference": "Big 12",
+"record": "2-3 (0-2)",
+"recent_form": "3-game skid; injuries piling up",
+"key_stats": {
+"offense_rank": null,
+"defense_rank": null,
+"turnover_margin": null,
+"ats_record": "3-2 ATS"
+},
+"motivation_factors": [
+"Spoiler role on road",
+"Urgency to halt slide"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Series tied 1-1",
+"last_meeting": {
+"date": "2023-09-02",
+"score": "Colorado 45, TCU 42",
+"note": "Coach Prime debut upset in Fort Worth"
+},
+"recent_trend": "Split last two; 2023 to Colorado"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": -552,
+"implied_prob": 0.846,
+"opening_line": -543,
+"line_movement": "inched toward home",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:52:32Z"
+},
+"away": {
+"price": 400,
+"implied_prob": 0.200,
+"opening_line": 400,
+"line_movement": "steady",
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:52:32Z"
+}
+},
+"spread": {
+"line": -13.5,
+"favorite": "HOME",
+"price_home": -115,
+"price_away": -105,
+"opening_line": -13.5,
+"line_movement": "steady at -13.5",
+"public_betting": {
+"home_percent": 63,
+"away_percent": 37,
+"note": "Majority on favorite"
+},
+"book": "Action Network (consensus)",
+"asof_utc": "2025-10-03T23:52:32Z"
+},
+"total": {
+"line": 57.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 57.5,
+"line_movement": "market nudged up at some books",
+"public_betting": {
+"over_percent": 64,
+"under_percent": 36
+},
+"book": "DraftKings",
+"asof_utc": "2025-10-03T23:52:32Z"
+},
+"consensus_note": "Market clustered: TCU -13.5, total 57.5–58.5; public on TCU/Over"
+},
+"betting_angles": {
+"key_trends": [
+"TCU 2-1-1 ATS this season",
+"Colorado 3-2 ATS this season",
+"TCU 57.7% on 3rd down (No. 9 nationally)"
+],
+"situational_spots": [
+"Revenge spot for TCU after 2023 upset",
+"Public heavy on home favorite creates dog value"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "COLO +400",
+"confidence": 0.55,
+"rationale": "Contrarian plus-money vs banged-up but volatile TCU; small sprinkle only",
+"value_assessment": "Lean value if price drifts higher"
+},
+"spread": {
+"pick": "COLO +13.5",
+"confidence": 0.66,
+"rationale": "Public on TCU; models and injuries suggest backdoor/live cover",
+"value_assessment": "Solid value at +13.5 or better"
+},
+"total": {
+"pick": "UNDER 57.5",
+"confidence": 0.62,
+"rationale": "Hot kickoff, potential WR/CB absences, market leaning Over",
+"value_assessment": "Slight value; best at 58+"
+},
+"best_bet": {
+"pick": "COLO +13.5",
+"confidence": 0.66,
+"rationale": "Clear contrarian angle with market/consensus on TCU"
+}
+},
+"notables": {
+"injuries_news": [
+"TCU RB Kevorian Barnes (Q) and WR Eric McAlister (Q) listed; CB Elijah Jackson (D).",
+"Colorado OUT list includes RBs DeKalon Taylor & Simeon Price; CB RJ Johnson; DE Samuel Okunlola; multiple DL depth Q."
+],
+"matchup_notes": [
+"Colorado won 45-42 here in 2023.",
+"TCU offense 37.3 PPG, 6.81 YPP; vs CU depth issues on defense."
+],
+"coaching_notes": [
+"Sonny Dykes 0-1 vs Deion Sanders (FBS).",
+"Penalties/discipline flagged as TCU concern this week."
+]
+},
+"excitement_factors": {
+"playoff_implications": "Low; more about Big 12 positioning",
+"conference_impact": "Winner steadies Big 12 push; loser in early hole",
+"narrative": "Prime-time rematch: payback-minded Frogs vs wounded Buffs",
+"tv_storylines": [
+"Coach Prime returns to Fort Worth",
+"Can TCU avenge 2023 collapse?"
+]
+},
+"sources": [
+{
+"type": "odds",
+"label": "DraftKings Sportsbook",
+"url": "[https://sportsbook.draftkings.com/event/colorado-%40-tcu/32843053](https://sportsbook.draftkings.com/event/colorado-%40-tcu/32843053)",
+"asof_utc": "2025-10-03T23:52:32Z"
+},
+{
+"type": "betting_trends",
+"label": "Covers Consensus",
+"url": "[https://contests.covers.com/consensus/matchupconsensusdetails/777656f9-aedb-4ea5-8213-b2c20148e875](https://contests.covers.com/consensus/matchupconsensusdetails/777656f9-aedb-4ea5-8213-b2c20148e875)",
+"asof_utc": "2025-10-03T23:52:32Z"
+},
+{
+"type": "betting_trends",
+"label": "Action Network Game Page",
+"url": "[https://www.actionnetwork.com/ncaaf-game/colorado-buffaloes-tcu-horned-frogs/254749](https://www.actionnetwork.com/ncaaf-game/colorado-buffaloes-tcu-horned-frogs/254749)",
+"asof_utc": "2025-10-03T23:52:32Z"
+},
+{
+"type": "news",
+"label": "ESPN Game Preview",
+"url": "[https://www.espn.com/college-football/preview/_/gameId/401756914](https://www.espn.com/college-football/preview/_/gameId/401756914)",
+"asof_utc": "2025-10-03T23:52:32Z"
+},
+{
+"type": "news",
+"label": "AP Top 25 via ESPN",
+"url": "[https://www.espn.com/college-football/rankings](https://www.espn.com/college-football/rankings)",
+"asof_utc": "2025-09-28T18:00:00Z"
+},
+{
+"type": "news",
+"label": "Frogs O' War Injury Report",
+"url": "[https://www.frogsowar.com/big12-football/46508/injury-report-tcu-vs-colorado](https://www.frogsowar.com/big12-football/46508/injury-report-tcu-vs-colorado)",
+"asof_utc": "2025-10-03T23:52:32Z"
+},
+{
+"type": "news",
+"label": "Sports Illustrated (Colorado injuries)",
+"url": "[https://www.si.com/college/colorado/football/colorado-buffaloes-players-injury-report-tcu-horned-frogs-game-gavriel-lightfoot-samuel-okunlola](https://www.si.com/college/colorado/football/colorado-buffaloes-players-injury-report-tcu-horned-frogs-game-gavriel-lightfoot-samuel-okunlola)",
+"asof_utc": "2025-10-03T23:52:32Z"
+},
+{
+"type": "news",
+"label": "FOX Sports Odds/TV",
+"url": "[https://www.foxsports.com/articles/college-football/tcu-vs-colorado-prediction-odds-picks-october-4-2025](https://www.foxsports.com/articles/college-football/tcu-vs-colorado-prediction-odds-picks-october-4-2025)",
+"asof_utc": "2025-10-03T23:52:32Z"
+}
+]
+}

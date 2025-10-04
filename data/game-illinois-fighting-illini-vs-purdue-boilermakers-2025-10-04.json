@@ -1,0 +1,247 @@
+{
+"game_meta": {
+"game_id": "04cd118858c9a4749333439b29cdc548",
+"title": "Illinois Fighting Illini at Purdue Boilermakers",
+"datetime_local": "2025-10-04T12:00:00-04:00",
+"venue": "Ross–Ade Stadium, West Lafayette, IN",
+"tv": ["BTN"],
+"attendance_capacity": 61441,
+"weather": {
+"conditions": "Sunny",
+"temp_f": 80,
+"wind_mph": 5.8,
+"notes": "Warm, light winds; minimal weather impact"
+},
+"rankings": {
+"home_ap": null,
+"away_ap": 22,
+"home_cfp": null,
+"away_cfp": null,
+"poll_asof_utc": "2025-10-03T15:00:00Z"
+},
+"hype_factors": [
+"Battle for the Cannon rivalry",
+"Ranked road favorite",
+"Trap spot before Ohio State",
+"Home dog off bye"
+],
+"last_updated_utc": "2025-10-03T23:15:00Z"
+},
+"teams": {
+"home": {
+"name": "Purdue Boilermakers",
+"short": "PUR",
+"mascot": "Boilermakers",
+"conference": "Big Ten",
+"record": "2-2 (0-1 Big Ten)",
+"recent_form": "Lost 2 straight; off bye after ND loss",
+"key_stats": {
+"offense_rank": 65,
+"defense_rank": 93,
+"turnover_margin": "-1.3",
+"ats_record": "2-2 ATS this season"
+},
+"motivation_factors": [
+"Home underdog in rivalry",
+"Chance to reclaim Cannon"
+]
+},
+"away": {
+"name": "Illinois Fighting Illini",
+"short": "ILL",
+"mascot": "Fighting Illini",
+"conference": "Big Ten",
+"record": "4-1 (1-1 Big Ten)",
+"recent_form": "Won 4 of 5; beat USC on walk-off FG",
+"key_stats": {
+"offense_rank": 41,
+"defense_rank": 85,
+"turnover_margin": "+1.0",
+"ats_record": "4-1 ATS this season"
+},
+"motivation_factors": [
+"Ranked team protecting resume",
+"Retain Cannon trophy"
+]
+}
+},
+"matchup_history": {
+"all_time_record": "Purdue leads 48-46-6",
+"last_meeting": {
+"date": "2024-10-12",
+"score": "Illinois 50, Purdue 49 (OT)",
+"note": "Illinois stopped 2-point try in OT"
+},
+"recent_trend": "Purdue won 7 of last 9 meetings"
+},
+"odds": {
+"moneyline": {
+"home": {
+"price": 300,
+"implied_prob": 0.250,
+"opening_line": 285,
+"line_movement": "drifted toward Illinois",
+"book": "FanDuel",
+"asof_utc": "2025-10-03T12:00:00Z"
+},
+"away": {
+"price": -375,
+"implied_prob": 0.789,
+"opening_line": -365,
+"line_movement": "moved toward Illinois",
+"book": "FanDuel",
+"asof_utc": "2025-10-03T12:00:00Z"
+}
+},
+"spread": {
+"line": -9.5,
+"favorite": "AWAY",
+"price_home": -110,
+"price_away": -110,
+"opening_line": -10.5,
+"line_movement": "moved toward home by 1 point",
+"public_betting": {
+"home_percent": 35,
+"away_percent": 65,
+"note": "Bet splits favor Illinois; money also leans Illinois"
+},
+"book": "BetMGM",
+"asof_utc": "2025-10-03T12:00:00Z"
+},
+"total": {
+"line": 55.5,
+"over_price": -110,
+"under_price": -110,
+"opening_line": 54.5,
+"line_movement": "moved up 1 point",
+"public_betting": {
+"over_percent": 76,
+"under_percent": 24
+},
+"book": "BetMGM",
+"asof_utc": "2025-10-03T12:00:00Z"
+},
+"consensus_note": "Markets align around ILL -9.5/55.5; move off -10.5 suggests sharper money on Purdue; total ticking up with public on Over"
+},
+"betting_angles": {
+"key_trends": [
+"Illinois is 8-1 ATS in last 9",
+"Underdog has covered 6 straight in this series",
+"Under is 7-2 in last 9 Illinois road games at Purdue"
+],
+"situational_spots": [
+"Illinois in potential trap before Ohio State",
+"Purdue off bye as noon home dog"
+]
+},
+"picks": {
+"moneyline": {
+"pick": "PUR +300",
+"confidence": 0.55,
+"rationale": "Home dog in rivalry; market moved toward Purdue; turnover luck due for mean reversion",
+"value_assessment": "Small plus-money stab"
+},
+"spread": {
+"pick": "PUR +9.5",
+"confidence": 0.66,
+"rationale": "Public heavy on Illinois and spread dropped from -10.5; series favors dogs",
+"value_assessment": "Good value through key 10"
+},
+"total": {
+"pick": "UNDER 55.5",
+"confidence": 0.62,
+"rationale": "Public on Over; noon kick; rivalry tends to grind; light wind but methodical styles",
+"value_assessment": "Slight value after uptick"
+},
+"best_bet": {
+"pick": "PUR +9.5",
+"confidence": 0.66,
+"rationale": "Contrarian with supportive line move and rivalry variance"
+}
+},
+"notables": {
+"injuries_news": [
+"Illinois QB Altmyer and K Olano earned Big Ten weekly honors after USC win",
+"Purdue off bye; no major new injuries reported as of Friday"
+],
+"matchup_notes": [
+"Illinois +5 turnover margin through 5 games; Purdue -5 through 4",
+"Purdue pass offense vs Illinois secondary is key after USC exposed back end"
+],
+"coaching_notes": [
+"Illinois: Bret Bielema Year 5",
+"Purdue: Barry Odom Year 1"
+]
+},
+"excitement_factors": {
+"playoff_implications": "Illinois must avoid upset to stay ranked and in Big Ten/NY6 hunt",
+"conference_impact": "Big Ten positioning; tiebreaker stakes",
+"narrative": "Ranked Illini defend Cannon vs upset-minded Boilers",
+"tv_storylines": [
+"Can Illinois handle the trap spot after USC win?",
+"Rivalry chaos: last year decided on OT stop"
+]
+},
+"sources": [
+{
+"type": "schedule_tv",
+"label": "Sports Illustrated (Purdue site) — How to Watch",
+"url": "[https://www.si.com/college/purdue/football/how-to-watch-purdue-vs-illinois-tv-info-key-players-prediction-and-more-college-football](https://www.si.com/college/purdue/football/how-to-watch-purdue-vs-illinois-tv-info-key-players-prediction-and-more-college-football)",
+"asof_utc": "2025-10-03T18:00:00Z"
+},
+{
+"type": "odds",
+"label": "Covers — Odds Snapshot",
+"url": "[https://www.covers.com/ncaaf/illinois-vs-purdue-prediction-picks-odds-october-4-2025](https://www.covers.com/ncaaf/illinois-vs-purdue-prediction-picks-odds-october-4-2025)",
+"asof_utc": "2025-10-03T18:00:00Z"
+},
+{
+"type": "odds",
+"label": "On3 — Betting breakdown (BetMGM)",
+"url": "[https://www.on3.com/teams/purdue-boilermakers/news/covering-the-tracks-purdue-illinois-2/](https://www.on3.com/teams/purdue-boilermakers/news/covering-the-tracks-purdue-illinois-2/)",
+"asof_utc": "2025-10-03T12:00:00Z"
+},
+{
+"type": "betting_trends",
+"label": "On3 — Bets/Money Splits & Line Moves",
+"url": "[https://www.on3.com/teams/purdue-boilermakers/news/covering-the-tracks-purdue-illinois-2/](https://www.on3.com/teams/purdue-boilermakers/news/covering-the-tracks-purdue-illinois-2/)",
+"asof_utc": "2025-10-03T12:00:00Z"
+},
+{
+"type": "weather",
+"label": "Covers — Stadium Weather",
+"url": "[https://www.covers.com/sport/ncaaf/weather](https://www.covers.com/sport/ncaaf/weather)",
+"asof_utc": "2025-10-03T22:30:00Z"
+},
+{
+"type": "news",
+"label": "ESPN Game Page",
+"url": "[https://www.espn.com/college-football/game/_/gameId/401752861/illinois-purdue](https://www.espn.com/college-football/game/_/gameId/401752861/illinois-purdue)",
+"asof_utc": "2025-10-03T20:00:00Z"
+},
+{
+"type": "series_history",
+"label": "Illinois Athletics — Series Notes",
+"url": "[https://fightingillini.com/news/2025/9/29/football-22-illinois-battles-for-the-cannon-at-purdue.aspx](https://fightingillini.com/news/2025/9/29/football-22-illinois-battles-for-the-cannon-at-purdue.aspx)",
+"asof_utc": "2025-10-03T18:00:00Z"
+},
+{
+"type": "stats",
+"label": "TeamRankings — Team Stat Ranks",
+"url": "[https://www.teamrankings.com/college-football/team/purdue-boilermakers/stats](https://www.teamrankings.com/college-football/team/purdue-boilermakers/stats)",
+"asof_utc": "2025-10-03T21:30:00Z"
+},
+{
+"type": "stats",
+"label": "TeamRankings — Illinois Stat Ranks",
+"url": "[https://www.teamrankings.com/college-football/team/illinois-fighting-illini/stats](https://www.teamrankings.com/college-football/team/illinois-fighting-illini/stats)",
+"asof_utc": "2025-10-03T21:30:00Z"
+},
+{
+"type": "venue",
+"label": "Wikipedia — Ross–Ade capacity",
+"url": "[https://en.wikipedia.org/wiki/Ross%E2%80%93Ade_Stadium](https://en.wikipedia.org/wiki/Ross%E2%80%93Ade_Stadium)",
+"asof_utc": "2025-10-03T18:00:00Z"
+}
+]
+}
