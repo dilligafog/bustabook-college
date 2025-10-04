@@ -17,7 +17,7 @@
         "score": "10"
       }
     ],
-    "last_update": "2025-10-04T04:15:28Z"
+    "last_update": "2025-10-04T10:56:55Z"
   },
   {
     "id": "ed6e2166a1b10224914b27016e04ee80",
@@ -37,7 +37,7 @@
         "score": "26"
       }
     ],
-    "last_update": "2025-10-04T04:15:28Z"
+    "last_update": "2025-10-04T10:56:55Z"
   },
   {
     "id": "60be30c76c784a4f4c7e3f4c4a0fbea2",
@@ -57,7 +57,7 @@
         "score": "27"
       }
     ],
-    "last_update": "2025-10-04T04:15:28Z"
+    "last_update": "2025-10-04T10:56:55Z"
   },
   {
     "id": "cf7ba66ecbf71b1b62cc12b80654ff2d",
@@ -77,67 +77,67 @@
         "score": "21"
       }
     ],
-    "last_update": "2025-10-04T04:15:28Z"
+    "last_update": "2025-10-04T10:56:55Z"
   },
   {
     "id": "4ce2d16a7941f87821553c4d18504581",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-10-04T02:05:00Z",
-    "completed": false,
+    "completed": true,
     "home_team": "San Jose State Spartans",
     "away_team": "New Mexico Lobos",
     "scores": [
       {
         "name": "San Jose State Spartans",
-        "score": "28"
+        "score": "35"
       },
       {
         "name": "New Mexico Lobos",
-        "score": "17"
+        "score": "28"
       }
     ],
-    "last_update": "2025-10-04T04:15:28Z"
+    "last_update": "2025-10-04T10:56:55Z"
   },
   {
     "id": "f92b0c2e0458d4b67a708cf2cc086479",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-10-04T02:35:00Z",
-    "completed": false,
+    "completed": true,
     "home_team": "BYU Cougars",
     "away_team": "West Virginia Mountaineers",
     "scores": [
       {
         "name": "BYU Cougars",
-        "score": "28"
+        "score": "38"
       },
       {
         "name": "West Virginia Mountaineers",
-        "score": "10"
+        "score": "24"
       }
     ],
-    "last_update": "2025-10-04T04:15:28Z"
+    "last_update": "2025-10-04T10:56:55Z"
   },
   {
     "id": "6dd65fe376b5947e6b3e12f53e4f2f85",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
     "commence_time": "2025-10-04T02:39:00Z",
-    "completed": false,
+    "completed": true,
     "home_team": "San Diego State Aztecs",
     "away_team": "Colorado State Rams",
     "scores": [
       {
         "name": "San Diego State Aztecs",
-        "score": "28"
+        "score": "45"
       },
       {
         "name": "Colorado State Rams",
-        "score": "10"
+        "score": "24"
       }
     ],
-    "last_update": "2025-10-04T04:15:28Z"
+    "last_update": "2025-10-04T10:56:55Z"
   },
   {
     "id": "7bf7e3851e7ac12cd6fe2f8ec3b795da",
@@ -635,6 +635,28 @@
     "last_update": null
   },
   {
+    "id": "f35e80c2c336d6a9769b1b9a5ea34ebb",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-10-08T23:30:00Z",
+    "completed": false,
+    "home_team": "Middle Tennessee Blue Raiders",
+    "away_team": "Missouri State Bears",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "1ee44e88d618c903c43292b3aa6443b4",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-10-09T00:00:00Z",
+    "completed": false,
+    "home_team": "UTEP Miners",
+    "away_team": "Liberty Flames",
+    "scores": null,
+    "last_update": null
+  },
+  {
     "id": "7d21808c0d39ffee98aaef9aaf4fc226",
     "sport_key": "americanfootball_ncaaf",
     "sport_title": "NCAAF",
@@ -642,6 +664,39 @@
     "completed": false,
     "home_team": "Tulane Green Wave",
     "away_team": "East Carolina Pirates",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "80be7099edd5c7bdd8543513a959d509",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-10-09T23:30:00Z",
+    "completed": false,
+    "home_team": "Kennesaw State Owls",
+    "away_team": "Louisiana Tech Bulldogs",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "dbc3a87d503d63341ab1d1229c196ce6",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-10-10T00:00:00Z",
+    "completed": false,
+    "home_team": "Georgia Southern Eagles",
+    "away_team": "Southern Mississippi Golden Eagles",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "57283eb69be8d23bc114313e20af0fc0",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-10-10T00:00:00Z",
+    "completed": false,
+    "home_team": "Sam Houston State Bearkats",
+    "away_team": "Jacksonville State Gamecocks",
     "scores": null,
     "last_update": null
   },

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-10-04T04:15:54.718Z",
-  "game_count": 99,
+  "generated_at": "2025-10-04T11:37:15.469Z",
+  "game_count": 104,
   "games_with_detailed_data": 60,
-  "games_score_only": 39,
+  "games_score_only": 44,
   "games": [
     {
       "filename": "game-air-force-falcons-vs-navy-midshipmen-2025-10-04.json",
@@ -658,9 +658,49 @@
     },
     {
       "filename": null,
+      "game_id": "f35e80c2c336d6a9769b1b9a5ea34ebb",
+      "title": "Missouri State Bears at Middle Tennessee Blue Raiders",
+      "datetime": "2025-10-08T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "1ee44e88d618c903c43292b3aa6443b4",
+      "title": "Liberty Flames at UTEP Miners",
+      "datetime": "2025-10-09T00:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
       "game_id": "7d21808c0d39ffee98aaef9aaf4fc226",
       "title": "East Carolina Pirates at Tulane Green Wave",
       "datetime": "2025-10-09T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "80be7099edd5c7bdd8543513a959d509",
+      "title": "Louisiana Tech Bulldogs at Kennesaw State Owls",
+      "datetime": "2025-10-09T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "dbc3a87d503d63341ab1d1229c196ce6",
+      "title": "Southern Mississippi Golden Eagles at Georgia Southern Eagles",
+      "datetime": "2025-10-10T00:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "57283eb69be8d23bc114313e20af0fc0",
+      "title": "Jacksonville State Gamecocks at Sam Houston State Bearkats",
+      "datetime": "2025-10-10T00:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
