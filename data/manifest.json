@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T11:37:15.469Z",
+  "generated_at": "2025-10-04T16:05:00.608Z",
   "game_count": 104,
   "games_with_detailed_data": 60,
   "games_score_only": 44,
@@ -476,7 +476,7 @@
       "filename": null,
       "game_id": "e4f37b5c4c242407568e3e36b4f9612c",
       "title": "Army Black Knights at UAB Blazers",
-      "datetime": "2025-10-04T16:00:00Z",
+      "datetime": "2025-10-04T16:03:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -484,7 +484,7 @@
       "filename": null,
       "game_id": "22b680e3b474d2c7da3c0f3d223374c4",
       "title": "Kansas State Wildcats at Baylor Bears",
-      "datetime": "2025-10-04T16:00:00Z",
+      "datetime": "2025-10-04T16:03:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -492,7 +492,7 @@
       "filename": null,
       "game_id": "4c9bd2ce4bac0213c310def6bf4fb8be",
       "title": "Boston College Eagles at Pittsburgh Panthers",
-      "datetime": "2025-10-04T16:00:00Z",
+      "datetime": "2025-10-04T16:03:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
