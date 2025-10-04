@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-10-04T23:25:00.319Z",
-  "game_count": 99,
+  "generated_at": "2025-10-04T23:35:00.372Z",
+  "game_count": 100,
   "games_with_detailed_data": 60,
-  "games_score_only": 39,
+  "games_score_only": 40,
   "games": [
     {
       "filename": "game-air-force-falcons-vs-navy-midshipmen-2025-10-04.json",
@@ -636,7 +636,7 @@
       "filename": null,
       "game_id": "70e137c2073f1c524e66e3d5c2cb3f1b",
       "title": "Kansas Jayhawks at UCF Knights",
-      "datetime": "2025-10-04T23:30:00Z",
+      "datetime": "2025-10-04T23:35:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -644,7 +644,7 @@
       "filename": null,
       "game_id": "cb7d85df1a2186ede6f66305485ddc22",
       "title": "Mississippi State Bulldogs at Texas A&M Aggies",
-      "datetime": "2025-10-04T23:33:00Z",
+      "datetime": "2025-10-04T23:37:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -701,6 +701,14 @@
       "game_id": "57283eb69be8d23bc114313e20af0fc0",
       "title": "Jacksonville State Gamecocks at Sam Houston State Bearkats",
       "datetime": "2025-10-10T00:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "5a1127219ae128003dc5154af7f3561e",
+      "title": "Georgia Bulldogs at Auburn Tigers",
+      "datetime": "2025-10-11T16:45:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
