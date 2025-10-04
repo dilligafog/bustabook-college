@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T19:25:00.306Z",
+  "generated_at": "2025-10-04T19:35:00.388Z",
   "game_count": 99,
   "games_with_detailed_data": 60,
   "games_score_only": 39,
@@ -522,41 +522,9 @@
     },
     {
       "filename": null,
-      "game_id": "8fe4d3c56069de55c950af75be1ef8d2",
-      "title": "Boise State Broncos at Notre Dame Fighting Irish",
-      "datetime": "2025-10-04T19:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "01952fae15b67aadeb32d7a34d063ee6",
-      "title": "Eastern Michigan Eagles at Buffalo Bulls",
-      "datetime": "2025-10-04T19:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "b23708a801d86a636d823d2678d169ed",
-      "title": "Florida International Panthers at UConn Huskies",
-      "datetime": "2025-10-04T19:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "6d9c7edbf2884eb46707ebd76ff969d7",
       "title": "James Madison Dukes at Georgia State Panthers",
-      "datetime": "2025-10-04T19:30:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "6713f27b1f4032c4ebc0f91d0fc86306",
-      "title": "Virginia Cavaliers at Louisville Cardinals",
-      "datetime": "2025-10-04T19:30:00Z",
+      "datetime": "2025-10-04T19:32:30Z",
       "has_detailed_data": false,
       "score_only": true
     },
@@ -564,7 +532,39 @@
       "filename": null,
       "game_id": "2452392bdaa989acacde27de93db32ca",
       "title": "Miami (OH) RedHawks at Northern Illinois Huskies",
-      "datetime": "2025-10-04T19:30:00Z",
+      "datetime": "2025-10-04T19:32:42Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "01952fae15b67aadeb32d7a34d063ee6",
+      "title": "Eastern Michigan Eagles at Buffalo Bulls",
+      "datetime": "2025-10-04T19:33:09Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "b23708a801d86a636d823d2678d169ed",
+      "title": "Florida International Panthers at UConn Huskies",
+      "datetime": "2025-10-04T19:33:24Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "8fe4d3c56069de55c950af75be1ef8d2",
+      "title": "Boise State Broncos at Notre Dame Fighting Irish",
+      "datetime": "2025-10-04T19:34:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "6713f27b1f4032c4ebc0f91d0fc86306",
+      "title": "Virginia Cavaliers at Louisville Cardinals",
+      "datetime": "2025-10-04T19:35:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
