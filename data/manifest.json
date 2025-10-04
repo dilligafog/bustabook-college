@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T22:05:00.398Z",
+  "generated_at": "2025-10-04T22:15:00.335Z",
   "game_count": 99,
   "games_with_detailed_data": 60,
   "games_score_only": 39,
@@ -610,14 +610,6 @@
     },
     {
       "filename": null,
-      "game_id": "ba6b6f78dac14dd7cab6745b0b6c8cd6",
-      "title": "Florida Atlantic Owls at Rice Owls",
-      "datetime": "2025-10-04T23:00:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "9b3e942a28f2b0df98e0c79c83864a15",
       "title": "South Alabama Jaguars at Troy Trojans",
       "datetime": "2025-10-04T23:00:00Z",
@@ -629,6 +621,14 @@
       "game_id": "08fe7e0a9a16b45419f955cb3ac4f443",
       "title": "UNLV Rebels at Wyoming Cowboys",
       "datetime": "2025-10-04T23:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "ba6b6f78dac14dd7cab6745b0b6c8cd6",
+      "title": "Florida Atlantic Owls at Rice Owls",
+      "datetime": "2025-10-04T23:05:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
