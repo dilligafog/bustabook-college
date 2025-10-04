@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T17:05:00.307Z",
+  "generated_at": "2025-10-04T17:15:00.364Z",
   "game_count": 99,
   "games_with_detailed_data": 60,
   "games_score_only": 39,
@@ -500,7 +500,7 @@
       "filename": null,
       "game_id": "863c5961ee2ec9ffac32398c75e5dcbe",
       "title": "UTSA Roadrunners at Temple Owls",
-      "datetime": "2025-10-04T17:05:00Z",
+      "datetime": "2025-10-04T17:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
