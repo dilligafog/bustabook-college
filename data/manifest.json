@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-10-05T03:35:00.383Z",
-  "game_count": 102,
+  "generated_at": "2025-10-05T03:45:00.292Z",
+  "game_count": 103,
   "games_with_detailed_data": 60,
-  "games_score_only": 42,
+  "games_score_only": 43,
   "games": [
     {
       "filename": "game-air-force-falcons-vs-navy-midshipmen-2025-10-04.json",
@@ -749,6 +749,14 @@
       "game_id": "a0ce391a3e1dcc42703e273e7cd43308",
       "title": "Arkansas Razorbacks at Tennessee Volunteers",
       "datetime": "2025-10-11T20:15:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "e1e0f5c2cc82d1255fc57a8637ddc18c",
+      "title": "Iowa Hawkeyes at Wisconsin Badgers",
+      "datetime": "2025-10-12T01:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
