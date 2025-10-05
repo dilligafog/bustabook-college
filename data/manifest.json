@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-10-05T03:55:00.371Z",
-  "game_count": 103,
+  "generated_at": "2025-10-05T04:43:22.574Z",
+  "game_count": 108,
   "games_with_detailed_data": 60,
-  "games_score_only": 43,
+  "games_score_only": 48,
   "games": [
     {
       "filename": "game-air-force-falcons-vs-navy-midshipmen-2025-10-04.json",
@@ -706,8 +706,32 @@
     },
     {
       "filename": null,
+      "game_id": "ebc400e419d11f88b555c4c425a101aa",
+      "title": "South Florida Bulls at North Texas Mean Green",
+      "datetime": "2025-10-10T23:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "6e0da65d6200a6d993ec698ac7b1cd57",
+      "title": "Rutgers Scarlet Knights at Washington Huskies",
+      "datetime": "2025-10-11T01:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
       "game_id": "4e5471d34b6f44691d945144edd9e96c",
       "title": "Alabama Crimson Tide at Missouri Tigers",
+      "datetime": "2025-10-11T16:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "6850ce38681c03906af201d68cdd70e7",
+      "title": "Ohio State Buckeyes at Illinois Fighting Illini",
       "datetime": "2025-10-11T16:00:00Z",
       "has_detailed_data": false,
       "score_only": true
@@ -754,9 +778,25 @@
     },
     {
       "filename": null,
+      "game_id": "53d43629918c049046ee009bff70b49f",
+      "title": "Nebraska Cornhuskers at Maryland Terrapins",
+      "datetime": "2025-10-11T21:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
       "game_id": "e1e0f5c2cc82d1255fc57a8637ddc18c",
       "title": "Iowa Hawkeyes at Wisconsin Badgers",
       "datetime": "2025-10-12T01:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "c5b4bf26258afaed3cca9b67ef3783f8",
+      "title": "Purdue Boilermakers at Minnesota Golden Gophers",
+      "datetime": "2025-10-12T01:30:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
