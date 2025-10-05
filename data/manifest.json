@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-10-05T02:25:00.383Z",
-  "game_count": 101,
+  "generated_at": "2025-10-05T02:35:00.350Z",
+  "game_count": 102,
   "games_with_detailed_data": 60,
-  "games_score_only": 41,
+  "games_score_only": 42,
   "games": [
     {
       "filename": "game-air-force-falcons-vs-navy-midshipmen-2025-10-04.json",
@@ -83,7 +83,7 @@
     },
     {
       "filename": "game-nevada-wolf-pack-vs-fresno-state-bulldogs-2025-10-04.json",
-      "game_id": "e90085ebaf4a599c531e3e0bd5a6c1b1",
+      "game_id": "4898c42819c2d199945790badcfe6928",
       "title": "Nevada Wolf Pack at Fresno State Bulldogs",
       "datetime": "2025-10-04T22:30:00-04:00",
       "has_detailed_data": true
@@ -732,6 +732,14 @@
       "filename": null,
       "game_id": "2bba5df15d3c9222962c8bb8fc24ae80",
       "title": "Indiana Hoosiers at Oregon Ducks",
+      "datetime": "2025-10-11T19:30:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "ec5a3648e7b879155389f31cc523f840",
+      "title": "Oklahoma Sooners at Texas Longhorns",
       "datetime": "2025-10-11T19:30:00Z",
       "has_detailed_data": false,
       "score_only": true
