@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-04T23:55:00.393Z",
+  "generated_at": "2025-10-05T00:05:00.385Z",
   "game_count": 100,
   "games_with_detailed_data": 60,
   "games_score_only": 40,
@@ -602,6 +602,22 @@
     },
     {
       "filename": null,
+      "game_id": "70e137c2073f1c524e66e3d5c2cb3f1b",
+      "title": "Kansas Jayhawks at UCF Knights",
+      "datetime": "2025-10-04T20:06:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "08fe7e0a9a16b45419f955cb3ac4f443",
+      "title": "UNLV Rebels at Wyoming Cowboys",
+      "datetime": "2025-10-04T20:07:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
       "game_id": "9af91cb4d445ab55fec6eb8d60e079f8",
       "title": "Coastal Carolina Chanticleers at Old Dominion Monarchs",
       "datetime": "2025-10-04T22:02:17Z",
@@ -626,22 +642,6 @@
     },
     {
       "filename": null,
-      "game_id": "08fe7e0a9a16b45419f955cb3ac4f443",
-      "title": "UNLV Rebels at Wyoming Cowboys",
-      "datetime": "2025-10-04T23:15:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
-      "game_id": "70e137c2073f1c524e66e3d5c2cb3f1b",
-      "title": "Kansas Jayhawks at UCF Knights",
-      "datetime": "2025-10-04T23:35:00Z",
-      "has_detailed_data": false,
-      "score_only": true
-    },
-    {
-      "filename": null,
       "game_id": "cb7d85df1a2186ede6f66305485ddc22",
       "title": "Mississippi State Bulldogs at Texas A&M Aggies",
       "datetime": "2025-10-04T23:40:23Z",
@@ -652,7 +652,7 @@
       "filename": null,
       "game_id": "c9a9afb46bbfe7047e145ad5dfd95593",
       "title": "Tulsa Golden Hurricane at Memphis Tigers",
-      "datetime": "2025-10-05T00:00:00Z",
+      "datetime": "2025-10-05T00:07:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
