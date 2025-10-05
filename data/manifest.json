@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-10-05T02:05:00.327Z",
-  "game_count": 100,
+  "generated_at": "2025-10-05T02:15:00.437Z",
+  "game_count": 101,
   "games_with_detailed_data": 60,
-  "games_score_only": 40,
+  "games_score_only": 41,
   "games": [
     {
       "filename": "game-air-force-falcons-vs-navy-midshipmen-2025-10-04.json",
@@ -701,6 +701,14 @@
       "game_id": "57283eb69be8d23bc114313e20af0fc0",
       "title": "Jacksonville State Gamecocks at Sam Houston State Bearkats",
       "datetime": "2025-10-10T00:00:00Z",
+      "has_detailed_data": false,
+      "score_only": true
+    },
+    {
+      "filename": null,
+      "game_id": "4e5471d34b6f44691d945144edd9e96c",
+      "title": "Alabama Crimson Tide at Missouri Tigers",
+      "datetime": "2025-10-11T16:00:00Z",
       "has_detailed_data": false,
       "score_only": true
     },
